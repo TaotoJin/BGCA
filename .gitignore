@@ -1,5 +1,5 @@
 outputs/*
 .ipynb_checkpoints/*
 code/__pycache__/*
-*.md
 LICENSE
+readme.md
