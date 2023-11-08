@@ -9,32 +9,7 @@ logger = logging.getLogger(__name__)
 
 def prepare_constrained_tokens(tokenizer, task, paradigm):
     special_tokens = [tokenizer.eos_token] # add end token
-    if task == "uabsa":
-        if paradigm == "annotation":
-            # note space will affect tokenization, make sure the special tokens align with processed method considering space
-            special_tokens += ["[a|negative]", "[a|positive]", "[a|neutral]"]
-        elif paradigm == "extraction":
-            # (service, positive); (resturant, positive)
-            special_tokens += ["( a , neutral ) ; ( a , negative ) ; ( a , positive ) "]
-            special_tokens += ["None"]
-        elif paradigm == "extraction-universal":
-            special_tokens += [i[0] for i in TAG_TO_SPECIAL.values()]
-            special_tokens += [NONE_TOKEN]
-        else:
-            raise NotImplementedError
-    elif task == "ate":
-        if paradigm == "annotation":
-            special_tokens += ["[aspect]"]
-        elif paradigm == "extraction":
-            # (service, positive); (resturant, positive)
-            special_tokens += ["( a ) ; ( a ) ;"]
-            special_tokens += ["None"]
-        elif paradigm == "extraction-universal":
-            special_tokens += [ASPECT_TOKEN]
-            special_tokens += [NONE_TOKEN]
-        else:
-            raise NotImplementedError
-    elif task == "aste":
+    if task == "aste":
         if paradigm == "extraction-universal":
             special_tokens += [i[0] for i in TAG_TO_SPECIAL.values()]
             special_tokens += [OPINION_TOKEN]
@@ -42,37 +17,16 @@ def prepare_constrained_tokens(tokenizer, task, paradigm):
             special_tokens += ["( a , a , negative ) ; ( a , a , neutral ) ; ( a , a , positive )"]
         else:
             raise NotImplementedError
-    elif task == "aope":
-        if paradigm == "extraction-universal":
-            special_tokens += [ASPECT_TOKEN, OPINION_TOKEN, SEP_TOKEN]
-        elif paradigm == "extraction":
-            special_tokens += ["( a , a ) ; ( a , a )"]
-        else:
-            raise NotImplementedError
-    else:
-        raise NotImplementedError
+    
     return special_tokens
 
 
 def prepare_tag_tokens(args):
     tag_tokens = []
-    if args.task == "uabsa":
-        if "extraction-universal" in args.paradigm:
-            tag_tokens += [i[0] for i in TAG_TO_SPECIAL.values()]
-            tag_tokens += [NONE_TOKEN]
-        if args.data_gene:
-            tag_tokens += [j for i in TAG_TO_SPECIAL.values() for j in i]
-            tag_tokens += [ASPECT_TOKEN, OPINION_TOKEN, EMPTY_TOKEN, SEP_TOKEN]
-    elif args.task == "ate":
-        if args.paradigm == "extraction-universal":
-            tag_tokens += [ASPECT_TOKEN, NONE_TOKEN, SEP_TOKEN]
-    elif args.task == "aste":
+    if args.task == "aste":
         if "extraction-universal" in args.paradigm:
             tag_tokens += [i[0] for i in TAG_TO_SPECIAL.values()]
             tag_tokens += [OPINION_TOKEN, SEP_TOKEN]
-    elif args.task == "aope":
-        if "extraction-universal" in args.paradigm:
-            tag_tokens += [ASPECT_TOKEN, OPINION_TOKEN, SEP_TOKEN]
     else:
         raise NotImplementedError
 

@@ -13,55 +13,14 @@ logger = logging.getLogger(__name__)
 sentiment_word_list = ['positive', 'negative', 'neutral']
 
 def extract_spans_extraction(task, seq, io_format):
-    if task == "uabsa":
-        if io_format == "extraction":
-            return extract_uabsa_from_extration(seq)
-        elif io_format == "extraction-universal":
-            return extract_uabsa_from_extraction_universal(seq, io_format)
-        else:
-            raise NotImplementedError
-    elif task == "ate":
-        if io_format == "extraction":
-            return extract_ate_from_extraction(seq)
-        elif io_format == "extraction-universal":
-            return extract_ate_from_extraction_universal(seq)
-        else:
-            raise NotImplementedError
-    elif task == "aste":
+    if task == "aste":
         if io_format == "extraction":
             return extract_aste_from_extraction(seq)
         elif io_format == "extraction-universal":
             return extract_aste_from_extraction_universal(seq)
         else:
             raise NotImplementedError
-    elif task == "aope":
-        if io_format == "extraction":
-            return extract_aope_from_extraction(seq)
-        elif io_format == "extraction-universal":
-            return extract_aope_from_extraction_universal(seq)
-        else:
-            raise NotImplementedError
-
-
-def extract_ate_from_extraction(seq):
-    aps = re.findall("(\()(.*?)(?=\);?|$)", seq)
-    pairs = []
-    for ap in aps:
-        special_token, aspect = ap[0].strip(), ap[1].strip()
-        aspect = aspect.strip()
-        pairs.append((aspect))
-    return pairs
-
-
-def extract_ate_from_extraction_universal(seq):
-
-    aps = re.findall("(<aspect>)(.*?)(?=<aspect>|$)", seq)
-    pairs = []
-    for ap in aps:
-        special_token, aspect = ap[0].strip(), ap[1].strip()
-        aspect = aspect.strip()
-        pairs.append((aspect))
-    return pairs
+    
 
 
 def extract_aste_from_extraction_universal(seq):
@@ -84,58 +43,6 @@ def extract_aste_from_extraction(seq):
     return pairs
 
 
-def extract_aope_from_extraction_universal(seq):
-
-    aps = re.findall("(<aspect>)(.+?)<opinion>(.+?)(?=<aspect>|$)", seq)
-    pairs = []
-    for ap in aps:
-        tag, aspect, opinion = ap[0].strip(), ap[1].strip(), ap[2].strip()
-        pairs.append((aspect, opinion))
-    return pairs
-
-
-def extract_aope_from_extraction(seq):
-    aps = re.findall("\((.+?),(.+?)\);?", seq)
-    pairs = []
-    for ap in aps:
-        aspect, opinion = ap[0].strip(), ap[1].strip()
-        pairs.append((aspect, opinion))
-    return pairs
-
-
-def extract_uabsa_from_extration(seq):
-    aps = re.findall("\((.+?),(.+?)\);?", seq)
-    pairs = []
-    for ap in aps:
-        aspect, opinion = ap[0].strip(), ap[1].strip()
-        pairs.append((aspect, opinion))
-    return pairs
-
-
-def extract_uabsa_from_extraction_universal(seq, io_format, keep_special=False):
-    """
-        extraction-universal:  <pos> apple <pos> orange <neg> banana //   [none]
-    """
-    """
-    matches:
-    [('manager ', '<neg>'), (' drinks ', '<pos>'), (' appetizers ', '<pos>')]
-    """
-    # aps = re.findall("(<pos>|<neg>|<neu>)(.*?)(<\/pos>|<\/neg>|<\/neu>)", seq)
-    if io_format == "extraction-universal":
-        aps = re.findall("(<pos>|<neg>|<neu>)(.*?)(?=<pos>|<neg>|<neu>|$)", seq)
-    pairs = []
-    for ap in aps:
-        if io_format in ["extraction-universal"]:
-            special_token, aspect = ap[0].strip(), ap[1].strip()
-        aspect = aspect.strip()
-        if keep_special:
-            senti_tag = special_token
-        else:
-            senti_tag = SPECIAL_TO_TAG[special_token]
-        pairs.append((aspect, senti_tag))
-    return pairs
-
-
 def recover_terms_with_editdistance(original_term, sent):
     words = original_term.split(' ')
     new_words = []
@@ -148,95 +55,6 @@ def recover_terms_with_editdistance(original_term, sent):
     new_term = ' '.join(new_words)
     return new_term
 
-
-def fix_preds_uabsa(all_pairs, sents):
-
-    all_new_pairs = []
-    for i, pairs in enumerate(all_pairs):
-        new_pairs = []
-        if pairs == []:
-            all_new_pairs.append(pairs)
-        else:
-            for pair in pairs:
-                # AT not in the original sentence
-                if pair[0] not in  ' '.join(sents[i]):
-                    # print('Issue')
-                    new_at = recover_terms_with_editdistance(pair[0], sents[i])
-                else:
-                    new_at = pair[0]
-
-                if pair[1] not in TAG_WORD_LIST:
-                    new_sentiment = recover_terms_with_editdistance(pair[1], TAG_WORD_LIST)
-                else:
-                    new_sentiment = pair[1]
-
-                new_pairs.append((new_at, new_sentiment))
-                # print(pair, '>>>>>', word_and_sentiment)
-                # print(all_target_pairs[i])
-            all_new_pairs.append(new_pairs)
-
-    return all_new_pairs
-
-
-def fix_preds_ate(all_pairs, sents):
-
-    all_new_pairs = []
-    for i, pairs in enumerate(all_pairs):
-        new_pairs = []
-        if pairs == []:
-            all_new_pairs.append(pairs)
-        else:
-            for pair in pairs:
-                # AT not in the original sentence
-                if pair not in  ' '.join(sents[i]):
-                    # notice here pair alone is an aspect, no need pair[0]
-                    new_at = recover_terms_with_editdistance(pair, sents[i])
-                else:
-                    new_at = pair
-
-                new_pairs.append((new_at))
-                # print(pair, '>>>>>', word_and_sentiment)
-                # print(all_target_pairs[i])
-            all_new_pairs.append(new_pairs)
-
-    return all_new_pairs
-
-
-def fix_preds_aope(all_pairs, sents):
-
-    all_new_pairs = []
-
-    for i, pairs in enumerate(all_pairs):
-        new_pairs = []
-        if pairs == []:
-            all_new_pairs.append(pairs)
-        else:
-            for pair in pairs:
-                #print(pair)
-                # AT not in the original sentence
-                if pair[0] not in  ' '.join(sents[i]):
-                    # print('Issue')
-                    new_at = recover_terms_with_editdistance(pair[0], sents[i])
-                else:
-                    new_at = pair[0]
-
-                # OT not in the original sentence
-                ots = pair[1].split(', ')
-                new_ot_list = []
-                for ot in ots:
-                    if ot not in ' '.join(sents[i]):
-                        # print('Issue')
-                        new_ot_list.append(recover_terms_with_editdistance(ot, sents[i]))
-                    else:
-                        new_ot_list.append(ot)
-                new_ot = ', '.join(new_ot_list)
-
-                new_pairs.append((new_at, new_ot))
-                # print(pair, '>>>>>', word_and_sentiment)
-                # print(all_target_pairs[i])
-            all_new_pairs.append(new_pairs)
-
-    return all_new_pairs
 
 
 def fix_preds_aste(all_pairs, sents):
@@ -295,14 +113,8 @@ def fix_preds_aste(all_pairs, sents):
 
 
 def fix_pred_with_editdistance(all_predictions, sents, task):
-    if task == "uabsa":
-        fixed_preds = fix_preds_uabsa(all_predictions, sents)
-    elif task == "ate":
-        fixed_preds = fix_preds_ate(all_predictions, sents)
-    elif task == "aste":
+    if task == "aste":
         fixed_preds = fix_preds_aste(all_predictions, sents)
-    elif task == "aope":
-        fixed_preds = fix_preds_aope(all_predictions, sents)
     else:
         logger.info("*** Unimplemented Error ***")
         fixed_preds = all_predictions

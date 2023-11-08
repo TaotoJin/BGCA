@@ -308,8 +308,7 @@ def gene_model(args, tokenizer, model, target_extract_inputs, target_extract_out
         for idx in range(len(target_gene_inputs)):
             if args.data_gene_none_word_num > 0 and NONE_TOKEN in target_gene_inputs[idx]:
                 add_rand = False
-                if args.task in ["ate", "uabsa"]:
-                    add_rand = True
+                
                 if add_rand:
                     words = target_gene_targets[idx].split()
                     sample_num = min(len(words), args.data_gene_none_word_num)
@@ -401,12 +400,7 @@ def model_filter(args, inputs, outputs):
     filter_num = 0
     for i in range(len(outputs)):
         if filter_outputs[i].strip() != outputs[i].strip():
-            # if predict none, then use generated results to allow more tgt domain exploration
-            if args.model_filter_skip_none and args.task in ["ate", "uabsa"]:
-                    if "none" in filter_outputs[i].strip():
-                        new_inputs.append(inputs[i])
-                        new_outputs.append(outputs[i])
-                        continue
+            
             filter_num += 1
             removed.append(' #### '.join([inputs[i], outputs[i], filter_outputs[i]]))
             continue

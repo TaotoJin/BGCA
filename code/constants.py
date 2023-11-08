@@ -24,12 +24,7 @@ TARGET_TEST_COUNT_DICT = {
     "service": 747,
 }
 # please follw L, R, D, S order for evaluation purpose, since we will combine test files into one
-UABSA_TRANSFER_PAIRS = {
-    "laptop": ["rest", "service"],
-    "rest": ["laptop", "device", "service"],
-    "device": ["rest", "service"],
-    "service": ["laptop", "rest", "device"],
-}
+
 ASTE_TRANSFER_PAIRS = {
     "rest14": ["laptop14"],
     "rest15": ["laptop14"],

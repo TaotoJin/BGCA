@@ -63,10 +63,6 @@ def normalize_augment(args, inputs, outputs):
     rm_num = 0
     for idx in range(len(inputs)):
         # rm added random word
-        if args.data_gene_none_word_num > 0 and NONE_TOKEN in outputs[idx]:
-            if args.task in ["uabsa", "ate"]:
-                # just keep none token
-                outputs[idx] = NONE_TOKEN
         new_inputs.append(inputs[idx])
         new_outputs.append(outputs[idx])
     return new_inputs, new_outputs
@@ -169,135 +165,6 @@ def get_inputs(args, data_type_file="train"):
     return inputs
 
 
-def prepare_uabsa_gene(args, data_type_file="train"):
-    """
-        input:  I love apple.
-        target: <pos> apple <opinion> love
-    """
-    inputs, targets = prepare_uabsa_universal(args, data_type_file=data_type_file)
-    labels, texts = targets, inputs
-    for idx in range(len(labels)):
-        # add random tokens for None
-        if NONE_TOKEN in labels[idx]:
-            words = texts[idx].split()
-            sample_num = min(len(words), args.data_gene_none_word_num)
-            random_words = " ".join(random.sample(words, sample_num))
-            labels[idx] += " " + random_words
-    return labels, texts
-
-
-def prepare_uabsa_extraction(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        if label == []:
-            targets.append('None')
-        else:
-            all_tri = []
-            for tri in label:
-                # single aspect
-                if len(tri[0]) == 1:
-                    a = sents[i][tri[0][0]]
-                else:
-                    start_idx, end_idx = tri[0][0], tri[0][-1]
-                    a = ' '.join(sents[i][start_idx:end_idx+1])
-                c = TAG_TO_WORD[tri[1]]
-                all_tri.append((a, c))
-            label_strs = ['( '+' , '.join(l)+' )' for l in all_tri]
-            targets.append(' ; '.join(label_strs))
-    return inputs, targets
-
-
-def prepare_uabsa_universal(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        if label == []:
-            targets.append(f"{NONE_TOKEN}")
-        else:
-            target_str = ""
-            for tri in label:
-                tag = tri[1]
-                if len(tri[0]) == 1:
-                    aspect = sents[i][tri[0][0]]
-                else:
-                    start_idx, end_idx = tri[0][0], tri[0][-1]
-                    aspect = ' '.join(sents[i][start_idx: end_idx+1])
-                tag_token = TAG_TO_SPECIAL[tag][0]
-                target_str += f" {tag_token} {aspect}"
-            targets.append(target_str)
-
-    return inputs, targets
-
-
-def prepare_ate_extraction(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        if label == []:
-            targets.append('None')
-        else:
-            all_tri = []
-            for tri in label:
-                # single aspect
-                if len(tri[0]) == 1:
-                    a = sents[i][tri[0][0]]
-                else:
-                    start_idx, end_idx = tri[0][0], tri[0][-1]
-                    a = ' '.join(sents[i][start_idx:end_idx+1])
-                all_tri.append(a)
-            label_strs = [f"( {l} )" for l in all_tri]
-            targets.append(' ; '.join(label_strs))
-    return inputs, targets
-
-
-def prepare_ate_universal(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        if label == []:
-            targets.append(f"{NONE_TOKEN}")
-        else:
-            target_str = ""
-            for tri in label:
-                tag = tri[1]
-                if len(tri[0]) == 1:
-                    aspect = sents[i][tri[0][0]]
-                else:
-                    start_idx, end_idx = tri[0][0], tri[0][-1]
-                    aspect = ' '.join(sents[i][start_idx: end_idx+1])
-                tag_token = ASPECT_TOKEN
-                target_str += f" {tag_token} {aspect}"
-            targets.append(target_str)
-
-    return inputs, targets
-
-
-def prepare_ate_gene(args, data_type_file):
-    # just change order
-    texts, labels = prepare_ate_universal(args, data_type_file=data_type_file)
-    # add a random word to NONE
-    for idx in range(len(labels)):
-        if NONE_TOKEN in labels[idx]:
-            words = texts[idx].split()
-            sample_num = min(len(words), args.data_gene_none_word_num)
-            random_words = " ".join(random.sample(words, sample_num))
-            labels[idx] += " " + random_words
-    return labels, texts
-
-
 def prepare_aste_extraction(args, data_type_file="train"):
     data_path = f"{args.data_dir}/{data_type_file}.txt"
     sents, labels = read_line_examples_from_file(data_path)
@@ -356,72 +223,12 @@ def prepare_aste_gene(args, data_type_file):
     return inputs, targets
 
 
-def prepare_aope_extraction(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        all_tri = []
-        for tri in label:
-            if len(tri[0]) == 1:
-                a = sents[i][tri[0][0]]
-            else:
-                start_idx, end_idx = tri[0][0], tri[0][-1]
-                a = ' '.join(sents[i][start_idx:end_idx+1])
-            if len(tri[1]) == 1:
-                b = sents[i][tri[1][0]]
-            else:
-                start_idx, end_idx = tri[1][0], tri[1][-1]
-                b = ' '.join(sents[i][start_idx:end_idx+1])
-            all_tri.append((a, b))
-        label_strs = ['( '+' , '.join(l)+' )' for l in all_tri]
-        targets.append(' ; '.join(label_strs))
-
-    return inputs, targets
-
-
-def prepare_aope_universal(args, data_type_file="train"):
-    data_path = f"{args.data_dir}/{data_type_file}.txt"
-    sents, labels = read_line_examples_from_file(data_path)
-    inputs = [" ".join(s) for s in sents]
-
-    targets = []
-    for i, label in enumerate(labels):
-        all_tri = []
-        target_str = ""
-        for tri in label:
-            if len(tri[0]) == 1:
-                a = sents[i][tri[0][0]]
-            else:
-                start_idx, end_idx = tri[0][0], tri[0][-1]
-                a = ' '.join(sents[i][start_idx:end_idx+1])
-            if len(tri[1]) == 1:
-                b = sents[i][tri[1][0]]
-            else:
-                start_idx, end_idx = tri[1][0], tri[1][-1]
-                b = ' '.join(sents[i][start_idx:end_idx+1])
-            target_str += f" {ASPECT_TOKEN} {a} {OPINION_TOKEN} {b}"
-        targets.append(target_str.strip())
-    return inputs, targets
-
-
-def prepare_aope_gene(args, data_type_file):
-    # just change order
-    targets, inputs = prepare_aope_universal(args, data_type_file=data_type_file)
-    return inputs, targets
-
-
 def get_generation_inputs_and_targets(args, task, data_type):
-    if task not in ["gene_ate", "gene_uabsa", "gene_aope", "gene_aste"]:
+    if task not in ["gene_aste"]:
         raise NotImplementedError(f"Task {task} is not supported.")
 
     if data_type == "train":
         prepare_fn = {
-            "gene_ate": prepare_ate_gene,
-            "gene_uabsa": prepare_uabsa_gene,
-            "gene_aope": prepare_aope_gene,
             "gene_aste": prepare_aste_gene,
         }[task]
         inputs, targets = prepare_fn(args, data_type_file="train")
@@ -433,12 +240,6 @@ def get_generation_inputs_and_targets(args, task, data_type):
 
 def get_extraction_inputs_and_targets(args, task, data_type):
     task_mapping = {
-        "ate": {"extraction": prepare_ate_extraction, "extraction-universal": prepare_ate_universal},
-        "extract_ate": {"extraction": prepare_ate_extraction, "extraction-universal": prepare_ate_universal},
-        "uabsa": {"extraction": prepare_uabsa_extraction, "extraction-universal": prepare_uabsa_universal},
-        "extract_uabsa": {"extraction": prepare_uabsa_extraction, "extraction-universal": prepare_uabsa_universal},
-        "aope": {"extraction": prepare_uabsa_extraction, "extraction-universal": prepare_uabsa_universal},
-        "extract_aope": {"extraction": prepare_uabsa_extraction, "extraction-universal": prepare_uabsa_universal},
         "aste": {"extraction": prepare_aste_extraction, "extraction-universal": prepare_aste_universal},
         "extract_aste": {"extraction": prepare_aste_extraction, "extraction-universal": prepare_aste_universal},
     }
@@ -461,9 +262,6 @@ def get_inputs_and_targets(args, task, data_type):
         inputs, targets = get_generation_inputs_and_targets(args, task, data_type)
     else:
         inputs, targets = get_extraction_inputs_and_targets(args, task, data_type)
-        if data_type == "train" and task in ["extract_ate", "extract_uabsa"]:
-            # need to filter out too much none, encourage more pairs to be detected
-            inputs, targets = filter_none(inputs, targets, args.data_gene_extract_none_remove_ratio)
 
     # rm label to prevent potential leakage
     if data_type == "target-unlabel":

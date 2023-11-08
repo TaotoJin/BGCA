@@ -75,12 +75,6 @@ def bieos2generation(sents, labels):
     return final_sents
 
 
-def read_generation_uabsa(file_path):
-    # ["I love apple .####[([0, "POS"])]"]
-    sents, labels = read_by_bieos(file_path)
-    final_sents = bieos2generation(sents, labels)
-    return final_sents
-
 
 def read_by_bieos(file_path):
     sents, labels  = [], []
@@ -114,10 +108,7 @@ def write_generation(file_paths, split="train", data_dir=None, do_write=True, nr
             sentences = open(path, "r").readlines()[:nrows]
             if split in ["dev", "test"]:
                 domain = path.split('/')[-2]
-        elif mode == "uabsa":  # 'uabsa'
-            sentences = read_generation_uabsa(path)[:nrows]
-            if split in ["dev", "test"]:
-                domain = re.search(f"(\w+)[_-]{split}\.txt", path).group(1)
+        
 
         count_dict[domain] = len(sentences)
         final_sents.extend(sentences)
@@ -143,11 +134,7 @@ def write_generation(file_paths, split="train", data_dir=None, do_write=True, nr
 
 def preprocess(dataset_dir=None, data_dir=None, source=None, targets=None, do_write=True, nrows=None, unlabel=False, mode='uabsa'):
 
-    if mode == 'uabsa':
-        train_file_format = "{i}_train.txt"
-        dev_file_format = f"{source}_dev.txt"
-        test_file_format = "{i}_test.txt"
-    elif mode == 'aste':
+    if mode == 'aste':
         train_file_format = "{i}/train.txt"
         dev_file_format = f"{source}/dev.txt"
         test_file_format = "{i}/test.txt"
@@ -204,10 +191,7 @@ def prepare_raw_data(args):
 
     # ate and uabsa share same dataset
     task_map = {
-        "uabsa": ('uabsa',  "../data/uabsa/cross_domain"),
-        "ate": ('uabsa',  "../data/uabsa/cross_domain"),
-        "aste": ('aste', "../data/aste/cross_domain"),
-        "aope": ('aste', "../data/aope/cross_domain")
+        "aste": ('aste', "../data/aste/cross_domain"),   
     }
 
     if args.task in task_map and args.dataset == "cross_domain":

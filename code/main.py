@@ -200,8 +200,8 @@ def main(args):
         logger.info(f"We will perform validation on the following checkpoints: {all_checkpoints}")
 
         # load dev and test datasets
-        # test_sents, _ = read_line_examples_from_file(f"{args.data_dir}/test.txt")
-        test_sents, _ = read_line_examples_from_file(f"{args.data_dir}/financial.txt")
+        test_sents, _ = read_line_examples_from_file(f"{args.data_dir}/test.txt")
+        # test_sents, _ = read_line_examples_from_file(f"{args.data_dir}/financial.txt")
         dev_sents, _ = read_line_examples_from_file(f"{args.data_dir}/dev.txt")
 
         dev_dataset = get_dataset(args, task=args.task, data_type="dev", tokenizer=tokenizer)
@@ -247,10 +247,10 @@ def main(args):
                 score_dicts["dev"].append(score_dict_dev)
                 score_dicts["test"].append(score_dict_test)
 
-            # json.dump(best_score_dict, open(f"{args.score_dir}/test_{decode_txt}_score.json", 'w'), indent=4)
-            # json.dump(best_pred_dict, open(f"{args.score_dir}/test_{decode_txt}_pred.json", 'w'), indent=4)
-            json.dump(best_score_dict, open(f"{args.score_dir}/financial_{decode_txt}_score.json", 'w'), indent=4)
-            json.dump(best_pred_dict,  open(f"{args.score_dir}/financial_{decode_txt}_pred.json", 'w'), indent=4)
+            json.dump(best_score_dict, open(f"{args.score_dir}/test_{decode_txt}_score.json", 'w'), indent=4)
+            json.dump(best_pred_dict, open(f"{args.score_dir}/test_{decode_txt}_pred.json", 'w'), indent=4)
+            # json.dump(best_score_dict, open(f"{args.score_dir}/financial_{decode_txt}_score.json", 'w'), indent=4)
+            # json.dump(best_pred_dict,  open(f"{args.score_dir}/financial_{decode_txt}_pred.json", 'w'), indent=4)
 
             # visualize evaluation results
             for split_i in ["dev", "test"]:
