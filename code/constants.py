@@ -29,7 +29,7 @@ ASTE_TRANSFER_PAIRS = {
     "rest14": ["laptop14"],
     # "rest15": ["laptop14"],
     # "rest16": ["laptop14"],
-    # "laptop14": ["rest14", "rest15", "rest16"],
+    "laptop14": ["rest14"],
 }
 AOPE_TRANSFER_PAIRS = ASTE_TRANSFER_PAIRS
 
