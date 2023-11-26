@@ -1,0 +1,1266 @@
+But the staff was so horrible to us . ===> <neg> staff <opinion> horrible
+To be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of Teodora . ===> <pos> food <opinion> above average
+The food is uniformly exceptional , with a very capable kitchen which will proudly whip up whatever you feel like eating , whether it 's on the menu or not . ===> <pos> food <opinion> exceptional <pos> kitchen <opinion> capable
+Our agreed favorite is the orrechiete with sausage and chicken ( usually the waiters are kind enough to split the dish in half so you get to sample both meats ) . ===> <pos> orrechiete with sausage and chicken <opinion> favorite <pos> waiters <opinion> kind
+The Bagels have an outstanding taste with a terrific texture , both chewy yet not gummy . ===> <pos> Bagels <opinion> outstanding <pos> Bagels <opinion> terrific <pos> Bagels <opinion> chewy <pos> Bagels <opinion> gummy
+Nevertheless the food itself is pretty good . ===> <pos> food <opinion> good
+They did not have mayonnaise , forgot our toast , left out ingredients ( ie cheese in an omelet ) , below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it . ===> <neg> toast <opinion> forgot <neg> bacon <opinion> over cooked <neu> cheese <opinion> left out <neg> ingredients <opinion> left out <neu> plate <opinion> over cooked <neu> omelet <opinion> left out
+The design and atmosphere is just as good . ===> <pos> design <opinion> good <pos> atmosphere <opinion> good
+The seats are uncomfortable if you are sitting against the wall on wooden benches . ===> <neg> seats <opinion> uncomfortable
+My suggestion is to eat family style because you 'll want to try the other dishes . ===> <pos> eat family style <opinion> suggestion
+Best of all is the warm vibe , the owner is super friendly and service is fast . ===> <pos> vibe <opinion> warm <pos> owner <opinion> friendly <pos> service <opinion> fast
+Faan 's got a great concept but a little rough on the delivery . ===> <neg> delivery <opinion> rough
+From the incredible food , to the warm atmosphere , to the friendly service , this downtown neighborhood spot does n't miss a beat . ===> <pos> food <opinion> incredible <pos> atmosphere <opinion> warm <pos> service <opinion> friendly
+Great food at REASONABLE prices , makes for an evening that ca n't be beat ! ===> <pos> food <opinion> Great <pos> prices <opinion> REASONABLE
+this little place has a cute interior decor and affordable city prices . ===> <pos> interior decor <opinion> cute <pos> prices <opinion> affordable
+Two words : Free wine . ===> <pos> wine <opinion> Free
+The price is reasonable although the service is poor . ===> <pos> price <opinion> reasonable <neg> service <opinion> poor
+The quantity is also very good , you will come out satisfied . ===> <pos> quantity <opinion> good <pos> quantity <opinion> satisfied
+The fried rice is amazing here . ===> <pos> fried rice <opinion> amazing
+Three courses - choices include excellent mussels , puff pastry goat cheese and salad with a delicious dressing , and a hanger steak au poivre that is out of this world . ===> <pos> mussels <opinion> excellent <pos> puff pastry goat cheese <opinion> excellent <pos> salad with a delicious dressing <opinion> delicious <pos> hanger steak au poivre <opinion> out of this world
+The place is so cool and the service is prompt and curtious . ===> <pos> service <opinion> prompt <pos> service <opinion> curtious <pos> place <opinion> cool
+At the end you 're left with a mild broth with noodles that you can slurp out of a cup . ===> <pos> broth with noodles <opinion> mild
+I just wonder how you can have such a delicious meal for such little money . ===> <pos> meal <opinion> delicious <pos> money <opinion> little
+The wine list is excellent . ===> <pos> wine list <opinion> excellent
+Ive been to many Thai restaurants in Manhattan before , and Toons is by far the best Thai food Ive had ( except for my mom 's of course ) . ===> <pos> Thai food <opinion> best
+This is a consistently great place to dine for lunch or dinner . ===> <pos> dine <opinion> great
+Nice atmosphere , the service was very pleasant and the desert was good . ===> <pos> atmosphere <opinion> Nice <pos> service <opinion> pleasant <pos> desert <opinion> good
+After really enjoying ourselves at the bar we sat down at a table and had dinner . ===> <pos> bar <opinion> enjoying <neu> table <opinion> enjoying <neu> dinner <opinion> enjoying
+I liked the beer selection ! ===> <pos> beer selection <opinion> liked
+Great food , good size menu , great service and an unpretentious setting . ===> <pos> food <opinion> Great <pos> menu <opinion> good <pos> service <opinion> great <pos> setting <opinion> unpretentious
+Wine list selection is good and wine-by-the-glass was generously filled to the top . ===> <pos> Wine list selection <opinion> good <pos> wine-by-the-glass <opinion> generously filled
+The menu is very limited - i think we counted 4 or 5 entrees . ===> <neg> menu <opinion> limited
+The menu is limited but almost all of the dishes are excellent . ===> <neg> menu <opinion> limited <pos> dishes <opinion> excellent
+Great bagels , spreads and a good place to hang out in . ===> <pos> bagels <opinion> Great <pos> spreads <opinion> Great
+Unfortunately , the food is outstanding , but everything else about this restaurant is the pits . ===> <pos> food <opinion> outstanding
+We always have a delicious meal and always leave feeling satisfied . ===> <pos> meal <opinion> delicious
+First went here to enjoy their garden terrace . ===> <pos> garden terrace <opinion> enjoy
+The pizza was pretty good and huge . ===> <pos> pizza <opinion> good <pos> pizza <opinion> huge
+The cuisine from what I 've gathered is authentic Taiwanese , though its very different from what I 've been accustomed to in Taipei . ===> <neu> cuisine <opinion> different
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded . ===> <pos> atmosphere <opinion> great
+They are often crowded on the weekends but they are efficient and accurate with their service . ===> <pos> service <opinion> efficient <pos> service <opinion> accurate <neg> crowded <opinion> crowded
+The atmosphere is unheralded , the service impeccable , and the food magnificant . ===> <pos> atmosphere <opinion> unheralded <pos> service <opinion> impeccable <pos> food <opinion> magnificant
+We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat . ===> <neg> grilled branzino <opinion> difficult to eat
+Right off the L in Brooklyn this is a nice cozy place with good pizza . ===> <pos> pizza <opinion> good <pos> place <opinion> nice cozy
+Le Pere Pinard has a $ 15 pre-theater menu that is outstanding . ===> <pos> pre-theater menu <opinion> outstanding
+The strong scents coming from the left and right of me negatively affected my taste buds . ===> <neg> scents <opinion> strong
+We had the lobster sandwich and it was FANTASTIC . ===> <pos> lobster sandwich <opinion> FANTASTIC
+Though the Spider Roll may look like a challenge to eat , with soft shell crab hanging out of the roll , it is well worth the price you pay for them . ===> <pos> price <opinion> well worth <pos> shell crab <opinion> soft
+Deep Fried Skewers are good and still rare to find in NYC . ===> <pos> Deep Fried Skewers <opinion> good <pos> Deep Fried Skewers <opinion> rare
+I also recommend the rice dishes or the different varieties of congee ( rice porridge ) . ===> <pos> rice dishes <opinion> recommend <pos> congee ( rice porridge ) <opinion> recommend
+Their tuna tartar appetizer is to die for . ===> <pos> tuna tartar appetizer <opinion> die for
+An oasis of refinement : Food , though somewhat uneven , often reaches the pinnacles of new American fine cuisine - chef 's passion ( and kitchen 's precise execution ) is most evident in the fish dishes and soups . ===> <pos> chef <opinion> passion <pos> fish dishes <opinion> evident <pos> soups <opinion> evident <pos> kitchen <opinion> precise execution
+If you love wine and cheese and delicious french fare , you 'll love Artisanal ! ===> <pos> wine <opinion> love <pos> french fare <opinion> love <pos> cheese <opinion> love
+I love Indian food and consider myself to be quite an expert on it . ===> <pos> Indian food <opinion> love
+The lava cake dessert was incredible and I recommend it . ===> <pos> lava cake dessert <opinion> incredible <pos> lava cake dessert <opinion> recommend
+From the terrible service , to the bland food , not to mention the unaccommodating managers , the overall experience was horrible . ===> <neg> service <opinion> terrible <neg> food <opinion> bland <neg> managers <opinion> unaccommodating
+Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you 'll likely have trouble finishing the amount of food you get for FOUR DOLLARS . ===> <pos> food <opinion> tasty
+good selection of wines ranging from affordable to high end . ===> <pos> selection of wines <opinion> good
+Nice restaurant overall , with classic upscale Italian decor . ===> <pos> Italian decor <opinion> classic upscale
+Not impressed with the food . ===> <neg> food <opinion> Not impressed
+The entire dining experience was wonderful ! ===> <pos> dining experience <opinion> wonderful
+The wine selection ( by the glass and bottle ) is wonderful and I always recommend that friends make a reservation if they 're going to be in town . ===> <pos> wine selection <opinion> wonderful <neu> reservation <opinion> recommend
+Order the panang duck , it 's fantastic . ===> <pos> panang duck <opinion> fantastic
+Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders . ===> <neg> raw vegatables <opinion> wondered
+Other than the crappy service from two individuals , it 's great . ===> <neg> service <opinion> crappy
+They have authentic Indian at amazin prices . ===> <pos> Indian <opinion> authentic <pos> prices <opinion> amazin
+Ambiance -- relaxed and stylish . ===> <pos> Ambiance <opinion> relaxed <pos> Ambiance <opinion> stylish
+Yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . ===> <pos> ingredients <opinion> fancy <neg> pizza <opinion> good
+and yes Dal Bukhara is so dam good and so are all the kababs . ===> <pos> kababs <opinion> good <pos> Dal Bukhara <opinion> good
+I look forward to eating here again ===> <pos> eating <opinion> look forward
+Tuk Tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price . ===> <pos> meal <opinion> good <pos> price <opinion> fair
+A glass of Leaping Lizard , a glass of prosecco , and the mussels had everything happy . ===> <pos> glass of prosecco <opinion> happy <pos> mussels <opinion> happy <pos> glass of Leaping Lizard <opinion> happy
+Food was average and creme brulee was awful - the sugar was charred , not caramelized and smelled of kerosene . ===> <neu> Food <opinion> average <neg> creme brulee <opinion> awful <neg> sugar <opinion> charred
+The food always tastes fresh and served promptly . ===> <pos> food <opinion> fresh <pos> served <opinion> promptly
+The pizza here is delicious . ===> <pos> pizza <opinion> delicious
+This place is really trendi but they have forgotten about the most important part of a restaurant , the food . ===> <neg> food <opinion> forgotten
+Hats off to the chef . ===> <pos> chef <opinion> Hats off
+The pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . ===> <pos> pizza <opinion> delicious <pos> fresh mozzarella <opinion> fresh <neg> cheese <opinion> cheap <neg> cheese <opinion> frozen <neg> cheese <opinion> shredded
+Its an excellent place to relax and the food is one of the best in the city of New York . ===> <pos> place <opinion> excellent <pos> food <opinion> best
+service is friendly , and never had a problem walking in and getting a table . ===> <pos> service <opinion> friendly <pos> getting a table <opinion> never had a problem
+The atmosphere was crowded but it was a great bistro-type vibe . ===> <pos> bistro-type vibe <opinion> great
+First off , the waitress was completely unattentive the 2 times we saw her ( odd in a restaurant with 6 tables ) and got our order wrong . ===> <neg> waitress <opinion> unattentive
+The food was bland oily . ===> <neg> food <opinion> bland oily
+What is even better , is that the prices are very affordable as well , and the food is really good . ===> <pos> prices <opinion> affordable <pos> food <opinion> good
+The fish is fresh but the variety of fish is nothing out of ordinary . ===> <pos> fish <opinion> fresh <neg> variety of fish <opinion> ordinary
+Our favorite meal is a pesto pizza , the house salad , and a good bottle of wine . ===> <pos> pesto pizza <opinion> favorite <pos> house salad <opinion> favorite <pos> bottle of wine <opinion> good <pos> meal <opinion> favorite
+Ambiance and music funky , which I enjoy . ===> <pos> Ambiance <opinion> funky <pos> Ambiance <opinion> enjoy <pos> music <opinion> funky <pos> music <opinion> enjoy
+The food , drinks and service are clearly among the best in the city . ===> <pos> food <opinion> best <pos> drinks <opinion> best <pos> service <opinion> best
+Granted the space is smaller than most , it is the best service you will find in even the largest of restaurants . ===> <neg> space <opinion> smaller <pos> service <opinion> best
+I love the atmorphere @ peep ! ===> <pos> atmorphere <opinion> love
+The service was attentive and her suggestions of menu items was right on the mark . ===> <pos> service <opinion> attentive <pos> menu items <opinion> right
+The other night we had the $ 30 three course meal and everything was delicious - if I could of licked the plate clean I would of . ===> <pos> three course meal <opinion> delicious
+Even after getting pushed out by the no-class Famous Ray 's , Sal has risen again to carry on his father 's uncle 's legacies with a smile , true love for his community , and let 's not forget the Outstanding Pizza ! ===> <pos> Pizza <opinion> Outstanding
+The environment is romantic , but the food is horrible , the service is pathetic , and gabriella lies about everything she could . ===> <pos> environment <opinion> romantic <neg> food <opinion> horrible <neg> service <opinion> pathetic
+We had crawfish boiled and despite making a mess , it was a ton of fun and quite tasty as well . ===> <pos> crawfish boiled <opinion> fun <pos> crawfish boiled <opinion> tasty
+What came to our table was burned beyond recognition and stringy . ===> <neu> table <opinion> burned
+I had the Pad Thai and the noodles were sticky . ===> <neg> Pad Thai <opinion> sticky <neg> noodles <opinion> sticky
+The hostess is rude to the point of being offensive . ===> <neg> hostess <opinion> rude <neg> hostess <opinion> offensive
+If you 're craving for Haru 's great food , especially the House Roll , but ca n't stand the wait building outisde , head across the street to their Sake Bar ! ===> <pos> food <opinion> great
+A narrow corridor leads to a tiny space where there are three tiny white tiled counters , a great deal of mess ( stacks of bottles , cans ) and a small counter holding 12-14 entrees . ===> <neg> corridor <opinion> narrow <neg> space <opinion> tiny <neg> counters <opinion> tiny <neu> entrees <opinion> small
+The food is great . ===> <pos> food <opinion> great
+All conveniently delivered right to the door . ===> <pos> delivered <opinion> conveniently
+I also ordered the Change Mojito , which was out of this world . ===> <pos> Change Mojito <opinion> out of this world
+Okay service . ===> <neu> service <opinion> Okay
+The only thing more wonderful than the food ( which is exceptional ) is the service . ===> <pos> food <opinion> exceptional <pos> service <opinion> wonderful
+The anti-pasta was excellent , especially the calamari , as were the filling pasta mains . ===> <pos> anti-pasta <opinion> excellent <pos> calamari <opinion> excellent <pos> filling pasta mains <opinion> excellent
+The waitress suggested glasses of wine that went very well with the food . ===> <pos> glasses of wine <opinion> went very well with the food
+They might be all business at the counter when you give your order , but their food says I love you . ===> <pos> food <opinion> love <neg> counter <opinion> love
+We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura . ===> <pos> ceviche mix ( special ) <opinion> please <pos> crab dumplings <opinion> please <pos> assorted sashimi <opinion> please <pos> sushi <opinion> particular <pos> rolls <opinion> please <pos> sake <opinion> please <pos> banana tempura <opinion> please
+Good luck getting a table . ===> <neg> getting a table <opinion> Good luck
+The takeout menu says to keep an eye out for an expanded menu offering more italian dishes , I ca n't wait ! ===> <pos> menu <opinion> expanded <pos> italian dishes <opinion> more
+The pizza is good though . ===> <pos> pizza <opinion> good
+bottles of wine are cheap and good . ===> <pos> bottles of wine <opinion> cheap <pos> bottles of wine <opinion> good
+The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if I must recommend a dish it must be the pumkin tortelini . ===> <pos> beers <opinion> happy <pos> food <opinion> delicious <pos> pumkin tortelini <opinion> recommend
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert . ===> <pos> crabmeat lasagna <opinion> out of this world
+Very good service and very good prices . ===> <pos> service <opinion> good <pos> prices <opinion> good
+The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs . ===> <pos> service <opinion> impeccable <pos> service <opinion> unobtrusive
+Our food was great too ! ===> <pos> food <opinion> great
+The most annoying thing , though , is the fact that the servers seem to be trained to drive revenue . ===> <neg> servers <opinion> annoying
+Please try the Filet Mignon , its just the most tender piece ever . ===> <pos> Filet Mignon <opinion> tender
+the drinks are amazing and half off till 8pm . ===> <pos> drinks <opinion> amazing
+i 've been back to nha trang literally a hundred times for the beef cubes - they 're that good . ===> <pos> beef cubes <opinion> good
+We were seated promptly as we had reservations , however after that the service was slow . ===> <neg> service <opinion> slow
+The food was pretty good , but a little flavorless and the portions very small , including dessert . ===> <neg> dessert <opinion> small <neg> portions <opinion> small
+Lived in Shanghai most of my life and thought the food was comparable to the flagship Green Bo restaurant there . ===> <pos> food <opinion> comparable
+I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service . ===> <pos> food <opinion> recommend <pos> ambience <opinion> recommend <pos> service <opinion> recommend <pos> service <opinion> wonderful
+All the NYU students love this place so it makes for a fun young atmosphere . ===> <pos> atmosphere <opinion> fun young
+The food here does a great service to the name ( Cantonese that is ... ) . ===> <pos> food <opinion> great <pos> Cantonese <opinion> great
+But , nothing stands out about the cooking . ===> <neu> cooking <opinion> nothing stands out
+Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere . ===> <pos> food <opinion> decent <pos> atmosphere <opinion> colorful
+The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) . ===> <pos> Prix Fixe menu <opinion> worth <pos> quantity <opinion> more than enough <pos> quality <opinion> more than enough
+I work near-by , and they have the BEST oatmeal in the neighborhood- not a packaged or quick-cooked item . ===> <pos> oatmeal <opinion> BEST
+Too bad the food was n't of the same heritage . ===> <neg> food <opinion> bad
+The menu looked good , except for offering the Chilean Sea Bass , but the server does not offer up the specials that were written on the board outside . ===> <pos> menu <opinion> good <neg> Chilean Sea Bass <opinion> except
+Since it literally is a complete hole in the wall , it 's a bit intimidating at first , but you get over that very quickly as soon as the friendly staff welcomes you - do n't hesitate to ask for help with what to get . ===> <pos> staff <opinion> friendly
+When he finally did , he was unable to make a gin and tonic -- could n't find tonic . ===> <neu> gin and tonic <opinion> unable
+The dim sum is ok but does n't taste that fresh , and the little dishes do n't look steamy hot as they should ( also note lack of Chinese here ) . ===> <neg> dim sum <opinion> ok <neg> little dishes <opinion> do n't look steamy hot
+The service is ok , some of the people did n't get what they asked for . ===> <neu> service <opinion> ok
+If you want good authentic Thai this place is not the place to go . ===> <neg> Thai <opinion> good authentic
+I recommend getting a reservation even though we saw people seated without one . ===> <neu> reservation <opinion> recommend
+Staff is very accomodating . ===> <pos> Staff <opinion> accomodating
+Very popular style Izakaya ( Sake and small portion of sake-friendly dishes ) . ===> <pos> dishes <opinion> sake-friendly <neu> portion <opinion> small
+The food was terrific and the service classy , attentive , without being overbearing . ===> <pos> food <opinion> terrific <pos> service <opinion> classy <pos> service <opinion> attentive <pos> service <opinion> without being overbearing
+This is an amazing place to try some roti rolls . ===> <pos> roti rolls <opinion> try
+Fresh ingredients and everything is made to order . ===> <pos> ingredients <opinion> Fresh
+We have never had any problems with charging the meal or the tip , and the food was delivered quickly , but we live only a few minutes walk from them . ===> <pos> meal <opinion> never had any problems <pos> food <opinion> delivered quickly <pos> tip <opinion> quickly
+Quick and friendly service . ===> <pos> service <opinion> Quick <pos> service <opinion> friendly
+Try the hot dogs too , they 're snappy and delicious . ===> <pos> hot dogs <opinion> Try <pos> hot dogs <opinion> snappy <pos> hot dogs <opinion> delicious
+The noise level was unbearable , conversation impossible . ===> <neg> noise level <opinion> unbearable
+Personal pans are the perfect size for those hungry nights . ===> <pos> Personal pans <opinion> perfect
+Highly recommended is the Spicy Fried Clam Rolls and Spider Rolls . ===> <pos> Spicy Fried Clam Rolls <opinion> recommended <pos> Spider Rolls <opinion> recommended
+One of the earlier people commenting on the restaurant did not get the that some experimenting is going on with the menu in a positive way . ===> <pos> menu <opinion> positive
+Odd for Ave B , not just odd , The place attracts an eclectic crowd to say the least . ===> <pos> place <opinion> odd
+just got back from lunch at Tamarind and it was excellent . ===> <pos> lunch <opinion> excellent
+head and shoulders above its neighboors on east 6 st , taj mahal is also very comparable , in food quality , to the much overpraised ( and underdeserving ) baluchi 's . ===> <pos> food quality <opinion> comparable
+As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were . ===> <neg> food <opinion> subpar <neu> containers <opinion> expensive
+Great Indian food and the service is incredible . ===> <pos> Indian food <opinion> Great <pos> service <opinion> incredible
+Decor is nice and minimalist , food simple yet very well presented and cooked , and the wine list matches the food very well . ===> <pos> Decor <opinion> nice <pos> Decor <opinion> minimalist <neu> food <opinion> simple <neu> food <opinion> well presented and cooked <pos> wine list <opinion> well
+We ordered a tuna melt - it came with out cheese which just made it a tuna sandwich . ===> <neg> tuna melt <opinion> with out <neu> cheese <opinion> with out <neg> tuna sandwich <opinion> with out
+The waiters were not attentive except that the bill turned up on the table before we were finished . ===> <neg> waiters <opinion> attentive
+The sangria was pretty tasty and good on a hot muggy day . ===> <pos> sangria <opinion> tasty <pos> sangria <opinion> good
+For the people who want great food plus great service , Roxy is a place to AVOID ! ===> <neg> food <opinion> great <neg> service <opinion> great
+I had the best ravioli ever . ===> <pos> ravioli <opinion> best
+Ive been here a bunch of times now and the service is always outstanding . ===> <pos> service <opinion> outstanding
+Quite frankly , this is some of the worst sushi I have ever tried . ===> <neg> sushi <opinion> worst
+The food is great , service is ok . ===> <pos> food <opinion> great <neu> service <opinion> ok
+Spice is great Thai food , love the inexpensive appetizers . ===> <pos> Thai food <opinion> great <pos> appetizers <opinion> love <pos> appetizers <opinion> inexpensive
+The service was attentive . ===> <pos> service <opinion> attentive
+He not only makes his own homemade mozzarella , but every pie is ultra fresh . ===> <pos> mozzarella <opinion> homemade <pos> pie <opinion> ultra fresh
+Fish was overdone . ===> <neg> Fish <opinion> overdone
+When you 're sitting in their main dining room ( which has a spectacular , hand-painted high ceiling ) you 'd never know there was a world outside . ===> <pos> main dining room <opinion> spectacular <pos> ceiling <opinion> spectacular <pos> ceiling <opinion> hand-painted high
+We visited Bread Bar during January restaurant week and were so pleased with the menu selections and service . ===> <pos> menu selections <opinion> pleased <pos> service <opinion> pleased
+also make sure you pay attention to the music being piped in - quite a weird selection . ===> <neu> music <opinion> weird
+The establishment scores big points in presentation and style . ===> <pos> establishment <opinion> scores big points
+The wait staff is very friendly , if not overly efficient . ===> <pos> wait staff <opinion> friendly <pos> wait staff <opinion> not overly efficient
+The dim sum however was very good . ===> <pos> dim sum <opinion> good
+Service has always been friendly and efficient . ===> <pos> Service <opinion> friendly <pos> Service <opinion> efficient
+All we received was an apology as we left to see our show without dinner . ===> <neu> dinner <opinion> without
+The table next to us asked if he crushed the grapes himself when their long overdue bottle of wine finally arrived . ===> <neu> bottle of wine <opinion> long overdue
+Prices are very good . ===> <pos> Prices <opinion> good
+The Dim Sum was so-so , but not spectacular . ===> <neu> Dim Sum <opinion> so-so <neu> Dim Sum <opinion> not spectacular
+The food was so-so . ===> <neu> food <opinion> so-so
+The place is larger than most and features adequate seating unlike most joints , and has a bar which deserves a mention . ===> <pos> seating <opinion> adequate <pos> bar <opinion> deserves <pos> place <opinion> larger
+Threw my fiance 's surprise 30th birthday dinner here could n't be happier . ===> <neu> dinner <opinion> could n't be happier
+Food - awesome . ===> <pos> Food <opinion> awesome
+May , the owner always has a smile on her and will warmly greet you . ===> <pos> owner <opinion> warmly
+For some reason , all the seafood on the menu was unavailable except for the Salmon . ===> <neg> seafood <opinion> unavailable <neg> menu <opinion> unavailable <neu> Salmon <opinion> except
+The beverages were excellent , and the dessert was good . ===> <pos> beverages <opinion> excellent <pos> dessert <opinion> good
+Next time , we would n't dare ordering anything else other than some simple Asian appetizers and drinks . ===> <pos> Asian appetizers <opinion> simple <pos> drinks <opinion> simple
+Please if your thinking about it go , and stay the wait you wo n't be disappointed . ===> <neg> wait <opinion> wo n't be disappointed
+If you 'd like to have a nice light meal with an asian accent , Long Tan is a good place on the slope . ===> <pos> meal <opinion> nice
+When going out for a nice dinner , I like a nice ambiance as well as very good food . ===> <pos> dinner <opinion> nice <pos> ambiance <opinion> nice <pos> food <opinion> good
+Highly recommend this as great value for excellent sushi and service . ===> <pos> sushi <opinion> excellent <pos> service <opinion> excellent <pos> value <opinion> great
+This place would be so much better served by being run by a group that actually understands customer service . ===> <neg> service <opinion> would be so much better
+A++ The service was good to excellent along with the attitude . ===> <pos> service <opinion> good <pos> attitude <opinion> excellent
+The food is awesome - definitely try the striped bass . ===> <pos> food <opinion> awesome <pos> striped bass <opinion> try
+black white shakes came out good also . ===> <pos> black white shakes <opinion> good
+It 's simply the best meal in NYC . ===> <pos> meal <opinion> best
+We go on Mondays for the prix fixe and our experience with the food has been comparable to Blue Ribbon . ===> <neu> food <opinion> comparable
+However , they 've got the most amazing pastrami and the soups hit the spot . ===> <pos> pastrami <opinion> amazing <pos> soups <opinion> hit the spot
+Great bagels made the old-fashioned way . ===> <pos> bagels <opinion> Great
+This is some really good , inexpensive sushi . ===> <pos> sushi <opinion> good <pos> sushi <opinion> inexpensive
+my personal favorite is an everything bagel with lox spread , but all the bagles are unbeliavably good . ===> <pos> bagel with lox spread <opinion> favorite <pos> bagles <opinion> unbeliavably good
+I would n't even have complained at all if the food at least tasted good but the quality of food was crappy , too . ===> <neg> quality of food <opinion> crappy
+For the next hour and a half we stood in the crowded lobby area of this touristy restaurant listening to all types of explanations of why we were not being seated . ===> <neg> lobby area <opinion> crowded
+The pizza is delicious and the proprietor is one of the nicest in NYC . ===> <pos> pizza <opinion> delicious <pos> proprietor <opinion> nicest
+Also good for client lunch meetings , esp . ===> <neu> lunch meetings <opinion> good
+The decor is dark , cool and soothing , while the food 's presentation is spectacular , considering the low prices . ===> <pos> decor <opinion> dark <pos> decor <opinion> cool <pos> decor <opinion> soothing <pos> prices <opinion> low <pos> food 's presentation <opinion> spectacular
+The Waitstaff were very nice and suggested swordfish for my husband he enjoyed his meal . ===> <pos> Waitstaff <opinion> nice <pos> swordfish <opinion> suggested <pos> meal <opinion> enjoyed
+The setting is casual and romantic . ===> <pos> setting <opinion> casual <pos> setting <opinion> romantic
+Terrible , terrible management - deserves to be shut-down . ===> <neg> management <opinion> Terrible <neg> management <opinion> terrible
+Great friendly service , Fast seating , Fast Delivery , Excellent sushi . ===> <pos> service <opinion> Great friendly <pos> seating <opinion> Fast <pos> Delivery <opinion> Fast <pos> sushi <opinion> Excellent
+The Italian food has flavor ( that can be sort of surprising on the UES ) , and the service turns from a nightmare to attentive , they sort of remind me of the NY Yankees of the late 90 's , no matter how bad it look , you knew that there was a rally just around the corner ... ===> <pos> Italian food <opinion> surprising
+Mizu is home to creative and unique rolls not to found anywhere else . ===> <pos> rolls <opinion> unique
+Baluchi 's has solid food and a nice decor at reasonable prices . ===> <pos> food <opinion> solid <pos> decor <opinion> nice <pos> prices <opinion> reasonable
+Moules were excellent , lobster ravioli was VERY salty ! ===> <pos> Moules <opinion> excellent <neg> lobster ravioli <opinion> salty
+A cheap eat for NYC , but not for dosa . ===> <neg> dosa <opinion> but <pos> eat <opinion> cheap
+The seafood is amazing , there 's a good wine list , and the ever-changing menu always offers some great surprises . ===> <pos> seafood <opinion> amazing <pos> wine list <opinion> good <pos> menu <opinion> ever-changing <pos> menu <opinion> great surprises
+The food was just OK , at least for what food was available . ===> <neg> food <opinion> OK
+The waitress was very patient with us and the food is phenomenal ! ===> <pos> waitress <opinion> patient <pos> food <opinion> phenomenal
+The ambience was nice , but service was n't so great . ===> <pos> ambience <opinion> nice <neg> service <opinion> was n't so great
+Solid wine list , knowledgeable staff , friendly owners and an adventurous , ever-changing menu keep us coming back . ===> <pos> wine list <opinion> Solid <pos> staff <opinion> knowledgeable <pos> owners <opinion> friendly <pos> menu <opinion> adventurous <pos> menu <opinion> ever-changing
+The people that work there are always so friendly you forget you are in New York sometimes . ===> <pos> people <opinion> friendly
+The location and ambience is Ok but the food is what makes up for it . ===> <neu> location <opinion> Ok <neu> ambience <opinion> Ok <pos> food <opinion> makes up
+I love and I know gourmet food by excellence ! ===> <pos> gourmet food <opinion> love <pos> gourmet food <opinion> excellence
+I plan to come here again and look forward to trying their assortment of bruschetta , panini 's ... .. ===> <pos> bruschetta <opinion> look forward <pos> panini <opinion> look forward
+Two people in our party felt like something else , and Volare immediately obliged with two great dishes that were not in their regular menu . ===> <pos> dishes <opinion> great <neu> menu <opinion> regular
+He offers subpar service and has no personality . ===> <neg> service <opinion> subpar
+The waitress remembers me and is very friendly , she knows what my regular is and that 's the fried mini buns with the condensed milk and the assorted fruits on beancurd . ===> <pos> waitress <opinion> friendly <pos> fried mini buns with the condensed milk and the assorted fruits on beancurd <opinion> regular
+Diner food at bistro prices is a bummer ... . ===> <neg> food <opinion> bummer <neg> prices <opinion> bummer
+While we thoroughly enjoyed the food , it was annoying to scream across the table for conversation . ===> <pos> food <opinion> enjoyed
+The portions are large and the servers always surprise us with a different starter . ===> <pos> portions <opinion> large <pos> servers <opinion> surprise <pos> starter <opinion> different
+delicious bagels , especially when right out of the oven . ===> <pos> bagels <opinion> delicious
+This is one great place to eat pizza more out but not a good place for take-out pizza . ===> <pos> pizza <opinion> great <neg> take-out pizza <opinion> good
+Try green curry with vegetables . ===> <pos> green curry with vegetables <opinion> Try
+First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review . ===> <neg> place <opinion> *not* romantic
+The second you walk through the heavy vault like door , with people anticipating your arrival you get the sense that you are going to have the dining ride of a lifetime . ===> <neu> door <opinion> heavy
+Much more reasonably priced too ! ===> <pos> priced <opinion> reasonably
+The food was not very tasty , the portioins were tiny even for such a high quality restaurant . ===> <neg> food <opinion> not very tasty <neg> portioins <opinion> tiny
+The Pad Thai is excellent here , as well . ===> <pos> Pad Thai <opinion> excellent
+I do not recommend lunch specials just because it tasts the same with other regular chinese restaurant . ===> <neg> lunch specials <opinion> not recommend
+We parked on the block of Nina 's the place looked nice , with people obviously enjoying their pizzas . ===> <pos> place <opinion> nice <pos> pizzas <opinion> enjoying
+The food is o.k. , but not any better than what you get at a good neighborhood restaurant . ===> <neu> food <opinion> o.k. , <neu> food <opinion> not any better
+We had the pot-stickers which were great and a tempura dish that was great . ===> <pos> pot-stickers <opinion> great <pos> tempura dish <opinion> great
+I think the stuff was better than Disney . ===> <pos> stuff <opinion> better
+While the $ 20 entree range is not overly expensive , in New York City , there is definitely better food in that range , and so Sapphire , despite it 's lovely atmosphere , will most likely not be a restaurant to which I will return . ===> <neg> food <opinion> better <pos> atmosphere <opinion> lovely <pos> entree range <opinion> not overly expensive
+Orsay , is without a doubt one of the best values for authentic French food in NYC . ===> <pos> French food <opinion> authentic
+Well , their deliveries take for ever and the food is usually cold . ===> <neg> deliveries <opinion> for ever <neg> food <opinion> cold
+And really large portions . ===> <pos> portions <opinion> large
+This is a great Thai restaurant with a very friendly staff . ===> <pos> staff <opinion> friendly
+I ordered the smoked salmon and roe appetizer and it was off flavor . ===> <neg> smoked salmon and roe appetizer <opinion> off flavor
+We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food . ===> <pos> food <opinion> impressed
+I recommend the garlic shrimp , okra ( bindi ) , and anything with lamb . ===> <pos> garlic shrimp <opinion> recommend <pos> lamb <opinion> recommend <pos> okra ( bindi ) <opinion> recommend
+The food is great and authentic . ===> <pos> food <opinion> great
+Good for casual dinner with jeans and sneakers . ===> <pos> casual dinner <opinion> Good
+Anyway , the food is good , the price is right and they have a decent wine list . ===> <pos> food <opinion> good <pos> price <opinion> right <pos> wine list <opinion> decent
+This place has many different styles of pizza and they are all amazing . ===> <pos> styles of pizza <opinion> different <pos> styles of pizza <opinion> amazing
+The food was great . ===> <pos> food <opinion> great
+Pair you food with the excellent beers on tap or their well priced wine list . ===> <pos> beers on tap <opinion> excellent <pos> wine list <opinion> well <pos> priced <opinion> well
+If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here . ===> <neg> music <opinion> like <neg> bottle minimun <opinion> love
+Metrazur has a beautiful spot overlooking the main terminal . ===> <pos> spot <opinion> beautiful
+The restaurant is rather small but we were lucky to get a table quickly . ===> <pos> table <opinion> quickly
+Quality of food is excellent and price is cheap , stick to pork , fish , chicken , lamb and vegetables . ===> <pos> Quality of food <opinion> excellent <pos> price <opinion> cheap <pos> pork <opinion> cheap <pos> fish <opinion> cheap <pos> chicken <opinion> cheap <pos> lamb <opinion> cheap <pos> vegetables <opinion> cheap
+The place is a little tight and on a cold day , the seating by the entranceway can be pretty drafty . ===> <neg> seating <opinion> drafty <neg> place <opinion> tight
+But , they were too big for the bun . ===> <neu> bun <opinion> too big
+The food is fresh , delicious , and reasonably priced . ===> <pos> food <opinion> fresh <pos> food <opinion> delicious <pos> priced <opinion> reasonably
+Raga stands out with an interesting fusion of French and Indian cooking . ===> <pos> fusion of French and Indian cooking <opinion> interesting
+The bagels are fabulous . ===> <pos> bagels <opinion> fabulous
+Oh yes , and they lie on the phone , claiming they have seating in the garden , then of course the seats are not available . ===> <neu> seating in the garden <opinion> lie <neu> seats <opinion> not available
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . ===> <pos> service <opinion> good <pos> place <opinion> relaxing <neu> water <opinion> typical
+The food was very good , a great deal , and the place its self was great . ===> <pos> food <opinion> good <pos> place <opinion> great
+Probably much busier for lunch , it 's seldom crowded for dinner ( too close to downtown ) . ===> <neu> lunch <opinion> busier <neu> dinner <opinion> seldom crowded
+Their calzones are horrific , bad , vomit-inducing , YUCK . ===> <neg> calzones <opinion> horrific <neg> calzones <opinion> bad <neg> calzones <opinion> vomit-inducing <neg> calzones <opinion> YUCK
+It takes forever to get a drink and they almost always forget to bring something ( although they dont forget to charge you for it . ===> <neu> drink <opinion> forever
+The place itself is beautiful the bar scene seems to be happening . ===> <pos> place <opinion> beautiful <pos> bar scene <opinion> happening
+Saturday , Nov. 6th I had a group from work come in with about 35 people and the staff was amazing to accomodate us . ===> <pos> staff <opinion> amazing
+Good spreads , great beverage selections and bagels really tasty . ===> <pos> spreads <opinion> Good <pos> beverage selections <opinion> great <pos> bagels <opinion> tasty
+Also , top the meal with a delicious and perfect slice of tiramisu . ===> <pos> tiramisu <opinion> delicious <pos> tiramisu <opinion> perfect
+Check out the secret back room . ===> <pos> secret back room <opinion> Check out
+It 's also attached to Angel 's Share , which is a cool , more romantic bar ... ===> <pos> bar <opinion> cool <pos> bar <opinion> romantic
+I am amazed by the poor reviews- I find this place to be standout Italian in an area flooded with Italian- great prices , great atmosphere , good service and a wonderful wine list . ===> <pos> prices <opinion> great <pos> atmosphere <opinion> great <pos> service <opinion> good <pos> wine list <opinion> wonderful
+With the theater 2 blocks away we had a delicious meal in a beautiful room . ===> <pos> meal <opinion> delicious <pos> room <opinion> beautiful
+The food is great and reasonably priced . ===> <pos> food <opinion> great <pos> food <opinion> reasonably priced <pos> priced <opinion> reasonably
+Over the years the host , Vittorio , and his crew , have always treated me as family -- although with all the business this not-so-little gem does , it amazing he 's even able to remember a consistent but not-so-frequent visitor . ===> <pos> crew <opinion> amazing <pos> host <opinion> amazing
+The restuarant itself is not large , but seems to have several round tables to accomodate large groups hoping to save a buck to eat authentic Taiwanese . ===> <pos> round tables <opinion> several <pos> Taiwanese <opinion> authentic
+My husband said he could 've eaten several more , the portion was fine for me he even exclaimed that the french fries were the best he has had . ===> <pos> french fries <opinion> best
+It is the type of place to run into old friends and have a late , raucous dinner . ===> <pos> dinner <opinion> raucous
+The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment . ===> <pos> food <opinion> delicious <pos> dishes <opinion> never a disappointment <pos> specials <opinion> delicious <pos> specials <opinion> never a disappointment <pos> regular menu-fare <opinion> delicious <pos> regular menu-fare <opinion> never a disappointment
+The combination of fresh tomato sauce , fresh mozz cheese , basil and the dough they make with imported flour , makes this is one of the better pizza 's in NY . ===> <pos> fresh tomato sauce <opinion> fresh <pos> fresh mozz cheese <opinion> fresh <pos> pizza <opinion> better <pos> flour <opinion> imported
+For all of you new to Indian food , try the Paneer Roll , it is a piece of heaven . ===> <pos> Paneer Roll <opinion> heaven
+The food looked very appetizing and delicious since it came on a variety of fancy plates . ===> <pos> food <opinion> appetizing <pos> food <opinion> delicious <pos> plates <opinion> fancy
+Both the fresh mozzerella slices and the Plain Cheese slice are phenomenal . ===> <pos> fresh mozzerella slices <opinion> fresh <pos> fresh mozzerella slices <opinion> phenomenal <pos> Plain Cheese slice <opinion> phenomenal
+The food is terrible and overall , I would have to say avoid at all costs . ===> <neg> food <opinion> terrible
+It 's constantly open , catering to the Pakistani cabbies lined up on Crosby St. , so there 's more turnover with the food than you 'd expect ( i.e. , surprisingly fresh ) . ===> <pos> food <opinion> surprisingly fresh
+I went at 6:00 PM specifically for the pre-theater menu ( $ 19.95 for roasted tomato soup with chevre , steak frites , creme brulee ) and it was marvelous . ===> <pos> pre-theater menu <opinion> marvelous <pos> roasted tomato soup with chevre <opinion> marvelous <pos> steak frites <opinion> marvelous <pos> creme brulee <opinion> marvelous
+The waitstaff were attentive , polite and helpful - an impressive feat in such close quarters . ===> <pos> waitstaff <opinion> attentive <pos> waitstaff <opinion> polite <pos> waitstaff <opinion> helpful <pos> waitstaff <opinion> impressive
+- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the Peter 's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad . ===> <pos> bread <opinion> super tasty <pos> pizza <opinion> delicious
+Have always found that the waiters will go out of their way to be helpful , despite the fact they are often busy with lots of diners . ===> <pos> waiters <opinion> helpful <pos> waiters <opinion> busy
+The owner truly caters to all your needs . ===> <pos> owner <opinion> caters
+He takes real pride in his food and his business . ===> <pos> food <opinion> pride
+So if you want a nice , enjoyable meal at Montparnasse , go early for the pre-theater prix-fixe . ===> <pos> meal <opinion> nice <pos> meal <opinion> enjoyable <pos> pre-theater prix-fixe <opinion> nice <pos> pre-theater prix-fixe <opinion> enjoyable
+Over the years , it has always provided a pleasurable dining experience with quality food and wine . ===> <pos> food <opinion> quality <pos> wine <opinion> quality <pos> dining <opinion> pleasurable
+The photobook menu was a cute touch , certainly helped my group and I pick the fried chicken , pork chop , and noodle dishes that we all ordered . ===> <pos> menu <opinion> cute
+I can not imagine better Indian food in all of the city . ===> <pos> Indian food <opinion> better
+very good breads as well . ===> <pos> breads <opinion> good
+Pizza is terrific , as is homemade pasta . ===> <pos> Pizza <opinion> terrific <pos> homemade pasta <opinion> terrific
+This is a wonderful place on all stand points especially value ofr money . ===> <pos> value ofr money <opinion> wonderful
+From beginning appetizers , the scallops were incredible , to the delicious chocolate souffle with rasberry mint sorbet , we were delighted by the taste sensations . ===> <pos> beginning appetizers <opinion> incredible <pos> scallops <opinion> incredible <pos> chocolate souffle with rasberry mint sorbet <opinion> delicious <pos> taste <opinion> delighted
+My goodness , everything from the fish to the rice to the seaweed was absolutely amazing . ===> <pos> fish <opinion> amazing <pos> rice <opinion> amazing <pos> seaweed <opinion> amazing
+The food is reliable and the price is moderate . ===> <pos> food <opinion> reliable <neu> price <opinion> moderate
+While the ambiance and atmosphere were great , the food and service could have been a lot better . ===> <pos> ambiance <opinion> great <pos> atmosphere <opinion> great <neg> food <opinion> could have been a lot better <neg> service <opinion> could have been a lot better
+The server was really cool and served us our food and drinks with a smile . ===> <pos> server <opinion> cool
+Planet Thailand has always been a hit with me , I go there usually for the sushi , which is great , the thai food is excellent too . ===> <pos> sushi <opinion> great <pos> thai food <opinion> excellent
+The sauce on the pizza is sooo good with garlic and fresh tomatoes and they do n't skimp . ===> <pos> fresh tomatoes <opinion> fresh <pos> sauce on the pizza <opinion> good
+We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me . ===> <pos> outdoor seating <opinion> perfect
+My husband had the mesclun , salmon , and ice cream and he enjoyed all 3 courses . ===> <pos> mesclun <opinion> enjoyed <pos> salmon <opinion> enjoyed <pos> ice cream <opinion> enjoyed <pos> courses <opinion> enjoyed
+The food is usually good but it certainly is n't a relaxing place to go . ===> <pos> food <opinion> good <neg> place <opinion> is n't a relaxing
+Super friendly and knowledgable staff , fabulous bistro fare and a wonderful jazz brunch with great live jazz ( the chilaquiles were awesome ! ===> <pos> staff <opinion> friendly <pos> staff <opinion> fabulous <pos> bistro fare <opinion> fabulous <pos> chilaquiles <opinion> awesome <pos> jazz brunch <opinion> wonderful <pos> live jazz <opinion> great
+The prices were fantastic . ===> <pos> prices <opinion> fantastic
+The table service could have been a little more attentive but as someone who also works in the service industry , I understood they were busy . ===> <neu> service <opinion> busy
+It 's not mind-blowing , but to me , thai food never is and never will be . ===> <neu> thai food <opinion> mind-blowing
+Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) . ===> <pos> Food <opinion> good <neg> pork belly <opinion> melt-in-your-mouth <neg> fat <opinion> longer
+I love the fact that the pizza tastes so good and is so cheap . ===> <pos> pizza <opinion> love <pos> pizza <opinion> good <pos> pizza <opinion> cheap
+Service was prompt , friendly and great . ===> <pos> Service <opinion> prompt <pos> Service <opinion> friendly <pos> Service <opinion> great
+I have n't eat a lamb chop as delicious as that , the salads are really nice dressed with lemon and extra virgnin olive oil . ===> <pos> lamb chop <opinion> delicious <pos> salads <opinion> nice
+The sushi was awful ! ===> <neg> sushi <opinion> awful
+You can get an excellent meal at most of the many Indian restaurants on nearby Lexington Avenue for the cost of one the dainty dishes here . ===> <pos> meal <opinion> excellent <pos> dishes <opinion> dainty
+The plain pizza was soggy and the creative wild mushroom ( third generation-Fornini ) pizza we had was drenched with truffle oil in the middle ( again making it soggy ) and nothingon the rest . ===> <neg> plain pizza <opinion> soggy <neu> truffle oil <opinion> drenched
+Late nite omelletes are not good here , there is no variety ! ===> <neg> omelletes <opinion> not good
+After all that , they complained to me about the small tip . ===> <neg> tip <opinion> small
+It 's a great place to pick up a cheap lunch or dinner . ===> <pos> lunch <opinion> cheap
+Whenever you need a Sushi fix , Mizu will be there with quality fish and great service . ===> <pos> fish <opinion> quality <pos> service <opinion> great
+Our waitress was sweet and accomodating , not overbearing . ===> <pos> waitress <opinion> sweet <pos> waitress <opinion> accomodating
+I was really disappointed ant wanted to tell everyone not to go eat or even take out food from there . ===> <neg> food <opinion> disappointed
+Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art . ===> <neg> menu <opinion> limited <pos> food art <opinion> ultra fresh
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful . ===> <pos> outdoor atmosphere <opinion> wonderful
+brick oven gallery is My pick for best pizza restaurant anywhere . ===> <pos> pizza <opinion> best
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . ===> <pos> service <opinion> great <pos> food <opinion> great <pos> price <opinion> reasonable
+For many people , this may not seem like Aunthentic Thai food because most places in NYC arent quite authentic . ===> <neg> Thai food <opinion> authentic
+Oh , do n't even let me start with how expensive the bills were ! ===> <neg> bills <opinion> expensive
+All the appetizers and salads were fabulous , the steak was mouth watering and the pasta was delicious ! ! ! ===> <pos> appetizers <opinion> fabulous <pos> salads <opinion> fabulous <pos> steak <opinion> watering <pos> pasta <opinion> delicious
+Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated , we were served dishes we had n't ordered three times , received one of our orders 20 minutes after the rest of the table had been served ( and that order was undercooked ) , and charged $ 45 more than we should have been on our bill . ===> <neg> dishes <opinion> undercooked
+Service is top notch . ===> <pos> Service <opinion> top notch
+The food now is inconsistent . ===> <neg> food <opinion> inconsistent
+BE CAREFUL before you request extra spice . ===> <neu> spice <opinion> CAREFUL
+The octopus eaters were floored by the Octopus salad . ===> <pos> Octopus salad <opinion> floored
+We thought that this place is using too much of MSG cooking in the foods . ===> <neg> MSG cooking <opinion> too much
+And the Tom Kha soup was pathetic . ===> <neg> Tom Kha soup <opinion> pathetic
+I started out with a Bombay beer which was big enough for two . ===> <pos> Bombay beer <opinion> big
+The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date . ===> <pos> decor <opinion> vibrant <pos> decor <opinion> eye-pleasing <pos> dining hall <opinion> great
+The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable . ===> <pos> sweet lassi <opinion> excellent <neg> rasamalai <opinion> forgettable
+We 've been following chef Lyle 's food around New York for 15 years and while remaining classic , his innovations with bistro fare have made us return and return . ===> <pos> bistro fare <opinion> innovations <pos> food <opinion> classic
+The best thing I tasted were the lambchops . ===> <pos> lambchops <opinion> best
+In addition , the food is very good and the prices are reasonable . ===> <pos> food <opinion> good <pos> prices <opinion> reasonable
+Upon entering , we were greeted by the owners , Steven and Frederick , who went out of their way to be more than gracious hosts . ===> <pos> hosts <opinion> gracious
+Been going here since it opened have seen the quality value decrease considerably . ===> <neg> quality value <opinion> decrease
+they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration . ===> <pos> amuse bouche <opinion> complementary <pos> dessert <opinion> small
+Try the crunchy tuna , it is to die for . ===> <pos> crunchy tuna <opinion> Try <pos> crunchy tuna <opinion> die for
+All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city . ===> <pos> sushi <opinion> favorite
+It is a lot of fun with live entertainment and all kinds of Disney type special effects . ===> <pos> live entertainment <opinion> fun <pos> special effects <opinion> fun
+if you 're looking for perfect traditional sushi , go here - if you 're looking for interesting combinations , try Sushi of gari 's ( east side ) . ===> <pos> sushi <opinion> perfect
+Be careful of portions - they 're HUGE . ===> <pos> portions <opinion> HUGE
+The Steak Tartare is a great bet , they fix it for you at the table . ===> <pos> Steak Tartare <opinion> great
+Great for large groups and celebrations - our SUPER HAPPY waiter was the entertainment of the evening . ===> <pos> waiter <opinion> SUPER HAPPY
+Plus , on Wednesday nights the house wine is unlimited ! ===> <pos> house wine <opinion> unlimited
+However , in the summer of 2003 , it seems the management has changed and the great big door has been replaced for a glass front ridding itself of the dark romantic getup . ===> <neu> management <opinion> changed <pos> door <opinion> great big
+We wo n't go to this place again for a good meal . ===> <neg> meal <opinion> good
+Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance . ===> <pos> Barbecued codfish <opinion> moist <neg> seasoning <opinion> bland <neg> spice rub <opinion> overwhelmed <neg> herb mix <opinion> to enhance <neg> sauce <opinion> to enhance
+After dinner , take your date to the HUGE dance floor , probably one of the biggest you 'll see in NY . ===> <pos> dance floor <opinion> HUGE <pos> dance floor <opinion> biggest
+Taj Mahal offeres gret value and great food . ===> <pos> value <opinion> great <pos> food <opinion> great
+My boyfriend and I recently had an early dinner at Artisanal and was satisfied with our experience . ===> <pos> dinner <opinion> satisfied
+Outstanding Bagels , but you get what you pay for . ===> <pos> Bagels <opinion> Outstanding
+Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread ! ===> <pos> crust <opinion> best <pos> bread <opinion> freshly baked
+I found it on a cold night , the perfect spot to warm up . ===> <pos> spot <opinion> perfect
+Service was warm and attentive , beef carpaachio was exellent ( huge portion ) and pasta was fresh and well-prepared . ===> <pos> Service <opinion> warm <pos> Service <opinion> attentive <pos> beef carpaachio <opinion> exellent <pos> pasta <opinion> fresh <pos> pasta <opinion> well-prepared <pos> portion <opinion> huge
+Best Italian food I ever had ( and being Italian , that means alot ) . ===> <pos> Italian food <opinion> Best
+I will recommend Scopa to all of my friends for a place to go for wonderful Italian food . ===> <pos> Italian food <opinion> wonderful
+Great bar , most gorgeous bartenders you 've ever seen ( specifically the blond lady ) . ===> <pos> bar <opinion> Great <pos> bartenders <opinion> gorgeous
+I really loved the different and inovated touch that 's the cheff gives to the food . ===> <pos> food <opinion> different <pos> food <opinion> inovated
+They came out over cooked and the cheese was almost non existant . ===> <neg> cheese <opinion> non existant
+I had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that was n't as good . ===> <pos> meal <opinion> terrific <neg> wine <opinion> nice
+The svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must ! ===> <neg> svc <opinion> rude
+The food is good , especially their more basic dishes , and the drinks are delicious . ===> <pos> food <opinion> good <pos> dishes <opinion> good <pos> drinks <opinion> delicious
+But the main hit was the whole grilled fish . ===> <pos> whole grilled fish <opinion> hit
+On a hot day it was fabulous to stop in and enjoy lunch . ===> <pos> lunch <opinion> fabulous <pos> lunch <opinion> enjoy
+The food is delicious and beautifully prepared along with the friendly and personable service . ===> <pos> food <opinion> delicious <pos> food <opinion> beautifully prepared <pos> service <opinion> personable
+Pizza here is consistently good . ===> <pos> Pizza <opinion> good
+Would n't recomend it for dinner ! ===> <neg> dinner <opinion> recomend
+Sauce was watery and the food did n't have much flavor . ===> <neg> Sauce <opinion> watery <neg> food <opinion> did n't have much flavor
+My husband and I enjoy Sangria . ===> <pos> Sangria <opinion> enjoy
+We both opted for a pasta dish and they were served timely and fresh . ===> <pos> pasta dish <opinion> served timely <pos> pasta dish <opinion> fresh <pos> served <opinion> timely <pos> served <opinion> fresh
+First the wrong bread came out with the appetizer , then when i tried to order a second glass of wine for my main course ... ===> <neg> bread <opinion> wrong <neu> glass of wine <opinion> second
+In an area sadly lacking in decent Thai food , this is one of the best spots . ===> <pos> Thai food <opinion> decent
+Make reservations but expect to be delayed 15-20 minutes as the hosting staff was having difficulty seating guests who arrived with a reservation because they probably had a lot of walk ins being so close to Time Square . ===> <neg> reservations <opinion> delayed <neg> seating <opinion> difficulty
+The food was average or above including some surprising tasty dishes . ===> <pos> food <opinion> average or above <pos> dishes <opinion> tasty
+They do n't seem to place an emphasis on specials or fresh ingredients which to me is necessary for good thai . ===> <neg> ingredients <opinion> good <neu> thai <opinion> good
+The crust is thin , the ingredients are fresh and the staff is friendly . ===> <pos> crust <opinion> thin <pos> staff <opinion> friendly <pos> ingredients <opinion> fresh
+Also a little more expensive than your average bagel place . ===> <neu> bagel <opinion> expensive
+the food was undercooked -the sauce watery , and the vegetables raw . ===> <neg> food <opinion> undercooked <neg> vegetables <opinion> raw <neg> sauce <opinion> watery
+And the fried clams had just enough kick to them to make 'em worth eating . ===> <pos> fried clams <opinion> enough
+The sauces used are also not that exciting . ===> <neg> sauces <opinion> not that exciting
+The secret is the lunch menu which offers a complimentary appetizer with every entree ordered . ===> <pos> lunch menu <opinion> secret <pos> appetizer <opinion> complimentary <pos> entree <opinion> complimentary
+The shrimp scampi was excellent and the antipasti were plentiful . ===> <pos> shrimp scampi <opinion> excellent <pos> antipasti <opinion> plentiful
+I got the $ 10 10-piece dim sum combo , every bite of which was great . ===> <pos> dim sum combo <opinion> great
+There is also very limited seating and there can be a substantial wait in getting food at peak times . ===> <neg> seating <opinion> limited <neg> wait <opinion> substantial
+If it 's just a quick martini at the bar ( which I recommend Jeffery 's ) or a mind blowing Roast Chicken , go to Village ! ===> <neu> martini <opinion> quick <neu> bar <opinion> recommend <pos> Roast Chicken <opinion> mind blowing
+There was a long wait for a table outside , but it was a little too hot in the sun anyway so our insde table was very nice . ===> <neu> table <opinion> long wait <pos> insde table <opinion> nice <neg> wait <opinion> long
+The prices are wonderfully low . ===> <pos> prices <opinion> wonderfully low
+I have never been disappointed but their true strength lays in their amazingly delicious and cheap lunch specials . ===> <pos> lunch specials <opinion> delicious <pos> lunch specials <opinion> cheap
+So much more than the usual bar food , go there to enjoy the menu while sampling one of their hand-crafted beers . ===> <pos> menu <opinion> enjoy <pos> hand-crafted beers <opinion> hand-crafted
+No free drink . ===> <neu> drink <opinion> No free
+This is my first time writing a review for a restaurant because the food and service was excellent . ===> <pos> food <opinion> excellent <pos> service <opinion> excellent
+Do n't waste money on decor . ===> <neu> decor <opinion> waste
+They also have a back garden open in the summer - cute and French with outdoor seating - what more could you ask for ? ===> <pos> back garden <opinion> cute <pos> back garden <opinion> French
+I have never before eaten 40 pieces of relatively good nigiri . ===> <neu> nigiri <opinion> good
+Given the incredible architecture surrounding it , this place has no character . ===> <pos> architecture <opinion> incredible <neg> place <opinion> no character
+While the place is not a hotspot hangout , the drinks are unique and pack a lot of bang for the buck . ===> <pos> drinks <opinion> unique
+Their eggplant is so delicate , sweet tender ! ===> <pos> eggplant <opinion> delicate <pos> eggplant <opinion> sweet tender
+Each bite of food at Kai was indeed delicious , fresh , and elegant . ===> <pos> food <opinion> delicious <pos> food <opinion> fresh <pos> food <opinion> elegant
+all the food was excellent - considering the quality of food in most moderately priced restaurants is mediocre this was slightly more pricey and well worth it . ===> <pos> food <opinion> excellent <pos> quality of food <opinion> mediocre <neu> priced <opinion> moderately
+I had the cod with paella ( spicy and very filling , I 'm a big eater and could only eat half ) while my boyfriend had the classic fish and chips ( again , a big serving - at least 5 pieces of fish and a basketful of fries ) . ===> <neg> cod with paella <opinion> spicy <neg> cod with paella <opinion> filling <neg> fish and chips <opinion> classic <neg> fish and chips <opinion> big <neg> serving <opinion> big
+It 's a shame that a nice , convenient place like the Pink Pony can be so ruined by lousy service . ===> <pos> place <opinion> convenient <neg> service <opinion> lousy
+Try the spicy wontons and the salt pepper shrimps . ===> <pos> spicy wontons <opinion> Try <pos> salt pepper shrimps <opinion> Try
+The fries are yummy . ===> <pos> fries <opinion> yummy
+Friendly and informative staff , very attentive and prompt raw bar service . ===> <pos> staff <opinion> Friendly <pos> staff <opinion> informative <pos> staff <opinion> attentive <pos> bar service <opinion> raw
+Best Taiwanese food in NY ! ===> <pos> Taiwanese food <opinion> Best
+This place is a great stop for great food . ===> <pos> food <opinion> great
+All the pastas are fantastic and the homemade lasagna is some of the best that I have had in the City . ===> <pos> pastas <opinion> fantastic <pos> homemade lasagna <opinion> best
+And the prices were way to high for what you get . ===> <neg> prices <opinion> high
+The staff ignored my friends and I the entire time we were there . ===> <neg> staff <opinion> ignored
+Yet paired with such rude service , would never recommend for anyone interested in carrying any kind of conversation while there . ===> <neg> service <opinion> rude
+The in-house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests . ===> <pos> in-house lady DJ <opinion> good taste
+Great wine list , reasonably priced . -- Sara ===> <pos> wine list <opinion> Great <pos> priced <opinion> reasonably
+The hot dogs were cold in the middle and the buns were stale . ===> <neg> hot dogs <opinion> cold <neg> buns <opinion> stale
+While the food was excellent , it was n't cheap ( though not extremely expensive either ) . ===> <pos> food <opinion> excellent
+Beef noodle soup is good as well . ===> <pos> Beef noodle soup <opinion> good
+Delivery service is great too . ===> <pos> Delivery service <opinion> great
+The food 's dazzling flavors overwhelm the palate , truly embracing the beauty of authentic Thai cuisine . ===> <pos> food <opinion> overwhelm <pos> Thai cuisine <opinion> authentic <pos> flavors <opinion> overwhelm
+I recieved prompt service with a smile . ===> <pos> service <opinion> prompt
+They pray to their Food Gods to make them into a good pizza like VT 's . ===> <neg> pizza <opinion> good
+The place was quiet and delightful . ===> <pos> place <opinion> quiet <pos> place <opinion> delightful
+The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes . ===> <pos> food <opinion> diamond <pos> food <opinion> delicious <pos> food <opinion> homemade <pos> herbs <opinion> perfect <pos> tomatoes <opinion> perfect
+As much as I like the food there , I ca n't bring myself to go back . ===> <pos> food <opinion> like
+The prices and ambience are especially great considering it 's in the West Village . ===> <pos> prices <opinion> great <pos> ambience <opinion> great
+The soup is pretty good too . ===> <pos> soup <opinion> good
+It is so easy to get a reservation at a top place in NYC with a week 's notice . ===> <pos> reservation <opinion> easy
+not the food , not the ambiance , not the service , I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out . ===> <neg> wait staff <opinion> rude
+I always get the Shabu-Shabu dinner and the beef is always fresh . ===> <pos> beef <opinion> fresh
+The pizza was delivered cold and the cheese was n't even fully melted ! ===> <neg> pizza <opinion> cold <neg> cheese <opinion> was n't even fully melted
+We were very surprised by how good the food was on our first visit here on a Sunday night . ===> <pos> food <opinion> good
+Nha Trang , while being notorious for utter lack of comfort and decor , horribly slow wait staff and horribly quick meals , is one of the best vietnamese restaurants i 've ever been to . the pho is delicious and comes with very fresh vegtables . ===> <neg> comfort <opinion> lack <neg> decor <opinion> lack <neg> wait staff <opinion> horribly slow <neg> meals <opinion> horribly quick <pos> pho <opinion> delicious <pos> vegtables <opinion> fresh
+On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity . ===> <neu> service <opinion> on par <neu> ambiance <opinion> on par <neg> food <opinion> outshine
+If I could rate the people this place would be off the charts - unfortunately - the pizza , sorry - not the best in NYC . ===> <pos> people <opinion> best <neg> pizza <opinion> best
+Having not been home in the last 2 years may skew this reviewer a bit , but the food was tasty and spicy sans the oil that comes floating along at similar venues . ===> <pos> food <opinion> tasty <pos> food <opinion> spicy
+The portions are now very small , the sauces are overly ambitious usually inedible while the service is still good , the restaurant , due to its popularity , seems frantic . ===> <neg> portions <opinion> small <neg> sauces <opinion> ambitious <neg> sauces <opinion> inedible <pos> service <opinion> good
+The owner is very friendly and a great guy , go try his pizza , you 'll like it ! ===> <pos> owner <opinion> friendly <pos> owner <opinion> great <pos> pizza <opinion> try <pos> pizza <opinion> like
+The atmosphere is great ! ! ! ===> <pos> atmosphere <opinion> great
+With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . ===> <neg> food <opinion> overpriced <neg> wait-staff <opinion> arrogant <neg> service <opinion> clumsy <neg> management <opinion> does n't care <neg> diner <opinion> glorified
+I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . ===> <pos> sea urchin <opinion> heavenly
+The service is a little scatty at times but all is forgiven when the food arrives . ===> <neg> service <opinion> scatty <pos> food <opinion> forgiven
+The bruscetta is a bit soggy , but the salads were fresh , included a nice mix of greens ( not iceberg ) all dishes are served piping hot from the kitchen . ===> <neg> bruscetta <opinion> soggy <pos> salads <opinion> fresh <pos> dishes <opinion> hot <pos> mix of greens <opinion> nice
+The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down . ===> <neu> atmosphere <opinion> is n't the greatest <pos> prices <opinion> down
+The pickles were great addition . ===> <pos> pickles <opinion> great
+If your favorite Chinese food is General Tao chicken , then this is NOT your place . ===> <neg> General Tao chicken <opinion> favorite
+You must try the shrimp appetizers . ===> <pos> shrimp appetizers <opinion> try
+Not only is the cuisine the best around , the service has always been attentive and charming . ===> <pos> cuisine <opinion> best <pos> service <opinion> attentive <pos> service <opinion> charming
+The production is a symphony , alot of fun to experience.The food sublime for the most part . ===> <pos> food <opinion> sublime
+Waiters tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one entree . ===> <neg> Waiters <opinion> forget <neg> food portions <opinion> tiny <neu> drinks <opinion> forget <neg> entree <opinion> trouble
+But the thing that my wife and I hated was it was so loud and it felt like ' bar ' or ' pub ' . ===> <neg> bar <opinion> loud <neg> pub <opinion> loud
+While there are plenty of places to go for a good corned beef sandwich , Katz 's has a charm about it . ===> <pos> corned beef sandwich <opinion> good
+However , looking at the table next to ours , we both sort of wished we had ordered pizza , which looked perfect ===> <pos> pizza <opinion> perfect
+Priced at upper intermediate range . ===> <neg> Priced <opinion> upper intermediate
+If you live in new york city , you 'll find better food at small restaurants outside of time square and spend half the amount . ===> <neg> food <opinion> better
+they did n't disappoint , service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table . ===> <pos> service <opinion> pleasant <pos> service <opinion> attentive
+I do n't know who they think they are but they have no respect for the residents of the neighborhood ever since they opened their cabaret next door and blasts loud music till three in the morning every weekend during the summer . ===> <neg> music <opinion> loud
+The only positive was the wait staff , which was prompt , knowledgable , and likeable . ===> <pos> wait staff <opinion> positive <pos> wait staff <opinion> prompt <pos> wait staff <opinion> knowledgable <pos> wait staff <opinion> likeable
+I am not a vegetarian but , almost all the dishes were great . ===> <pos> dishes <opinion> great
+I was very impressed by this low-key upper eastsider and their authentically thai cuisine ! ! ! ===> <pos> thai cuisine <opinion> authentically
+For the location , the prices are very reasonable . ===> <pos> prices <opinion> reasonable <neu> location <opinion> reasonable
+The food is okay and the prices here are mediocre . ===> <neu> food <opinion> okay <neu> prices <opinion> mediocre
+My friend 's food was also the complete opposite of what it 's supposed to taste like ( aND look like ) . ===> <neg> food <opinion> opposite
+We have been to this place many times , and always have great food , wine , and service . ===> <pos> food <opinion> great <pos> wine <opinion> great <pos> service <opinion> great
+Not a typical pizza joint , but good for a low key and fairly cheap nice sit down dinner . ===> <pos> dinner <opinion> cheap nice
+The corned beef was tender and melted in my mouth . ===> <pos> corned beef <opinion> tender <pos> corned beef <opinion> melted
+The best Chicken pad tai , I 've ever had . ===> <pos> Chicken pad tai <opinion> best
+$ 20 for all you can eat sushi can not be beaten . ===> <neu> sushi <opinion> can not be beaten
+Haru serves very fresh fish , has a trendy , modern ambiance , prime location on Park Avenue South and friendly service . ===> <pos> fish <opinion> fresh <pos> service <opinion> friendly <pos> ambiance <opinion> trendy <pos> ambiance <opinion> modern <pos> location <opinion> prime
+Warm and friendly in the winter and terrific outdoor seating in the warmer months . ===> <pos> outdoor seating <opinion> terrific
+Very romantic fires - I 've literally spent hours at Lanterna , drinking wine from their extensive wine and enjoying the ambience . ===> <pos> wine <opinion> extensive <pos> ambience <opinion> enjoying
+We got a little tipsy from the sake but is n't that what Saturday nights with the girlfriends are all about ? ===> <neu> sake <opinion> tipsy
+My turkey burger was not cooked at all , my friends salmon was completely raw . ===> <neg> turkey burger <opinion> not cooked <neg> salmon <opinion> raw
+His drinks are very inventive , delicious and classy . ===> <pos> drinks <opinion> inventive <pos> drinks <opinion> delicious <pos> drinks <opinion> classy
+Great food , great prices , great service . ===> <pos> food <opinion> Great <pos> prices <opinion> great <pos> service <opinion> great
+Awesome Pizza especially the Margheritta slice . ===> <pos> Pizza <opinion> Awesome <pos> Margheritta <opinion> Awesome
+This place , however , has a lot less pretension than Joya and the Thai food is still above average . ===> <pos> Thai food <opinion> above average
+Try ordering from the regular menu , then you would not regret ! ===> <pos> menu <opinion> regret
+We started with lox and mussels ( the best ive ever had , ever ) and had the cod and trout for dinner . ===> <pos> lox <opinion> best <pos> mussels <opinion> best
+Food is great . ===> <pos> Food <opinion> great
+I recommend the meatballs and caprese salad and the beans on toast were a wonderful start to the meal ! ===> <pos> meatballs <opinion> recommend <pos> caprese salad <opinion> recommend <pos> beans on toast <opinion> wonderful <neu> meal <opinion> wonderful
+This place is incredibly tiny . ===> <neg> place <opinion> tiny
+I did n't complain , I liked the atmosphere so much . ===> <pos> atmosphere <opinion> liked
+The wine is always good , the tapas are always yummy , especially with the warm pita bread . ===> <pos> wine <opinion> good <pos> tapas <opinion> yummy <pos> pita bread <opinion> warm
+But when you are seated the waitresses are great , they explain everything on the menu , and the price of the food is really cheap for the service you get . ===> <pos> waitresses <opinion> great <pos> price <opinion> cheap <neu> food <opinion> cheap
+I 've been to several places for Dim Sum and this has got to be the WORST . ===> <neg> Dim Sum <opinion> WORST .
+The freshest , best variety , and the fastest delivery . ===> <pos> variety <opinion> best <pos> delivery <opinion> fastest
+Go to Volare for 1st class service and terrific food . ===> <pos> service <opinion> 1st class <pos> food <opinion> terrific
+The sandwiches are dry , tasteless and way overpriced . ===> <neg> sandwiches <opinion> dry <neg> sandwiches <opinion> tasteless <neg> sandwiches <opinion> overpriced
+The fried rice is really good too . ===> <pos> fried rice <opinion> good
+We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections . ===> <pos> staff <opinion> enthusiastic <pos> manager <opinion> excellent
+Made my dining experience uncomfortable . ===> <neg> dining experience <opinion> uncomfortable
+A very inviting restaurant , with friendly service . ===> <pos> service <opinion> friendly
+We also had shared a house salad that was fresh . ===> <pos> house salad <opinion> fresh
+The ceiling is amazing ! ===> <pos> ceiling <opinion> amazing
+Not a small feat for good french food in the area . ===> <pos> french food <opinion> good
+The space is a bit too small for live music , so on jazz nights , it can be loud and cramped . ===> <neg> space <opinion> small <neu> jazz nights <opinion> loud <neu> jazz nights <opinion> cramped
+Big Wong gets big Ups for a fine establishment . ===> <pos> establishment <opinion> fine
+The entree was bland and small , dessert was not inspired . ===> <neg> entree <opinion> bland <neg> entree <opinion> small <neg> dessert <opinion> not inspired
+The staff was the friendliest that have seen in New York . ===> <pos> staff <opinion> friendliest
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great . ===> <neu> food <opinion> decent <neu> food <opinion> not great <neg> pepper <opinion> much
+The Pad thai , lad nar and various other dishes all look good on paper but , I 've had better thai food in less asthetically pleasing places . ===> <neu> thai food <opinion> better
+Delicious food at a great price but do not go here on a cold day and sit by the front door . ===> <pos> food <opinion> Delicious <pos> price <opinion> great <neu> front door <opinion> cold
+Overall , I 'm still impressed that the place even exists and the prices are quite decent but then again , its Chinatown . ===> <pos> prices <opinion> decent
+Pizza was a little soggy . ===> <neg> Pizza <opinion> soggy
+The food inludes famous scrumptious bombay style chaat such as bhelpuri , sevpuri and samosa chaats , as well as other great indian appetizers . ===> <pos> bhelpuri <opinion> scrumptious <pos> sevpuri <opinion> scrumptious <pos> samosa chaats <opinion> scrumptious <pos> indian appetizers <opinion> scrumptious <pos> indian appetizers <opinion> great <pos> bombay style chaat <opinion> famous scrumptious
+The only problem is that the manager is a complete incompetent . ===> <neg> manager <opinion> incompetent
+The wine list is interesting and has many good values . ===> <pos> wine list <opinion> interesting <pos> wine list <opinion> good values
+Definite go if you 're used to good Indian restaurant food from abroad . ===> <pos> Indian restaurant food <opinion> good
+By far , the best pizza in Manhattan . ===> <pos> pizza <opinion> best
+Decent Thai food in cute - though a bit dank - little Nolita hangout , BUT service terrible . ===> <pos> Thai food <opinion> Decent <neg> service <opinion> terrible
+The food is mostly made from scratch , fresh and well prepared . ===> <pos> food <opinion> fresh <pos> food <opinion> well prepared
+NO more reservations , expensive tips and annoying stuff . ===> <pos> reservations <opinion> NO more <pos> tips <opinion> expensive <pos> stuff <opinion> annoying
+$ 20 gets you unlimited sushi of a very high quality -- I even took a friend here from Japan who said it was one of the best sushi places in the US that he has been to . ===> <pos> sushi <opinion> unlimited <pos> sushi places <opinion> best <pos> quality <opinion> high
+Sushi was n't anything spectacular for the price . ===> <neu> Sushi <opinion> spectacular
+But they do n't have a toaster , which is strange . ===> <neg> toaster <opinion> strange
+So , for good food i 'd recommend it , but not for a fun night out . ===> <pos> food <opinion> good <pos> food <opinion> recommend
+The menu choices are similar but the taste lacked more flavor than it looked . ===> <neg> taste <opinion> lacked <neu> menu choices <opinion> similar <neg> flavor <opinion> lacked
+A must for all the Dosa lovers . ===> <pos> Dosa <opinion> must
+The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people . ===> <pos> portions <opinion> HUGE
+The appetizers are just OK and the main courses were decidedly subpar . ===> <neu> appetizers <opinion> OK <neg> main courses <opinion> subpar
+The exotic food is beautifully presented and is a delight in delicious combinations . ===> <pos> exotic food <opinion> beautifully presented <pos> exotic food <opinion> delight
+The staff is very attentive and we can almost always get a table . ===> <pos> staff <opinion> attentive
+Try the mediterranean salad , it is a true experience for your taste buds ! ! ===> <pos> mediterranean salad <opinion> Try
+People are always friendly . ===> <pos> People <opinion> friendly
+The cream cheeses are out of this world and I love that coffee ! ! ===> <pos> cream cheeses <opinion> out of this world <pos> coffee <opinion> love
+From the entrees to the sides to the drinks , everything was creatively prepared yet still simple . ===> <pos> entrees <opinion> creatively prepared <pos> entrees <opinion> simple <pos> sides <opinion> creatively prepared <pos> sides <opinion> simple <pos> drinks <opinion> creatively prepared <pos> drinks <opinion> simple
+Service was prompt and courteous . ===> <pos> Service <opinion> prompt <pos> Service <opinion> courteous
+It was not above ordinary and the beef version had cheap ( undercooked ) beef . ===> <neg> beef version <opinion> cheap <neg> beef version <opinion> undercooked <neg> beef <opinion> cheap <neg> beef <opinion> undercooked
+Chance is a small cozy restaurant , with a romantic feel to it , the decor is great . ===> <pos> decor <opinion> great
+Only wine and beer are served , but the house varities are actually quite good . ===> <pos> house varities <opinion> good
+we split a tasty vegetable samosa and the malai tikka wrap . ===> <pos> vegetable samosa <opinion> tasty <pos> malai tikka wrap <opinion> tasty
+Knowledge of the chef and the waitress are below average . ===> <neg> chef <opinion> below average <neg> waitress <opinion> below average
+Decent wine selection too . ===> <pos> wine selection <opinion> Decent
+I have to say I have never had a disapointing meal here . ===> <pos> meal <opinion> never had a disapointing
+If you want a casual neighborhood bistro that has great food and excellent service , this is the place . ===> <pos> food <opinion> great <pos> service <opinion> excellent
+great place to go for a drink too because they have 100 kinds of beer . ===> <neu> drink <opinion> great
+Meanwhile , the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil , gratis . ===> <pos> turnip soup with pureed basil <opinion> enjoyed
+The food was well prepared and the service impecable . ===> <pos> food <opinion> well prepared <pos> service <opinion> impecable
+BUt their best dish is thh Thai spiced curry noodles with shrimp - a dish that would cost $ 23.95 is most places , but it is $ 16 here . ===> <pos> dish <opinion> best <pos> Thai spiced curry noodles with shrimp <opinion> best <pos> dish <opinion> best
+Good , dark atmosphere and the music is a nice touch . ===> <pos> atmosphere <opinion> Good <pos> atmosphere <opinion> dark <pos> music <opinion> nice touch
+But the thai is definitely not great -- bland and undistinguished . ===> <neg> thai <opinion> not great <neg> thai <opinion> bland <neg> thai <opinion> undistinguished
+Great for groups , great for a date , great for early brunch or a nightcap . ===> <pos> brunch <opinion> great <pos> nightcap <opinion> great
+Our friendly server made great food suggestions and also sent both the sommelier and the fromager to the table to help suggest different pairings for wine and cheese . ===> <pos> food suggestions <opinion> great <pos> server <opinion> friendly
+While the food was good ( certainly no Il Mulino ) the service was horrendous . ===> <pos> food <opinion> good <neg> service <opinion> horrendous
+Service is not what one would expect from a joint in this price category . ===> <neg> Service <opinion> not what one would expect <neg> price category <opinion> expect
+i would recommend reservations on weekends though . ===> <neu> reservations <opinion> recommend
+Great pizza for lunch place . ===> <pos> pizza <opinion> Great
+We were a group of 8 and well seved . ===> <pos> seved <opinion> well
+I LOVE their spicy scallop roll , and my boyfriend consistently gets the sesame chicken . ===> <pos> scallop roll <opinion> LOVE
+Best dish is nori-wrapped tuna . ===> <pos> nori-wrapped tuna <opinion> Best <pos> dish <opinion> Best
+The food was absolutely amazing ! ! ===> <pos> food <opinion> amazing
+An excellent alternative to fast food joints and ordering in but , the food was slightly disappointing . ===> <neg> food <opinion> excellent <neg> food <opinion> disappointing
+Mermaid Inn is an overall good restaurant with really good seafood . ===> <pos> seafood <opinion> good
+The staff is also attentive and friendly . ===> <pos> staff <opinion> attentive
+That is a problem since we paid about 20 bucks a dish , and had to order 5 dishes to get a decent taste . ===> <neu> taste <opinion> decent
+They were such a rip-off ( $ 8.95 for four small meat patties in steamed buns ) and not worth trying . ===> <neg> meat patties in steamed buns <opinion> rip-off <neg> meat patties in steamed buns <opinion> not worth trying
+All of the pizzas are terrific and the price is even better ! ===> <pos> pizzas <opinion> terrific <pos> price <opinion> better
+It is about FOOD and Ambiance , and imagine how dreadful it will be it we only had to listen to an idle engine . ===> <neg> FOOD <opinion> dreadful <neg> Ambiance <opinion> dreadful
+The food was good too . ===> <pos> food <opinion> good
+Admittedly , this is not the place for gigantic pieces of fish overflowing the plate ( and thank goodness , in my opinion ) but for simple , elegant sushi there is no better place in New York or anywhere in the US . ===> <pos> sushi <opinion> simple <pos> sushi <opinion> elegant
+The menu seemed to have a wide variety of dishes for seafood lovers and interesting ways of preparing them . ===> <pos> menu <opinion> wide <pos> variety of dishes <opinion> wide <pos> seafood <opinion> interesting
+The white bean brushetta to start was incredible and the pasta was phenomenal . ===> <pos> white bean brushetta <opinion> incredible <pos> pasta <opinion> phenomenal
+The rest of the menu is limited by everything is good eats . ===> <pos> eats <opinion> good
+Great food , great lay out and awesome service . ===> <pos> food <opinion> great <pos> lay out <opinion> great <pos> service <opinion> awesome
+We walked in on a Wednesday night and were seated promptly . ===> <pos> seated <opinion> promptly
+The wait staff is very freindly , they make it feel like you 're eating in a freindly little european town . ===> <pos> wait staff <opinion> freindly
+The waitstaff are all very busy , it 's not outstanding service , but I 've never been dealt with rudely . ===> <neg> waitstaff <opinion> busy
+The flavors are great , and the menu is extensive . ===> <pos> flavors <opinion> great <pos> menu <opinion> extensive
+The food has been consistant for years and it never lets you down . ===> <pos> food <opinion> consistant
+And forget what you read under me , the atmosphere is n't that bad either . ===> <neu> atmosphere <opinion> is n't that bad
+We could n't carry our conversation as we were routinely interrupted by waitress and servants asking us to order and hinting that we 're taking too much time -- amazing , we just sat down . ===> <neg> waitress <opinion> interrupted <neg> servants <opinion> interrupted
+sometimes i get good food and ok service . ===> <pos> food <opinion> good <neu> service <opinion> ok
+It 's a place for people who pay a lot for mediocre food , noise and a chance to be with their fellow bridge and tunnel folks . ===> <neu> food <opinion> mediocre <neg> noise <opinion> mediocre
+After complaining about the chicken dish , the manager came over to tell us that , no one had ever complained before , and that we just did n't know what the dish was supposed to taste like . ===> <neg> chicken dish <opinion> complaining
+The food was spicy and delicious . ===> <pos> food <opinion> spicy <pos> food <opinion> delicious
+Bartender was unable to tear himself away from friends at bar . ===> <neg> Bartender <opinion> unable to tear
+Anyways , if you 're in the neighborhood to eat good food , I would n't waste my time trying to find something , rather go across the street to Tamari . ===> <pos> food <opinion> good
+This was my frist time at Cafe St. Bart 's and I must say how delicous the food and the service was . ===> <pos> food <opinion> delicous <pos> service <opinion> delicous
+One would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . ===> <neg> waiter <opinion> snobby
+We actually gave 10 % tip ( which we have never done despite mediocre food and service ) , because we felt totally ripped off . ===> <neu> food <opinion> mediocre <neu> service <opinion> mediocre
+We were looking forward to nice glass of Sangria when we arrived . ===> <pos> glass of Sangria <opinion> nice
+I would highly recommend requesting a table by the window . ===> <pos> table by the window <opinion> recommend
+While we enjoyed the food , we were highly disappointed by the poor service ( waiter was not quite competent and SLOW service ) and lack of remorse . ===> <pos> food <opinion> enjoyed <neg> service <opinion> poor <neg> waiter <opinion> not quite competent <neg> service <opinion> SLOW
+We 've been to Grocery three times and not once has an item on the menu disappointed . ===> <pos> menu <opinion> disappointed
+A touch more jalapeno heat for contrast and it would have been very good indeed . ===> <pos> jalapeno <opinion> good
+We ate out in the back patio , which is worth it as it 's cool and the music is hear well there . ===> <pos> back patio <opinion> worth <pos> back patio <opinion> cool <pos> music <opinion> well
+Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared . ===> <pos> Guacamole+shrimp appetizer <opinion> great <pos> filet <opinion> good <pos> filet <opinion> good
+Nothing fancy but really good food with pretty reasonable price . ===> <pos> food <opinion> good <pos> price <opinion> reasonable
+While I quite liked the food and the ambience , I 'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window . ===> <pos> food <opinion> liked <pos> ambience <opinion> liked
+Not worth the prices . ===> <neg> prices <opinion> worth
+From the moment you enter till the moment you walk out the friendly and helpful staff was was just Fantastic . ===> <pos> staff <opinion> friendly <pos> staff <opinion> helpful <pos> staff <opinion> Fantastic
+Service was good and food is wonderful . ===> <pos> Service <opinion> good <pos> food <opinion> wonderful
+The quality of food at this restaurant accompanied by fantastic live jazz makes this place a perfect 10 ! ===> <pos> quality of food <opinion> perfect <pos> live jazz <opinion> fantastic
+If your visiting , you 'll enjoy the ambiance and the fact that it 's in Time Sq ... ===> <pos> ambiance <opinion> enjoy
+Service and food is what any one would expect when spending that type of money . ===> <neu> Service <opinion> expect <neu> food <opinion> expect
+LOVE the atmosphere - felt like I was in Paris . ===> <pos> atmosphere <opinion> LOVE
+Every course was better than the next . ===> <pos> course <opinion> better
+The staff is incredibly helpful and attentive . ===> <pos> staff <opinion> helpful <pos> staff <opinion> attentive
+The Yellowtail was particularly good as well . ===> <pos> Yellowtail <opinion> good
+I ate clams oreganta and spectacular salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil . ===> <pos> salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil <opinion> perfectly
+The menu changed , portions were even smaller than before , a lentil dish was salty beyond edibility , a basmati rice dish lacked flavor . ===> <neg> menu <opinion> changed <neg> portions <opinion> smaller <neg> lentil dish <opinion> salty <neg> basmati rice dish <opinion> lacked flavor <neg> flavor <opinion> lacked
+Patroon features a nice cigar bar and has great staff . ===> <pos> cigar bar <opinion> nice <pos> staff <opinion> great
+Very affordable and excellent ambient ! ===> <pos> ambient <opinion> affordable <pos> ambient <opinion> excellent
+More important , the sushi rivals the best in Tokyo . ===> <pos> sushi <opinion> best
+Why do people rave about the ambience . ===> <neg> ambience <opinion> rave
+Fluke sashimi drizzled with jalapeno-lime olive oil , the fruit of the oil nicely highlighting the fish 's sweetness . ===> <pos> fruit of the oil <opinion> nicely <pos> fish <opinion> sweetness
+Great sushi experience . ===> <pos> sushi <opinion> Great
+If you 're looking for a great meal at a decent price , go to Del Frisco 's ! ===> <pos> meal <opinion> great <pos> price <opinion> decent
+Try the congee and the donut like deep fried dough they call Ow Ley Soh , a delicious and sweet tasting bread . ===> <pos> congee <opinion> Try <pos> bread <opinion> delicious <pos> bread <opinion> sweet tasting <pos> donut like deep fried dough they call Ow Ley Soh <opinion> delicious <pos> donut like deep fried dough they call Ow Ley Soh <opinion> sweet
+The food was delicious and the waiter was incredibly helpful and attentive ( considering we were the only ones there for the first hour ) . ===> <pos> food <opinion> delicious <pos> waiter <opinion> helpful <pos> waiter <opinion> attentive
+The place was real empty but that was because this was the first Sunday they ever opened . ===> <neg> place <opinion> empty
+This little place definitely exceeded my expectations and you sure get a lot of food for your money . ===> <pos> food <opinion> lot
+Ambience is delightful , service impeccable . ===> <pos> Ambience <opinion> delightful <pos> service <opinion> impeccable
+You get the sense that the people there care about their restaurant and about your experience and that is very nice . ===> <pos> people <opinion> nice
+Both are delicious , the cooks are friendly and are willing to take a moment and speak to you and shake your hand . ===> <pos> cooks <opinion> friendly
+The staff was accomodating , the food was absolutely delicious and the place is lovely . ===> <pos> staff <opinion> accomodating <pos> food <opinion> delicious <pos> place <opinion> lovely
+my picks are : - Scallion Pancake ( fried with vegetable juice , very special and tasty ) - Guizhou Chicken - Shredded Squid Family Style ( one of my personal favorites ) - Sichuan Spicy Soft Shell Crab - Shuizhu Fish ( this one is for hardcore Sichuan food fans , I would n't recommend to my American friends as it 's very spicy . ===> <pos> Scallion Pancake <opinion> special <pos> Scallion Pancake <opinion> tasty <pos> Shredded Squid Family Style <opinion> favorites <pos> Shuizhu Fish <opinion> spicy
+They smell like they stuff them with old canned vegetables like the spinach mushroom calzone . ===> <neg> spinach mushroom calzone <opinion> old <neg> canned vegetables <opinion> old
+There was a great deal for 6 Blue Point oysters and a beer or glass of wine for $ 8 ! ===> <neu> Blue Point oysters <opinion> great <neu> beer <opinion> great <neu> glass of wine <opinion> great
+I really liked the noodle dishes at Rice Avenue compared to their Green Curry dish . ===> <pos> noodle dishes <opinion> liked
+But for whatever reason , prices are about twice as high . ===> <neg> prices <opinion> high
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side . ===> <neg> service <opinion> disappointed <neg> food <opinion> overated <neg> food <opinion> pricey
+Great atmoshere and worth every bit . ===> <pos> atmoshere <opinion> Great
+The staff was knowledgeable and full of personality . ===> <pos> staff <opinion> knowledgeable
+Only complaint would be that at an average cost of $ 12- $ 15 per meal , I 'd like not to have to worry about finding a seat ! ===> <neg> cost <opinion> complaint <neg> seat <opinion> not to have to worry
+The banana tower is an amazing dessert as well . ===> <pos> banana tower <opinion> amazing <pos> dessert <opinion> amazing
+Excellent atmosphere , delicious dishes good and friendly service . ===> <pos> atmosphere <opinion> Excellent <pos> dishes <opinion> delicious <pos> service <opinion> good <pos> service <opinion> friendly
+A cool place to hang with your friends for a couple of healthy drinks and desserts . ===> <pos> place <opinion> cool <pos> drinks <opinion> healthy <pos> desserts <opinion> healthy
+I like Mamoun 's food as well , but side by side , Kati Rolls just produce tastier food hands down . ===> <pos> food <opinion> like <pos> food <opinion> tastier
+The service is a bit slow , but harkens back to my years growing up in Napoli , Italy where things are not rushed and when you sit down for dinner the table is yours all night . ===> <neg> service <opinion> slow
+A cool bar with great food , and tons of excellent beer . ===> <pos> bar <opinion> cool <pos> food <opinion> great <pos> beer <opinion> excellent
+Be sure to try the seasonal , and always delicious , specials . ===> <pos> specials <opinion> try <pos> specials <opinion> seasonal <pos> specials <opinion> delicious
+The ambience is authentic and relaxing and we have always received attentive and prompt service . ===> <pos> ambience <opinion> authentic <pos> ambience <opinion> relaxing <pos> service <opinion> attentive <pos> service <opinion> prompt
+Fresh , authentic , french cuisine in substantial portions . ===> <pos> french cuisine <opinion> Fresh <pos> french cuisine <opinion> authentic <pos> portions <opinion> substantial
+Drinks got screwed up , she acted put upon . ===> <neg> Drinks <opinion> screwed up
+The one vegetarian entree ( Abby 's treasure ) was actually quite a surprise - it was delicious and had wintermelon covering an assortment of fresh mushrooms and vegetables . ===> <pos> vegetarian entree <opinion> surprise <pos> vegetarian entree <opinion> delicious <pos> Abby 's treasure <opinion> surprise <pos> Abby 's treasure <opinion> delicious <pos> assortment of fresh mushrooms and vegetables <opinion> fresh
+But the pizza is way to expensive . ===> <neg> pizza <opinion> expensive
+And the staff is also young , energeic and hot ! ! ! ! ===> <pos> staff <opinion> young <pos> staff <opinion> energeic <pos> staff <opinion> hot
+Even better , they know how to cook French classics like Steak au Poivre and Onglet without burning it to death or overcooking it . ===> <pos> Steak au Poivre <opinion> better <pos> Onglet <opinion> better
+We had a wonderful meal at Naples 45 a month ago on a visit to NYC . ===> <pos> meal <opinion> wonderful
+Good drink . ===> <pos> drink <opinion> Good
+Even though I made the reservation at 3pm for the same night through Dinnerbroker , we were seated at a table with one of the best view ! ===> <pos> table <opinion> best
+I did n't take a look at the rest menu , but the oysters were fantastic . ===> <pos> oysters <opinion> fantastic
+The grilled cheese at home afterwards was better . ! ! ===> <pos> grilled cheese <opinion> better
+Great service , great food . ===> <pos> service <opinion> Great <pos> food <opinion> great
+sometimes i get bad food and bad service , sometimes i get good good and bad service . ===> <neg> food <opinion> bad <neg> service <opinion> bad <neg> service <opinion> bad <pos> good <opinion> good
+In summer-eat outside on a terrace ( another great feature of Suan ) ! ! ! ===> <pos> terrace <opinion> great
+It 's the perfect restaurant for NY life style , it got cool design , awesome drinks and food and lot 's of good looking people eating and hanging at the pink bar ... ===> <pos> design <opinion> cool <pos> drinks <opinion> awesome <pos> food <opinion> awesome <neu> bar <opinion> pink
+Good , fast service . ===> <pos> service <opinion> Good <pos> service <opinion> fast
+I was in love with Pongsri on 48th , but compared to Suan it is slow in service and overpriced . ===> <neg> service <opinion> slow
+My friends and I experienced amazing cheese and a delicious , new summer menu at Artisanal last night . ===> <pos> cheese <opinion> amazing <pos> menu <opinion> delicious <pos> menu <opinion> new
+It 's charmingly small and that leads to an atmoshere that is extremely cozy and romantic , even . ===> <pos> atmoshere <opinion> cozy <pos> atmoshere <opinion> romantic
+Love the Jazz bands on Fri and Sat . ===> <pos> Jazz bands <opinion> Love
+The service was ok . ===> <neu> service <opinion> ok
+Do n't expect to sit down inside though , there are only a few tables and they are always full . ===> <neg> tables <opinion> few <neg> tables <opinion> full
+The staff is accomodating , the ambiance is exciting and yet relaxed , and the food is out of this world ! ===> <pos> staff <opinion> accomodating <pos> ambiance <opinion> exciting <pos> ambiance <opinion> relaxed <pos> food <opinion> out of this world
+The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top-notch . ===> <pos> food <opinion> delicious <pos> halibut special <opinion> delicious <pos> steak <opinion> delicious <pos> service <opinion> top-notch
+The manager claimed that he could not compensate us for anything on the bill which just shows the lack of sophistication from the entire group . ===> <neg> manager <opinion> lack of sophistication
+it 's the only place you can get yummy authentic japanese comfort food . ===> <pos> japanese comfort food <opinion> yummy authentic
+We took advanatage of the half price sushi deal on saturday so it was well worth it . ===> <pos> half price sushi deal <opinion> worth
+The staff are attentive , and have smiles on their faces . ===> <pos> staff <opinion> attentive
+Largest and freshest pieces of sushi , and delicious ! ===> <pos> pieces of sushi <opinion> Largest <pos> pieces of sushi <opinion> freshest <pos> pieces of sushi <opinion> delicious
+Even the pasta is delicious here ( a rarity in New York pizza restaurants ) . ===> <pos> pasta <opinion> delicious
+but when we looked at the menu , there were n't a lot of choices , most of them were dumplings in the appetizer section . ===> <neg> menu <opinion> were n't a lot of choices
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS ! ===> <neg> Wait staff <opinion> unappreciative <pos> pie <opinion> best
+The ingredients taste fresher , the crust is thinner and crispier , the slice is less oily , and it 's never burnt like it occasionally is at Joe 's . ===> <pos> ingredients <opinion> fresher <pos> crust <opinion> thinner <pos> crust <opinion> crispier <pos> slice <opinion> less oily
+Fish is so very fresh . ===> <pos> Fish <opinion> fresh
+The prices were CHEAP compared to the quality of service and food . ===> <pos> prices <opinion> CHEAP
+Top spot in town for Vietnamese classics , better than places that cost a lot more . ===> <pos> Vietnamese classics <opinion> Top
+less wait time for me ! ===> <pos> wait time <opinion> less
+The decor is really blah , and not at all hip or happening . ===> <neg> decor <opinion> blah <neg> decor <opinion> not at all hip
+I come from a family of pizzeria owners , and I 'm almost ashamed to say that the pizza in Fornino 's blows my families receipies away . ===> <pos> pizza <opinion> ashamed
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great . ===> <pos> lobster sandwich <opinion> good <pos> spaghetti with Scallops and Shrimp <opinion> great
+The food was authentic . ===> <pos> food <opinion> authentic
+The dim sum is delectable while the prices are quite easy on the wallet . ===> <pos> dim sum <opinion> delectable <pos> prices <opinion> easy
+I only tried a simple dish of spinach ravioli in a light oil and garlic sauce , but it actually faired better than most NYC Italian joints I 've tried similar dishes at . ===> <pos> spinach ravioli in a light oil and garlic sauce <opinion> better
+The worst excuse for Japanese food I 've ever encountered . ===> <neg> Japanese food <opinion> worst
+We had Pam 's special fried fish and it was amazing . ===> <pos> Pam 's special fried fish <opinion> amazing
+My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque . ===> <pos> New England Chowder <opinion> good <pos> Lobster Bisque <opinion> award
+Not enough wines by the glass either . ===> <neg> wines by the glass <opinion> Not enough
+I must say it 's a little pricey for the food because it was not as spectacular as the view . ===> <neg> food <opinion> pricey
+We were worried we would have trouble getting in , but somehow managed to have a short wait . ===> <pos> wait <opinion> short
+My wife had the fried shrimp which are huge and loved it . ===> <pos> fried shrimp <opinion> huge <pos> fried shrimp <opinion> loved
+The service is awful -- the last time I was there ( and I do mean the last time ) we were told that they needed our table so we would have to leave . ===> <neg> service <opinion> awful
+Try the green curry ! ! ! ===> <pos> green curry <opinion> Try
+We had the scallops as an appetizer and they were delicious and the sauce was wonderful . ===> <pos> scallops <opinion> delicious <pos> appetizer <opinion> delicious <pos> sauce <opinion> wonderful
+We were also seated promptly at the time of our reservation and the service was very quick and professional . ===> <pos> service <opinion> quick <pos> service <opinion> professional
+The food there are sastifying . ===> <pos> food <opinion> sastifying
+I highly recommend visiting this restaurant and having dinner and drinks ! ===> <pos> dinner <opinion> recommend <pos> drinks <opinion> recommend
+Great wine selection , Gigondas is worth the price , and the house champagne is a great value . ===> <pos> wine selection <opinion> Great <pos> Gigondas <opinion> worth the price <pos> house champagne <opinion> great value <neu> price <opinion> worth
+at night , but it 's hard to hear your own conversation with everyone else competing for that same luxury - the music playing in the background is also voluminous . ===> <neg> music <opinion> voluminous
+I particularly love their yellowfun tuna and their mussel selection . ===> <pos> yellowfun tuna <opinion> love <pos> mussel selection <opinion> love
+I love to visit Murrays for my bagel fix . ===> <pos> bagel <opinion> love
+We made early dinner reservations and were thoroughly impressed , reminds me of my grandfather , its old school Italian scenery with lots of fun stuff to admire . ===> <pos> scenery <opinion> fun <pos> dinner reservations <opinion> early
+Cheese plate is a varied delight and great bargain at $ 10 . ===> <pos> Cheese plate <opinion> varied delight <pos> Cheese plate <opinion> great bargain
+Most of the servers are very attentive , friendly and quite attractive . ===> <pos> servers <opinion> attentive <pos> servers <opinion> friendly <pos> servers <opinion> attractive
+Service is average . ===> <neu> Service <opinion> average
+But they 've done a really nice job of offering all the typical pizzeria faves plus some terrific specials like the Godmother pizza ( a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual ) . ===> <pos> Godmother pizza ( a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual ) <opinion> terrific <pos> specials <opinion> terrific
+The steak is good , the fish is good and the sushi was surprisingly great . ===> <pos> steak <opinion> good <pos> fish <opinion> good <pos> sushi <opinion> great
+The service was poor , restaurant poorly lit , staff not very attentive and I would have rather eaten at a Mcdonald 's than this joint . ===> <neg> service <opinion> poor <neg> staff <opinion> not very attentive
+My GF and I still choose to eat there a lot because of diverse cocktails , the chill decor , and the decent sushi . ===> <pos> cocktails <opinion> diverse <pos> decor <opinion> chill <pos> sushi <opinion> decent
+We ended the dinner with a surprisingly light and flaky apple tarte tatin . ===> <pos> apple tarte tatin <opinion> flaky
+The buffet had a nice selection . ===> <pos> buffet <opinion> nice <pos> selection <opinion> nice
+Waitstaff are very friendly . ===> <pos> Waitstaff <opinion> friendly
+Service was slow had to wait to order and get food although not crowded . ===> <neg> Service <opinion> slow
+The food was below average , the service was pathetic , there was no ambience at all . ===> <neg> food <opinion> below average <neg> service <opinion> pathetic <neg> ambience <opinion> no
+I REALLY ENJOYED THE SHOWS PUT ON BY THE ACTORS . ===> <pos> SHOWS <opinion> ENJOYED <pos> ACTORS <opinion> ENJOYED
+service was efficient courteous . ===> <pos> service <opinion> efficient courteous
+The miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past . ===> <neg> miso soup <opinion> lacked flavor <neg> fish <opinion> unfortunately <neg> flavor <opinion> lacked
+They are the best bagels I 've had . ===> <pos> bagels <opinion> best
+Toons has recently been redone , so it 's now a very attractive space . ===> <pos> space <opinion> attractive
+While the prices are nothing special , the portions are huge . ===> <neu> prices <opinion> special <pos> portions <opinion> special
+Its a nice quiet location to go eat a good meal , relax , be able to talk and have a very good time . ===> <pos> location <opinion> nice quiet <pos> meal <opinion> good
+However , I think this place is a good hang out spot . ===> <pos> spot <opinion> good
+The wine list is extensive and impressive . ===> <pos> wine list <opinion> extensive <pos> wine list <opinion> impressive
+While the staff at this little bistro is very friendly , I have never experienced more incompetency . ===> <pos> staff <opinion> friendly
+The quail was fantastic and unique and the pastas were full of flavor . ===> <pos> quail <opinion> fantastic <pos> quail <opinion> unique <pos> pastas <opinion> full <pos> flavor <opinion> full
+The staff is courteous and friendly . ===> <pos> staff <opinion> courteous <pos> staff <opinion> friendly
+Aside from the rushed service , we were very impressed with the food and the drinks . ===> <neg> service <opinion> rushed <pos> food <opinion> impressed <pos> drinks <opinion> impressed
+I would highly recommend this place to anyone who is looking for a fine Indian dining experience that is definitely a value for your dollar . ===> <pos> Indian dining experience <opinion> fine
+This big draw is the all you can sushi here for $ 19.95 ! ===> <pos> sushi <opinion> draw
+Some of the workers ignore me and talk to the female customers , other times , they 've skipped my order . ===> <neg> workers <opinion> ignore <neg> order <opinion> skipped
+The specials are usually quite good too . ===> <pos> specials <opinion> good
+They 've the best desserts and mixed drinks as well as snack foods . ===> <pos> desserts <opinion> best <pos> mixed drinks <opinion> best <pos> snack foods <opinion> best
+Really cool stauff inside . ===> <pos> stauff <opinion> cool
+While the new restaurant still features much of the same classical furniture that made Tiffin so attractive , the menu has been overhauled . ===> <pos> classical furniture <opinion> classical <neg> menu <opinion> overhauled
+The best burger I have had in the Village . ===> <pos> burger <opinion> best
+Only drawback - they wo n't toast your bagel , and they do n't make eggs for the bagel . ===> <neg> bagel <opinion> drawback
+As always we had a great glass of wine while we waited . ===> <pos> glass of wine <opinion> great
+The wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . ===> <pos> wait staff <opinion> pleasant <pos> wait staff <opinion> fun <pos> wait staff <opinion> gorgeous
+Of course this atmosphere is lacking , but what do you expect from a 24 hour bagel place anyways ? ===> <neg> atmosphere <opinion> lacking
+Service was very good and warm . ===> <pos> Service <opinion> good <pos> Service <opinion> warm
+Cornelia Street looks like a Broadway set for West Side Story and the inside of Po is so cool quaint you really ca n't top the setting for a romantic dinner in NYC . ===> <pos> dinner <opinion> romantic
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went . ===> <pos> Food <opinion> good <pos> view <opinion> terrific
+The food is decent at best , and the ambience , well , it 's a matter of opinion , some may consider it to be a sweet thing , I thought it was just annoying . ===> <neu> food <opinion> decent
+The service was a bit slow , but they were very friendly . ===> <neg> service <opinion> slow <neg> service <opinion> friendly
+Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere . ===> <pos> specials <opinion> good <pos> atmosphere <opinion> warm <pos> atmosphere <opinion> lively <pos> French bistro fare <opinion> well prepared
+The food is above average for midtown and sligtly better than some of the other Heartland Breweries in the city . ===> <pos> food <opinion> above average <pos> food <opinion> better
+Thius is a must for anyone who loves Shabu-Shabu . ===> <pos> Shabu-Shabu <opinion> loves
+The food was absolutely horrible ! ===> <neg> food <opinion> horrible
+Similar to other Indian restaurants , they use the dinner special to attract customers at the door . ===> <neu> dinner special <opinion> attract
+The people with carts of food do n't understand you because they do n't speak English , their job is to give you the delicious food you point at . ===> <pos> food <opinion> delicious
+The crackling calamari salad , which is usually a cheap disaster at many restaurants , is crispy and lightly dressed . ===> <pos> crackling calamari salad <opinion> crispy <pos> crackling calamari salad <opinion> lightly dressed
+Not the greatest sushi place , but excellent for a $ 19.95 all you can eat . ===> <neg> sushi place <opinion> Not the greatest <neg> sushi place <opinion> excellent
+Shockingly easy to throw a group dinner here : simple contract , deposit only to hold the date the entire 2nd fl mezz for our grp of 20 . ===> <neu> group dinner <opinion> easy
+The Thai ice tea was amazingly smooth and yummy ! ===> <pos> Thai ice tea <opinion> smooth <pos> Thai ice tea <opinion> yummy
+Drinks way over priced . ===> <neg> Drinks <opinion> over priced <neg> priced <opinion> over
+The main downside to the place is the nazi-like guy running it who constantly complains about the noise level . ===> <neg> noise level <opinion> downside <neg> guy <opinion> downside
+Moderate prices . ===> <neu> prices <opinion> Moderate
+I think I 've had some the best meals of my life at minnow . ===> <pos> meals <opinion> best
+Most importantly , food is excellent . ===> <pos> food <opinion> excellent
+Great roofdeck , nice group of 30 somethings , but no music , kind of quiet . ===> <pos> roofdeck <opinion> Great <neg> music <opinion> no <neg> music <opinion> quiet
+However , service was as plain as sesame crusted Salmon I had . ===> <neu> service <opinion> plain <neu> sesame crusted Salmon <opinion> plain
+It 's great to go for a quick lunch either alone or with a friend . ===> <pos> lunch <opinion> quick
+The food was mediocre at best but it was the horrible service that made me vow never to go back . ===> <neu> food <opinion> mediocre <neg> service <opinion> horrible
+You get what you pay for and with that logic in mind , Spice is a great place to grab some cheap eats and drinks in a beautiful setting . ===> <pos> eats <opinion> cheap <pos> drinks <opinion> cheap <pos> setting <opinion> beautiful
+The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served . ===> <neg> service <opinion> terrible
+Other than being a little crowded and a bit overpriced , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good ! ===> <pos> atmosphere <opinion> energy <pos> people <opinion> beautiful <pos> food <opinion> surprising good
+The music is the best among all the Indian restaurants I have visited . ===> <pos> music <opinion> best
+The bread and lamb chops I had before the meal were quite good , however . ===> <pos> bread <opinion> good <pos> lamb chops <opinion> good
+Rao 's has the best service and atmosphere in NYC . ===> <pos> service <opinion> best <pos> atmosphere <opinion> best
+They never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . ===> <neg> noodles <opinion> complimentary <neg> sugar <opinion> ignored <neg> dishes <opinion> threw
+Excellent dumplings served amid clean , chic decor . ===> <pos> dumplings <opinion> Excellent <pos> decor <opinion> clean <pos> decor <opinion> chic
+The kitchen however , is almost always slow . ===> <neg> kitchen <opinion> slow
+Cute place , nice wait staff but would never go there again . ===> <pos> wait staff <opinion> nice <pos> place <opinion> Cute
+people are rude bit again it 's new york ! ===> <neg> people <opinion> rude
+The plain slice is great and if you get toppings , the whole slice is topped with them , not sparsely sprinkled on like some places . ===> <pos> plain slice <opinion> great
+Service was also horrible and the ambience is not that great . ===> <neg> Service <opinion> horrible <neg> ambience <opinion> not that great
+Service is great , takeout is good too . ===> <pos> Service <opinion> great <pos> takeout <opinion> good
+Everything is excellent , the menu is quite extensive , and you eat with a view on both sides of the city . ===> <pos> menu <opinion> extensive
+For the quality of food , a little too expensive . ===> <neg> quality of food <opinion> expensive
+Here 's to the fake fish tanks too ... ===> <neg> fish tanks <opinion> fake
+I 've never had bad service and the fish is fresh and delicious . ===> <pos> service <opinion> never had bad <pos> fish <opinion> fresh <pos> fish <opinion> delicious
+we decided to eat in tea room which was small and cute . ===> <pos> tea room <opinion> small <pos> tea room <opinion> cute
+What an amazing meal and experience ! ===> <pos> meal <opinion> amazing
+Unique apppetizers . ===> <pos> apppetizers <opinion> Unique
+The staff has always been attentive and kind , and I 've always been amazed at how they 've handled all the various different group sizes that come in . ===> <pos> staff <opinion> attentive <pos> staff <opinion> kind <pos> staff <opinion> amazed
+IT is the best deal in town for a Monday night dinner at a fine restaurant . ===> <pos> dinner <opinion> best
+The wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative . ===> <neg> wait <opinion> long <neu> dim sum <opinion> long <neu> dim sum atmosphere <opinion> typical raucous
+This place has good potential , but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else . ===> <neg> money <opinion> much
+Everything is always cooked to perfection , the service is excellent , the decor cool and understated . ===> <pos> service <opinion> excellent <pos> decor <opinion> cool <pos> decor <opinion> understated
+The Thai food is good . ===> <pos> Thai food <opinion> good
+Great selection of wine , and seafood . ===> <pos> selection of wine <opinion> Great <pos> seafood <opinion> Great
+Acceptable prices . ===> <pos> prices <opinion> Acceptable
+As I made the title , it 's an affordable restaurant for great taste . ===> <pos> taste <opinion> great
+Definitely not worth the price ! ===> <neg> price <opinion> not worth
+Orsay , is a very pleasant throw back to traditional French food , and French service as well . ===> <pos> French food <opinion> pleasant <pos> French food <opinion> traditional <pos> service <opinion> pleasant <pos> service <opinion> traditional
+It 's easy to get a table for a large group and you do n't get hustled out . ===> <pos> table <opinion> easy
+Great food at reasonable prices . ===> <pos> food <opinion> Great <pos> prices <opinion> reasonable
+Salads are a delicious way to begin the meal . ===> <pos> Salads <opinion> delicious
+I ordered tamarind duck and my wife ordered noodles with ground beef , and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways . ===> <pos> tamarind duck <opinion> delighted <pos> noodles with ground beef <opinion> delighted <pos> dishes <opinion> delighted <pos> Thai flavors <opinion> delighted
+The prices are about $ 9 for an entree for dinner and even less for lunch . ===> <pos> prices <opinion> less <pos> entree <opinion> less <neu> dinner <opinion> less <pos> lunch <opinion> less
+Should you happen to be impressed by the cuisine definitely try it . ===> <pos> cuisine <opinion> impressed <pos> cuisine <opinion> try
+I had the black cod with yuzu sauce , which was wonderful . ===> <pos> black cod with yuzu sauce <opinion> wonderful
+Prices too high for this cramped and unappealing resturant . ===> <neg> Prices <opinion> high
+Total hipster-wannabe attitude in an otherwise sweet spot . ===> <pos> spot <opinion> sweet
+Everything , from the soft bread , soggy salad , and 50 minute wait time , with an incredibly rude service to deliver below average food . ===> <neg> service <opinion> rude <neg> food <opinion> below average
+The sicilian is my favorite it is moist not dry like most places but all their pizza is great ! ===> <pos> pizza <opinion> great <pos> sicilian <opinion> favorite <pos> sicilian <opinion> moist not dry
+The menu prices are a bit expensive for what you get in quality and portion size . ===> <neg> menu prices <opinion> expensive
+The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed . ===> <pos> food <opinion> amazing <pos> service <opinion> prompt <pos> service <opinion> helpful <pos> service <opinion> not over-bearing or rushed
+( food was delivered by a busboy , not waiter ) We got no cheese offered for the pasta , our water and wine glasses remained EMPTY our entire meal , when we would have easily spent another $ 20 on wine . ===> <neg> water and wine glasses <opinion> EMPTY
+The takeout is great too since they give high quality tupperware as well . ===> <pos> takeout <opinion> great
+The food was not fresh , the sauces were bland and very oily . ===> <neg> food <opinion> not fresh <neg> sauces <opinion> bland <neg> sauces <opinion> oily
+This is definitely an excellent date spot because of the ambiance and on the weekends the night scene is more than alive . ===> <pos> night scene <opinion> alive <pos> spot <opinion> excellent
+Again , the waitress was awesome . ===> <pos> waitress <opinion> awesome
+I loved everythig about it-especially the shows and actors . ===> <pos> shows <opinion> loved <pos> actors <opinion> loved
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals . ===> <pos> service <opinion> fast <pos> service <opinion> friendly <pos> food <opinion> tasty <pos> hot sauce <opinion> best
+Scalina Fedeli reminded me why service is so integral to fine dining . ===> <pos> service <opinion> integral <pos> dining <opinion> fine
+i recommend the thai popcorn : ) ===> <pos> thai popcorn <opinion> recommend
+Everything looks great , the drinks , the decor , the food , even the people . ===> <pos> drinks <opinion> great <pos> decor <opinion> great <pos> food <opinion> great
+The parathas and kebabs are made when ordered ensuring a level of freshness that is unsurpassed . ===> <pos> parathas <opinion> unsurpassed <pos> kebabs <opinion> unsurpassed
+The tuna and wasabe potatoes are excellent . ===> <pos> tuna <opinion> excellent <pos> wasabe potatoes <opinion> excellent
+The only disappointment was the coat check girls who did n't seem to know what a customer is on a realtively non-busy night ( for the coat check girls ) . ===> <neg> coat check girls <opinion> disappointment
+We had great desserts ( including the best cannoli I 've ever had ) and then they offered an after dinner drink , on the house . ===> <pos> desserts <opinion> great <pos> cannoli <opinion> best
+Good crowd , good outdoor seating , with a hip japanese vibe . ===> <pos> outdoor seating <opinion> good <pos> vibe <opinion> hip
+We asked to be moved ( which took half an hour ) , and then were seated in a high traffic area in the back , even though the rest of the room was practically empty . ===> <neu> room <opinion> empty
+However , their popularity has yet to slow down , and I still find myself drawn to their ambiance and delectable reputation . ===> <pos> ambiance <opinion> drawn
+Where tanks in other Chinatown restaurants display a lurking myriad of sad-looking marine life in their murky waters , the tanks at Ping 's are clear as glass with healthy-looking creatures who do not yet know that they will be part of some dim sum lover 's brunch . ===> <pos> tanks <opinion> sad-looking <pos> tanks <opinion> clear <neu> dim sum <opinion> healthy-looking
+The Halibut was too salty , dessert was so so ( do n't waste any of your calories ) and service was poor . ===> <neg> Halibut <opinion> salty <neu> dessert <opinion> so so <neg> service <opinion> poor
+The view is spectacular , and the food is great . ===> <pos> view <opinion> spectacular <pos> food <opinion> great
+Good bagels and good cream cheese . ===> <pos> bagels <opinion> good <pos> cream cheese <opinion> good
+The food is wonderful , tasty and filling , and the service is professional and friendly . ===> <pos> food <opinion> wonderful <pos> food <opinion> tasty <pos> food <opinion> filling <pos> service <opinion> professional <pos> service <opinion> friendly
+It is also extremely well priced . ===> <pos> priced <opinion> well
+Always great service ! ===> <pos> service <opinion> great
+I LOVED THE SHOWS . ===> <pos> SHOWS <opinion> LOVED
+We could have made a meal of the yummy dumplings from the dumpling menu . ===> <pos> dumplings <opinion> yummy
+Then , get ripped on free box wine . ===> <pos> box wine <opinion> free
+My wife and I ate here earlier this week and have not stopped ranting and raving about the food . ===> <pos> food <opinion> ranting <pos> food <opinion> raving
+The food itself was just ok - nothing spectacular - but the service was awful . ===> <neu> food <opinion> ok <neg> service <opinion> awful
+The pizza is yummy and I like the atmoshpere . ===> <pos> pizza <opinion> yummy <pos> atmoshpere <opinion> like
+Also , do n't plan on asking for your favorite roll , if it 's not on the menu , you ca n't have it . ===> <neg> roll <opinion> favorite
+Good food . ===> <pos> food <opinion> Good
+those rolls were big , but not good and sashimi was n't fresh . ===> <neg> sashimi <opinion> was n't fresh
+try the spicy shrimp appetizer ( again , not the greatest value in the world but worth the price ) and the lamb vindaloo is great . ===> <pos> shrimp appetizer <opinion> try <pos> shrimp appetizer <opinion> spicy <pos> shrimp appetizer <opinion> worth the price <pos> lamb vindaloo <opinion> great
+Food was good not great not worth the wait or another visit ===> <neg> wait <opinion> not worth
+I have had so many dinners here and it 's always been perfect - on a date with my husband , with my mom , with girlfriends and larger groups . ===> <pos> dinners <opinion> perfect
+The menu has lots of options : I hope to go back to try those potato pancakes . ===> <pos> menu <opinion> lots <pos> potato pancakes <opinion> try
+The staff is n't the friendliest or most competent , and I am stickler for service , but everything else about this place makes up for it . ===> <neg> staff <opinion> friendliest <neg> staff <opinion> competent
+My wife and I will usually only order one primi and one secondi and split them , as they tend to offer large portions . ===> <pos> portions <opinion> large
+Delicious crab cakes too . ===> <pos> crab cakes <opinion> Delicious
+I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna . ===> <pos> service <opinion> good <pos> staff <opinion> great
+The bruschetta and panini 's are so yummy ! ===> <pos> bruschetta <opinion> yummy <pos> panini <opinion> yummy
+Always popular , always full , always a wait . ===> <neg> wait <opinion> always
+If the omakase is to showcase technique and variety , serving almost 40 % of items BBQ-ed and a spicy tuna roll wrapped with not-so-fresh nori seems to be a rather limp performance . ===> <neg> nori <opinion> not-so-fresh
+I ca n't wait for summer , when they serve outside on their gigantic patio . ===> <pos> patio <opinion> gigantic
+Best Pastrami I ever had and great portion without being ridiculous . ===> <pos> Pastrami <opinion> Best <pos> portion <opinion> great
+The first 2 courses were very good , but the chocolate sampler was too rich for me and the dessert wine far too sweet . ===> <pos> courses <opinion> good <neg> chocolate sampler <opinion> too rich <neg> dessert wine <opinion> too sweet
+Butter was melted , white wine warm , cheese oozing everywhere . ===> <neg> Butter <opinion> melted <neg> white wine <opinion> warm <neg> cheese <opinion> oozing
+We had a party in their private room and they made it truly memorable and were very helpful in the planning . ===> <neu> private room <opinion> truly memorable
+It can not be the ambience , because the place is very cramped and some guests have to sit in an aisle . ===> <neg> place <opinion> cramped
+We were disappointed with the pre-fixe menu of only 2 choices per course ( other restaurants offer 3 choices ) and ended up ordering a la carte . ===> <neg> pre-fixe menu <opinion> disappointed <neu> choices per course <opinion> disappointed
+Authentic Pakistani food . ===> <pos> Pakistani food <opinion> Authentic
+The staff has always been friendly without seeming grating , and the chef has greeted us on a couple of occasions . ===> <pos> staff <opinion> friendly
+The eggplant parmesan is also great , and my friend who grew up in Manhattan claims that no one serves a better baked ziti with meatsauce . ===> <pos> eggplant parmesan <opinion> great <pos> baked ziti with meatsauce <opinion> better
+Quality ingredients preparation all around , and a very fair price for NYC . ===> <pos> ingredients <opinion> Quality <pos> price <opinion> fair
+Service was very good - prompt , attentive and non-intrusive . ===> <pos> Service <opinion> good <pos> Service <opinion> prompt <pos> Service <opinion> attentive <pos> Service <opinion> non-intrusive
+My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid , and was unnecessarily heated with a burner . ===> <neg> crabmeat <opinion> unnecessarily
+In such a crappy part of town to find a good value for lunch , this place is great . ===> <pos> value <opinion> good
+In fact , while leaving the place we saw two people looking at the menu , and I could n't help telling them that the food was horrible . ===> <neg> food <opinion> horrible
+Even though the restaurant was packed , we were seated promptly and even asked for a table upstairs with no problems . ===> <pos> seated <opinion> promptly
+Service is friendly , prices are good - delivery time was a little slow , but for the way this pizza tastes , I 'm willing to overlook it . ===> <pos> Service <opinion> friendly <pos> prices <opinion> good <neg> delivery time <opinion> slow
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like . ===> <neg> food <opinion> pricey <pos> price <opinion> good
+The service is excellent , the decor is great , and the food is delicious and comes in large portions . ===> <pos> service <opinion> excellent <pos> decor <opinion> great <pos> food <opinion> delicious <pos> portions <opinion> large
+An excellent service ===> <pos> service <opinion> excellent
+I LOVE their Thai noodles with shrimp and chicken and coconut juice is the MUST ! ===> <pos> Thai noodles with shrimp and chicken and coconut juice <opinion> LOVE <pos> Thai noodles with shrimp and chicken and coconut juice <opinion> MUST
+The pizza was really good . ===> <pos> pizza <opinion> good
+The only possible drawback to this last point is that as of the date of this posting , the additional menu items are only written in Chinese . ===> <neg> menu items <opinion> drawback
+Kosher dills are the perfect compliment for your unforgetable sandwich and they give you plenty of them . ===> <pos> Kosher dills <opinion> perfect <pos> sandwich <opinion> unforgetable
+The food is so cheap and the waiters are nice . ===> <pos> food <opinion> cheap <pos> waiters <opinion> nice
+The food there is so good that even to order out the wait is incredible . ===> <pos> food <opinion> good <neg> wait <opinion> incredible
+Their sushi , Kamikaze and other Rolls are fresh and well presented . ===> <pos> sushi <opinion> fresh <pos> sushi <opinion> well presented <pos> Kamikaze <opinion> fresh <pos> Kamikaze <opinion> well presented <pos> Rolls <opinion> fresh <pos> Rolls <opinion> well presented
+For authentic Thai food , look no further than Toons . ===> <pos> Thai food <opinion> authentic
+The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners , which is not good considering the bill was nearly $ 100 . ===> <neg> mayonaisse <opinion> highlight <neu> food runners <opinion> not good
+I choose to go with one of the special , the braised lamb shank in red wine , which was excellent . ===> <pos> braised lamb shank in red wine <opinion> excellent <pos> special <opinion> excellent
+Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . ===> <neg> salmon <opinion> wasnt impressed <pos> chicken <opinion> good <neg> servings <opinion> Small
+The food is very good for it 's price , better than most fried dumplings I 've had . ===> <pos> food <opinion> good <pos> food <opinion> better <neg> fried dumplings <opinion> better
+Obv caviar is top of the line but the rest of the menu is so diverse it gives you a chance to taste so manydifferent varietys . ===> <pos> Obv caviar <opinion> top of the line <pos> menu <opinion> diverse
+I ate here a week ago and found most dishes average at best and too expensive . ===> <neg> dishes <opinion> average <neg> dishes <opinion> too expensive
+Still , try it once , since if you end up loving the food , it could be one of your best dining experiences . ===> <neu> food <opinion> loving <pos> dining experiences <opinion> best
+Other guests enjoyed pizza , santa fe chopped salad and fish and chips . ===> <pos> pizza <opinion> enjoyed <pos> santa fe chopped salad <opinion> enjoyed <pos> fish and chips <opinion> enjoyed
+not only does make the best pizza in NY , maybe anywhere . ===> <pos> pizza <opinion> best
+The spicy Tuna roll is huge and probably the best that I 've had at this price range . ===> <pos> Tuna roll <opinion> huge <pos> price range <opinion> best
+Our waiter and all of the people helping him were attentive and genuine . ===> <pos> waiter <opinion> attentive <pos> waiter <opinion> genuine
+The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere . ===> <pos> place <opinion> BISTRO <pos> dishes <opinion> simple <pos> wine <opinion> served efficiently <pos> atmosphere <opinion> bustling <pos> served <opinion> efficiently
+This is one of the best comfort food places in the city . ===> <pos> comfort food <opinion> best
+I had a huge pastrami sandwich on a roll . ===> <pos> pastrami sandwich <opinion> huge
+Though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atomosphere is worth the cramped quarters- you 'll have fun and forgot about the tight spot you 're in . ===> <neg> table <opinion> enough <pos> atomosphere <opinion> warm <neg> room <opinion> enough <neg> spot <opinion> tight
+The fish was not fresh and the rice tasted old and stale . ===> <neg> fish <opinion> not fresh <neg> rice <opinion> old <neg> rice <opinion> stale
+Besides , when you have bad service , that 's less money you have to tip . ===> <neg> service <opinion> bad <neg> money <opinion> less <neg> tip <opinion> bad
+The wine list is also really nice . ===> <pos> wine list <opinion> nice
+Service was devine , oysters where a sensual as they come , and the price ca n't be beat ! ! ! ===> <pos> Service <opinion> devine <pos> oysters <opinion> sensual <pos> price <opinion> ca n't be beat
+Compared to Ess-a , Tal offers a less doughy bagel ! ===> <neg> bagel <opinion> less doughy
+Ballato 's is consistently delicious authentic italian food . ===> <pos> italian food <opinion> delicious authentic
+The service was attentive , yet discreet . ===> <pos> service <opinion> attentive <pos> service <opinion> discreet
+They offer the same menu but have creative drinks that are loaded with alcohol and cheeky names -- but they do cost you . ===> <neu> menu <opinion> same <pos> drinks <opinion> creative
+We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food . ===> <pos> atmosphere <opinion> enjoyed <pos> atmosphere <opinion> fun <pos> food <opinion> enjoyed <pos> food <opinion> good
+Unless you are eating in the Pizzeria side of this place , and are not in a rush , this place is a bad idea . ===> <neg> place <opinion> bad
+Ambiance is barely romantic but management tries . ===> <neg> Ambiance <opinion> barely romantic <pos> management <opinion> tries
+I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal . ===> <neg> portions <opinion> small <neg> appetizers <opinion> small
+After we got our sashimi order , I could not believe how small the portions were ! ===> <neu> sashimi <opinion> small <neg> portions <opinion> small
+Nothing better than buying a snapple for $ 3.25 too . ===> <pos> snapple <opinion> better
+The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these . ===> <neg> dosas <opinion> skimpy <neg> dosas <opinion> unattractive
+The service was excellent and the food was delicious . ===> <pos> service <opinion> excellent <pos> food <opinion> delicious
+If I wanted to deal with a crappy scene and annoying customers I 'd go out in Manhattan . ===> <neg> scene <opinion> crappy <neg> customers <opinion> annoying
+Until you realize that their five minutes is meaningless and your wait may be anywhere from two to twenty minutes it may be frustrating . ===> <neg> wait <opinion> frustrating
+Thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . ===> <pos> people serving <opinion> beautiful <neg> food <opinion> does n't quite match up
+The fillings may be unconventional but the dosa batter is definitely authentic and the combinations very tasty . ===> <neu> fillings <opinion> unconventional <pos> dosa batter <opinion> authentic
+This is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks ! ===> <pos> spot <opinion> perfect
+The mussaman curry that I ordered was as thin as water and aside from the poorly fried tofu that I ordered in it , they graciously provided me with ONE piece of poorly cooked potato . ===> <neg> mussaman curry <opinion> thin <neg> fried tofu <opinion> poorly <neg> potato <opinion> poorly cooked
+Well , this place is so Ghetto its not even funny . ===> <neg> place <opinion> Ghetto <neg> place <opinion> not even funny
+We would like to thank Marcelo and Grace for a wonderful dining experience ! ! ! ===> <pos> dining <opinion> wonderful
+Found service above average , but that could be because we were 13 of us . ===> <pos> service <opinion> above average
+Bagels are ok , but be sure not to make any special requests ! ===> <neu> Bagels <opinion> ok
+fine dining restaurant quality . ===> <pos> quality <opinion> fine
+Overall a disappointing experience for that price category . ===> <neg> price <opinion> disappointing
+The food was exceptional . ===> <pos> food <opinion> exceptional
+The portions are small but being that the food was so good makes up for that . ===> <neg> portions <opinion> small <pos> food <opinion> good
+( and I have eaten my share ) Which impresses me for having such a large amount of people to serve . ===> <pos> serve <opinion> impresses <pos> serve <opinion> large
+Sure , the setting is nice . ===> <pos> setting <opinion> nice
+Slightly above average wines start at $ 70+ with only one selection listed at $ 30+ . ===> <neg> wines <opinion> above average
+Their whitefish salad is excellent -- all whitefish with a little mayo . ===> <pos> whitefish salad <opinion> excellent <pos> whitefish <opinion> all <pos> mayo <opinion> little
+The chicken parm was edible but had canned tomato sauce and boxed pasta and the chicken with portobello mushrooms consisted of dry , inedible chicken with terrible sauce . ===> <neg> chicken <opinion> edible <neg> chicken <opinion> dry <neg> tomato sauce <opinion> edible <neg> pasta <opinion> edible <neg> sauce <opinion> terrible
+I recommend this place to everyone who asks me where to go for a good meal . ===> <pos> meal <opinion> good
+The waitresses are nice -- also you can just get counter service sit . ===> <pos> waitresses <opinion> nice
+The only friendly staff member was the guy at the bar . ===> <pos> staff member <opinion> friendly
+You can certainly find restaurants that offer a superior fine dining experience , but for superb food at reasonable prices , La Villa ca n't be beat . ===> <pos> food <opinion> superb <pos> prices <opinion> reasonable
+I can not imagine a friendlier staff working in a restaurant . ===> <pos> staff <opinion> friendlier
+I do suggest to ask to be seated upstairs if you are looking to be a little cozy . ===> <pos> upstairs <opinion> cozy
+The red curry is weak and tasteless , the pad thai is stuck together and lumpy , the rice is often overcooked , and the seafood is pretty sketchy . ===> <neg> red curry <opinion> weak <neg> red curry <opinion> tasteless <neg> pad thai <opinion> stuck <neg> pad thai <opinion> lumpy <neg> rice <opinion> overcooked <neg> seafood <opinion> sketchy
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal . ===> <pos> wine list <opinion> extensive <pos> meal <opinion> reasonably priced <pos> priced <opinion> reasonably
+Saul is pretty good , but definitely not great . ===> <neu> Saul <opinion> good <neu> Saul <opinion> not great
+I would recommend Roxy 's for that , but not for their food . ===> <neg> food <opinion> recommend
+It is nearly impossible to get a table , so if you ever have the chance to go here for dinner , DO NOT pass it up . ===> <neg> table <opinion> impossible
+Their pad penang is delicious and everything else is fantastic . ===> <pos> pad penang <opinion> delicious
+The puke green walls leave a lot to be desired , but the food is very good . ===> <pos> food <opinion> good <neg> walls <opinion> desired
+The flavors are very fresh and pretty unobtrusive , nothing flashy . ===> <pos> flavors <opinion> fresh <pos> flavors <opinion> unobtrusive
+I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! ! ===> <neg> people <opinion> evil <neg> people <opinion> incompetent
+The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . ===> <neg> hanger steak <opinion> rubber <neg> tuna <opinion> flavorless
+Our son loves pizza and we have a certified Neapolitan pizzaria in our home city ( Seattle ) , we liked this nearly as much - and the differences were more about personal preference than any reflection on either restaurant . ===> <pos> pizza <opinion> loves
+big and soft as well as good lunch food . ===> <pos> lunch food <opinion> big <pos> lunch food <opinion> soft <pos> lunch food <opinion> good
+No food snobs allowed , this place is for people who appreciate good food . ===> <pos> food <opinion> good
+I liked the food at this quasi-thai restaurant . ===> <pos> food <opinion> liked
+As for the bar , this is another bad idea . ===> <neg> bar <opinion> bad
+The barebecued salmon is elegantly spiced and not at all dry . ===> <pos> barebecued salmon <opinion> elegantly spiced <pos> barebecued salmon <opinion> not at all dry
+The highly spiced chai tea was great too . ===> <pos> chai tea <opinion> highly spiced <pos> chai tea <opinion> great
+Seriously , this is the best all you can eat in town- As everyone says , the Spicy Tuna hand rolls are the best- have 4 of these , and you 've broken even . ===> <pos> Spicy Tuna hand rolls <opinion> best
+While Sapphire is certainly not lacking in ambiance , and probably has the best decor of any Indian restaurant I have been to in New York City , the food was not what I had hoped for . ===> <neg> food <opinion> best <pos> ambiance <opinion> lacking <pos> decor <opinion> best
+I would highly recommend this place to anyone looking for a casual atmosphere that whisks you away to the left bank of the river Seine . ===> <pos> atmosphere <opinion> casual
+His wife Tanya , the hostess , completes the comforting atmosphere by being delightfully warm and gracious . ===> <pos> hostess <opinion> delightfully warm <pos> hostess <opinion> gracious <pos> atmosphere <opinion> comforting
+I have been a longtime fan of Holy Basil in the East Village , and while I do believe their food has slightly slipped in quality , I have been hesitant to be disloyal . ===> <neg> quality <opinion> slipped
+But the best part about LS is the late night atmosphere , delightfully free of the BTs . ===> <pos> atmosphere <opinion> delightfully
+The staff there is very attentive and down to earth . ===> <pos> staff <opinion> attentive <pos> staff <opinion> down to earth
+You do n't go to Mizu for excellent service , you go for the large amounts of food , the amiable atmosphere , and the hole-in-the-wall feeling of the place . ===> <neg> service <opinion> excellent <pos> food <opinion> large <pos> atmosphere <opinion> amiable
+The service is decent even when this small place is packed . ===> <pos> service <opinion> decent <neg> place <opinion> small <neg> place <opinion> packed
+This is the best sushi in new york city - hands down . ===> <pos> sushi <opinion> best
+Great value for the quality ingredients . ===> <pos> ingredients <opinion> quality
+The Thali was small , thoroughly unremarkable , and $ 14.95 . ===> <neg> Thali <opinion> small <neg> Thali <opinion> unremarkable
+Truly the mark of an attentive waiter . ===> <pos> waiter <opinion> attentive
+The food here is rather good , but only if you like to wait for it . ===> <pos> food <opinion> good
+I got an excellent piece of cheesecake and we had several other nice pastries . ===> <pos> cheesecake <opinion> excellent <pos> pastries <opinion> nice
+The staff is very kind and well trained , they 're fast , they are always prompt to jump behind the bar and fix drinks , they know details of every item in the menu and make excellent recomendations . ===> <pos> staff <opinion> kind <pos> staff <opinion> well trained <pos> staff <opinion> fast <pos> staff <opinion> prompt
+The food is inventive but still keeps traditional indian flavoring . ===> <pos> food <opinion> inventive <pos> food <opinion> traditional
+The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse . ===> <pos> decor <opinion> diner-ish <pos> place <opinion> simple <pos> place <opinion> small <pos> place <opinion> sparse
+This is a cute place and could be good but they need to get their act together . ===> <pos> place <opinion> cute
+The lox is always fresh too . ===> <pos> lox <opinion> fresh
+So all I 'm trying to say is this restaurant is by far the best thai food restaurant I 've ever been to . ===> <pos> thai food <opinion> best
+Food was OK - fish was cooked well . ===> <neu> Food <opinion> OK <pos> fish <opinion> cooked well
+The duck confit is always amazing and the foie gras terrine with figs was out of this world . ===> <pos> foie gras terrine with figs <opinion> out of this world <pos> duck confit <opinion> amazing
+The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff , because despite the current one this is a great place . ===> <neg> staff <opinion> good
+The staff offers impeccable service . ===> <pos> staff <opinion> impeccable <pos> service <opinion> impeccable
+We ended our great experience by having Gulab Jamun ( dessert ) recommended by the waiter . ===> <pos> Gulab Jamun ( dessert ) <opinion> great
+The place is sleek , modern and playful and i will return again frequently . ===> <pos> place <opinion> sleek <pos> place <opinion> modern <pos> place <opinion> playful
+The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal . ===> <pos> brioche and lollies <opinion> cute <pos> brioche and lollies <opinion> sweet <pos> meal <opinion> memorable
+The service was attentive , yet unimposing , the food was far better than many notorious restaurants in Midtown and the wine list is extensive and well priced . ===> <pos> food <opinion> better <pos> wine list <opinion> extensive <pos> wine list <opinion> well priced <pos> priced <opinion> well
+Salads were fantastic . ===> <pos> Salads <opinion> fantastic
+The owners and employees are friendly and their pizza is fantastic . ===> <pos> owners <opinion> friendly <pos> employees <opinion> friendly <pos> pizza <opinion> fantastic
+The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries . ===> <pos> food <opinion> yummy <pos> mussels in spicy tomato sauce <opinion> yummy <pos> mussels in spicy tomato sauce <opinion> cooked-to-perfection <pos> fries <opinion> yummy <pos> fries <opinion> crispy
+Fast service . ===> <pos> service <opinion> Fast
+The staff is excellent , special : that girl behind the bar , european chic . ===> <pos> staff <opinion> excellent <neu> bar <opinion> special
+The service was bad , the food took to forever to come , we sat on the upper level . ===> <neg> service <opinion> bad <neg> food <opinion> bad
+We a menu that rarely changes , e xcept for one or two specials , the quality and care they put in thier food in evident . ===> <pos> quality <opinion> evident <pos> care <opinion> evident
+Stick to dimsum , not super overpriced noodles . ===> <neu> noodles <opinion> not super overpriced
+The service is fine and they allow you to enjoy the view . ===> <pos> service <opinion> fine <pos> view <opinion> enjoy
+We , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . ===> <neg> staff <opinion> rude
+delicious simple food in nice outdoor atmosphere . ===> <pos> food <opinion> delicious simple <pos> atmosphere <opinion> nice
+The only fallback on this restaurant is the prices . ===> <neg> prices <opinion> fallback
+The hot and sour soup was unbearably hot and tasted of only pepper and nothing else . ===> <neg> soup <opinion> unbearably hot
+The food is delicious . ===> <pos> food <opinion> delicious
+Their wines by the glass are a great accompaniment and you can eat like a king with wine for under $ 30 . ===> <pos> wines by the glass <opinion> great
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time . ===> <pos> ambience <opinion> correct <pos> staff <opinion> excellent
+The atmosphere is much better than Sripraphai ( more modern and sleek ) . ===> <pos> atmosphere <opinion> better <pos> atmosphere <opinion> modern <pos> atmosphere <opinion> sleek
+The food is outstanding and the service is quick , friendly and very professional . ===> <pos> food <opinion> outstanding <pos> service <opinion> quick <pos> service <opinion> friendly <pos> service <opinion> professional
+The bagels always warm , soft on the inside , crispy on the outside and enormous in size . ===> <pos> bagels <opinion> warm <pos> bagels <opinion> soft <pos> bagels <opinion> crispy <pos> bagels <opinion> enormous
+I had a late dinner at Lucky Stike , a great name for a joint if ever I saw one . ===> <neu> dinner <opinion> great
+Service is fast and friendly . ===> <pos> Service <opinion> fast <pos> Service <opinion> friendly
+And they have these home made potato chips at the bar that are the most delicious things in the world ! ===> <pos> potato chips <opinion> delicious <neu> bar <opinion> delicious
+My husband and I enjoyed each of the 6 taste size portions and left completely full . ===> <pos> portions <opinion> enjoyed
+We all ate pasta entre'es , which were great . ===> <pos> pasta entre'es <opinion> great
+The steak was excellent and one of the best I have had ( I tasted the butter intitally but in no way did it overwhelm the flavor of the meat ) . ===> <pos> steak <opinion> excellent <pos> steak <opinion> best
+The food was boring and expensive . ===> <neg> food <opinion> boring <neg> food <opinion> expensive
+The ambience is pretty and nice for conversation , so a casual lunch here would probably be best . ===> <pos> ambience <opinion> pretty <pos> ambience <opinion> nice <pos> lunch <opinion> casual
+Terrific menu full of unique rolls and special dishes . ===> <pos> menu <opinion> Terrific <pos> rolls <opinion> unique <pos> dishes <opinion> special
+The service is ok but could be better . ===> <neg> service <opinion> ok <neg> service <opinion> could be better
+We love the food , drinks , and atmosphere ! ===> <pos> food <opinion> love <pos> drinks <opinion> love <pos> atmosphere <opinion> love
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever . ===> <neg> customer service <opinion> worst
+Took my mom for Mother 's Day , and the maitre d ' was pretty rude . ===> <neg> maitre d ' <opinion> rude
+The vibe is very relaxed and cozy , service was great and the food was excellent ! ===> <pos> vibe <opinion> relaxed <pos> vibe <opinion> cozy <pos> service <opinion> great <pos> food <opinion> excellent
+The service was friendly and the atmosphere was casual . ===> <pos> service <opinion> friendly <pos> atmosphere <opinion> casual
+I recommend their Pad See Ew , Pork Chops or Tofu plates . ===> <pos> Pad See Ew <opinion> recommend <pos> Pork Chops <opinion> recommend <pos> Tofu plates <opinion> recommend
+this is the best secret place in midtown ' , I heard that from the bartender , after having brilliant food ( try steak with portobello mushrooms ) and drinks on the bar last Tuesday . ===> <pos> food <opinion> brilliant <pos> drinks <opinion> brilliant <pos> steak with portobello mushrooms <opinion> brilliant <pos> steak with portobello mushrooms <opinion> try
+The service was excellent - friendly and attentive . ===> <pos> service <opinion> excellent <pos> service <opinion> friendly <pos> service <opinion> attentive
+The dinner menu is diverse and top-notch as well . ===> <pos> dinner menu <opinion> diverse <pos> dinner menu <opinion> top-notch
+I do n't like Indian food too much and this was delicious , however you want to factor that into the equation . ===> <pos> Indian food <opinion> do n't like
+at taj , vegetarians can rejoice-all the dishes are manna from heaven . ===> <pos> dishes <opinion> heaven
+Jimmy 's is hands down the hottest night spot in the Bronx . ===> <pos> spot <opinion> hottest
+The $ 300 bill was a bit steep , but the experience was great . ===> <neg> bill <opinion> steep
+Nice ambiance , nice little bar , good bartender , Francois , and good service . ===> <pos> bar <opinion> nice <pos> bartender <opinion> good <pos> service <opinion> good <pos> ambiance <opinion> nice
+The calamari comes with an incredible sauce , and the duck noodles are yummy as well . ===> <pos> sauce <opinion> incredible <pos> duck noodles <opinion> yummy
+I would definitely go back -- if only for some of those exotic martinis on the blackboard . ===> <pos> martinis <opinion> exotic
+Simple comfort food and what hot and large portions . ===> <pos> comfort food <opinion> Simple comfort <pos> portions <opinion> large
+The bagels are also reasonably priced for NYC . ===> <pos> bagels <opinion> reasonably priced <pos> priced <opinion> reasonably
+Decor leaves something to be desired . ===> <neg> Decor <opinion> desired
+Also , specify if you like your food spicy- its rather bland if you do n't . ===> <neu> food <opinion> bland
+Our waiter was fine , the place looks nice in that not-trying-too-hard way , but at those prices , a little more should be expected of your food . ===> <pos> waiter <opinion> fine <pos> place <opinion> fine <neg> food <opinion> more should be expected
+I 've been to this restaurant more than a dozen times and when I 'm craving for Pho , Lemon grass chicken or Beef Cube on rice , this is the place to go . ===> <pos> Pho <opinion> craving <pos> Lemon grass chicken <opinion> craving <pos> Beef Cube on rice <opinion> craving
+Oh yes , and if you are a fan of Indian oldies film stars , there are plenty of portraits of Indian actors and actresses in classic black white that adorn the walls , some of which , I would love to know where they obtained . ===> <pos> portraits <opinion> plenty
+The food is spectacular , from the appitizers to the main course , and then of course the desserts , ( WOW ) you 'll need no more . ===> <pos> food <opinion> spectacular <pos> appitizers <opinion> spectacular <pos> main course <opinion> spectacular <pos> desserts <opinion> spectacular
+My fish was delicious in an incredible curry sauce . ===> <pos> fish <opinion> delicious <pos> curry sauce <opinion> incredible
+If you are in search of the most authentic NYC deli experience look no further than the famous and historic Katz 's Deli down on the Lower East Side . ===> <pos> deli <opinion> authentic
+Even upon delivery , their juicy pork buns are quite good . . ===> <pos> pork buns <opinion> good
+Average to good Thai food , but terrible delivery . ===> <pos> Thai food <opinion> Average to good <neg> delivery <opinion> terrible
+Joe 's Pizza used to have the best slice until this pizzeria opened up . ===> <pos> slice <opinion> best
+And they provided a delicious dessert on the house ! ===> <pos> dessert <opinion> delicious
+They are still living in the dark ages and do not have an answering machine , so if you want to make a reservation you are limited . ===> <neg> reservation <opinion> limited
+The food is amazing , rich pastas and fresh doughy pizza . ===> <pos> food <opinion> amazing <pos> pastas <opinion> rich <pos> pizza <opinion> fresh doughy
+Food was very good , but not what I would consider out of this world . ===> <pos> Food <opinion> good
+Try the Pad Thai , it 's fabulous and their prices are so cheap ! ===> <pos> Pad Thai <opinion> Try <pos> Pad Thai <opinion> fabulous <pos> Pad Thai <opinion> cheap <pos> prices <opinion> cheap
+Food is great and inexpensive . ===> <pos> Food <opinion> great <pos> Food <opinion> inexpensive
+Dessert - ca n't be missed , so save room ! ! ! ===> <pos> Dessert <opinion> ca n't be missed
+Ingredients are organic which is a real plus for me . ===> <pos> Ingredients <opinion> organic <pos> Ingredients <opinion> plus
+It was so bad I actually refused to pay for my food . ===> <neg> food <opinion> bad
+I recommend this spot to anyone who enjoys fine cuisine at reasonable prices . ===> <pos> cuisine <opinion> fine <pos> prices <opinion> reasonable
+The staff was very attentive , the ambience lovely , and the food superb . ===> <pos> staff <opinion> attentive <pos> ambience <opinion> lovely <pos> food <opinion> superb
+I love when restaurants think using fancy expensive ingrediants makes the food fine cuisine , even with no idea how to use them . ===> <pos> ingrediants <opinion> expensive <pos> cuisine <opinion> fine <pos> food <opinion> fine
+THe Pizza and wine were excellent -the service too -- but what really MADE this place was the backyard dining area . ===> <pos> Pizza <opinion> excellent <pos> wine <opinion> excellent <pos> service <opinion> excellent
+The service was superb , they treat you like family . ===> <pos> service <opinion> superb
+We all had the tasting menu and unlike some of the other reviews , I felt there was more than enough food . ===> <pos> food <opinion> more than enough
+The menu may be small , but everything on it is delicious . ===> <neg> menu <opinion> small
+They had scrapped the bottom of the vessel in which they make the rice -RESULT - WE HAD LARGE CHUNKS OF BURNT RICE IN OUR SERVING BOWL . ===> <neg> RICE <opinion> BURNT
+Warm , comfortable surroundings , nice appointments ( witness the etched glass and brickwork separating the dining rooms ) . ===> <pos> surroundings <opinion> Warm <pos> surroundings <opinion> comfortable <neu> dining rooms <opinion> nice
+The well mannered , pleasant staff that Tony has in his employ . ===> <pos> staff <opinion> pleasant
+All I can say is $ 2 pints during happy hour and the some of the cheapest oysters you 'll find in the city , though the quality is some of the best . ===> <pos> oysters <opinion> cheapest <pos> quality <opinion> best
+I would never wait for a table to eat , it just is not THAT great . ===> <neu> table <opinion> never wait
+We concluded with tiramisu chocolate cake , both were delicious . ===> <pos> tiramisu chocolate cake <opinion> delicious
+The counter service is bad . ===> <neg> counter service <opinion> bad
+Service here was great , food was fantastic . ===> <pos> Service <opinion> great <pos> food <opinion> fantastic
+The sauce is delicious and the crust is perfect . ===> <pos> sauce <opinion> delicious <pos> crust <opinion> perfect
+You will pay a lot for the decore , but the food is no better or worse than a lot of other Chinese and Asian fusion places in NY . ===> <neg> decore <opinion> pay a lot <neu> food <opinion> no better or worse
+They have some great entrees here as well . ===> <pos> entrees <opinion> great
+The service is not consistently excellent -- just decent . ===> <neu> service <opinion> not consistently excellent <neu> service <opinion> decent
+The food , served in small tasting portions ( as an option ) is very good with each dish being better than the next . ===> <pos> food <opinion> good <pos> portions <opinion> small <pos> dish <opinion> better
+I had the mango chicken and i ca n't go on to tell you how delicious that was and the presentation was beautiful . ===> <pos> mango chicken <opinion> delicious <pos> presentation <opinion> beautiful
+Food and service was okay . ===> <neu> Food <opinion> okay <neu> service <opinion> okay
+The best pad thai i 've ever had . ===> <pos> pad thai <opinion> best
+Great pizza and fantastic service . ===> <pos> pizza <opinion> Great <pos> service <opinion> fantastic
+While this is a pretty place in that overly cute French way , the food was insultingly horrible . ===> <pos> place <opinion> pretty <neg> food <opinion> insultingly horrible
+I went there for lunch and it was not as good as I expected from the reviews I read . ===> <neu> lunch <opinion> not as good as I expected
+The wine list is n't great , and the desserts are shipped in from Bruno 's down the street , which is not as good as it used to be . ===> <neg> wine list <opinion> is n't great <neg> desserts <opinion> not as good
+Their coffee is quite good too ! ===> <pos> coffee <opinion> good
+great wine list ( italian ) , good food , service was INITIALLY fine . ===> <pos> wine list <opinion> great <pos> food <opinion> good
+Despite the fact that the space is large , they 've overcrowded the floor with tables . ===> <pos> space <opinion> large <neg> tables <opinion> overcrowded
+They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place , but also become hostile ! ===> <neg> place <opinion> hostile
+Normally that would be improper , however they were all delicious and my host did not complain . ===> <neu> host <opinion> delicious
+Taxan delicious ! ===> <pos> Taxan <opinion> delicious
+Unlike other places in NYC where the sandwiches you want only come as a triple-decker , here you can get what you want in a reasonably-sized portion ( and price ) . ===> <pos> portion <opinion> reasonably-sized
+Restaurant snobs need not bother , this is a small , neighborhood kind of place . ===> <pos> place <opinion> small
+They could n't even make a salad that was appealing . ===> <neg> salad <opinion> appealing
+Of course the reason its so packed is because the food is so delicious ! ===> <pos> food <opinion> delicious
+Staffs are not that friendly , but the taste covers all . ===> <neg> Staffs <opinion> not that friendly <pos> taste <opinion> covers all
+The waiter was attentive . ===> <pos> waiter <opinion> attentive
+Their Margarita is best I 've had since I 've returned from Naples ! ===> <pos> Margarita <opinion> best
+Their sake list was extensive , but we were looking for Purple Haze , which was n't listed but made for us upon request ! ===> <pos> sake list <opinion> extensive
+The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced . ===> <neg> tables <opinion> crammed <neg> tables <opinion> too close <neu> menu <opinion> typical <neg> wine list <opinion> overpriced
+The food was actually awful . ===> <neg> food <opinion> awful
+They are served with a free appetizer and the portions are perfect for lunch . ===> <pos> appetizer <opinion> free <pos> portions <opinion> perfect
+There is actually space to breathe and the decor sets the tone for an intimate dinner . ===> <neu> dinner <opinion> intimate
+We went around 9:30 on a Friday and it had died down a bit by then so the service was great ! ===> <pos> service <opinion> great
+My husband and I both ordered the Steak , medium . ===> <neu> Steak <opinion> medium
+This place has realy fresh sushi and a nice large menu of Japanese classic cuisine . ===> <pos> sushi <opinion> fresh <pos> menu <opinion> large
+The sushi is average and the prices are anything but . ===> <neu> sushi <opinion> average
+My wife and I also enjoyed the spinach , the Shanghai low mein , and other attractions . ===> <pos> spinach <opinion> enjoyed <pos> Shanghai low mein <opinion> enjoyed
+Turned out there was full service upstairs and sat down . ===> <pos> service <opinion> full
+If you have a dumpling fetish i suggest you try some here ! ===> <pos> dumpling <opinion> try
+The food is consistently wonderful - I 've been coming here for years , and the owner has always been accomodating and friendly . ===> <pos> food <opinion> wonderful <pos> owner <opinion> accomodating <pos> owner <opinion> friendly
+The waiters and owners were nonchalant about this and promised to call the exterminator but were n't as dismayed or apologetic as I would have expected . ===> <neg> waiters <opinion> nonchalant <neg> owners <opinion> nonchalant
+And the food was fantastic . ===> <pos> food <opinion> fantastic
+Aside from the Sea Urchin , the chef recommended an assortment of fish including Fatty Yellow Tail , Boton Shrimp , Blue Fin Torro ( Fatty Tuna ) , Sea Eel , etc . ===> <neu> assortment of fish <opinion> recommended <neu> Fatty Yellow Tail <opinion> recommended <neu> Boton Shrimp <opinion> recommended <neu> Sea Eel <opinion> recommended <neu> Sea Urchin <opinion> recommended <neu> Blue Fin Torro ( Fatty Tuna ) <opinion> recommended
+They 're also friendlier here , especially the owner , Kenny . ===> <pos> owner <opinion> friendlier
+While the room is not particularly comfortable , once you 're seated you 'll forget about everything except what 's on your plate . ===> <neg> room <opinion> not particularly comfortable
+The ambiance is minimal the food is not phenomenal , but some dishes are quite good , such as the eggplant parmesan , veal in carozza chicken saltimbocca . ===> <pos> ambiance <opinion> minimal <neg> food <opinion> not phenomenal <pos> dishes <opinion> good <pos> eggplant parmesan <opinion> good <pos> veal in carozza chicken saltimbocca <opinion> good
+The bar has various selections and the mixed drink special is a catcher ! 2 for 1 's . ===> <pos> bar <opinion> various <pos> mixed drink special <opinion> catcher
+During the course of the past 3 months , the chef and staff changed and it was not for the better . ===> <neg> chef <opinion> changed <neg> staff <opinion> changed
+I like the ambience , it 's very dark and original . ===> <pos> ambience <opinion> like <pos> ambience <opinion> dark <pos> ambience <opinion> original
+Overall , not worth the money . ===> <neg> money <opinion> not worth
+This place is not worth the prices . ===> <neg> prices <opinion> not worth
+Pick a bagel has the best bagels in the city . ===> <pos> bagels <opinion> best
+Yes you have to wait to be seated and because its small there is no waiting area and the seat at the bar was all taken . ===> <neg> waiting area <opinion> no <neg> seat <opinion> all taken <neu> bar <opinion> small
+The last two times I ordered from here my food was soo spicy that I could barely eat it , and the spice took away from the flavor of the dish . ===> <neg> food <opinion> spicy <neg> dish <opinion> barely <neg> spice <opinion> took away
+The fried dumplings are GREAT ! ===> <pos> fried dumplings <opinion> GREAT
+We figured we never had Argentinian Pizza before so we grabbed our lunch there , sharing a large Pelligrino , a pizza of two of their specials , one was goat cheese the other blue cheese , and both were excellent . ===> <pos> Pelligrino <opinion> large <pos> goat cheese <opinion> excellent <pos> blue cheese <opinion> excellent
+The ' kamasutra ' and ' bombay cosmopolitan ' are excellent and will have you tipsy in no time . ===> <pos> kamasutra <opinion> excellent <pos> bombay cosmopolitan <opinion> excellent
+This is the perfect date spot for Williamsburg couples . ===> <pos> date spot <opinion> perfect
+The dim sum here is only so-so . ===> <neu> dim sum <opinion> so-so
+Service was slow , but the people were friendly . ===> <neg> Service <opinion> slow <pos> people <opinion> friendly
+The steak was very fatty and the sauce was overpowering and not very tasty . ===> <neg> steak <opinion> fatty <neg> sauce <opinion> overpowering <neg> sauce <opinion> not very tasty
+The staff makes you feel at home , the food is great and the atmosphere is WONDERFUL ! ===> <pos> staff <opinion> great <pos> food <opinion> great <pos> atmosphere <opinion> great
+The food is alright - some stuff is good - some is not ( like the steak dish which tends to be dry ) . ===> <neg> steak dish <opinion> dry
+They have a very diverse menu so its something for everybody . ===> <pos> menu <opinion> diverse
+The staff was too busy ordering sushi for dinner and then laying it out to eat on the bar to even bring me my check . ===> <neg> staff <opinion> busy
+The bagel was huge . ===> <neu> bagel <opinion> huge
+The staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often . ===> <neg> bathroom <opinion> needs to be cleaned
+The service was the only thing good about this restaurant . ===> <pos> service <opinion> good
+Service -- friendly and attentive . ===> <pos> Service <opinion> friendly <pos> Service <opinion> attentive
+Great food , great decor , great service . ===> <pos> food <opinion> Great <pos> decor <opinion> great <pos> service <opinion> great
+And , atlhough tables opened up next to us and we ASKED for a slightly larger space , they left us awkardly seated . ===> <neu> space <opinion> larger
+The palak paneer was standard , and I was not a fan of the malai kofta . ===> <neu> palak paneer <opinion> standard
+I 've dined at Alain Ducasse 's restaurant in Monte Carlo for half the price for the same excellent dining experience . ===> <pos> dining <opinion> excellent
+There was no ambiance . ===> <neg> ambiance <opinion> no
+Save your money and do n't waste your calories , go to Margharita 's on Washington Street instead , they have amazing food and the BEST service . ===> <pos> food <opinion> amazing <pos> service <opinion> BEST
+The only weird thing was if we got a bottle , the waitress would have simply multiplied the glass price X4 , which makes no sense whatsoever . ===> <neg> waitress <opinion> weird
+They sell special sushi , everything have a topping , sauce and etc . ===> <pos> sushi <opinion> special <pos> sauce <opinion> special
+The place is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion . ===> <pos> service <opinion> excellent <neg> place <opinion> small <neg> place <opinion> intimate <neg> place <opinion> crowded
+The service was excellent and the food was delicious . ===> <pos> service <opinion> excellent <pos> food <opinion> delicious
+Service was also very good . ===> <pos> Service <opinion> good
+I took my girlfriend there for her birthday last night and we had a relaxing , really good meal . ===> <pos> meal <opinion> relaxing <pos> meal <opinion> good
+I 'm happy to have Nosh in the neighborhood and the food is very comforting . ===> <pos> food <opinion> comforting
+Good atmosphere , combination of all the hottest music dress code is relatively strict except on Fridays . ===> <pos> atmosphere <opinion> Good <pos> music <opinion> hottest
+love the food . ===> <pos> food <opinion> love
+I would highly recommend Nina 's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures . ===> <pos> dinner <opinion> romantic <pos> surrounding <opinion> heart warming
+There 's something smooth about sipping sake upper east side style . ===> <pos> sake <opinion> smooth
+It 's a nice place to relax and have conversation . ===> <pos> place <opinion> nice
+Best Reuben sandwich ever ! ===> <pos> Reuben sandwich <opinion> Best
+Lucky Strike is a great casual place to just grab a bite to eat . ===> <pos> place <opinion> great casual
+Going to Volare is like going to your favorite aunt 's house for dinner , assuming that your aunt is a great Italian cook . ===> <neu> dinner <opinion> great
+The sushi has been from average to below average , the wait service has always been subpar the atmosphere goes from nice to really irritating ( if you sit in the area beyond the kitchen , the acousitcs are horrid , everything echoes is extremely loud ) . ===> <neg> sushi <opinion> below average <neg> wait service <opinion> subpar <neg> area <opinion> loud
+Frites were delicious if a bit on the thick side . ===> <pos> Frites <opinion> delicious
+I would recommend putting your name down and then getting a drink at a local bar first though because of the wait time . ===> <neu> drink <opinion> recommend <neu> bar <opinion> recommend
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork . ===> <pos> egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork <opinion> love
+Overall , the best bagel in town . ===> <pos> bagel <opinion> best
+Light , refreshing summer rolls ( not fried ) remind me of Vietnamese places in Paris . ===> <pos> summer rolls <opinion> refreshing
+The sushi seemed pretty fresh and was adequately proportioned . ===> <pos> sushi <opinion> fresh <pos> sushi <opinion> proportioned
+but the service was a bit slow . ===> <neg> service <opinion> slow
+Spreads and toppings are great - though a bit pricey . ===> <pos> Spreads <opinion> great <pos> Spreads <opinion> pricey <pos> toppings <opinion> great <pos> toppings <opinion> pricey
+Indoor was very cozy and cute . ===> <pos> Indoor <opinion> cozy <pos> Indoor <opinion> cute
+We had a 3 hour brunch- they definitely do not rush you- and they kept the unlimited mimosas flowing the whole time . ===> <pos> mimosas <opinion> unlimited
+The service was excellent , the food was excellent , but the entire experience was very cool . ===> <pos> service <opinion> excellent <pos> food <opinion> excellent
+The service is good and the resturant is clean . ===> <pos> service <opinion> good
+The cafe itself was really nice with comfortable outdoor chairs and tables , but the service could have been better . ===> <pos> cafe <opinion> nice <pos> outdoor chairs <opinion> comfortable <pos> tables <opinion> comfortable <neg> service <opinion> better
+I 've rarely had a problem with slow staff in the 10 years I 've been going . ===> <pos> staff <opinion> slow
+Food is excellent . ===> <pos> Food <opinion> excellent
+Although we were looking for regular lettuce and some walnuts the salads we got were great . ===> <pos> salads <opinion> great <neu> lettuce <opinion> great <neu> walnuts <opinion> great
+Excellent lunch buffet for only $ 6.95 . ===> <pos> lunch buffet <opinion> Excellent
+Ambience is so cute and quaint , good for business although we were there on vacation . ===> <pos> Ambience <opinion> cute <pos> Ambience <opinion> quaint <pos> Ambience <opinion> good
+The portion sizes here are huge , and the sushi is good . ===> <pos> portion sizes <opinion> huge <pos> sushi <opinion> good
+Good food at the restaurant ( a bit expensive , but great if you want to impress your date ) . ===> <pos> food <opinion> Good
+I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service . ===> <pos> caviar <opinion> delicious top grade <pos> service <opinion> fantastic
+I have eaten there 3-4 times and the food was always good . ===> <pos> food <opinion> good
+Grilled whole fish wonderful , great spicing . ===> <pos> fish <opinion> wonderful <pos> fish <opinion> great
+For years , I thought Tuscan cuisine was the best , but Salvatore converted me to the hearty Neapolitan fare on my first visit . ===> <pos> Neapolitan fare <opinion> hearty
+The service was great as well . ===> <pos> service <opinion> great
+Another plus is most of the entrees are approx . ===> <pos> entrees <opinion> plus
+From the moment we walked in they were more than accomodating even though the place was packed . ===> <neg> place <opinion> packed
+I found the food , service and value exceptional everytime I have been there . ===> <pos> food <opinion> exceptional <pos> service <opinion> exceptional <pos> value <opinion> exceptional
+We ate at this Thai place following the reviews but very unhappy with the foods . ===> <neg> foods <opinion> unhappy
+The food is definitely good , but I left a bit disappointed . ===> <pos> food <opinion> good <pos> food <opinion> disappointed
+The drinks are a saving grace , but service staff , please , get over yourselves . ===> <pos> drinks <opinion> saving grace
+There is a downside if you 're ordering in -- the delivery guys have MAJOR attitude . ===> <neg> delivery guys <opinion> downside
+The all-Italian staff is warm and engaging from the start . ===> <pos> staff <opinion> warm <pos> staff <opinion> engaging
+The prices are exceptionally reasonable for food of this caliber . ===> <pos> prices <opinion> reasonable
+The filet mignon dish was superb ! ===> <pos> filet mignon dish <opinion> superb
+I had been a regular due to the consistently good food and ease of getting a table . ===> <pos> food <opinion> good <pos> getting a table <opinion> ease
+I did n't expect to like Nosh as much as I did , but the pastrami on challah sandwich I had was otherworldly , the soups are like Mom 's , and the knishes give Yonah Schimmel 's a run for its money . ===> <pos> pastrami on challah sandwich <opinion> otherworldly
+The atmosphere is nothing special , but it feels like a Sushi establishment in Tokyo . ===> <neu> atmosphere <opinion> nothing special
+Cozy romantic atomosphere with only around 15 tables at most . ===> <pos> atomosphere <opinion> Cozy romantic
+This place is worth going even if only for their beer . ===> <pos> beer <opinion> worth going
+The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty . ===> <pos> ambience <opinion> fun <pos> prices <opinion> great <pos> food <opinion> tasty
+The sandwhiches are out of this world ! ===> <pos> sandwhiches <opinion> out of this world
+Decor is charming . ===> <pos> Decor <opinion> charming
+The food was very well prepared . ===> <pos> food <opinion> well prepared
+Good , because hey , it 's more food , but bad because dim sum is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap . ===> <neg> dim sum <opinion> bad <neg> dim sum <opinion> smaller <pos> food <opinion> more <neg> portions <opinion> smaller <neu> dishes <opinion> cheap <neu> dish <opinion> cheap
+While most people can attest to spending over $ 50 on drinks in New York bars and hardly feeling a thing , the drinks here are plentiful and unique . ===> <pos> drinks <opinion> plentiful <pos> drinks <opinion> unique
+Complimentary stuff kept coming , and when the waiter saw me opening a gift , I received my dessert on a plate that had Happy Birthday written on it , with a candlevery nice touch , and attentive staff . ===> <pos> stuff <opinion> Complimentary <pos> staff <opinion> attentive
+The food arrived 20 minutes after I called , cold and soggy . ===> <neg> food <opinion> cold <neg> food <opinion> soggy
+If you go for the pre-theatre menu , it 's an even greater deal . ===> <pos> pre-theatre menu <opinion> greater
+If you are someone who appreciates simplicity , elegance , and wonderfully presented and tasting seafood and vegetables regardless of portion size , Kai is your place . ===> <pos> seafood <opinion> wonderfully presented <pos> seafood <opinion> tasting <pos> vegetables <opinion> wonderfully presented <pos> vegetables <opinion> tasting
+We usually just get some of the dinner specials and they are very reasonably priced and very tasty . ===> <pos> dinner specials <opinion> reasonably priced <pos> dinner specials <opinion> tasty <pos> priced <opinion> reasonably
+Horrible food and horrible service . ===> <neg> food <opinion> Horrible <neg> service <opinion> horrible
+They treated us well and the food was extremely fresh and well-prepared . ===> <pos> food <opinion> fresh <pos> food <opinion> well-prepared
+Their exotic salad is basic ly a delicious little green salad with a peanut sauce that is perfect before their sweet basil fried tofu . ===> <pos> exotic salad <opinion> delicious <pos> green salad <opinion> delicious little <pos> peanut sauce <opinion> perfect
+Even if the food was n't this good , the garden is a great place to sit outside and relax . ===> <pos> food <opinion> was n't this good <pos> garden <opinion> great <pos> place <opinion> great
+Volare virgins or weekly regulars , everyone gets treated the same and you ca n't ask for more than that when the service is this friendly . ===> <pos> service <opinion> friendly
+The food came out wrong , the waiter was no where to be found and the wine showed up at the end of the meal . ===> <neg> food <opinion> wrong
+The chicken and steak were seasoned and cooked to perfection , and the lamb sandwhich is great for heartier appetites . ===> <pos> chicken <opinion> seasoned <pos> chicken <opinion> perfection <pos> steak <opinion> seasoned <pos> steak <opinion> perfection <pos> lamb sandwhich <opinion> great
+The food was great and the service was even better . ===> <pos> food <opinion> great <pos> service <opinion> better
+While this can hardly be called a restaurant , it is possibly the best deal in Manhatten : $ 4 for a plate heaped with rice and 2-3 entrees . ===> <pos> rice <opinion> best <pos> entrees <opinion> best
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation . ===> <pos> Traditional French decour <opinion> pleasant <neg> hall <opinion> noisy
+My son and his girlfriend both wanted cheeseburgers and they were huge ! ===> <pos> cheeseburgers <opinion> huge
+I really recommend the very simple Unda ( Egg ) rolls . ===> <pos> Unda ( Egg ) rolls <opinion> recommend <pos> Unda ( Egg ) rolls <opinion> simple
+Very good wine choices . ===> <pos> wine choices <opinion> good
+This is the only Thai place I go too in NYC , it 's wonderful , and live relaxed Jazz on certain nights . ===> <pos> Jazz <opinion> relaxed
+We were seated and ignored by waitstaff . ===> <neg> waitstaff <opinion> ignored
+Tasty steak , pork loin , the works . ===> <pos> steak <opinion> Tasty <pos> pork loin <opinion> Tasty
+I 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service . ===> <pos> setting <opinion> intimate <pos> service <opinion> nice
+The burger was great , also . ===> <pos> burger <opinion> great
+they did give a 15 % discount at the end , was n't enough , as they knew the service was horrible . ===> <neg> discount <opinion> was n't enough <neg> service <opinion> horrible
+The pizza was great . ===> <pos> pizza <opinion> great
+I had never had Edamame pureed before but I thought it was innovative and tasty ( could 've used a bit more salt ) . ===> <pos> Edamame pureed <opinion> innovative <pos> Edamame pureed <opinion> tasty
+however , it 's the service that leaves a bad taste in my mouth . ===> <neg> service <opinion> bad taste
+The price was extremely reasonable for the appetizers and food we ate . ===> <pos> price <opinion> reasonable
+Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections . ===> <neg> vegetarian dishes <opinion> not up to par
+They need a kick out of it but until then the sushi is pretty good and the place is consistent . ===> <pos> sushi <opinion> good <pos> place <opinion> consistent
+I 've had to wait only a few times during lunch but this place is definitely worth the wait . ===> <pos> wait <opinion> worth <pos> wait <opinion> worth the wait
+All in all the food was above average and I would return to see how they operate with four or less dinners . ===> <pos> food <opinion> above average
+Delicious food , excellent service , and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch ! ===> <pos> food <opinion> Delicious <pos> service <opinion> excellent <pos> atmosphere <opinion> pretty <pos> lunch buffet <opinion> better <pos> dinner <opinion> great <pos> lunch <opinion> better
+For appetizers , I recommend the shrimp fritters and dumplings . ===> <pos> shrimp fritters <opinion> recommend <pos> dumplings <opinion> recommend
+Such nice people working here - but I have to review the food . ===> <pos> people <opinion> nice
+The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible , reaching for sunglasses . ===> <neg> spot lights <opinion> worst
+Great wine , great food . ===> <pos> wine <opinion> Great <pos> food <opinion> great
+The service was mediocre , and the lack of air conditioning made for a less than comfortable meal . ===> <neu> service <opinion> mediocre <neg> air conditioning <opinion> lack <neg> meal <opinion> comfortable
+The food and staff always surprise me with the new heights they are taken to . ===> <pos> food <opinion> surprise <pos> staff <opinion> surprise
+honestly the worst sushi my husband and i had in our entire lives . ===> <neg> sushi <opinion> worst
+However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place . ===> <pos> food <opinion> great <pos> price <opinion> great <neg> decor <opinion> do n't mind
+What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot . ===> <pos> sichuan cooking <opinion> authentic <pos> chongqing hotpot <opinion> authentic
+Interesting other dishes for a change include chicken in curry sauce and salmon caserole . ===> <pos> dishes <opinion> Interesting <pos> salmon caserole <opinion> Interesting
+One of my favorites though was the Angry Lobster , a cold lobster salad that was magnificent . ===> <pos> Angry Lobster <opinion> favorites <pos> cold lobster salad <opinion> magnificent
+Ask for Usha , the nicest bartender in manhattan . ===> <pos> bartender <opinion> nicest
+The service is outstanding and my crab-cake eggs benedict could not have been better . ===> <pos> service <opinion> outstanding <pos> crab-cake eggs benedict <opinion> could not have been better
+The place 's decor and hidden bathrooms made for a good laugh . ===> <pos> decor <opinion> good laugh <pos> bathrooms <opinion> good laugh
+Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again . ===> <pos> location <opinion> good <pos> prices <opinion> reasonable
+Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area . ===> <neg> prices <opinion> higher
+Because of the delicate thin crust , take-out pies get soggy in their boxes . ===> <neg> take-out pies <opinion> soggy <neg> crust <opinion> delicate
+This place is always very crowded and popular . ===> <pos> place <opinion> crowded <pos> place <opinion> popular
+The selection changes frequently but the basic dishes are always available . ===> <neu> selection <opinion> changes frequently <neu> basic dishes <opinion> available
+I have to say that if this what makes it easier to get a saet a lunch -- I dont mind . ===> <neu> lunch <opinion> easier
+We were told that they were booked solid and no other table was available . ===> <neg> table <opinion> available
+After dealing with subpar pizza all over the Kensington neighborhood - I 've found little toninos . ===> <neg> pizza <opinion> subpar
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles . ===> <neu> meats <opinion> thin <neu> vegetables <opinion> various

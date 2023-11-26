@@ -1,0 +1,328 @@
+Boot time is super fast , around anywhere from 35 seconds to 1 minute . ===> <pos> Boot time <opinion> fast
+tech support would not fix the problem unless I bought your plan for $ 150 plus . ===> <neg> tech support <opinion> not fix
+Set up was easy . ===> <pos> Set up <opinion> easy
+Did not enjoy the new Windows 8 and touchscreen functions . ===> <neg> Windows 8 <opinion> not enjoy <neg> touchscreen functions <opinion> not enjoy
+Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag . ===> <neg> internal speakers <opinion> lousy
+It 's fast , light , and simple to use . ===> <pos> use <opinion> fast <pos> use <opinion> light <pos> use <opinion> simple
+Works well , and I am extremely happy to be back to an apple OS . ===> <pos> Works <opinion> well <pos> apple OS <opinion> happy
+Sure it 's not light and slim but the features make up for it 100 % . ===> <pos> features <opinion> not light and slim
+I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) . ===> <pos> log on <opinion> pleased <pos> log on <opinion> fast <pos> WiFi connection <opinion> pleased <pos> WiFi connection <opinion> speedy <pos> battery life <opinion> pleased <pos> battery life <opinion> long
+The Apple engineers have not yet discovered the delete key . ===> <neg> delete key <opinion> not yet discovered
+Made interneting ( part of my business ) very difficult to maintain . ===> <neg> interneting <opinion> difficult
+Luckily , for all of us contemplating the decision , the Mac Mini is priced just right . ===> <pos> priced <opinion> right
+Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective . ===> <neg> track pad <opinion> not very good
+It is super fast and has outstanding graphics . ===> <pos> graphics <opinion> outstanding
+But the mountain lion is just too slow . ===> <neg> mountain lion <opinion> slow
+Strong build though which really adds to its durability . ===> <pos> durability <opinion> Strong <pos> build <opinion> Strong
+The battery life is excellent -- 6-7 hours without charging . ===> <pos> battery life <opinion> excellent
+I 've had my computer for 2 weeks already and it works perfectly . ===> <pos> works <opinion> perfectly
+And I may be the only one but I am really liking Windows 8 . ===> <pos> Windows 8 <opinion> liking
+The baterry is very longer . ===> <pos> baterry <opinion> longer
+Its size is ideal and the weight is acceptable . ===> <pos> size <opinion> ideal <pos> weight <opinion> acceptable
+I can say that I am fully satisfied with the performance that the computer has supplied . ===> <pos> performance <opinion> satisfied
+It has so much more speed and the screen is very sharp . ===> <pos> speed <opinion> much more <pos> screen <opinion> sharp
+Everything I wanted and everything I needed and the price was great ! ===> <pos> price <opinion> great
+It 's not inexpensive but the Hardware performance is impressive for a computer this small . ===> <pos> Hardware performance <opinion> impressive
+This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for . ===> <pos> works <opinion> always <pos> set up <opinion> easy
+Keyboard responds well to presses . ===> <pos> Keyboard <opinion> responds well
+Lastly , Windows 8 is annoying . ===> <neg> Windows 8 <opinion> annoying
+Everything is so easy and intuitive to setup or configure . ===> <pos> setup <opinion> easy <pos> setup <opinion> intuitive <pos> configure <opinion> easy <pos> configure <opinion> intuitive
+Biggest complaint is Windows 8 . ===> <neg> Windows 8 <opinion> complaint
+Only 2 usb ports ... seems kind of ... limited . ===> <neg> usb ports <opinion> limited
+It has all the expected features and more +plus a wide screen and more than roomy keyboard . ===> <pos> features <opinion> expected <pos> screen <opinion> wide <pos> keyboard <opinion> roomy
+Amazing Performance for anything I throw at it . ===> <pos> Performance <opinion> Amazing
+The receiver was full of superlatives for the quality and performance . ===> <pos> quality <opinion> superlatives <pos> performance <opinion> superlatives
+I was extremely happy with the OS itself . ===> <pos> OS <opinion> happy
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months . ===> <pos> portability <opinion> great
+The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing . ===> <pos> portable computing <opinion> recommend <pos> portable computing <opinion> truly
+MS Office 2011 for Mac is wonderful , well worth it . ===> <pos> MS Office 2011 for Mac <opinion> wonderful <pos> MS Office 2011 for Mac <opinion> well worth
+But the performance of Mac Mini is a huge disappointment . ===> <neg> performance <opinion> disappointment
+They do n't just look good ; they deliver excellent performance . ===> <pos> look <opinion> good <pos> performance <opinion> excellent
+I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be . ===> <pos> lit up keys <opinion> love <pos> lit up keys <opinion> Fast <pos> lit up keys <opinion> clear <pos> screen display <opinion> love <pos> screen display <opinion> Fast <pos> screen display <opinion> clear
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows . ===> <pos> Mountain Lion OS <opinion> not hard <neu> Microsoft Windows <opinion> familiar
+However , I can refute that OSX is `` FAST '' . ===> <neg> OSX <opinion> FAST
+Enjoy using Microsoft Office ! ===> <pos> Microsoft Office <opinion> Enjoy
+Incredible graphics and brilliant colors . ===> <pos> graphics <opinion> Incredible <pos> colors <opinion> brilliant
+Built-in apps are purely amazing . ===> <pos> Built-in apps <opinion> amazing
+From the speed to the multi touch gestures this operating system beats Windows easily . ===> <pos> operating system <opinion> beats
+I really like the size and I 'm a fan of the ACERS . ===> <pos> size <opinion> like
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare . ===> <pos> SquareTrade 3-Year Computer Accidental Protection Warranty <opinion> support <neg> AppleCare <opinion> NOT covered
+It 's light and easy to transport . ===> <pos> transport <opinion> light <pos> transport <opinion> easy
+Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated . ===> <neg> Windows 8 Set-Up <opinion> poorly designed <neg> Windows 8 Set-Up <opinion> frustrated
+The aluminum body sure makes it stand out . ===> <pos> aluminum body <opinion> stand out
+It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly . ===> <pos> integrate bluetooth devices <opinion> easy <pos> USB devices <opinion> instantly
+And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me . ===> <neg> Intel4000 graphic chip <opinion> underpowered
+Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back . ===> <neu> DVD drive Firewire port <opinion> removed <neg> SDXC slot <opinion> silly
+The durability of the laptop will make it worth the money . ===> <pos> durability <opinion> worth
+Well designed and fast . ===> <pos> designed <opinion> Well
+But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use . ===> <pos> use <opinion> easy
+Exactly as posted plus a great value . ===> <pos> value <opinion> great
+The specs are pretty good too . ===> <pos> specs <opinion> good
+Apple is unmatched in product quality , aesthetics , craftmanship , and customer service . ===> <pos> product quality <opinion> unmatched <pos> aesthetics <opinion> unmatched <pos> craftmanship <opinion> unmatched <pos> customer service <opinion> unmatched
+It is a great size and amazing windows 8 included ! ===> <pos> size <opinion> great <pos> windows 8 <opinion> amazing
+I do not like too much Windows 8 . ===> <neg> Windows 8 <opinion> not like
+Startup times are incredibly long : over two minutes . ===> <neg> Startup times <opinion> long
+Also stunning colors and speedy ===> <pos> colors <opinion> stunning
+great price free shipping what else can i ask for ! ! ===> <pos> price <opinion> great <pos> shipping <opinion> free
+This mouse is terrific . ===> <pos> mouse <opinion> terrific
+It is really thick around the battery . ===> <neu> battery <opinion> thick
+And windows 7 works like a charm . ===> <pos> windows 7 <opinion> charm
+: ) Great product , great price , great delivery , and great service . ===> <pos> price <opinion> great <pos> delivery <opinion> great <pos> service <opinion> great
+: ] It arrived so fast and customer service was great . ===> <pos> customer service <opinion> great
+tried windows 8 and hated it ! ! ! ===> <neg> windows 8 <opinion> hated
+Set up was a breeze . ===> <pos> Set up <opinion> breeze
+But I do NOT like Win8 . ===> <neg> Win8 <opinion> NOT like
+I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games . ===> <neg> OSX <opinion> overbearing <neg> support for games <opinion> lack
+I wanted it for it 's mobility and man , this little bad boy is very nice . ===> <pos> mobility <opinion> nice
+I found the mini to be : Exceptionally easy to set up ===> <pos> set up <opinion> easy
+The sound is nice and loud ; I do n't have any problems with hearing anything . ===> <pos> sound <opinion> nice <pos> sound <opinion> loud
+It is very slim , the track pad is very much impressed with me . ===> <pos> track pad <opinion> slim <pos> track pad <opinion> impressed
+The settings are not user-friendly either . ===> <neg> settings <opinion> not user-friendly
+Thank goodness for OpenOffice ! ===> <pos> OpenOffice <opinion> goodness
+Awesome form factor , great battery life , wonderful UX . ===> <pos> form factor <opinion> Awesome <pos> battery life <opinion> great <pos> UX <opinion> wonderful
+i love the keyboard and the screen . ===> <pos> keyboard <opinion> love <pos> screen <opinion> love
+However , there are MAJOR issues with the touchpad which render the device nearly useless . ===> <neg> touchpad <opinion> issues <neg> touchpad <opinion> useless
+I 've already upgraded o Mavericks and I am impressed with everything about this computer . ===> <pos> Mavericks <opinion> impressed
+Not as fast as I would have expect for an i5 . ===> <neg> i5 <opinion> Not as fast
+thanks for great service and shipping ! ===> <pos> service <opinion> great <pos> shipping <opinion> great
+The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera . ===> <pos> performance <opinion> good <pos> built-in applications <opinion> great <pos> iPhoto <opinion> great
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend . ===> <pos> Samsung 830 SSD <opinion> recommend
+Yes , that 's a good thing , but it 's made from aluminum that scratches easily . ===> <neg> aluminum <opinion> scratches easily
+I was also informed that the components of the Mac Book were dirty . ===> <neg> components <opinion> dirty
+the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS ! ===> <neg> hardware <opinion> bad
+It 's so nice that the battery last so long and that this machine has the snow lion ! ===> <pos> battery <opinion> nice <pos> battery <opinion> long
+it 's exactly what i wanted , and it has all the new features and whatnot . ===> <pos> features <opinion> wanted <pos> features <opinion> new
+It feels cheap , the keyboard is not very sensitive . ===> <neg> keyboard <opinion> cheap <neg> keyboard <opinion> not very sensitive
+Though please note that sometimes it crashes , and the sound quality isnt superb . ===> <neg> sound quality <opinion> isnt superb
+It is very easy to navigate even for a novice . ===> <pos> navigate <opinion> easy
+Does everything I need it to , has a wonderful battery life and I could n't be happier . ===> <pos> battery life <opinion> wonderful
+Great Performance and Quality . ===> <pos> Performance <opinion> Great <pos> Quality <opinion> Great
+One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables . ===> <neg> material <opinion> cheap
+The new os is great on my macbook pro ! ===> <pos> os <opinion> great
+I have experienced no problems , works as anticipated . ===> <pos> works <opinion> as anticipated
+System is running great . ===> <pos> System <opinion> great
+Easy to customize setting and even create your own bookmarks . ===> <pos> customize setting <opinion> Easy <pos> create your own bookmarks <opinion> Easy
+it has all the features that we expected and the price was good , working well so far . ===> <pos> price <opinion> good <pos> working <opinion> well
+The new operating system makes this computer into a super iPad . ===> <pos> operating system <opinion> new
+Easy to set up and go ! ===> <pos> set up <opinion> Easy
+I ca n't believe how quiet the hard drive is and how quick this thing boots up . ===> <pos> hard drive <opinion> quiet <pos> boots up <opinion> quick
+It 's just what we were looking for and it works great . ===> <pos> works <opinion> great
+It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable ! ===> <pos> working <opinion> pleasurable <pos> surfing <opinion> pleasurable
+It works fine , and all the software seems to run pretty well . ===> <pos> works <opinion> fine <pos> software <opinion> well
+I wanted a computer that was quite , fast , and that had overall great performance . ===> <neu> performance <opinion> great
+Harddrive was in poor condition , had to replace it . ===> <neg> Harddrive <opinion> poor
+The on/off switch is a bit obscure in the rear corner . ===> <neg> on/off switch <opinion> obscure
+My only complaint is the total lack of instructions that come with the mac mini . ===> <neg> instructions <opinion> lack
+The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks . ===> <neg> gaming <opinion> not be good
+I use it mostly for content creation ( Audio , video , photo editing ) and its reliable . ===> <pos> Audio <opinion> reliable <pos> video <opinion> reliable <pos> photo editing <opinion> reliable
+Screen is bright and gorgeous . ===> <pos> Screen <opinion> bright <pos> Screen <opinion> gorgeous
+It is robust , with a friendly use as all Apple products . ===> <pos> use <opinion> friendly
+It is fast and easy to use . ===> <pos> use <opinion> easy
+And the fact that it comes with an i5 processor definitely speeds things up ===> <pos> i5 processor <opinion> speeds things up
+I have been PC for years but this computer is intuitive and its built in features are a great help ===> <pos> built in features <opinion> great help
+Nice screen , keyboard works great ! ===> <pos> screen <opinion> Nice <pos> keyboard <opinion> great
+I was amazed at how fast the delivery was . ===> <pos> delivery <opinion> amazed <pos> delivery <opinion> fast
+The memory was gone and it was not able to be used . ===> <neg> memory <opinion> gone <neg> memory <opinion> not able to be used
+It works great and I am so happy I bought it . ===> <pos> works <opinion> great
+I like the design and ease of use with the keyboard , plenty of ports . ===> <pos> design <opinion> like <pos> keyboard <opinion> like <pos> keyboard <opinion> ease of use <pos> ports <opinion> plenty
+it definitely beats my old mac and the service was great . ===> <pos> service <opinion> great
+Web browsing is very quick with Safari browser . ===> <pos> Web browsing <opinion> quick <pos> Safari browser <opinion> quick
+I like the lighted screen at night . ===> <pos> lighted screen <opinion> like
+It is really easy to use and it is quick to start up . ===> <pos> use <opinion> easy <pos> start up <opinion> quick
+I 've lived with the crashes and slow operation and restarts . ===> <neg> operation <opinion> slow
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones . ===> <pos> USB3 Peripherals <opinion> less expensive
+It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place . ===> <pos> media editing <opinion> perfect
+The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant . ===> <pos> user experience <opinion> elegant
+Thanks for the fast shipment and great price . ===> <pos> shipment <opinion> fast <pos> price <opinion> great
+! Excellent performance , usability , presentation and time response . ===> <pos> performance <opinion> Excellent <pos> usability <opinion> Excellent <pos> presentation <opinion> Excellent <pos> time response <opinion> Excellent
+The smaller size was a bonus because of space restrictions . ===> <pos> size <opinion> smaller <pos> size <opinion> bonus
+I blame the Mac OS . ===> <neg> Mac OS <opinion> blame
+I like the operating system . ===> <pos> operating system <opinion> like
+I love the form factor . ===> <pos> form factor <opinion> love
+It 's fast at loading the internet . ===> <pos> loading the internet <opinion> fast
+So much faster and sleeker looking . ===> <pos> looking <opinion> faster <pos> looking <opinion> sleeker
+Unfortunately , it runs XP and Microsoft is dropping support next April . ===> <neu> XP <opinion> Unfortunately <neg> support <opinion> Unfortunately <neg> support <opinion> dropping
+First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on . ===> <pos> OS <opinion> like <pos> OS <opinion> easy <pos> overall build <opinion> great <pos> keyboard <opinion> best
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit . ===> <pos> construction <opinion> solid
+Very nice unibody construction . ===> <pos> unibody construction <opinion> nice
+This Macbook Pro is fast , powerful , and runs super quiet and cool . ===> <pos> runs <opinion> quiet <pos> runs <opinion> cool
+It 's ok but does n't have a disk drive which I did n't know until after I bought it . ===> <neu> disk drive <opinion> does n't have
+There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device . ===> <neu> HDMI receptacle <opinion> no <neu> SD card slot <opinion> nor
+It came in brand new and works perfectly . ===> <pos> works <opinion> perfectly
+It should n't happen like that , I do n't have any design app open or anything . ===> <neu> design app <opinion> do n't have
+MY TRACKPAD IS NOT WORKING . ===> <neg> TRACKPAD <opinion> NOT WORKING
+It looks and feels solid , with a flawless finish . ===> <pos> finish <opinion> flawless <pos> looks <opinion> solid <pos> feels <opinion> solid
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product . ===> <neg> Price <opinion> higher
+Then the system would many times not power down without a forced power-off . ===> <neg> system <opinion> not power down <neg> power down <opinion> not
+The configuration is perfect for my needs . ===> <pos> configuration <opinion> perfect
+and the speakers is the worst ever . ===> <neg> speakers <opinion> worst
+Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! .. ===> <pos> use <opinion> easy <pos> trackpad <opinion> love
+Web surfuring is smooth and seamless . ===> <pos> Web surfuring <opinion> smooth <pos> Web surfuring <opinion> seamless
+I 'm overall pleased with the interface and the portability of this product . ===> <pos> interface <opinion> pleased <pos> portability <opinion> pleased
+This item is a beautiful piece , it works well , it is easy to carry and handle . ===> <pos> works <opinion> well <pos> carry <opinion> easy <pos> handle <opinion> easy
+It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime . ===> <neg> performance <opinion> slow <neg> battery lifetime <opinion> shortening <neg> hardware ( keyboard ) <opinion> suffering <neg> hardware ( keyboard ) <opinion> issues
+Runs good and does the job , ca n't complain about that ! ===> <pos> Runs <opinion> good
+It 's silent and has a very small footprint on my desk . ===> <pos> footprint <opinion> small
+The exterior is absolutely gorgeous . ===> <pos> exterior <opinion> gorgeous
+It has a very high performance , just for what I needed for . ===> <pos> performance <opinion> high
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset . ===> <neu> intel 4000 graphics chipset <opinion> defective <neu> design <opinion> defective
+I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports . ===> <neg> USB ports <opinion> mistake
+It is the perfect size and speed for me . ===> <pos> size <opinion> perfect <pos> speed <opinion> perfect
+THE CUSTOMER SERVICE IS TERRIFIC ! ! ===> <pos> CUSTOMER SERVICE <opinion> TERRIFIC
+My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago . ===> <pos> performed <opinion> admirably
+However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly . ===> <pos> battery cycle count <opinion> ZERO <pos> battery cycle count <opinion> surprised <pos> hardware <opinion> perfectly
+And as for all the fancy finger swipes -- I just gave up and attached a mouse . ===> <neg> finger swipes <opinion> fancy
+I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem . ===> <neu> storage <opinion> big <neu> screen <opinion> nice
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop . ===> <pos> Mac OS <opinion> like <neg> speaker quality <opinion> lacking
+Shipped very quickly and safely . ===> <pos> Shipped <opinion> quickly <pos> Shipped <opinion> safely
+The thunderbolt port is awesome ! ===> <pos> thunderbolt port <opinion> awesome
+The performance is definitely superior to any computer I 've ever put my hands on . ===> <pos> performance <opinion> superior
+It 's great for streaming video and other entertainment uses . ===> <pos> streaming video <opinion> great <pos> entertainment uses <opinion> great
+I like the design and its features but there are somethings I think needs to be improved . ===> <pos> design <opinion> like <pos> features <opinion> needs to be improved
+There were small problems with Mac office . ===> <neg> Mac office <opinion> problems
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs . ===> <neg> spec <opinion> disappointed
+Its fast , easy to use and it looks great . ===> <pos> use <opinion> easy <pos> looks <opinion> great
+Performance is much much better on the Pro , especially if you install an SSD on it . ===> <pos> Performance <opinion> better <pos> SSD <opinion> better
+Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection . ===> <neu> MagSafe accessories <opinion> not work <neg> MagSafe 2 connection <opinion> not work
+The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it . ===> <neg> touchpad <opinion> dislike <neg> touchpad <opinion> unresponsive <neu> mouse <opinion> recommend
+The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc ===> <pos> runs <opinion> quiet <pos> fans <opinion> are n't audible
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem . ===> <neu> Mac ecosystem <opinion> take some time
+It 's absolutely wonderful and worth the price ! ===> <pos> price <opinion> wonderful <pos> price <opinion> worth
+I am please with the products ease of use ; out of the box ready ; appearance and functionality . ===> <pos> use <opinion> please <pos> use <opinion> ease <pos> appearance <opinion> please <pos> functionality <opinion> please
+Perfect for all my graphic design classes I 'm taking this year in college : - ) ===> <pos> graphic design <opinion> Perfect
+I will not be using that slot again . ===> <neg> slot <opinion> not be using
+The OS is fast and fluid , everything is organized and it 's just beautiful . ===> <pos> OS <opinion> fast <pos> OS <opinion> fluid <pos> OS <opinion> organized <pos> OS <opinion> beautiful
+They are simpler to use . ===> <pos> use <opinion> simpler
+! so nice .. stable .. fast .. now i got my SSD ! ===> <pos> SSD <opinion> nice <pos> SSD <opinion> stable <pos> SSD <opinion> fast
+I love the quick start up . ===> <pos> start up <opinion> love
+You just can not beat the functionality of an Apple device . ===> <pos> functionality <opinion> can not beat
+Yet my mac continues to function properly . ===> <pos> function <opinion> properly
+Graphics are much improved . ===> <pos> Graphics <opinion> improved
+Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction . ===> <pos> Build Quality <opinion> confident <pos> unibody construction <opinion> ca n't beat
+It provides much more flexibility for connectivity . ===> <pos> flexibility for connectivity <opinion> more
+Mac tutorials do help . ===> <pos> Mac tutorials <opinion> help
+The technical support was not helpful as well . ===> <neg> technical support <opinion> not helpful
+I got the new adapter and there was no change . ===> <neu> adapter <opinion> new <neu> adapter <opinion> no change
+Logic board utterly fried , cried , and laid down and died . ===> <pos> Logic board <opinion> utterly fried <pos> Logic board <opinion> cried <pos> Logic board <opinion> laid down <pos> Logic board <opinion> died
+The sound was crappy even when you turn up the volume still the same results . ===> <neg> sound <opinion> crappy <neg> volume <opinion> crappy
+OSX Lion is a great performer..extremely fast and reliable . ===> <pos> OSX Lion <opinion> great <pos> OSX Lion <opinion> fast <pos> OSX Lion <opinion> reliable
+Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did . ===> <neg> application <opinion> crash
+The Macbook pro 's physical form is wonderful . ===> <pos> physical form <opinion> wonderful
+The Mini 's body has n't changed since late 2010- and for a good reason . ===> <pos> body <opinion> has n't changed <pos> body <opinion> good
+The unibody construction really does feel lot more solid than Apple 's previous laptops . ===> <pos> unibody construction <opinion> solid
+3D rendering slows it down considerably . ===> <neg> 3D rendering <opinion> slows it down
+fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD ! ===> <pos> screen <opinion> fast <pos> screen <opinion> great <pos> apps <opinion> beautiful
+All the ports are much needed since this is my main computer . ===> <neu> ports <opinion> much needed
+The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package . ===> <pos> package <opinion> neat <pos> package <opinion> nice
+Put a cover on it and is a little better but that is my only complaint . ===> <neu> cover <opinion> a little better <neu> cover <opinion> complaint
+Within a few hours I was using the gestures unconsciously . ===> <pos> gestures <opinion> unconsciously
+This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac . ===> <pos> cable <opinion> nice
+The 2.9ghz dual-core i7 chip really out does itself . ===> <pos> 2.9ghz dual-core i7 chip <opinion> really
+It is pretty snappy and starts up in about 30 seconds which is good enough for me . ===> <pos> starts up <opinion> snappy <pos> starts up <opinion> good
+Not sure on Windows 8 . ===> <neu> Windows 8 <opinion> Not sure
+My one complaint is that there was no internal CD drive . ===> <neg> internal CD drive <opinion> complaint <neg> internal CD drive <opinion> no
+This newer netbook has no hard drive or network lights . ===> <neu> hard drive <opinion> no <neu> network lights <opinion> no
+Not too expense and has enough storage for most users and many ports . ===> <pos> storage <opinion> enough <pos> ports <opinion> enough
+The audio volume is quite low and virtually unusable in a room with any background activity . ===> <neg> audio volume <opinion> low <neg> audio volume <opinion> unusable
+It is lightweight and the perfect size to carry to class . ===> <pos> size <opinion> perfect
+The MBP is beautiful has many wonderful capabilities . ===> <pos> capabilities <opinion> wonderful
+I thought that it will be fine , if i do some settings . ===> <neu> settings <opinion> fine
+Runs very smoothly . ===> <pos> Runs <opinion> smoothly
+Boot-up slowed significantly after all Windows updates were installed . ===> <neg> Boot-up <opinion> slowed <neg> Windows updates <opinion> slowed
+It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming . ===> <pos> internet <opinion> powerful <pos> word processing <opinion> powerful <pos> graphic design <opinion> powerful <pos> gaming <opinion> powerful
+I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu . ===> <pos> setup <opinion> like <pos> setup <opinion> easy <pos> install <opinion> like <pos> install <opinion> easy
+Runs real quick . ===> <pos> Runs <opinion> quick
+Since the machine 's slim profile is critical to me , that was a problem . ===> <neg> profile <opinion> slim <neg> profile <opinion> critical
+WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required . ===> <pos> disk drive <opinion> required <pos> USB ports <opinion> required <pos> WiFi capability <opinion> required
+The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not . ===> <neg> SD card reader <opinion> recessed <neg> SD card reader <opinion> upside down <neg> nail slot on the card <opinion> can not be accessed <neg> slot <opinion> issue
+Soft touch , anodized aluminum with laser cut precision and no flaws . ===> <pos> touch <opinion> Soft <pos> anodized aluminum <opinion> precision <pos> anodized aluminum <opinion> no flaws
+Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops . ===> <pos> aluminium <opinion> crafted <pos> glass <opinion> blow away
+First of all yes this is a mac and it has that nice brushed aluminum . ===> <pos> aluminum <opinion> nice
+No HDMI port . ===> <neu> HDMI port <opinion> No
+Customization on mac is impossible . ===> <neg> Customization <opinion> impossible
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive . ===> <pos> two finger clicking <opinion> surprisingly <neu> right click button <opinion> intuitive
+The SuperDrive is quiet . ===> <pos> SuperDrive <opinion> quiet
+The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside . ===> <neg> battery <opinion> dead
+if yo like practicality this is the laptop for you . ===> <pos> practicality <opinion> like
+The OS is great . ===> <pos> OS <opinion> great
+CONS : Price is a bit ridiculous , kinda heavy . ===> <neg> Price <opinion> ridiculous <neg> Price <opinion> heavy
+Which it did not have , only 3 USB 2 ports . ===> <neu> USB 2 ports <opinion> not have
+No startup disk was not included but that may be my fault . ===> <neu> startup disk <opinion> No <neu> startup disk <opinion> not included <neu> startup disk <opinion> fault
+It is very fast and has everything that I need except for a word program . ===> <neg> word program <opinion> except for
+Needs a CD/DVD drive and a bigger power switch . ===> <neg> power switch <opinion> bigger
+My laptop with Windows 7 crashed and I did not want Windows 8 . ===> <neg> Windows 7 <opinion> crashed <neg> Windows 8 <opinion> not want
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi . ===> <pos> install <opinion> Easy <pos> configure for ADSl cable or wifi <opinion> easy
+Nice packing . ===> <pos> packing <opinion> Nice
+I switched to this because I wanted something different , even though I miss windows . ===> <pos> windows <opinion> miss
+Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore ! ===> <neg> iDVD <opinion> no longer includes
+I also wanted Windows 7 , which this one has . ===> <pos> Windows 7 <opinion> wanted
+At first , I feel a little bit uncomfortable in using the Mac system . ===> <neg> Mac system <opinion> uncomfortable
+It just works out of the box and you have a lot of cool software included with the OS . ===> <pos> works <opinion> out of the box <pos> software <opinion> cool <neu> OS <opinion> cool
+its as advertised on here ... .. it works great and is not a waste of money ! ===> <pos> works <opinion> great
+Premium price for the OS more than anything else . ===> <pos> price <opinion> Premium <neu> OS <opinion> Premium
+I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with . ===> <pos> touch pad <opinion> concerned <pos> touch pad <opinion> fine
+However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen . ===> <pos> OS <opinion> great <pos> OS <opinion> not become unstable
+The battery is not as shown in the product photos . ===> <neg> battery <opinion> not as shown
+Shipping was quick and product described was the product sent and so much more ... ===> <pos> Shipping <opinion> quick
+the retina display display make pictures i took years ago jaw dropping . ===> <pos> retina display display <opinion> dropping
+The Mac Mini is probably the simplest example of compact computing out there . ===> <pos> compact computing <opinion> simplest
+Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap . ===> <neg> ventilation system <opinion> barely <neg> ventilation system <opinion> hot <neu> watching videos <opinion> simple <neu> watching videos <opinion> hot <neu> playing steam games <opinion> hot
+Chatting with Acer support , I was advised the problem was corrupted operating system files . ===> <neu> operating system files <opinion> corrupted
+It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) . ===> <neu> keys <opinion> struggle
+Many people complain about the new OS , and it 's urgent for Apple to fix it asap ! ===> <neg> OS <opinion> complain
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office . ===> <pos> Lion <opinion> upgraded <pos> MAC OS <opinion> happier
+User upgradeable RAM and HDD . ===> <pos> RAM <opinion> upgradeable <pos> HDD <opinion> upgradeable
+But I wanted the Pro for the CD/DVD player . ===> <pos> CD/DVD player <opinion> wanted
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows . ===> <neu> os.x <opinion> worry
+With the softwares supporting the use of other OS makes it much better . ===> <neu> OS <opinion> better <neu> softwares <opinion> better
+I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier . ===> <pos> performance <opinion> powerful
+At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important . ===> <neu> built in screen size <opinion> not terribly important
+Just beware no DVD slot so when I went to install software I had on CD I could n't . ===> <neu> DVD slot <opinion> no
+No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version . ===> <neu> Cd Rom <opinion> No <neg> features <opinion> less
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer ===> <neg> volume <opinion> low <neg> volume <opinion> hate <neg> volume <opinion> low <neg> volume <opinion> hate
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it . ===> <neu> case <opinion> recommend
+I got this at an amazing price from Amazon and it arrived just in time . ===> <pos> price <opinion> amazing
+Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through . ===> <neg> log into the system <opinion> frustrating
+Put a SSD and use a 21 '' LED screen , this set up is silky smooth ! ===> <pos> set up <opinion> silky smooth
+The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size . ===> <neg> case <opinion> larger <neu> external power supply <opinion> lack
+I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding . ===> <neg> pad <opinion> hate <pos> works <opinion> great
+Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports . ===> <pos> features <opinion> wanted <neu> VGA port <opinion> wanted <neu> HDMI <opinion> wanted <neu> ethernet <opinion> wanted <neu> USB ports <opinion> wanted
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip . ===> <neg> rubber pads <opinion> dislike
+It 's a decent computer for the price and hopefully it will last a long time . ===> <neu> price <opinion> decent
+The nicest part is the low heat output and ultra quiet operation . ===> <pos> heat output <opinion> nicest <pos> heat output <opinion> low <pos> operation <opinion> nicest <pos> operation <opinion> quiet
+this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly . ===> <neu> built-in mic <opinion> not have <neg> Mac OS 10.9 <opinion> not handle
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC . ===> <neu> features <opinion> lot of <neu> shortcuts <opinion> lot of
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different . ===> <pos> IOS system <opinion> unique <pos> IOS system <opinion> different
+air has higher resolution but the fonts are small . ===> <pos> resolution <opinion> higher <neg> fonts <opinion> small
+working with Mac is so much easier , so many cool features . ===> <pos> working <opinion> easier <pos> features <opinion> cool
+I like the brightness and adjustments . ===> <pos> brightness <opinion> like <pos> adjustments <opinion> like
+I only wish this mac had a CD/DVD player built in . ===> <neu> CD/DVD player <opinion> wish
+The only thing I miss is that my old Alienware laptop had backlit keys . ===> <neg> backlit keys <opinion> miss
+So happy with this purchase , I just wish it came with Microsoft Word . ===> <neu> Microsoft Word <opinion> wish
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop . ===> <pos> memory <opinion> enough <pos> speed <opinion> enough
+The battery life is excellent , the display is excellent , and downloading apps is a breeze . ===> <pos> battery life <opinion> excellent <pos> display <opinion> excellent <pos> downloading apps <opinion> breeze
+The screen , the software and the smoothness of the operating system . ===> <pos> operating system <opinion> smoothness
+But with this laptop , the bass is very weak and the sound comes out sounding tinny . ===> <neg> bass <opinion> weak <neg> sound <opinion> tinny
+The built quality is really good , I was so Happy and excited about this Product . ===> <pos> built quality <opinion> good <pos> built quality <opinion> Happy <pos> built quality <opinion> excited
+I am loving the fast performance also . ===> <pos> performance <opinion> loving <pos> performance <opinion> fast
+Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor . ===> <neg> Bluetooth interface <opinion> sloppy <neg> Mac OS <opinion> courtesy <neg> range <opinion> poor
+My only gripe would be the need to add more RAM . ===> <neg> RAM <opinion> gripe
+Fine if you have a touch screen . ===> <neu> touch screen <opinion> Fine
+This by far beats any computer out on the market today built well , battery life AMAZING . ===> <pos> built <opinion> well <pos> battery life <opinion> AMAZING
+The OS is easy , and offers all kinds of surprises . ===> <pos> OS <opinion> easy <pos> OS <opinion> surprises
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 . ===> <pos> Firewire 800 <opinion> veryimportant <pos> Firewire 800 <opinion> better <neg> MAC OS <opinion> inferior
+I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff . ===> <pos> iTunes <opinion> like <pos> security <opinion> apparent <pos> graphics stuff <opinion> nice
+After replacing the spinning hard disk with an ssd drive , my mac is just flying . ===> <pos> ssd drive <opinion> flying
+I know some people complained about HDMI issues but they released a firmware patch to address that issue . ===> <neu> HDMI <opinion> complained
+With the needs of a professional photographer I generally need to keep up with the best specs . ===> <neu> specs <opinion> best
+packing and everything was perfect ===> <pos> packing <opinion> perfect
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards . ===> <neu> mother boards <opinion> issues
+I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card . ===> <neg> Mother Board <opinion> faulty <neg> graphics card <opinion> faulty
+It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better . ===> <pos> performs <opinion> better
+This computer is also awesome for my sons virtual home schooling . ===> <pos> virtual home schooling <opinion> awesome
+Cost is more as compared to other brands . ===> <neg> Cost <opinion> more
+also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand- ===> <pos> operating system <opinion> excellent <pos> size <opinion> excellent <pos> weight <opinion> excellent <pos> mobility <opinion> optimal <pos> durability of the battery <opinion> excellent <pos> functions provided by the trackpad <opinion> unmatched
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller . ===> <pos> hardware <opinion> better
+I 've had it for about 2 months now and found no issues with software or updates . ===> <neu> software <opinion> no issues <neu> updates <opinion> no issues
+the latest version does not have a disc drive . ===> <neu> disc drive <opinion> not have
+Screen - although some people might complain about low res which I think is ridiculous . ===> <pos> Screen <opinion> complain <pos> Screen <opinion> ridiculous <pos> res <opinion> low <pos> res <opinion> ridiculous
