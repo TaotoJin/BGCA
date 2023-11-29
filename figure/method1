@@ -1,0 +1,74 @@
+# Experiment List
+
+```mermaid
+graph TD
+    Start(Start of Pipeline)
+    
+    
+    Start --> trans
+    
+
+    Trainset1["(train|dev).txt<br>in laptop14"]
+    Trainset2["(train|dev).txt<br>in rest14"]
+
+    
+
+    preview_processed:::preview
+    preview_processed["{text} ==> <sentiment> word <opion> word ..."]
+    preview_trainset:::preview
+    preview_trainset["{text} ### list of ([indices], [indices], ..., SENTIMENT)"]
+
+    subgraph trans["translate to TH"]
+        
+        subgraph dataset[" "]
+            
+            Dataset1["(train|dev|test)_aste_processed.txt<br>in laptop14"]
+            Dataset2["(train|dev|test)_aste_processed.txt<br>in rest14"]
+        end
+
+        MT1[["googletrans"]]
+        MT2[["vistec-ai"]] 
+        Dataset1 & Dataset2 --> |translate by|MT1    
+        Dataset1 & Dataset2 --> |translate by|MT2   
+      
+
+        MT1 & MT2 ---> |save|thai_data
+
+        thai_data["txt files in <br>thai_data/(laptop14|test14)/th/"]
+    end
+
+    preview_processed -.- dataset
+
+    
+    thai_data --> PrepMethod1[[Thai Tokenization]] & PrepMethod2[[No Tokenization]]
+    
+
+    
+    subgraph pred["pred text2label"]
+        
+        Model1[["Model:laptop14 <br> (in laptop14-rest14 folder)"]]
+        Model2[["Model:rest14 <br> (in laptop14-rest14 folder)"]]
+
+        PrepMethod1 & PrepMethod2 --> |generate by|Model1
+        PrepMethod1 & PrepMethod2 --> |generate by|Model2
+    end
+
+
+    preview_trainset -.- trainset
+    subgraph trainset
+        
+        Trainset1 -->|train|Model1
+        Trainset2 -->|train|Model2
+    end
+
+    
+
+
+
+    Model1 & Model2 --> output_file --> Evaluate[["How to Evaluate?"]]
+
+
+    %% trans:::DONE 
+    classDef DONE fill:#6ecf9c
+    classDef preview stroke-dasharray: 5 5
+```
