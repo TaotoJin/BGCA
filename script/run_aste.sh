@@ -8,7 +8,7 @@ python main.py --task aste \
             --name $name \
             --seed 42 \
             --dataset cross_domain \
-            --model_name_or_path google/mt5-base \
+            --model_name_or_path intfloat/multilingual-e5-base \
             --paradigm extraction-universal \
             --n_gpu 0 \
             --train_batch_size 16 \

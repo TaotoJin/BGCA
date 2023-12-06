@@ -4,7 +4,8 @@ import os
 import sys
 
 from pytorch_lightning import seed_everything
-from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer)
+# from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer)
+from transformers import (AutoModel, AutoTokenizer) # for me5 model
 
 from constants import *
 from data_utils import (read_line_examples_from_file, get_dataset)
@@ -134,7 +135,8 @@ def main(args):
     tag_tokens = prepare_tag_tokens(args)
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=False)
-    model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path)
+    # model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path)
+    model = AutoModel.from_pretrained(args.model_name_or_path)
 
     # training process
     if args.do_train:
@@ -170,7 +172,8 @@ def main(args):
             if args.use_same_model:
                 logger.info(f"Use the same model.")
             else:
-                model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path)
+                # model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path)
+                model = AutoModel.from_pretrained(args.model_name_or_path)
                 model.to(args.device)
                 logger.info(f"Model reloaded with {args.model_name_or_path}")
                 model.resize_token_embeddings(len(tokenizer))
@@ -227,7 +230,8 @@ def main(args):
 
                 # reload the model and conduct inference
                 logger.info(f"Load the trained model from {checkpoint}...")
-                model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
+                # model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
+                model = AutoModel.from_pretrained(checkpoint)
                 model.to(args.device)
 
                 score_dict_dev, pred_dict_dev = evaluate(args, tokenizer, dev_dataset, model, args.paradigm, args.task, dev_sents, "dev",

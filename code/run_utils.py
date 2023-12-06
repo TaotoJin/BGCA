@@ -6,7 +6,9 @@ import random
 import torch
 from torch.utils.data import DataLoader
 from tqdm import tqdm, trange
-from transformers import (AdamW, AutoModelForSeq2SeqLM,
+# from transformers import (AdamW, AutoModelForSeq2SeqLM,
+#                           AutoTokenizer, get_linear_schedule_with_warmup)
+from transformers import (AdamW, AutoModel,
                           AutoTokenizer, get_linear_schedule_with_warmup)
 
 from constants import *
@@ -251,14 +253,16 @@ def extract_model(args, tokenizer, model, extract_task):
 
     # 1. train extract model
     if args.extract_model:
-        model = AutoModelForSeq2SeqLM.from_pretrained(args.extract_model).to(args.device)
+        # model = AutoModelForSeq2SeqLM.from_pretrained(args.extract_model).to(args.device)
+        model = AutoModel.from_pretrained(args.extract_model).to(args.device)
         tokenizer = AutoTokenizer.from_pretrained(args.extract_model, use_fast=False)
         logger.info(f"Model reloaded with {args.extract_model}")
         logger.info(f"Tokenizer len: {len(tokenizer)}")
     elif args.runned_folder:
         model_path = os.path.join(args.runned_folder, f"seed-{args.seed}",
         f"{args.source_domain}-{args.target_domain[0]}", f"extract_{args.task}-model")
-        model = AutoModelForSeq2SeqLM.from_pretrained(model_path).to(args.device)
+        # model = AutoModelForSeq2SeqLM.from_pretrained(model_path).to(args.device)
+        model = AutoModel.from_pretrained(model_path).to(args.device)
         tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
         logger.info(f"Model reloaded with {model_path}")
 
@@ -277,20 +281,23 @@ def extract_model(args, tokenizer, model, extract_task):
 def gene_model(args, tokenizer, model, target_extract_inputs, target_extract_outputs):
 
     if args.gene_model:
-        model = AutoModelForSeq2SeqLM.from_pretrained(args.gene_model).to(args.device)
+        # model = AutoModelForSeq2SeqLM.from_pretrained(args.gene_model).to(args.device)
+        model = AutoModel.from_pretrained(args.gene_model).to(args.device)
         tokenizer = AutoTokenizer.from_pretrained(args.gene_model, use_fast=False)
         logger.info(f"Model reloaded with {args.gene_model}")
     elif args.runned_folder:
         model_path = os.path.join(args.runned_folder, f"seed-{args.seed}",
         f"{args.source_domain}-{args.target_domain[0]}", f"gene_{args.task}-model")
-        model = AutoModelForSeq2SeqLM.from_pretrained(model_path).to(args.device)
+        # model = AutoModel.from_pretrained(model_path).to(args.device)
+        model = AutoModel.from_pretrained(model_path).to(args.device)
         tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
         logger.info(f"Model reloaded with {model_path}")
     # 0. load a new model
     elif args.data_gene_same_model or args.use_same_model:
         logger.info(f"Model keep the same.")
     else:
-        model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path).to(args.device)
+        # model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name_or_path).to(args.device)
+        model = AutoModel.from_pretrained(args.model_name_or_path).to(args.device)
         model.resize_token_embeddings(len(tokenizer))
         logger.info(f"Model reloaded with {args.model_name_or_path}")
     logger.info(f"Tokenizer len: {len(tokenizer)}")
@@ -381,7 +388,8 @@ def prepare_gene_vocab(args):
 def model_filter(args, inputs, outputs):
 
     extract_path = os.path.join(args.seed_dir, f"extract_{args.task}-model")
-    model2 = AutoModelForSeq2SeqLM.from_pretrained(extract_path).to(args.device)
+    # model2 = AutoModelForSeq2SeqLM.from_pretrained(extract_path).to(args.device)
+    model2 = AutoModel.from_pretrained(extract_path).to(args.device)
     tokenizer2 = AutoTokenizer.from_pretrained(extract_path, use_fast=False)
     logger.info(f"{extract_path} loaded.")
     logger.info(f"Model emb weights of <pad> {model2.shared.weight[0][:5]}")
