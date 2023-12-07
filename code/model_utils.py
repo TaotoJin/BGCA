@@ -51,7 +51,10 @@ def init_tag(args, tokenizer, model, tag_tokens):
                     continue
                 init_id = tokenizer.encode(init_word, add_special_tokens=False)[0]
                 with torch.no_grad():
-                    model.shared.weight[tag_id] = model.shared.weight[init_id]
+                    # model.shared.weight[tag_id] = model.shared.weight[init_id]
+                    
+                    weights = model.encoder.layer[0].attention.self.query.weight
+                    # weights[tag_id] = weights[init_id]
                 logger.info(f"{tokenizer.decode(tag_id)} is init by {tokenizer.decode(init_id)}")
         elif args.paradigm == "extraction":
             pass

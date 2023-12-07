@@ -63,7 +63,8 @@ def train(args, tokenizer, model, train_dataset, task, epochs, lr, bs, acc_step=
         logger.info('Input : {}'.format(tokenizer.decode(train_dataset[i]['source_ids'], skip_special_tokens=True)))
         logger.info('Output: {}'.format(tokenizer.decode(train_dataset[i]['target_ids'], skip_special_tokens=True)))
 
-    logger.info(f"Model emb weights of <pad> {model.shared.weight[0][:5]}")
+    # logger.info(f"Model emb weights of <pad> {model.shared.weight[0][:5]}")
+    logger.info(f"Model emb weights of <pad> {model.encoder.layer[0].attention.self.query.weight[:5]}")
     # start training
     for n_epoch, _ in enumerate(train_iterator):
         epoch_train_loss = 0.0
@@ -74,17 +75,27 @@ def train(args, tokenizer, model, train_dataset, task, epochs, lr, bs, acc_step=
             lm_labels = batch["target_ids"]
             lm_labels[lm_labels[:, :] == tokenizer.pad_token_id] = -100
 
+            # outputs = model(
+            #     batch["source_ids"].to(args.device),
+            #     attention_mask=batch["source_mask"].to(args.device),
+            #     labels=lm_labels.to(args.device),
+            #     decoder_attention_mask=batch['target_mask'].to(args.device),
+            #     decoder_input_ids=None,
+            # )
+
+            # Forward pass without labels (since AutoModel doesn't handle them directly)
             outputs = model(
-                batch["source_ids"].to(args.device),
+                input_ids=batch["source_ids"].to(args.device),
                 attention_mask=batch["source_mask"].to(args.device),
-                labels=lm_labels.to(args.device),
-                decoder_attention_mask=batch['target_mask'].to(args.device),
-                decoder_input_ids=None,
+                # decoder_input_ids and decoder_attention_mask are removed
             )
 
-            loss = outputs[0]
-            loss.backward()
-            epoch_train_loss += loss.item()
+            # loss = outputs[0]
+            # loss.backward()
+            # epoch_train_loss += loss.item()
+
+
+            
 
             if (step+1) % acc_step == 0:
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
