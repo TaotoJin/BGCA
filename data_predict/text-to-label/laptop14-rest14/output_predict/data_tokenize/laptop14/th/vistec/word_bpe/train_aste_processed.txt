@@ -1,0 +1,2718 @@
+Input text: ฉัน ชาร์จ ตอนกลางคืน และ ข้าม สายไฟ กับ ฉัน เพราะ อายุการใช้งาน แบตเตอรี่ ที่ ดี
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ดี
+
+Input text: มัน มี คุณภาพ สูง มี นักฆ่า GUI มี เสถียรภาพ อย่าง มาก ขยาย ได้ สูง พร้อม แอปพลิเคชั่น ที่ ดีมาก ใช้งาน ง่าย และ สวยงาม มาก
+Predicted (generated) text: <pos> QUALI <opinion> สูง <pos> GUI <opinion> เสถียรภาพ <pos> แอปพลิเคชั่น <opinion> ดีมาก
+
+Input text: ง่าย ต่อ การ เริ่มต้น และ ไม่ ร้อน เกินไป เท่ากับ แล็ปท็อป เครื่อง อื่น ๆ
+Predicted (generated) text: <pos> เริ่มต้น <opinion> ง่าย
+
+Input text: แล็ปท็อป ที่ ยอดเยี่ยม ที่ มี คุณสมบัติ ที่ ยอดเยี่ยม มากมาย!
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ยอดเยี่ยม
+
+Input text: คืนหนึ่ง ฉัน เปิด สิ่ง ที่ บ้า หลังจาก ใช้ มัน ใน วัน ถัดไป ฉัน เปิด เครื่อง ไม่ มี GUIUI หน้าจอ มืด ทั้งหมด ไฟ คงที่ ไฟ ฮาร์ด ไดรฟ์ มั่นคง และ ไม่ กระพริบ เหมือนปกติ
+Predicted (generated) text: <neg> GUIUI หน้าจอ <opinion> มืด <neg> ไฟ <opinion> คงที่
+
+Input text: อย่างไรก็ตาม ท่าทาง ที่ เบามือ และ พื้นที่ ติดตาม ขนาดใหญ่ ทํา ให้ ต้อง มี เมาส์ ภายนอก ที่ ไม่ จํา เป็น ( เว้นแต่ คุณ จะ เล่น เกม อีกครั้ง )
+Predicted (generated) text: <neg> เมาส์ <opinion> ไม่ จํา
+
+Input text: ฉัน ชอบ วิธี ที่ ชุด ซอฟต์แวร์ ทั้งหมด ทํา งาน ร่วมกัน
+Predicted (generated) text: <pos> ชุด ซอฟต์แวร์ <opinion> ชอบ
+
+Input text: ความเร็ว นั้น เหลือเชื่อ และ ฉัน พอใจ มากกว่า
+Predicted (generated) text: <neg> ความเร็ว <opinion> เหลือเชื่อ <pos> ความเร็ว <opinion> beyond
+
+Input text: ฉัน แทบจะ ไม่ สามารถ ใช้ อุปกรณ์ usb ใด ๆ เพราะ พวกเขา จะ ไม่ เชื่อมต่อ อย่าง ถูกต้อง
+Predicted (generated) text: <neg> อุปกรณ์ usb <opinion> ไม่
+
+Input text: ในที่สุด เมื่อ ฉัน มี ทุกอย่าง ที่ ใช้งาน กับ ซอฟต์แวร์ ทั้งหมด ของ ฉัน ติดตั้ง ฉัน เสียบ droid ของ ฉัน เพื่อ ชาร์จ ใหม่ และ ระบบ ล้มเหลว
+Predicted (generated) text: <neg> Charger <opinion> ล้มเหลว <neg> ระบบ <opinion> ล้มเหลy
+
+Input text: การ จับคู่ มัน กับ iPhone เป็น ความสุข ที่ บริสุทธิ์ - พูดคุย เกี่ยวกับ การ ซิงค์ ที่ ไม่ เจ็บปวด - เคย พา ฉัน ไป ตลอดกาล - ตอนนี้ มัน's snap
+Predicted (generated) text: <pos> ซิงค์ <opinion> ความสุข <pos> ซิงค์ <opinion> non เจ็บปวด
+
+Input text: ฉัน ได้รับ โบนัส เพิ่ม ของ หน้าจอ ขนาด 30 '' HD Monitor ซึ่ง ช่วย ขยาย หน้าจอ และ ทํา ให้ ดวงตา ของ ฉัน สดชื่น!
+Predicted (generated) text: <neu> หน้าจอ <opinion> ขยาย
+
+Input text: เครื่อง ช้า ใน การ บู๊ ต และ บางครั้ง ก็ ล่ม อย่าง สมบูรณ์
+Predicted (generated) text: <neg> เครื่อง <opinion> ช้า <neg> เครื่อง <opinion> สมบูรณ์
+
+Input text: หลังจาก จ่าย เงิน หลาย ร้อย ดอลลาร์ สํา หรับ บริการ นี้ มัน น่า ผิดหวัง ที่ คุณ ไม่ ได้รับ ความช่วยเหลือ หลังจาก ผ่าน ไป หลาย ชั่วโมง
+Predicted (generated) text: <neg> บริการ <opinion> ผิดหวัง
+
+Input text: ฉัน ชอบ ระบบปฏิบัติการ และ ซอฟต์แวร์ ข้อความ ย่อ
+Predicted (generated) text: <neu> ระบบปฏิบัติการ <opinion> ชอบ <pos> ซอฟต์แวร์ <opinion> ชอบ
+
+Input text: สิ่ง ที่ ดี ที่สุด เกี่ยวกับ แล็ปท็อป เครื่อง นี้ คือ ราคา พร้อมกับ คุณสมบัติ ใหม่ ๆ
+Predicted (generated) text: <pos> price <opinion> ดี <pos> คุณสมบัติ <opinion> ใหม่
+
+Input text: จะ ไม่ แก้ไข แก้ไข การคุย โทรศัพท์ AMERICAN WARRANTY Service ออกจาก ศูนย์ โทรศัพท์ นะคะ
+Predicted (generated) text: <neg> WARRANTY Service <opinion> ไม่ แก้ไข
+
+Input text: แต่ ตอนนี้ ฉัน รู้ ว่า มัน มีปัญหา กับ แบรนด์ นี้
+Predicted (generated) text: <neg> แบรนด์ <opinion> มีปัญหา
+
+Input text: ยัง ค่อนข้าง ดัง เมื่อ แฟน ๆ วิ่ง
+Predicted (generated) text: <neg> วิ่ง <opinion> ดัง
+
+Input text: ดูเหมือนว่า จะ มีปัญหา กับ แผ่น ดิสก์ แข็ง ใน บาง ช่วงเวลา ที่ โหลด windows แต่ อ้างว่า ไม่ สามารถ หา ไดรเวอร์ หรือ ไฟล์ ใด ๆ
+Predicted (generated) text: <neg> แผ่น ดิสก์ <opinion> มีปัญหา
+
+Input text: การ พูด ของ เบราว์เซอร์ ก็ มีปัญหา เช่นกัน
+Predicted (generated) text: <neg> เบราว์เซอร์ <opinion> มีปัญหา
+
+Input text: แป้นพิมพ์ ลื่น เกินไป
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ลื่น
+
+Input text: มัน เหมือนกับ 9 พันตัน แต่ ถ้า คุณ สามารถ มองผ่าน มัน ไป ได้ มัน ยอดเยี่ยม มาก!
+Predicted (generated) text: <neu> 9 พันตัน <opinion> ยอดเยี่ยม
+
+Input text: มัน เร็ว พอ ๆ กับ หนึ่ง โปรแกรม เปิด เพราะ มัน เปิด ได้ สิบ หก
+Predicted (generated) text: <neu> โปรแกรม <opinion> เร็ว
+
+Input text: ยัง คงอยู่ ภายใต้ การรับประกัน ดังนั้น โทร หา โตชิบา ไม่ มี ความช่วยเหลือ เลย
+Predicted (generated) text: <neg> โตชิบา <opinion> คงอยู่
+
+Input text: คุณภาพ ที่ น่าทึ่ง!
+Predicted (generated) text: <pos> Quality <opinion> น่าทึ่ง
+
+Input text: หนึ่ง เดือน ที่ผ่านมา เมนบอร์ด บ้า เพิ่ง เสียชีวิต
+Predicted (generated) text: <neg> เมนบอร์ด <opinion> บ้า
+
+Input text: ระบบ มัน มา พร้อมกับ กา รท ํา งาน ไม่ ถูกต้อง ดังนั้น เมื่อ พยายาม แก้ไขปัญหา กับ มัน ก็ เริ่ม ไม่ ทํา งาน เลย
+Predicted (generated) text: <neg> ระบบ <opinion> ไม่ ถูกต้อง
+
+Input text: หลังจากนั้น 4 เดือน เครื่อง ชาร์จ ก็ หยุด ทํา งาน ดังนั้น ฉัน จึง ถูก บังคับ ให้ ออก ไป ซื้อ ฮาร์ดแวร์ ใหม่ เพื่อให้ คอมพิวเตอร์ นี้ ทํา งาน
+Predicted (generated) text: <neg> เครื่อง ชาร์จ <opinion> หยุด
+
+Input text: หาก เว็บไซต์ ค้าง ( ซึ่ง หา ยาก ) มัน ง่าย มาก ที่จะ ออก
+Predicted (generated) text: <neg> เว็บไซต์ <opinion> ง่าย
+
+Input text: ฉัน ยัง เพลิดเพลิน ไป กับ ความจริง ที่ว่า แล็ปท็อป MacBook Pro ของ ฉัน อนุญาต ให้ ฉัน ใช้ Windows 7 ได้ โดย ใช้ โปรแกรม v 4
+Predicted (generated) text: <pos> Windows 7 <opinion> Enjoy <neu> Windows 7 <opinion> Enjoy
+
+Input text: ฉัน ต้องการ ซื้อ การรับประกัน เพิ่มเติม และ พวกเขา ปฏิเสธ เพราะ พวกเขา รู้ ว่า มัน เป็นปัญหา
+Predicted (generated) text: <neg> การรับประกัน <opinion> necessary
+
+Input text: เรา อัปเกรด หน่วย ความ จํา เป็น สี่ กิกะไบต์ เพื่อ ใช้ประโยชน์ จาก บา สเก็ต บอล ที่ เพิ่มขึ้น อย่าง รวดเร็ว
+Predicted (generated) text: <neu> บา สเก็ต บอล <opinion> อัปเกรด
+
+Input text: ความจริง ก็ คือ มัน ร้อน ขึ้น อย่าง รวดเร็ว และ ใช้เวลานาน เกินไป ใน กา รท ํา สิ่ง ต่าง ๆ ง่าย ๆ เช่น เปิด โฟลเดอร์ เอกสาร ของ ฉัน
+Predicted (generated) text: <pos> โฟลเดอร์ เอกสาร <opinion> ร้อน.
+
+Input text: ฉัน ใช้ พีซี มา ตลอด และ รู้สึก หงุดหงิด อย่าง ต่อ เนื่องจาก การกระแทก และ ระบบปฏิบัติการ ที่ ออกแบบ มา ไม่ ดี ซึ่ง ไม่ เคย ง่าย นัก
+Predicted (generated) text: <neg> ระบบปฏิบัติการ <opinion> ไม่ ดี
+
+Input text: จากนั้น ภายใน 5 เดือน เครื่อง ชาร์จ ก็ พุ่ง ออก มาหา ฉัน
+Predicted (generated) text: <neg> เครื่อง ชาร์จ <opinion> พุ่ง ออก
+
+Input text: และ ถ้า คุณ มี iphone หรือ ipod touch คุณ สามารถ เชื่อมต่อ และ ดาวน์โหลด เพลง ด้วย ความเร็ว สูงสุด
+Predicted (generated) text: <pos> ความเร็ว <opinion> สูงสุด
+
+Input text: ฉัน ชอบ ทัชแพด แก้ว
+Predicted (generated) text: <pos> ทัชแพด แก้ว <opinion> ชอบ
+
+Input text: ผม ยังคง ใช้ คอมพิวเตอร์ อีกครั้ง และ พวกเขา เปลี่ยน ฮาร์ด ไดรฟ์ และ บอร์ด แม่ อีกครั้ง.
+Predicted (generated) text: <neu> ฮาร์ด ไดรฟ์ <opinion> เปลี่ยน <neu> บอร์ด แม่ <opinion> เปลี่ยน
+
+Input text: จากนั้น HP ส่ง มัน กลับ มาหา ฉัน ด้วย ฮาร์ดแวร์ ที่ เมา ไม่ สามารถ เชื่อมต่อ ได้
+Predicted (generated) text: <neg> ฮาร์ดแวร์ <opinion> ไม่ สามารถ เชื่อมต่อ
+
+Input text: โอ้ ใช่ อย่า ลืม การจัดส่ง ที่ มี ราคาแพง ไป และ จาก HP
+Predicted (generated) text: <neg> การจัดส่ง <opinion> ลืม
+
+Input text: ทุกอย่าง ใช้งาน ง่าย มาก ซอฟต์แวร์ Mac นั้น ง่าย กว่า ซอฟต์แวร์ Microsoft มาก
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> ง่าย
+
+Input text: และ ถ้า คุณ เขียน จํานวน มาก แก้ไข เป็นปัญหา เนื่องจาก ไม่ มี คีย์ ลบ ไป ข้างหน้า
+Predicted (generated) text: <neg> keys <opinion> problem
+
+Input text: มัน ใช้งาน ง่าย และ การ บริการ สูงสุด จาก Amazon ก็ คือ ความช่วยเหลือ ทาง โทรศัพท์ หรือ โทรศัพท์ ของ พวกเขา - ไป ที่ บาร์ อัจฉริยะ - ไม่ สามารถ เอาชนะ ได้
+Predicted (generated) text: <pos> บาร์ อัจฉริยะ <opinion> ความช่วยเหลือ
+
+Input text: มี อายุการใช้งาน แบตเตอรี่ 10 ชั่วโมง เมื่อ คุณ 'กํา ลัง ท่อง เว็บ และ แก้ไข คํา อีกครั้ง ทํา ให้ เหมาะ สํา หรับ ห้องเรียน หรือ สํา นักงาน และ ในแง่ ของ การ เล่น เกม และ ภาพยนตร์ จะ เล่น'จะ มี อายุการใช้งาน แบตเตอรี่ นาน กว่า 5 ชั่วโมง
+Predicted (generated) text: <neu> แบตเตอรี่ <opinion> นาน
+
+Input text: Acer ตั้งค่า ด้วย แผ่น กู้ คืน ฟรี เมื่อ พร้อม ใช้งาน ตั้งแต่ ฉัน ถาม
+Predicted (generated) text: <neg> แผ่น Gู้คืน ฟรี <opinion> ฟรี
+
+Input text: การ เปิด ใช้งาน ตัว จับเวลา แบตเตอรี่ นั้น ไร้ประโยชน์
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไร้ประโยชน์
+
+Input text: ไม่ จํา เป็น ต้อง ซื้อ การป้องกัน ไวรัส สํา หรับ Mac ซึ่ง ช่วย ฉัน ประหยัดเวลา และ เงิน เป็น จํานวน มาก
+Predicted (generated) text: <pos> จํานวน <opinion> ประหยัด
+
+Input text: แต่ เรา จ่าย สํา หรับ บลู ทู ธ และ ไม่ มี เลย
+Predicted (generated) text: <neg> บลู ทู ธ <opinion> ไม่
+
+Input text: มัน น่าเชื่อถือ เสมอ ไม่ เคย bugged และ ตอบสนอง ได้ดี
+Predicted (generated) text: <pos> ตอบสนอง <opinion> น่าเชื่อถือ
+
+Input text: พวกเขา ต้อง เปลี่ยน เมนบอร์ด ใน เดือน เมษายน
+Predicted (generated) text: <neu> เมนบอร์ด <opinion> เปลี่ยน
+
+Input text: นอกจากนี้ หาก คุณ ต้องการ พูดคุย กับ support ที่ Microsoft มี ประจุ ซึ่ง ฉัน เชื่อ ว่า การปล้น เนื่องจาก คุณ ถูก เรียก เก็บ จํานวน มหาศาล สํา หรับ ระบบ ที่ ออกแบบ มา ไม่ ดี ซึ่ง คน ส่วนใหญ่ จะ ไป กับ XP ถ้า พวกเขา ทํา ได้
+Predicted (generated) text: <neg> ระบบ <opinion> powerful
+
+Input text: ฉัน รัก WIndows 7 ที่ ใหญ่โต กว่า Vista
+Predicted (generated) text: <pos> WIndows 7 <opinion> รัก <pos> Vista <opinion> ใหญ่โต
+
+Input text: ลูกค้า ของ Dell ก่อ ความเสียหาย เป็นการ ดูถูก ลูกค้า คน หนึ่ง ที่ จ่าย เงิน ที่ ดี สํา หรับ ผลิตภัณฑ์ ต่ํา
+Predicted (generated) text: <neg> ผลิตภัณฑ์ <opinion> ความเสียหาย
+
+Input text: หลังจาก พูดคุย กับ พนักงานขาย ที่ มีความรู้ มาก ฉัน เลือก MacBook Pro ผ่าน MacBook สี ขาว
+Predicted (generated) text: <pos> สี <opinion> ขาว
+
+Input text: หาก คุณ ต้องการ ระบบ iSlink จริงๆ และ ไม่ จํา เป็น ต้อง เรียก ใช้ แอพพลิเคชัน Windows ให้ ไป กับ Apple ;
+Predicted (generated) text: <neg> Windows <opinion> iSlink
+
+Input text: คุณ ต้อง ใช้ เงิน gobs กับ โปรแกรม ไวรัส ที่ ไม่ มีประสิทธิภาพ ที่ ต้อง ได้รับ การ อัปเดต ทุก เดือน และ ที่ ระบาย กระเป๋า เงิน ของ คุณ อย่าง ต่อเนื่อง
+Predicted (generated) text: <neg> โปรแกรม ไวรัส <opinion> ไม่ มีประสิทธิภาพ
+
+Input text: สี ของ มัน ก็ เจ๋ง ดี
+Predicted (generated) text: <pos> สี <opinion> เจ๋ng ดี
+
+Input text: ปุ่ม ทั้งหมด อยู่ ใน สถานที่ แปลก ๆ และ มี ขนาดใหญ่ เกินไป สํา หรับ วิธีการ ออกแบบ
+Predicted (generated) text: <neg> ปุ่ม <opinion> แปลก  ปุ่ม <opinion> larger
+
+Input text: ใช่ Mac มีเงิน มากกว่า แล็ปท็อป ทั่วไป แต่ ไม่ มี การ เปรียบเทียบ ใน สไตล์ ความเร็ว และ ปัจจัย ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> ความเร็ว <opinion> ยอดเยี่ยม
+
+Input text: และ ไม่ต้อง พูดถึง หลังจาก ใช้งาน มา สอง สาม เดือน หรือ มากกว่า นั้น แบตเตอรี่ จะ ช้า น้อยลง และ เก็บ ประจุ ไว้ น้อย จนกว่า คุณ จะ CA และ อย่า ถอด ปลั๊ก ทิ้ง ไว้ นาน กว่า 5 นาที โดยที่ สิ่ง ที่ กํา ลัง จะ ตาย
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ช้า <neg> capacity <opinion> น้อย
+
+Input text: การ ซื้อ ที่ ดี ที่สุด - 5 ดาว + + ( การ ขายบริการ เคารพ ชาย ชรา ที่ ไม่ คุ้นเคย กับ เทคโนโลยี ) DELL COMPUTERS - DELL SUPPORT 3 ดาว - เป็นหนี้ ฉัน สอง คน
+Predicted (generated) text: <neg> DELL SUPPORT 3 ดาว <opinion> คุ้น
+
+Input text: ไม่ มี ข้อ ร้องเรียน กับ เดสก์ท็อป ของ พวกเขา และ อาจ เป็น เพราะ มัน ตั้งอยู่ บน เดสก์ท็อป ของ คุณ และ คุณ ทํา และ ไม่ ได้ พกพา ซึ่ง อาจ บด ฮาร์ด ไดรฟ์ หรือ เมนบอร์ด
+Predicted (generated) text: <neg> เดสก์ท็อป <opinion> ไม่ <neg> ฮาร์ด เมนบอร์ด <opinion> not have
+
+Input text: ใช่ พวกเขา มี ค่าใช้จ่าย มากขึ้น แต่ พวกเขา มากกว่า ทํา เพื่อ ความเร็ว คุณภาพ การ ก่อสร้าง และ อายุการใช้งาน ที่ ยาวนาน
+Predicted (generated) text: <neg> ความเร็ว capacity <opinion> ยาวนาน <neg> ก่อสร้าง <opinion> ยาวนาน <pos> อายุการใช้งาน <opinion> ยาวนาน
+
+Input text: แน่นอน ว่า มัน มี ราคาแพง กว่า แล็ปท็อป พีซี ส่วนใหญ่ แต่ ใช้งาน ง่าย ความปลอดภัย และ ปัญหา น้อยที่สุด ที่ เกิดขึ้น ได้ ทํา ให้ มัน คุ้มค่า กับ แท็บเล็ต
+Predicted (generated) text: <neg> ความปลอดภัย <opinion> น้อยที่สุด
+
+Input text: มัน ติด ตลอดเวลา ที่ คุณ ใช้ มัน และ คุณ ต้อง แตะ มัน ต่อไป เพื่อให้ มัน ทํา งาน ได้
+Predicted (generated) text: <neu> งาน <opinion> ติด
+
+Input text: ซอฟต์แวร์ ข้อความ ตอบ กลับมา มากมาย
+Predicted (generated) text: <pos> ซอฟต์แวร์ ข้อความ <opinion> มากมาย
+
+Input text: ฉัน หวัง ว่า มัน จะ มี เว็บแคม แม้ว่า มัน จะ สมบูรณ์แบบ!
+Predicted (generated) text: <neu> เว็บแคม <opinion> สมบูรณ์แบบ
+
+Input text: อีก สิ่ง หนึ่ง ที่ ฉัน อาจ เพิ่ม ได้ คือ อายุการใช้งาน แบตเตอรี่ นั้น ยอดเยี่ยม
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: ข้อเสียเปรียบ อย่างหนึ่ง ฉัน หวัง ว่า กุญแจ จะ แบ็ค ไลท์
+Predicted (generated) text: <neg> กุญแจ <opinion> เสียเปรียบ
+
+Input text: ฉัน หวัง ว่า ระดับเสียง จะ ดัง ขึ้น และ เมาส์ ก็ ไม่ แตก หลังจาก ผ่าน ไป เพียง หนึ่ง เดือน
+Predicted (generated) text: <neg> เสียง <opinion> ดัง ขึ้น <neg> เมาส์ <opinion> ไม่ แตก
+
+Input text: ฉัน เล่น เกม ทั่วไป ออนไลน์ จํานวน มาก และ ทัชแพด ตอบสนอง ได้ ดีมาก
+Predicted (generated) text: <pos> ทัชแพด ตอบสนอง <opinion> ดีมาก
+
+Input text: มัน เป็น ทุกอย่าง ที่ ฉัน'หวัง ว่า มัน จะ มาจาก รูปลักษณ์ และ ความรู้สึก จาก มุมมอง แต่อย่างใด ก็ แข็งแกร่ง กว่า เล็กน้อย
+Predicted (generated) text: <pos> รูปลักษณ์ <opinion> แข็งแกร่ง <pos> ความรู้สึก <opinion> แข็งแกร่ง
+
+Input text: ความจริง ที่ว่า ฉัน ไม่ ชอบ เกี่ยวกับ แอปเปิ้ล คือ พวกเขา มักจะ ใช้ ซาฟารี และ ฉัน ไม่ ใช้ ซาฟารี แต่ หลังจาก ฉัน ติดตั้ง safari และ ฉัน ก็ รัก ทุก ๆ เรื่อง
+Predicted (generated) text: <neg> ซาฟารี <opinion> ไม่ use <neg> safari <opinion> รัก
+
+Input text: แบตเตอรี่ ที่ ยอดเยี่ยม ความเร็ว จอแสดงผล
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม <pos> ความเร็ว <opinion> ยอดเยี่ยม
+
+Input text: การจัดส่ง นั้น รวดเร็ว และ ฉัน จะ ไม่ ลังเล ที่จะ ซื้อ แล็ปท็อป นี้ อีกครั้ง
+Predicted (generated) text: <pos> การจัดส่ง <opinion> รวดเร็ว
+
+Input text: ฉัน ประทับใจ กับ อายุการใช้งาน แบตเตอรี่ และ ประสิทธิภาพ ของ หน่วย ความ จํา เพียง เล็กน้อย
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ประทับใจ <pos> ประสิทธิภาพ <opinion> ประทับใจ
+
+Input text: แอปพลิเคชั่น ยอดเยี่ยม รวมถึง การทดแทน สํา หรับ Microsoft Office
+Predicted (generated) text: <pos> แอปพลิเคชั่น <opinion> ยอดเยี่ยม <pos> Microsoft Office <opinion> ทดแทน
+
+Input text: ฉัน ได้รับ มัน กลับมา และ เว็บแคม เว็บแคม ของ ฉัน และ ไมค์ ของ ฉัน กํา ลัง ลัดวงจร ทุกครั้งที่ ฉัน สัมผัส ฝา ( จิตใจ คุณ นี่ เป็น วิธี ของ ฉัน ใน การสื่อสาร กับ คู่หมั้น ของ ฉัน ที่ ใช้งาน ) แต่ ฉัน ได้รับความเดือดร้อน ผ่าน มัน และ จะ ปิด มัน ฉัน ต้อง รีเซ็ต คอมพิวเตอร์ เพื่อให้ สามารถ ใช้ กล้อง และ ไมค์ ของ ฉัน ได้ ทุกเวลา ที่ พวกเขา ออก ไป
+Predicted (generated) text: <neg> กล้อง <opinion> ลัดวงจร
+
+Input text: คณะกรรมการ มี ขั้ว ต่อ ที่ ไม่ ดี ด้วย แหล่ง จ่ายไฟ และ หลังจาก การรับประกัน หมดอายุ การ จ่ายไฟ จะ เริ่ม มีปัญหา
+Predicted (generated) text: <neg> จ่ายไฟ <opinion> มีปัญหา
+
+Input text: พ่อ ของ ฉัน มี หนึ่ง ใน สินค้า ชิ้น แรก ๆ ที่ ฉัน เคย ทํา ใช่ มัน ช้า ไป หน่อย ตอนนี้ แต่ ก็ ยัง ใช้งาน ได้ดี และ ฉัน เชื่อมต่อ กับ อี เธอร์ เน็ต ของ ฉัน!
+Predicted (generated) text: <pos> ใช้งาน <opinion> ได้ดี
+
+Input text: ส่วนใหญ่ ฉัน ชอบ คุณสมบัติ การลาก และ หยด
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ชอบ <neg> operating <opinion> ชอบ
+
+Input text: โอ้ ใช่ และ ถ้า เว็บแคม แฟนซี แตก เดา ว่า คุณ ต้อง ส่ง ใคร ไป ซ่อม
+Predicted (generated) text: <neg> แฟนซี <opinion> แตก
+
+Input text: ฉัน สั่งซื้อ ผ่าน a. com ซึ่ง ช่วย ให้ ฉัน ประหยัด ภาษี การ ขาย ที่ ฉัน จะ ได้ ซื้อ ใน ท้องถิ่น
+Predicted (generated) text: <pos> ภาษี <opinion> ประหยัด
+
+Input text: แน่นอน ฉัน ยังมี แพ็คเกจ ซอฟต์แวร์ ที่ ยอดเยี่ยม มากมาย ที่มา ฟรี รวมถึง iMovie, iMovie และ iMovie
+Predicted (generated) text: <pos> แพ็คเกจ ซอฟต์แวร์ <opinion> ยอดเยี่ยม <pos> iMovie <opinion> free <pos> iMovie <opinion> ยอดเยี่ยม
+
+Input text: หน้าจอ มี ขนาดใหญ่ มาก และ ชัดเจน ด้วย สี และ ความ ละเอียด ที่ น่าทึ่ง
+Predicted (generated) text: <pos> หน้าจอ <opinion> ขนาดใหญ่ <pos> สี <opinion> ชัดเจน <pos> ละเอียด <opinion> น่าทึ่ง
+
+Input text: หลังจาก เป็นเจ้าของ MacBook Pro มา นาน กว่า หนึ่ง ปี จอภาพ ก็ ตาย อย่าง สมบูรณ์
+Predicted (generated) text: <neg> จอภาพ <opinion> ตาย
+
+Input text: ตอนนี้ iTunes แบรนด์ ได้ กลายเป็น ศัพท์ ที่ ฝัง แน่น ใน พจนานุกรม ของ เรา แต่ โปรด จํา ไว้ ว่า Apple เริ่มต้น ใหม่ ทั้งหมด
+Predicted (generated) text: <pos> iTunes แบรนด์ <opinion> ศัพท์
+
+Input text: ขนาด : ฉัน รู้ ว่า 13 มี ขนาดเล็ก ( โดยเฉพาะอย่างยิ่ง สํา หรับ การ เปลี่ยน เดสก์ท็อป ) แต่ ด้วย จอภาพ ภายนอก ใคร จะ สนใจ
+Predicted (generated) text: <neg> ขนาด <opinion> ขนาดเล็ก
+
+Input text: จอแสดงผล สว่าง อย่าง ไม่ น่าเชื่อ สว่าง กว่า supports ของ ฉัน และ คมชัด มาก
+Predicted (generated) text: <neg> จอแสดงผล <opinion> สว่าง <neg> display <opinion> คมชัด
+
+Input text: เมนู เริ่มต้น ไม่ ใช่ สิ่ง ที่ ง่าย ที่สุด ใน กา รน ํา ทาง เนื่องจาก ซ้อน
+Predicted (generated) text: <neg> เมนู <opinion> ไม่ ใช่ <neg> เมนู <opinion> ง่าย
+
+Input text: ชอบ พื้นผิว ที่ มี พื้นผิว ซึ่ง ไม่ มี รอยนิ้วมือ
+Predicted (generated) text: <pos> พื้นผิว <opinion> ชอบ <neg> พื้นผิว <opinion> non have
+
+Input text: หน้าจอ สว่าง และ คีย์บอร์ด ก็ดี ;
+Predicted (generated) text: <pos> หน้าจอ <opinion> สว่าง <pos> คีย์บอร์ด <opinion> ก็ดี
+
+Input text: แต่ เครื่อง นั้น ยอดเยี่ยม และ iLife ดีมาก และ ฉัน ก็ รัก Snow Leopard X
+Predicted (generated) text: <pos> เครื่อง <opinion> ยอดเยี่ยม <pos> iLife <opinion> loved
+
+Input text: ฉัน คิด ว่า การเรียนรู้ Mac OS จะ ยาก แต่ จะ หยิบ ขึ้น มา ได้ ง่าย หาก คุณ คุ้นเคย กับ พีซี
+Predicted (generated) text: <neg> Mac OS <opinion> ยาก <neg> พีซี <opinion> ยาก
+
+Input text: มัน ใช้งาน ง่าย และ มี น้ํา หนัก เบา
+Predicted (generated) text: <pos> น้ํา <opinion> หนัก
+
+Input text: พวกเขา ยังมี อายุการใช้งาน ที่ ยาวนาน กว่า คอมพิวเตอร์ เครื่อง อื่น ๆ ( ฉัน มี เพื่อน หลาย คน ที่ ยังคง ใช้ Apple X 2 P รุ่นเก่า )
+Predicted (generated) text: <pos> อายุการใช้งาน <opinion> ยาวนาน
+
+Input text: หาก คุณ ตรวจสอบ คุณ จะ พบ โน้ตบุ๊ค เครื่อง เดียว กันที่ มี พอร์ต ที่ หาย ไป ด้านบน และ โปรเซสเซอร์ AMD หรือ Intel แบบ คู่
+Predicted (generated) text: <neg> พอร์ต <opinion> หาย
+
+Input text: แล็ปท็อป เครื่อง นี้ ราคา ดี และ ดู เพรียวบาง
+Predicted (generated) text: <pos> ราคา <opinion> ดี <pos> แล็pท็อป เครื่อง <opinion> เพรียวบาง
+
+Input text: ฉัน ชอบ คีย์บอร์ด ที่ มี แป้น ประเภท chiclet
+Predicted (generated) text: <pos> คีย์บอร์ด <opinion> ชอบ <pos> แป้น ประเภท <opinion> chiclet
+
+Input text: ฉัน ซื้อ ตัว ป้องกัน สํา หรับ แผ่น กุญแจ และ ใช้งาน ได้ดี :)
+Predicted (generated) text: <neu> แผ่น กุญแจ <opinion> ได้ดี
+
+Input text: สายไฟ แบบ แม่เหล็ก - สาย ชาร์จ นั้น ยอดเยี่ยม ( ฉัน ยัง วาง ไว้ ใน การ ทดสอบ โดยบังเอิญ ) - นวัตกรรม ที่ ยอดเยี่ยม!
+Predicted (generated) text: <pos> สายไฟ <opinion> ยอดเยี่ยม <pos> สาย ชาร์จ <opinion> ยอดเยี่ยม
+
+Input text: ในขณะที่ ความสง่างาม ใน การ ประหยัด ของ Apple คือ ความจริง ที่ว่า อย่าง น้อย พวกเขา ก็ ยืน อยู่ ข้างหลัง ผลิตภัณฑ์ ของ พวกเขา และ การ สนับสนุน ของ พวกเขา ก็ ยอดเยี่ยม มัน จะ ดี ถ้า ผลิตภัณฑ์ ของ พวกเขา มี ความน่าเชื่อถือ มากขึ้น เพื่อ แสดงให้เห็น ถึง พรีเมี่ยม
+Predicted (generated) text: <pos> ผลิตภัณฑ์ <opinion> ยอดเยี่ยม <neg> ผลิตภัณฑ์ <opinion> น่าเชื่อถือ
+
+Input text: สิ่ง เดียว ที่ ดี คือ คุณภาพ กราฟิก
+Predicted (generated) text: <pos> QUALI กราฟิก <opinion> ดี
+
+Input text: ปัญหา ที่ พบ บ่อย ที่สุด คือ การ ทุจริต เวอร์ชัน เสียหาย ของ browser ที่ สามารถ ทํา ให้ เบราว์เซอร์ ไร้ประโยชน์ ได้
+Predicted (generated) text: <neg> เวอร์ชัน <opinion> เสียหาย <neg> browser <opinion> ไร้ประโยชน์
+
+Input text: สี หลุด ง่าย เนื่องจาก คีย์บอร์ด อยู่ ไกล กว่า ปกติ
+Predicted (generated) text: <neg> สี <opinion> หลุด ง่าย
+
+Input text: ร้านค้า รู้สึก เป็นเกียรติ การรับประกัน ของ พวกเขา และ แสดงความคิดเห็น ว่า พวกเขา ทํา และ ไม่ ได้ แนะ นํา แบรนด์ HP เนื่องจาก มีปัญหา กับ การ เปิดตัว ของ พวกเขา
+Predicted (generated) text: <pos> warranty <opinion> isเกียรติ
+
+Input text: พวกเขา ส่ง กล่อง ออกมา ทันที สํา หรับ ฉัน ที่จะ ส่ง ใน คอมพิวเตอร์ ของ ฉัน พวกเขา จ่าย ค่า ไปรษณีย์ และ อะไร ก็ได้ แต่ เมื่อ ฉัน ได้ คอมพิวเตอร์ กลับมา มัน ก็ ยังคง ไม่ ทํา งาน และ ตอนนี้ ไดรฟ์ ซีดี ของ ฉัน กํา ลัง อ่าน อะไร!
+Predicted (generated) text: <neg> กล่อง <opinion> ไม่ ทํา งาน
+
+Input text: แต่ ขนาด หน้าจอ ไม่เลว สํา หรับ การ เรียก ดู อีเมล และ การท่อง เว็บ
+Predicted (generated) text: <neg> หน้าจอ <opinion> ไม่เลว
+
+Input text: บน G 4 ของ ฉัน ฉัน จะ ไม่ ใช้ แทร็ค แพ ด ที่ ฉัน จะ ใช้ เมาส์ ภายนอก เพราะ ฉัน ไม่ ชอบ แทร็ค แพ ด
+Predicted (generated) text: <neg> แทร็ค แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ ทํา ได้ ไม่ ดี กับ เกม บาง เกม มัน CA และ ไม่ ได้ เล่น บาง เกม และ มัน ร้อน เกินไป ในขณะที่ เล่น เกม
+Predicted (generated) text: <neg> เกม <opinion> ไม่ ดี
+
+Input text: ใช่ แน่นอน กางเกง super แก้ ไขมัน ตอนนี้ ') ซอฟต์แวร์ - เมื่อ เทียบ กับ ต้นปี 2011 ฉบับ ที่ ฉัน เห็น แอปพลิเคชั่น แบบ inbuilt crashing และ มัน ทํา ให้ ฉัน ส่ง รายงาน ไป ยัง Apple ( ซึ่ง ฉันท ํา ทันที )
+Predicted (generated) text: <neg> แอปพลิเคชั่น <opinion> crashing
+
+Input text: ร่างกาย ทํา ค่อนข้าง ถูก ดังนั้น มัน จะ น่าสนใจ ที่จะ ดู ว่า นาน แค่ ไหน
+Predicted (generated) text: <neg> ทํา <opinion> ถูก
+
+Input text: ด้วย mac คุณ ทํา และ ไม่ต้อง กังวล เกี่ยวกับ ซอฟต์แวร์ ป้องกัน ไวรัส หรือ ไฟร์วอลล์ มัน ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> ยอดเยี่ยม <pos> ไฟร์วอลล์ <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ดีใจ มาก ที่ ฉัน ซื้อ มัน เน็ตบุ๊ก ที่ ยอดเยี่ยม ราคา ต่ํา
+Predicted (generated) text: <pos> price ต่ํา <opinion> wonderful
+
+Input text: ทีม Apple ยัง ช่วย คุณ ได้ เป็น อย่าง ดี เมื่อ เลือก คอมพิวเตอร์ เครื่อง ใด ที่ เหมาะ สํา หรับ คุณ :)
+Predicted (generated) text: <pos> คอมพิวเตอร์ เครื่อง <opinion> ดี
+
+Input text: ฉัน คิด ว่า ส่วนหนึ่ง ของ ปัญหา กับ คอมพิวเตอร์ เครื่อง นี้ คือ Vista แต่ ฉัน รู้ ว่า Vista คือ และ ไม่ ใช่ ปัญหา ทั้งหมด เพราะ การ ซื้อ ล่าสุด ของ ฉัน คือ Acer ของ ฉัน และ ยังมี Vista ( ฉัน ควร รอ สอง สาม เดือน เพื่อ รับ ระบบปฏิบัติการ ต่อไป )
+Predicted (generated) text: <neg> Vista <opinion> ปัญหา
+
+Input text: การ แชท วิดีโอ เป็น สิ่ง เดียว ที่ ดี - เกี่ยวกับ เรื่อง นี้ แต่ ฉัน แน่ใจ ว่า เมื่อ พวกเขา สั่งซื้อ รุ่น ต่อไป ใน macbook Book คุณภาพ ของ มัน จะ ดีกว่า
+Predicted (generated) text: <pos> แชท วิดีโอ <opinion> ดี
+
+Input text: ประสบการณ์ ทั้งหมด นั้น ไร้สาระ ที่ เรา ส่ง ไป และ หลังจากที่ พวกเขา บอก เรา ว่า เรา ต้อง จ่าย $ 175 เพื่อ แก้ ไขมัน เรา เป็น เหมือน เรา จะ ใช้ เมาส์ พกพา ซึ่ง จะ ถูก กว่า แต่ พวกเขา ปฏิเสธ ที่จะ ส่ง แล็ปท็อป กลับ จนกว่า เรา จะ จ่าย $ 175 และ ได้รับ การ แก้ไข
+Predicted (generated) text: <neg> เมาส์ <opinion> ไร้สาระ
+
+Input text: ช่องระบายอากาศ พัดลม ด้าน ข้าง ดังนั้น จึง ไม่ จํา เป็น ต้อง ใช้ แผ่น รอง ระบาย ความร้อน คุณสมบัติ ที่ ยอดเยี่ยม!
+Predicted (generated) text: <neg> ช่องระบายอากาศ <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ใช้ mac ของ ฉัน ตลอดเวลา ฉัน ชอบ ซอฟต์แวร์ วิธี ที่ ต้อง ใช้เวลา ใน การ โหลด สิ่ง ต่าง ๆ มัน ใช้งาน ง่าย และ ส่วนใหญ่ ของ วิธี ที่ คุณ ทํา และ ไม่ต้อง กังวล เกี่ยวกับ ไวรัส
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> ชอบ <pos> operating <opinion> ง่าย
+
+Input text: ทํา ให้ ฉัน เสียเวลา อย่าง น้อย 8 ชั่วโมง ใน การ ติดตั้ง
+Predicted (generated) text: <neg> ติดตั้ง <opinion> น้อย
+
+Input text: มัน เกิน ความคาดหมาย ของ ฉัน สํา หรับ การ จัดเก็บ พลังงาน และ พลังงาน 2
+Predicted (generated) text: <neg> พลังงาน <opinion> เกิน
+
+Input text: ฉัน สนุก กับ มัน และ คุณภาพ ที่ ให้ มา นั้น ยอดเยี่ยม มาก!
+Predicted (generated) text: <pos> quality <opinion> ยอดเยี่ยม
+
+Input text: ไม่ ว่า มัน จะ พูด MacBook Pro ของ ฉันท ํา ให้ ฉัน ไป กับ อายุการใช้งาน แบตเตอรี่ ที่ ยาวนาน และ ความเร็ว ที่ ชัดเจน
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยาวนาน <pos> ความเร็ว <opinion> lasting
+
+Input text: ระบบปฏิบัติการ นี้ ยัง ใช้งาน ง่าย แม้ สํา หรับ ผู้ ที่ สลับ จาก พีซี ด้วย การฝึกฝน เล็กน้อย คุณ สามารถ ใช้ประโยชน์ อย่าง เต็มที่ ของ ระบบปฏิบัติการ นี้!
+Predicted (generated) text: <neg> ระบบปฏิบัติการ <opinion> ใช้งาน ง่าย
+
+Input text: iTunes เป็น โปรแกรม iTunes ที่ มีประโยชน์ และ จํา เป็น สํา หรับ ทุกคน ที่ มี iPod
+Predicted (generated) text: <pos> iTunes <opinion> มีประโยชน์ <pos> iTunes <opinion> useful
+
+Input text: โปรแกรม ที่ ใช้งาน ง่าย และ รวดเร็ว ใน การประมวลผล คอมพิวเตอร์ เครื่อง นี้ ทํา งาน ได้ อย่าง มีเสน่ห์
+Predicted (generated) text: <pos> โปรแกรม <opinion> ง่าย <pos> operating <opinion> รวดเร็ว
+
+Input text: ฝ่ายสนับสนุน ด้าน เทคนิค บอก ฉัน ว่า ปัญหา หลัง คือ ปัญหา แหล่ง จ่ายไฟ และ ได้ เสนอ ให้ แก้ไข หาก มัน เกิดขึ้น อีกครั้ง
+Predicted (generated) text: <neg> แหล่ง จ่ายไฟ <opinion> ปัญหา
+
+Input text: ย่อ สํา หรับ เช่นเดียวกับ เน็ตบุ๊ก โดย ไม่ต้อง เสียสละ ขนาด
+Predicted (generated) text: <pos> ขนาด <opinion> ไม่ต้อง เสียสละ
+
+Input text: Windows XP SP 2 ทํา ให้ เกิด ปัญหา มากมาย บน คอมพิวเตอร์ ดังนั้น ฉัน จึง ต้อง ลบ ออก
+Predicted (generated) text: <neg> Windows XP SP2 <opinion> ปัญหา
+
+Input text: นี่ เป็น ครั้ง ที่สอง ของ ฉัน และ ปัญหา เดียวกัน วิดีโอ การ์ด ที่ ไม่ ดี โดยรวม นี้ จะ เป็น ครั้ง ที่สอง ของ ฉัน ที่ ส่งคืน แล็ปท็อป นี้ กลับ ไป ซื้อ ที่ ดี ที่สุด
+Predicted (generated) text: <neg> วิดีโอ การ์ด <opinion> ปัญหา <neg> วิดีโอ การ์ด <opinion> non ดี
+
+Input text: ด้วย กราฟิก ที่ น่ากลัว และ มั่นใจ ความปลอดภัย มัน สมบูรณ์แบบ!
+Predicted (generated) text: <pos> กราฟิก <opinion> น่ากลัว <pos> safety <opinion> สมบูรณ์
+
+Input text: แล็ปท็อป ติดตั้ง ง่าย มาก
+Predicted (generated) text: <pos> ติดตั้ง <opinion> ง่าย
+
+Input text: ฉัน แนะ นําสํา หรับ การประมวลผล คํา และ ผู้ใช้ อินเทอร์เน็ต
+Predicted (generated) text: <neu> Apple <opinion> แนะ <pos> ประมวลผล คํา <opinion> necessary
+
+Input text: เนื่องจาก ฉัน มี คอมพิวเตอร์ เครื่อง นี้ ฉัน ใช้ แทร็ค แพ ด เท่านั้น เพราะ มันดี และ ราบรื่น มาก
+Predicted (generated) text: <pos> แทร็ค แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ
+
+Input text: อายุการใช้งาน แบตเตอรี่ ที่ ยาวนาน ขึ้น จะ ยอดเยี่ยม - แต่ พบ ว่า'ข้อมูล จํา เพาะ ค่อนข้าง ง่าย
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยาวนาน <pos> warranty <opinion> ยอดเยี่ยม
+
+Input text: ใคร ไม่ สามารถ รัก เครื่องเล่น ดีวีดี ได้, HD และ ชิป กราฟิก ใหม่ พอสมควร? เมื่อ ฉัน ค้นพบ ใน เร็ว ๆ นี้ ก็ มีเหตุผล ว่า เครื่อง ใด - โซนี่ และ โตชิบา มี ค่าใช้จ่าย มากขึ้น : พวกเขา ใช้ ส่วนประกอบ streams ที่ เร็ว กว่า และ จบ ลง นาน กว่า มาก
+Predicted (generated) text: <neg> expens <opinion> มากขึ้น <pos> ส่วนประกอบ streams <opinion> เร็ว <pos> ชิp กราฟิก <opinion> ใหม่
+
+Input text: ตัว คอมพิวเตอร์ เอง นั้น รวดเร็ว ทํา งาน ได้ อย่าง ราบรื่น และ ไม่ มีปัญหา
+Predicted (generated) text: <pos> ทํา งาน <opinion> รวดเร็ว <pos> ทํา งาน <opinion> ราบรื่น
+
+Input text: เช่นเดียวกับ ราคา และ การใช้งาน
+Predicted (generated) text: <pos> price <opinion> Similar <pos> การใช้งาน <opinion> Similar
+
+Input text: แบรนด์ นี้ มัวหมอง ใน ใจ ของ ฉัน
+Predicted (generated) text: <neg> แบรนด์ <opinion> มัวหมอง
+
+Input text: นี่ น่าจะเป็น เพราะ สายดิน ไม่ ดี และ การ แยก ระหว่าง ส่วนประกอบ และ ฉัน หวัง ว่า มัน จะ สามารถ แก้ไข ได้ ด้วย ห่วง ดิน - แต่ ฉัน ยัง คาดหวัง คุณภาพ ผลิตภัณฑ์ ที่ ดีกว่า สํา หรับ ช่วง ราคา นี้
+Predicted (generated) text: <neg> สายดิน <opinion> ไม่ ดี
+
+Input text: ฉัน มี มัน ประมาณ 1 1 / 2 และ ใช่ ฉัน มีปัญหา กับ การรับประกัน หนึ่ง เดือน
+Predicted (generated) text: <neg> การรับประกัน <opinion> มีปัญหา
+
+Input text: เมื่อ เปิด แล้ว ขอบ ชั้น นํา จะ แหลมคม
+Predicted (generated) text: <neg> ขอบ ชั้น <opinion> แหลมคม
+
+Input text: เสียง สูงสุด ไม่ ดัง เท่าที่ควร
+Predicted (generated) text: <neg> เสียง <opinion> ไม่ ดัง
+
+Input text: ฉัน โหลด windows 7 ผ่าน Windows และ ใช้งาน ได้ อย่าง ไร้ ที่ ติ!
+Predicted (generated) text: <neg> windows 7 <opinion> ไร้ ที่ ติ
+
+Input text: แล็ปท็อป ที่ ยอดเยี่ยม สํา หรับ ราคา ใช้งาน ได้ดี กับ เกม แพ็ค แอ็คชั่น
+Predicted (generated) text: <pos> ราคา <opinion> ยอดเยี่ยม <pos> แพ็ค Audition <opinion> ได้ดี
+
+Input text: แม้ว่า ราคา จะ สูง กว่า แล็ปท็อป Dell แต่ Amazon นั้น คุ้มค่า แป้ง
+Predicted (generated) text: <neg> ราคา <opinion> higher
+
+Input text: แล้ว ถ้า แล็ปท็อป / โทรศัพท์มือถือ ดู เก๋ และ เท่ห์? หลังจาก การ สนับสนุน การ ขาย นั้น แย่มาก
+Predicted (generated) text: <neg> ขาย <opinion> แย่มาก
+
+Input text: ฉัน เกลียด หน้าจอ จอแสดงผล และ ฉันท ํา ทุกอย่าง ที่ ฉัน สามารถ ทํา ได้
+Predicted (generated) text: <neg> หน้าจอ จอแสดงผล <opinion> เกลียด <neg> หน้าจอแสดงผล <opinion> เกลียด
+
+Input text: ฉัน ชอบ ความ เป็น อาร์ เคด ด้วย แต่ สิ่ง เหล่านี้ เป็น ความจริง - มี เพียง สอง สิ่ง ที่ ฉัน ชอบ เกี่ยวกับ แล็ปท็อป เครื่อง นี้
+Predicted (generated) text: <pos> อาร์ เคด <opinion> ชอบ
+
+Input text: ยัง ไม่ จํา เป็น ต้อง ใช้การ สนับสนุน ลูกค้า ใด ๆ กับ สิ่ง นี้ ดังนั้น ฉัน จึง เป็น สิ่ง ที่ ยอดเยี่ยม ซึ่ง กระโจน และ ขอบเขต ข้างหน้า ของ พีซี ใน ความคิด ของ ฉัน
+Predicted (generated) text: <pos> พีซี <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ให้ มัน กับ ลูกสาว ของ ฉัน เพราะ ฉัน เพิ่ง เกลียด หน้าจอ เกลียด ที่ ไม่ มี ไดรฟ์ ซีดี อย่าง น้อย ก็ เล่น ซีดี เมื่อ ฉัน ต้องการ ฟังเพลง และ ทํา การบ้าน
+Predicted (generated) text: <neg> หน้าจอ <opinion> เกลียด <neg> ไดรฟ์ ซีดี <opinion> น้อย <neg>.
+
+Input text: มัน ทํา งาน เงียบ มาก เช่นกัน ซึ่ง เป็น ข้อดี
+Predicted (generated) text: <neg> งาน <opinion> เงียบ
+
+Input text: แต่ มัน มีข้อบกพร่อง ใน การ ออกแบบ ที่ สําคัญ
+Predicted (generated) text: <neg> ออกแบบ <opinion> บกพร่อง
+
+Input text: มัน หนัก เทอะทะ และ ยาก ที่จะ พกพา เพราะ ขนาด
+Predicted (generated) text: <neg> ขนาด <opinion> หนัก <neg> เทอะทะ <opinion> ยาก
+
+Input text: เกม ที่รวม มา เป็น เกม ที่ ดีมาก
+Predicted (generated) text: <pos> เกม <opinion> ดีมาก
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ จะ อยู่ กับ คุณ อย่าง น้อย 7 ปี ซึ่ง เป็น ชีวิต ที่ น่าทึ่ง และ ทนทาน ผ่าน อิเล็กทรอนิกส์
+Predicted (generated) text: <pos> อิเล็กทรอนิกส์ <opinion> น้อย 7 ปี <pos> stability <opinion> loved
+
+Input text: สาม เล่ม แมค บุ๊ค มี ข้อดี เหนือ ชิ้นส่วน ของ linux โดย linux อ้างอิง จาก os มีปัญหา น้อย มาก เกี่ยวกับ ประสิทธิภาพ ของ ระบบ เมื่อ พูดถึง mac
+Predicted (generated) text: <neg> os <opinion> ข้อดี <neg> system <opinion> น้อย
+
+Input text: แม็ค ใช้งาน ง่าย มาก และ สมเหตุสมผล
+Predicted (generated) text: <pos> แม็ค <opinion> ง่าย <pos> การใช้งาน <opinion> สมเหตุสมผล
+
+Input text: มัน ใช้งาน ง่าย กว่า มาก
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย
+
+Input text: มัน ดีมาก ที่ ไม่ต้อง กังวล เกี่ยวกับ เรื่อง นั้น และ ค่าใช้จ่าย เพิ่มเติม ที่มา พร้อมกับ การป้องกัน ไวรัส ที่ จํา เป็น ใน พีซี
+Predicted (generated) text: <pos> พีซี <opinion> ดีมาก
+
+Input text: เสียงร้อง ของ โปรเซสเซอร์ และ เนื่องจาก ฟังก์ชั่น ที่ เป็น เอกลักษณ์ ของ Apple OSX 16 กราฟิก ส่วนใหญ่ ถูก ส่งผ่าน ฮาร์ดแวร์ มากกว่า ซอฟต์แวร์
+Predicted (generated) text: <neu> OSX 16 กราฟิก <opinion> เอกลักษณ์
+
+Input text: ฉัน ต้องการ บางสิ่ง ที่ มี โปรเซสเซอร์ Intel Core ใหม่ และ พอร์ต HDMI เพื่อให้ เรา สามารถ เชื่อมต่อ กับ ทีวี ของ เรา ได้ โดยตรง
+Predicted (generated) text: <neu> โปรเซสเซอร์ Intel Core <opinion> ใหม่ <neu> HDMI <opinion> พอร์t
+
+Input text: ราคา พรีเมี่ยม นั้น แพง ไป หน่อย แต่ เมื่อ คุณ เริ่ม ดู คุณสมบัติ มัน คุ้มค่า กับ เงิน ที่ เพิ่ม เข้ามา
+Predicted (generated) text: <neg> ราคา <opinion> แพง <neg> คุณสมบัติ <opinion> คุ้มค่า
+
+Input text: ฉัน แค ลิ ฟ แอน บอก ไม่ มาก พอ ว่า ฉัน พอใจ กับ ผลิตภัณฑ์ ของ พวกเขา และ ช่วย หลัง การ ขาย อย่างไร
+Predicted (generated) text: <neg> ผลิตภัณฑ์ <opinion> ไม่ มาก
+
+Input text: ฉัน เชื่อมต่อ ไดรฟ์ แบบ ลา ซี่ เพลส ซี่ ไดรฟ์ ภายนอก ผ่าน อิน เทอร์ เฟส firewire 800 ซึ่ง มีประโยชน์ สํา หรับ Time Machine
+Predicted (generated) text: <neu> firewire 800 <opinion> มีประโยชน์
+
+Input text: โดยรวม แล้ว ฉัน ยินดี เป็น อย่างยิ่ง กับ โตชิบา ดาวเทียม ฉัน ชอบ คุณสมบัติพิเศษ ฉัน รัก พรีเมี่ยม windows 7 บ้าน
+Predicted (generated) text: <pos> โตชิบา ดาวเทียม <opinion> loved
+
+Input text: อายุการใช้งาน แบตเตอรี่ สั้น กว่า ที่ คาด ไว้
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> สั้น
+
+Input text: แป้นพิมพ์ นั้น ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ยอดเยี่ยม
+
+Input text: ภาพ ดีมาก และ ภาพ ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> ภาพ <opinion> ดีมาก <pos> ภาพ <opinion> ยอดเยี่ยม
+
+Input text: มัน คุ้มค่า กับ เงิน ที่ จ่าย ไป การลงทุน ที่ ดีมาก
+Predicted (generated) text: <pos> เงิน <opinion> คุ้มค่า
+
+Input text: อัพเกรด จาก Windows 7 Starter, ผ่าน Windows 7 Home Premium, เป็น Windows 7 Professional เป็น snap ;
+Predicted (generated) text: <neu> Windows 7 Professional <opinion> snap
+
+Input text: ฉัน อัปเกรด MacBook เก่า ของ ฉัน เป็น สิงโต ดังนั้น ฉัน จึง รู้ ว่า ฉัน ได้รับ อะไร แต่ มี และ ไม่ สามารถ เพลิดเพลิน กับ คุณสมบัติ ใหม่ ๆ ที่ ยอดเยี่ยม ได้
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ใหม่.
+
+Input text: หน้าจอ เป็น ภาพ เล็ก ๆ น้อย ๆ และ ฉัน เกลียด ปุ่ม คลิก แต่ ฉัน คุ้นเคย กับ พวกเขา
+Predicted (generated) text: <neg> หน้าจอ <opinion> เล็ก  ปุ่ม คลิก <opinion> เกลียด
+
+Input text: ไม่ต้อง พูดถึง แบตเตอรี่ นั้น น่าทึ่ง อย่าง แน่นอน
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> น่าทึ่ง
+
+Input text: ตอนนี้ สํา หรับ ปัญหา ฮาร์ดแวร์
+Predicted (generated) text: <neg> ฮาร์ดแวร์ <opinion> ปัญหา
+
+Input text: มัน เร็ว และ มี อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> เร็ว <pos> battery <opinion> ยอดเยี่ยม
+
+Input text: รวม การ ดูแล ของ Apple
+Predicted (generated) text: <pos> ดูแล <opinion> ดูแล
+
+Input text: Windows ก็ ค่อนข้าง ไม่ นิ่ง ใน เท้า และ มี ความเสี่ยง ต่อ แมลง จํานวน มาก
+Predicted (generated) text: <neg> Windows <opinion> ไม่ นิ่ง <neg> Windows <opinion> ความเสี่ยง
+
+Input text: อย่า ซื้อ เกตเวย์ COMPUS พวกเขา คือ ขยะ และ บริษัท WARRANTY ที่ น่ากลัว
+Predicted (generated) text: <neg> WARRANTY <opinion> ขยะ <neg> เกตเวย์ COMPY <opinion> น่ากลัว
+
+Input text: ส่วน ที่ ไม่ ดี เพียง อย่าง เดียว คือ ขนาด / น้ํา หนัก
+Predicted (generated) text: <neg> ขนาด <opinion> ไม่ ดี
+
+Input text: แบตเตอรี่ เล็ก ๆ น้อย ๆ ที่ ใช้งาน ได้ ประมาณ หนึ่ง ชั่วโมง ในขณะที่ มี มัน บน เดสก์ท็อป
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> เล็ก ๆ <neg> battery <opinion> น้อย
+
+Input text: ฉัน ชอบ ตัว อลูมิเนียม
+Predicted (generated) text: <pos> อลูมิเนียม <opinion> ชอบ
+
+Input text: มันดี สํา หรับ การ เล่น แอพ ของ ฉัน บน Facebook หรือ ดู ภาพยนตร์
+Predicted (generated) text: <pos> เล่น แอพ <opinion> ดี
+
+Input text: จาก คุณภาพ การ สร้าง ไป จนถึง ประสิทธิภาพ ทุกอย่าง เกี่ยวกับ มัน ถู กก ําหนด โดยเฉพาะอย่างยิ่ง จาก สิ่ง ที่ ฉัน คาดหวัง จาก Apple
+Predicted (generated) text: <pos> Quality <opinion> ถู  Strength <opinion> ถู
+
+Input text: ฉัน ชอบ แท่น วาง ที่ ฉัน สามารถ วาง ไฟล์ ที่ บันทึก โปรแกรม เฉพาะ และ โปรแกรม จะ เปิด ไฟล์ นั้น ได้
+Predicted (generated) text: <pos> แท่น วาง <opinion> ชอบ <neu> โปรแกรม <opinion> ชอบ
+
+Input text: ทุกอย่าง อื่น ๆ เกี่ยวกับ คอมพิวเตอร์ ค่อนข้าง ดี มัน แค่ หยุด ทํา งาน ไม่ อยู่
+Predicted (generated) text: <pos> งาน <opinion> ดี
+
+Input text: มัน เป็น คอมพิวเตอร์ ที่ ยอดเยี่ยม อย่าง แท้จริง ต้นทุน น้อยกว่า หนึ่ง พัน เหรียญ ก่อน ภาษี
+Predicted (generated) text: <pos> ต้นทุน <opinion> น้อยกว่า
+
+Input text: รอ i 7 มัน คุ้มค่า สํา หรับ ราคา
+Predicted (generated) text: <pos> price <opinion> คุ้มค่า
+
+Input text: บู้ ท เร็ว และ ทํา งาน ได้ดี!
+Predicted (generated) text: <pos> บู้ ท <opinion> เร็ว <pos> งาน <opinion> ได้ดี
+
+Input text: น้ํา หนัก เบา และ หน้าจอ ก็ สวยงาม!
+Predicted (generated) text: <pos> น้ํา <opinion> หนัก <neg> เบา <opinion> สวยงาม <pos> หน้าจอ <opinion> สวยงาม
+
+Input text: Macbook มาถึง ใน กล่อง คู่ ที่ ดี และ ปิดผนึก ใน กล่อง ฟังก์ชั่น ทั้งหมด ใช้งาน ได้ดี
+Predicted (generated) text: <pos> กล่อง คู่ <opinion> ดี <pos> operating <opinion> ได้ดี
+
+Input text: พวกเขา บอ กว่า เสียใจ กับ การรับประกัน
+Predicted (generated) text: <neg> warranty <opinion> เสียใจ
+
+Input text: หลังจากที่ มี แล็ปท็อป พีซี สอง เครื่อง เสียชีวิต ใน ช่วง 3 ปี ที่ผ่านมา ฉัน ถู กน ํา ไป สู่ จอแสดงผล Apple ที่ Best Buy โดย การ ออกแบบ ที่ เพรียวบาง และ สัญญา ว่า จะ มีปัญหา ด้าน เทคโนโลยี น้อยลง
+Predicted (generated) text: <neg> ออกแบบ <opinion> เพรียวบาง
+
+Input text: บริการ ที่ ฉัน ได้รับ จาก โตชิบา ขึ้นไป ด้านบน และ นอกเหนือจาก การ เรียก ใช้ หน้าที่
+Predicted (generated) text: <pos> โตชิบา <opinion> นอกเหนือจาก <pos> บริการ <opinion> นอกเหนือ
+
+Input text: มี คอมพิวเตอร์ ราคา สูง กว่า จํานวน มาก ผิดพลาด และ เผา นาน ก่อนที่จะ ใช้ ทุก หน่วย ความ จํา และ ความเร็ว ที่ ยอดเยี่ยม ฯลฯ
+Predicted (generated) text: <pos> จํานวน <opinion> สูง <neg> memory <opinion> ยอดเยี่ยม <neg> ความเร็ว <opinion> ยอดเยี่ยม
+
+Input text: ฉัน อยาก จะ แนะ นํา เพียง เพราะ ความเร็ว อินเทอร์เน็ต อาจ เป็น เพราะ สิ่ง เดียว ที่ ฉัน สนใจ จริงๆ
+Predicted (generated) text: <neg> ความเร็ว อินเทอร์เน็ต <opinion> แนะนํา
+
+Input text: หน้าจอ แสดง สี ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> หน้าจอ <opinion> ยอดเยี่ยม <pos> สี <opinion> ยอดเยี่ยม
+
+Input text: เหตุผล ทําไม? มัน'เพราะ เมื่อ คุณ ซื้อ มัน คุณ รู้ ว่า สิ่ง แรก ที่ คุณ จะ ไม่ สูญเสีย ค่า ใด ๆ สํา หรับ แล็ปท็อป เครื่อง นั้น ราคา จะ ยังคง เหมือนเดิม สํา หรับ ปีหน้า และ แม้ว่า Apple จะ ตัดสินใจ ที่จะ เปลี่ยน โหมด แล็ปท็อป ของ คุณ จะ ลดลง เพียง 3 % ซึ่ง แตกต่าง จาก พีซี แล็ปท็อป ซึ่ง ลดลง มากกว่า 80 %
+Predicted (generated) text: <neg> price <opinion> ลดลง
+
+Input text: หน้าจอ 17 นิ้ว มี ขนาดใหญ่ มาก แต่ คอมพิวเตอร์ เบา มาก
+Predicted (generated) text: <neg> หน้าจอ 17 inch <opinion> ขนาดใหญ่
+
+Input text: ความเห็น ของ ฉัน เกี่ยวกับ Sony ได้ ลดลง อย่าง รวดเร็ว เท่ากับ ตลาดหุ้น เนื่องจาก การ สนับสนุน ที่ น่ากลัว ของ พวกเขา แต่ เครื่อง นี้ ทํา ให้ เกิด การ กระโดด อีกครั้ง
+Predicted (generated) text: <neg> สนับสนุน <opinion> รวดเร็ว
+
+Input text: สํา หรับ บลู ทู ธ ใน กา รท ํา งาน อย่าง ถูกต้อง คุณ ต้อง ติดตั้ง Launch Manager บน ไดรเวอร์ / แอพพลิเคชัน ดีวีดี หรือไม่ แสดง หลังจาก โหลด ใหม่
+Predicted (generated) text: <neg> Launch Manager <opinion> ถูกต้อง
+
+Input text: ฉัน ชอบ หน้า จอแก้ว ด้วย
+Predicted (generated) text: <pos> หน้า จอแก้ว <opinion> ชอบ
+
+Input text: การ์ด กราฟิก อึกทึก สวย เมื่อ คุณ อยาก เล่น เกม บน แล็ปท็อป
+Predicted (generated) text: <neg> การ์ด กราฟิก <opinion> อึกทึก
+
+Input text: อายุการใช้งาน แบตเตอรี่ ไม่ ได้ ลดลง ตั้งแต่ ฉัน ซื้อ มัน ดังนั้น ฉัน จึง ตื่นเต้น กับ มัน
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ ได้ ลดลง
+
+Input text: เมื่อ ฉัน โทร หา โตชิบา พวกเขา จะ ไม่ ทํา อะไร และ พยายาม เรียกเก็บเงิน ฉัน $ 35 สํา หรับ สายโทรศัพท์ แม้ว่า พวกเขา จะ ทํา และ ไม่ ให้การ สนับสนุน ทางเทคนิค ใด ๆ
+Predicted (generated) text: <neg> สายโทรศัพท์ <opinion> ไม่ ทํา
+
+Input text: ฉัน ซื้อ โน้ตบุ๊ค นี้ และ มี มัน เป็นเวลา 3 เดือน เท่านั้น ถ้า มัน โอเวอร์ โหลด เกิน พร้อม การ อัปเดต iDVC
+Predicted (generated) text: <neg> iDVC <opinion> โอเวอร์
+
+Input text: โอ้ และ ถ้า มัน ไม่ แย่ พอที่จะ ทํา และ ไม่ ได้มา พร้อมกับ การกู้ คืน ซีดี เพื่อให้ คุณ สามารถ ทํา ถ้า คุณ รู้ วิธี หรือ ซื้อ ถ้า คุณ ซื้อ ราคา $ 25 สํา หรับ สอง ซีดี
+Predicted (generated) text: <neg> ซีดี <opinion> แย่
+
+Input text: ราคา และ คุณสมบัติ มากกว่า ความต้องการ ของ ฉัน
+Predicted (generated) text: <pos> price <opinion> มากกว่า <pos> คุณสมบัติ <opinion> มากกว่า
+
+Input text: Skype นั้น ยอดเยี่ยม มาก กับ เครื่อง นี้ เช่นกัน
+Predicted (generated) text: <pos> Skype <opinion> ยอดเยี่ยม
+
+Input text: นอกจากนี้ HDD ยัง รักษา ความปลอดภัย ภายใน โดย ใช้ ราง และ มี เพียง หนึ่ง ชุด ใน ฮาร์ด ไดรฟ์ หลัก
+Predicted (generated) text: <neu> HDD <opinion> รักษา
+
+Input text: ทั้งหมด ที่ ฉัน จะ บอ กว่า ตอนนี้ ก็ คือ มัน แพง น้อยกว่า สอง ก้อน และ มี คุณภาพ ดีกว่า Vaio ของ ฉัน มาก
+Predicted (generated) text: <pos> quality <opinion> ดีกว่า
+
+Input text: เกม เป็นปัญหา หลัก
+Predicted (generated) text: <neg> เกม <opinion> problem
+
+Input text: พวกเขา บอ กว่า นี่ จะ ใช้ได้ กับ การรับประกัน ของ ฮาร์ด ไดรฟ์ ( ฉันท ํา และ ไม่ เข้าใจ จริงๆ ว่า ทําไม แต่ ต่อไป )
+Predicted (generated) text: <neu> ฮาร์ด ไดรฟ์ <opinion> ใช้ได้
+
+Input text: คอมพิวเตอร์ ที่ ยอดเยี่ยม สํา หรับ การใช้งาน ที่ บ้าน แบบ เบา ๆ และ ธุรกิจ
+Predicted (generated) text: <pos> การใช้งาน <opinion> ยอดเยี่ยม
+
+Input text: ยัง พิจารณา แอพ MS Office ทั้งหมด เป็น รุ่น ทดลองใช้ หวัง ว่า คุณ จะ มี สํา เนา ของ คุณ เอง
+Predicted (generated) text: <neu> แอพ MS Office <opinion> ทดลองใช้
+
+Input text: ถึงกระนั้น ฉัน ก็ ชอบ เล่น เกม ออนไลน์ ดังนั้น มัน จึง วิเศษ มาก ที่ มี คุณสมบัติ ที่ ฉัน สามารถ เล่น Windows ได้
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> วิเศษ
+
+Input text: และ 5 ชั่วโมง ถ้า คุณ ใช้ มัน
+Predicted (generated) text: <neu> 7 ชั่วโมง <opinion> stopped
+
+Input text: น้ํา หนัก เบา อายุการใช้งาน แบตเตอรี่ ที่ ยาวนาน การ เปลี่ยน ที่ ยอดเยี่ยม จาก พีซี ;
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ยาวนาน
+
+Input text: การ สแกน ไวรัส scanner เป็นเวลา สั้น ๆ เท่านั้น ซึ่ง แตกต่าง จาก คนอื่น ๆ ที่ มักจะ ดี เป็นเวลา หนึ่ง ปี
+Predicted (generated) text: <neg> สแกน scanner <opinion> สั้น  scanner <opinion> ดี
+
+Input text: ฉัน เป็น ผู้ซื้อ Mac ครั้งแรก และ รู้สึก ทึ่ง กับ คุณสมบัติ และ ความสะดวก ใน การใช้งาน ของ Mac
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> tึ่ง <pos> การใช้งาน <opinion> สะดวก
+
+Input text: มา โหลด อย่าง เต็มที่ - ดี
+Predicted (generated) text: <pos> โหลด <opinion> เต็มที่ <pos> โหลด <opinion> easy
+
+Input text: ฉัน สังเกตเห็น ว่า windows มีระบบ ใหม่ ที่ เรียก ว่า Windows 7 แล้ว ผู้ใช้ Vista เป็น อย่างไร พวกเขา ควรจะ ได้รับ ข้อบกพร่อง ทั้งหมด จาก Vista ก่อนที่จะ ลงทุน ใน ระบบ ใหม่
+Predicted (generated) text: <neg> Windows 7 <opinion> ข้อบกพร่อง
+
+Input text: สิ่ง เดียว ที่ ฉัน มี คือ กุญแจ กว้าง นั้น มืด ไป หน่อย ที่จะ เห็น ตัวอักษร จะ ช่วย ถ้า มัน เบา กว่า เล็กน้อย
+Predicted (generated) text: <neg> กุญแจ กว้าง <opinion> มืด
+
+Input text: นี่ คือ ตรงข้าม อย่าง สิ้นเชิง กับ การ ออกแบบ ตาม หลัก สรีรศาสตร์
+Predicted (generated) text: <neg> ออกแบบ <opinion> สิ้นเชิง
+
+Input text: สิ่ง เดียว ที่ ฉันท ํา และ ไม่ ชอบ เกี่ยวกับ mac ของ ฉัน คือ บางครั้ง มี โปรแกรม ที่ ฉัน ต้อง กา รท ํา งาน และ ฉัน ไม่ สามารถ ทํา ได้
+Predicted (generated) text: <neg> โปรแกรม <opinion> ไม่ ชอบ
+
+Input text: ไร้สาย ไม่ ใช่ ปัญหา สํา หรับ ฉัน เหมือน คนอื่น ๆ มีปัญหา 2
+Predicted (generated) text: <pos> wireless <opinion> ไม่ ใช่
+
+Input text: MacBook โน้ตบุ๊ค ตาย อย่าง รวดเร็ว เนื่องจาก อายุการใช้งาน แบตเตอรี่ สั้น ๆ ของ พวกเขา รวมถึง โปรแกรม พื้น หลัง มากมาย ที่ ทํา งาน โดย ไม่ มี โปรแกรม's ของ ผู้ใช้ '
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> สั้น <neg> โปรแกรม พื้น <opinion> สั้น
+
+Input text: ทุกสิ่ง ที่ คุณ สามารถ ทํา ได้ ด้วย แทร็ค แพ ด ที่ ทํา ให้ กา รน ํา ทาง ไป รอบ ๆ คอมพิวเตอร์ และ โปรแกรม ง่าย ขึ้น รวดเร็ว และ ง่าย ขึ้น มาก
+Predicted (generated) text: <pos> แทร็ค แพ แพ แพ แพ แพ ด <opinion> ง่าย <pos> ขึ้น <opinion> ง่าย
+
+Input text: ฉัน เดา ว่า สิ่ง เดียว ที่ ดี ที่ ออก มาจาก สิ่ง เหล่านี้ คือ ลํา โพง และ ซับ วูฟเฟอร์
+Predicted (generated) text: <pos> ลํา โพง <opinion> ดี <pos> ซับ วูฟเฟอร์ <opinion> ดี
+
+Input text: มี การ สร้าง ขึ้น ใน กล้อง ด้วย พลัง พิเศษ สํา หรับ วิดีโอ และ การถ่ายภาพ
+Predicted (generated) text: <pos> กล้อง <opinion> พิเศษ
+
+Input text: ทั้งหมด เป็น รา คาที่ ดี
+Predicted (generated) text: <pos> รา คาที่ ดี
+
+Input text: อีก สิ่ง หนึ่ง คือ หลังจาก ผ่าน ไป เพียง หนึ่ง เดือน คีย์ เมาส์ ด้าน ซ้าย ก็ แตก และ มัน มีราคา เท่าตัว $ 175 เพื่อ ส่ง มัน เพื่อ แก้ไข
+Predicted (generated) text: <neg> คีย์ เมาส์ <opinion> แตก
+
+Input text: มัน มี ความเร็ว ที่ ดี และ พื้นที่ ฮาร์ด ไดรฟ์ มากมาย
+Predicted (generated) text: <pos> ความเร็ว <opinion> ดี <pos> พื้นที่ ฮาร์ด ไดarฟ์ <opinion> มากมาย
+
+Input text: น่า ผิดหวัง มาก แบตเตอรี่ ( ใช้งาน ได้ นาน ถึง 3 ชั่วโมง ขึ้นอยู่กับ ว่า คุณ ตั้งค่า ระดับ พลังงาน อย่างไร )
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ผิดหวัง <neg> พลังงาน <opinion> worth
+
+Input text: รุ่น สีด ํา มี รูปลักษณ์ ที่ ไร้ รอยต่อ ดีมาก - เป็นหนึ่ง ใน โน้ตบุ๊ค ที่ ดู ดีกว่า ที่ ฉัน เคย เห็น
+Predicted (generated) text: <neg> รูปลักษณ์ <opinion> ไร้ รอยต่อ Toshiba <opinion> ดีกว่า
+
+Input text: บริการ ทางเทคนิค สํา หรับ dell จึง เป็น โลก ที่ 3 และ มัน ก็ อาจ ไม่ รํา คา ญ
+Predicted (generated) text: <neg> บริการ <opinion> ทางเทคนิค
+
+Input text: กราฟิก นั้น แย่มาก และ การรับประกัน ก็ ไม่ คุ้มค่า กับ การ ชํา ระ เงิน ราคา ถูก บน คอมพิวเตอร์
+Predicted (generated) text: <neg> กราฟิก <opinion> แย่มาก <neg> warranty <opinion> no worth
+
+Input text: พวกเขา ให้ เวลา ฉัน ยาก อีกครั้ง แต่ พวกเขา ก็ ทํา งาน ผิดปกติ ใน แบตเตอรี่ มัน ทํา และ ไม่ ตาย
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ผิดปกติ
+
+Input text: หาก คุณ ทํา และ ไม่ รู้สึก สบายใจ ที่จะ ทํา ด้วยตัวเอง เพียงแค่ ซื้อ เคส และ มีความสุข และ มัน ก็ ดู ดีฉัน ซื้อ สี ขาว จาก Best Buy
+Predicted (generated) text: <pos> เคส <opinion> มีความสุข
+
+Input text: ความเร็ว ที่ ยอดเยี่ยม สํา หรับ การประมวลผลข้อมูล
+Predicted (generated) text: <pos> ความเร็ว <opinion> ยอดเยี่ยม
+
+Input text: มัน มีประโยชน์ ที่ ดี สํา หรับ ด้าน การเงิน ของ ฉัน, การ จัด ตาราง, พ่อแม่ ของ ฉัน ค่าใช้จ่าย ทาง ธุรกิจ, และ มัน ก็ น่าทึ่ง สํา หรับ การ เล่น เกม อย่าง แน่ นอ น.
+Predicted (generated) text: <pos> การเงิน <opinion> เป็นประโยชน์ <pos> ตาราง <opinion> น่าทึ่ง
+
+Input text: ฉัน ได้รับ การสอน ใน การ ใช้ Photoshop และ รู้สึก ประหลาดใจ
+Predicted (generated) text: <pos> Photoshop <opinion> ประหลาดใจ
+
+Input text: อัปเดต ไดรเวอร์ ทํา และ ไม่ แก้ไขปัญหา น่า ผิดหวัง มาก
+Predicted (generated) text: <neg> ไดรเวอร์ <opinion> ทํา <neg> ไดรเวอร์ <opinion> not แก้ไขปัญหา
+
+Input text: มัน ไม่ คุ้มค่า กับ บ้า จริง
+Predicted (generated) text: <neg> บ้า <opinion> ไม่ worth
+
+Input text: มัน ใช้งาน ได้ดี จริงๆ
+Predicted (generated) text: <pos> ใช้งาน <opinion> ได้ดี
+
+Input text: HD ใหญ่ ขึ้น HD กราฟิก การ์ด ดีกว่า และ HD ประมูล
+Predicted (generated) text: <pos> HD กราฟิก การ์ด <opinion> ดีกว่า <pos> HD ประมูล <opinion> cheaper
+
+Input text: กล้อง ที่ สร้าง ขึ้น มีประโยชน์ มาก เมื่อ พูดคุย กับ เทคนิค อื่น ๆ ใน อาคาร ระยะไกล ใน มหาวิทยาลัย ของ เรา
+Predicted (generated) text: <pos> กล้อง <opinion> มีประโยชน์
+
+Input text: เตา DVD แตก หลังจาก เผา ดีวีดี 3 แผ่น ใน ช่วงเวลา นั้น!
+Predicted (generated) text: <neg> เตา DVD <opinion> แตก
+
+Input text: มัน ใช้งาน ได้ดี กับ ไร้สาย ของ เรา และ พวกเขา ไม่ มีปัญหา
+Predicted (generated) text: <pos> wireless <opinion> ได้ดี
+
+Input text: การ สนับสนุน ผลิตภัณฑ์ แย่มาก เพราะ โทรศัพท์ แต่ละ เครื่อง มี ค่าใช้จ่าย ฉัน นาน 2.
+Predicted (generated) text: <neg> ผลิตภัณฑ์ <opinion> แย่มาก
+
+Input text: โดยรวม แล้ว คอมพิวเตอร์ ใช้งาน ง่าย มาก หน้าจอ สมบูรณ์แบบ คอมพิวเตอร์ ที่ ยอดเยี่ยม ลูกสาว ของ ฉัน ชอบ
+Predicted (generated) text: <pos> หน้าจอ <opinion> สมบูรณ์แบบ
+
+Input text: ปลอก สายไฟ ทอด และ ตกใจ กับ สามี ของ ฉัน เมื่อ เขา ดึง มัน ออก มาจาก ซ็อกเก็ต
+Predicted (generated) text: <neg> สายไฟ <opinion> ทอด <neg> ซ็อกเก็ต <opinion> ตกใจ
+
+Input text: มัน ไม่ เก็บ สัญญาณ อินเทอร์เน็ต ไม่ ว่า คุณ จะ นํา มัน มาจาก ไหน
+Predicted (generated) text: <neg> สัญญาณ อินเทอร์เน็ต <opinion> ไม่
+
+Input text: มัน เป็น ผลิตภัณฑ์ ที่ ยอดเยี่ยม ใน รา คาที่ ดี!
+Predicted (generated) text: <pos> ผลิตภัณฑ์ <opinion> ยอดเยี่ยม
+
+Input text: แต่ ดู ว่า macbook pro นั้น แตก ต่างกัน เพราะ อาจ มี ป้ายราคา ขนาดใหญ่ แต่ มัน มา พร้อมกับ ซอฟต์แวร์ เต็ม รูปแบบ ที่ คุณ ต้องการ จริง ๆ และ ส่วนใหญ่ มี การปรับปรุง ในอนาคต ฟรี
+Predicted (generated) text: <neu> ป้าย price <opinion> ต่าง
+
+Input text: และ ผู้ชม หลาย หน้า ( ช่วย ให้ คุณ สามารถ กดปุ่ม เดียว เพื่อ ดู ว่า ทุก หน้า แยกกัน เปิด ในเวลาเดียวกัน ใน หน้าจอ เดียว ) นั้น ยอดเยี่ยม สํา หรับ ผู้ ที่ ทํา งาน ไม่ หยุด หรือ ช้อปปิ้ง ออนไลน์
+Predicted (generated) text: <pos> หน้าจอ <opinion> ยอดเยี่ยม
+
+Input text: คีย์บอร์ด ขนาด กํา ลัง ดี และ ใช้งาน ง่าย
+Predicted (generated) text: <pos> คีย์บอร์ด <opinion> ดี <pos> usage <opinion> ง่าย
+
+Input text: คุณสมบัติ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ดีใจ ที่ มัน มี คุณสมบัติ ที่ ยอดเยี่ยม อยู่ ใน นั้น
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ยอดเยี่ยม
+
+Input text: เวลา ที่ TYPING, TYPING, FPAD และ AD. com มี game. ป้อน USER จํานวน มา กค ํา และ คํา ที่ สมบูรณ์.
+Predicted (generated) text: <neu> TYPING <opinion> สมบูรณ์ <pos> FPAD <opinion> สมบูรณ์
+
+Input text: ไม่ กี่ วัน หลังจากที่ ฉัน ได้รับ คอมพิวเตอร์ กลับ หน้าจอ ก็ แข็งตัว อีกครั้ง
+Predicted (generated) text: <neg> หน้าจอ <opinion> แข็งตัว
+
+Input text: มัน ไม่ เหมาะ สํา หรับ เด็ก ๆ เพราะ อุณหภูมิ
+Predicted (generated) text: <neg> อุณหภูมิ <opinion> ไม่ เหมาะ
+
+Input text: แม้ว่า ฉัน จะ เชื่อ ว่า ระบบปฏิบัติการ Windows อาจจะ ผิด สํา หรับ ปัญหา บางอย่าง
+Predicted (generated) text: <neg> ระบบปฏิบัติการ Windows <opinion> ผิด
+
+Input text: OS ที่ ยอดเยี่ยม การปรับปรุง ที่ ยอดเยี่ยม ไป ยัง สาย ที่ มี อยู่ จะ ชน ความเร็ว ของ โปรเซสเซอร์ และ เพิ่ม พอร์ต สายฟ้า
+Predicted (generated) text: <pos> OS <opinion> ยอดเยี่ยม <pos> OS <opinion> ยอดเยี่ยม <neg> โปรเซsเซอร์ <opinion> เพิ่ม
+
+Input text: ภาพ มี ความ คมชัด และ สะอาด
+Predicted (generated) text: <pos> ภาพ <opinion> คมชัด <pos> ภาพ <opinion> สะอาด
+
+Input text: แม้ว่า มัน จะ เป็น Windows vista เมื่อ เทียบ กับ Windows xp ดูด
+Predicted (generated) text: <neu> Windows vista <opinion> ดูด
+
+Input text: คอมพิวเตอร์ ทํา งาน เร็ว มาก โดย ไม่ มีปัญหา และ ซอฟต์แวร์ iLife ที่มา พร้อมกับ มัน ( Photo, iMovie, iMovie, iTunes, iTunes iTunes ) มีประโยชน์ มาก เช่นกัน
+Predicted (generated) text: <pos> iLife <opinion> เร็ว <pos> Photo <opinion> useful <pos> iMovie <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion> useful <pos> iTunes <opinion>
+
+Input text: ตอนแรก มัน ทํา งาน ได้ดี เป็นเวลา หนึ่ง เดือน หรือ มากกว่า นั้น จากนั้น ระบบ กระดาน ล้มเหลว และ ฉัน ส่ง มัน ไป ที่ โตชิบา การร้องเรียน บางส่วน และ สาม สัปดาห์ ต่อมา จากนั้น ฉัน ได้รับ แล็ปท็อป ของ ฉัน กลับมา เท่านั้น เพื่อ พบ ว่า มัน ยังคง มีปัญหา เดียวกัน ดังนั้น ตอนนี้ ฉัน ต้อง ส่ง มัน กลับ อีกครั้ง เพื่อให้ ได้รับ การ แก้ไข อีกครั้ง
+Predicted (generated) text: <neg> ระบบ กระดาน <opinion> ล้มเหลy
+
+Input text: จนกว่า ฉัน จะ ซื้อ Dell ฉัน คิด ว่า คุณ แค่ มองหา สิ่ง ที่ คุณ ต้องการ ( ขนาด ซอฟต์แวร์ ตัวเลือก ฮาร์ดแวร์ ) และ ซื้อ ข้อตกลง ที่ ดี ที่สุด ที่ คุณ สามารถ หา ได้
+Predicted (generated) text: <neu> ขนาด ซอฟต์แวร์ <opinion> ดี
+
+Input text: มี หน่วย ความ จํา มากมาย ฮาร์ด ไดรฟ์ จํานวน มาก และ กราฟิก ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> ฮาร์ด จํา <opinion> มากมาย <pos> graphicิก <opinion> ยอดเยี่ยม
+
+Input text: อย่างไรก็ตาม แฟน ของ ฉัน ตระหนัก ว่า บานพับ ของ เน็ตบุ๊ก ค่อนข้าง หลวม ( เมื่อ คุณ เปิด หรือ ปิด LCD )
+Predicted (generated) text: <neg> บานพับ <opinion> หลวม
+
+Input text: ปัญหา ของ ฉัน คือ กับ การ บริการ ลูกค้า DELL
+Predicted (generated) text: <neg> บริการ <opinion> ปัญหา
+
+Input text: บริการ RMA ของ Newegg ยอดเยี่ยม เช่นเคย ฉัน ได้ ติดต่อ พวกเขา เมื่อคืน วัน ศุกร์ และ พวกเขา ก็ ออก หมายเลข RMA ให้ ฉัน และ ป้า ยก ํา กับ การจัดส่ง UPS อีกครั้ง ใน เช้า วันรุ่งขึ้น ใน วัน เสาร์
+Predicted (generated) text: <pos> การจัดส่ง UPS <opinion> ยอดเยี่ยม
+
+Input text: การ ออกแบบ : ทนทาน มาก
+Predicted (generated) text: <pos> designed <opinion> ทนทาน
+
+Input text: ง่าย ต่อ การ เปลี่ยน จาก แป้นพิมพ์ หนึ่ง ไป ยังอีก แป้นพิมพ์ หนึ่ง
+Predicted (generated) text: <pos> การ เปลี่ยน จาก แป้นพิมพ์ <opinion> ง่าย
+
+Input text: ปัญหา เดียว ของ ฉัน คือ : 1 ) ความ ละเอียด หน้าจอ / วิดีโอ โว เนียร์ และ ไม่ เพิ่ม ความ ละเอียด ให้ สูง กว่า 1024 x 60
+Predicted (generated) text: <neg> หน้าจอ <opinion> PROBLEM <neg> หน้าจอ <opinion> higher <pos> capacity <opinion> สูง
+
+Input text: มัน ค่อนข้าง เร็ว และ ไม่ มี อาการ สะอึก ในขณะที่ ฉัน กํา ลัง ใช้ เพื่อ เรียก ดู เว็บ อัพโหลด ภาพถ่าย ดู ภาพยนตร์ ( 720 p ) ใน บางครั้ง และ สร้าง งาน นํา เสนอ
+Predicted (generated) text: <pos> งาน <opinion> เร็ว <pos> งาน <opinion> สะอึก
+
+Input text: จอแสดงผล คุณภาพ ฉัน ชอบ HP มัน เป็น คอมพิวเตอร์ / เครื่องพิมพ์ เดียว ที่ เรา จะ ซื้อ
+Predicted (generated) text: <pos> จอแสดงผล  quality <opinion> ชอบ
+
+Input text: คุณสมบัติ นั้น ยอดเยี่ยม สิ่ง เดียว ที่ ต้องการ คือ ลํา โพง ที่ ดีกว่า
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ยอดเยี่ยม <neg> ลํา โพng <opinion> ดีกว่า
+
+Input text: ฉัน ซื้อ แล็ปท็อป เครื่อง นี้ และ พบ ว่า มัน ไม่ ทํา งาน
+Predicted (generated) text: <neg> งาน <opinion> ไม่
+
+Input text: ศูนย์บัญชาการ TFT อีกครั้ง พวกเขา รายงาน ว่า แผง TFT เสีย ควร ได้รับ การ แก้ไข ภายใน สิ้น สัปดาห์ ( สัปดาห์ ที่ 3 )
+Predicted (generated) text: <neg> แผง TFT <opinion> เสีย
+
+Input text: กา รน ํา ทางผ่าน คอมพิวเตอร์ จะ เหนือกว่า เมื่อ เทียบ กับ ระบบปฏิบัติการ Windows เช่นกัน
+Predicted (generated) text: <neg> ระบบปฏิบัติการ Windows <opinion> เหนือกว่า
+
+Input text: หน้าจอ เป็น กรอบ โดย การ เน้น ขอบ ที่ ไม่ จํา เป็น ที่จะ ต้อง ลด ขนาด ของ หน้าจอ และ เพิ่ม จํานวน มาก
+Predicted (generated) text: <neg> หน้าจอ <opinion> กรอบ <neg> ขอบ <opinion> reduce
+
+Input text: ฉัน ต้อง ติดตั้ง Windows ใหม่ ภายใน สอง สัปดาห์ ของ การ ซื้อ และ พบ รอยแตก ใน บานพับ หน้าจอ
+Predicted (generated) text: <neg> Windows <opinion> รอยแตก
+
+Input text: GIGAB ปัญหา คือ BATTERY ที่ มีปัญหา คือ มี ให้ ติดตั้ง ชีวิต 11 ชั่วโมง แต่ เมื่อ CHARGED ออนไลน์ แสดงออก เป็น แสดงออก ระหว่าง 7 ชั่วโมง กับ บริการ
+Predicted (generated) text: <neg> BATTERY <opinion> PROBLEM
+
+Input text: และ พื้น ที่เก็บ ข้อมูล มากมาย ด้วย 250 กิ๊ก ( แม้ว่า ฉัน จะ อัปเกรด นี้ และ แร ม...)
+Predicted (generated) text: <neg> พื้น <opinion> มากมาย <neg> พื้น <opinion> อัปเกรด
+
+Input text: โปรแกรม จะ ผิดพลาด ตลอดเวลา และ กลายเป็น แล็ปท็อป ที่ ไม่ เสถียร และ ไม่ น่าเชื่อถือ สํา หรับ ฉัน
+Predicted (generated) text: <neg> โปรแกรม <opinion> ผิดพลาด <neg> Software <opinion> น่าเชื่อถือ
+
+Input text: การผูก คีย์ ใช้เวลา ทํา ความคุ้นเคย เล็กน้อย แต่ ชอบ Macbook Pro
+Predicted (generated) text: <neg> ผูก คีย์ <opinion> คุ้นเคย
+
+Input text: แป้นพิมพ์ มี ขนาดที่ เหมาะสม
+Predicted (generated) text: <pos> ขนาด <opinion> เหมาะสม
+
+Input text: เสียง พัดลม : พัดลม ส่งเสียง เปล่ง ฟู ๆ ใน พื้น หลัง
+Predicted (generated) text: <neg> พัดลม <opinion> เปล่ง พัดลม <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง พัดลม <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง พัดลม <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง พัดลม <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง เสียง <opinion> เปล่ง พัดลม <opinion> เปล่ง
+
+Input text: หน้าจอ สว่าง และ ชัดเจน ระบบปฏิบัติการ มี ความแข็งแรง และ เป็นมิตร กับ มือใหม่
+Predicted (generated) text: <pos> หน้าจอ <opinion> สว่าง <pos> display <opinion> genuine
+
+Input text: มี ตัว ประมวลผล ที่ เร็ว กว่า 1 ghz และ สต๊อก ฮาร์ด ไดร์ ฟ
+Predicted (generated) text: <pos> ประมวลผล <opinion> เร็ว <neg> ฮาร์ด ไดร์ ฟ <opinion> เร็ว
+
+Input text: นี่ เป็น เรื่องใหญ่ ที่ ฉัน มี และ ไม่ ได้ สังเกตเห็น ปัญหา กับ ดีวีดี หรือ สื่อ อื่น ๆ ผ่าน เอาต์พุต USB เท่านั้น
+Predicted (generated) text: <neg> USB <opinion> เรื่องใหญ่
+
+Input text: ด้วย แล็ปท็อป wireless mouse เป็น สิ่ง จํา เป็น อย่าง แน่นอน
+Predicted (generated) text: <neu> wireless mouse <opinion> แน่นอน
+
+Input text: คุณภาพ ดีมาก และ ทํา ดี
+Predicted (generated) text: <pos> quality <opinion> ดีมาก <pos> ทํา <opinion> easy
+
+Input text: หลานสาว และ หลานชาย ของ ฉัน ได้ เล่น เกม เว็บ ไม่ กี่ เกม และ ทํา งาน ทุกอย่าง ที่ ทํา และ ไม่ต้องการ การ์ด วิดีโอ เฉพาะ
+Predicted (generated) text: <neu> การ์ด video <opinion> ไม่ต้องการ
+
+Input text: มัน มี แผ่น สัมผัส ขนาด เต็ม พร้อม 2 ปุ่ม แทนที่จะ เป็น ปุ่ม เดียว
+Predicted (generated) text: <neu> แผ่น สัมผัส <opinion> เต็ม
+
+Input text: โดยปกติ, เมื่อ ฉัน ซื้อ แล็ปท็อป เครื่อง ใหม่ ฉัน มักจะ ใช้ เมาส์ ภายนอก เพื่อ ความ สะดวกสบาย.
+Predicted (generated) text: <neu> เมาส์ <opinion> สะดวกสบาย
+
+Input text: มัน ง่าย มาก ที่จะ ตั้งค่า และ ทํา ความคุ้นเคย
+Predicted (generated) text: <pos> ตั้งค่า <opinion> ง่าย <pos> ตั้งค่า <opinion> คุ้นเคย
+
+Input text: สิ่ง เดียว ที่ สามารถ อัปเดต ได้ คือ วิดีโอ นอกเหนือจาก ที่ คุณ 'ทํา ใหม่ ทั้งหมด
+Predicted (generated) text: <neg> วิดีโอ <opinion> อัปเดต
+
+Input text: มัน เป็น แล็ปท็อป ที่ ดี สํา หรับ ความคุ้มค่า
+Predicted (generated) text: <pos> แล็pท็อป <opinion> ดี
+
+Input text: จากนั้น ฮาร์ด ไดรฟ์ ก็ ล้มเหลว ;
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ล้มเหลว
+
+Input text: แน่นอน การรับประกัน ของ ฉัน หมด ใน เดือน หน้า
+Predicted (generated) text: <neg> warranty <opinion> หมด
+
+Input text: ฉัน พบ แล้ว มัน ง่าย มาก ที่จะ สามารถ เข้าถึง การ เข้าถึง อินเทอร์เน็ต ไร้สาย ;
+Predicted (generated) text: <pos> อินเทอร์เน็ต ไร้สาย <opinion> ง่าย
+
+Input text: มัน คุ้มค่า กับ เงิน ที่ จ่าย
+Predicted (generated) text: <pos> เงิน <opinion> คุ้มค่า
+
+Input text: แบตเตอรี่ ไม่ เคย ทํา งาน ได้ดี
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ เคย ทํา งาน ได้ดี
+
+Input text: ฉัน จะ ไม่ ซื้อ คอมพิวเตอร์ เครื่อง อื่น จาก Dell อีกครั้ง ว่า มัน ทํา งาน อย่างไร และ วิธี ที่ ฉัน ได้รับ การปฏิบัติ โดย บริษัท
+Predicted (generated) text: <neu> งาน <opinion> ไม่ ซื้อ
+
+Input text: เล็ก พอที่จะ ใช้บน เที่ยวบิน ยาว, เบา พอที่จะ ดํา เนิน การ ผ่าน สนามบิน และ มีประสิทธิภาพ เพียง พอที่จะ เปลี่ยน เดสก์ท็อป ของ ฉัน ในขณะที่ เดินทางไกล ธุรกิจ.
+Predicted (generated) text: <neg> สนามบิน <opinion> เล็ก <neg> operating <opinion> เบา
+
+Input text: พิมพ์ บน แป้นพิมพ์ จะ ไม่ สบายใจ หลังจาก ใช้งาน เป็นเวลา นาน เนื่องจาก ขอบ แหลม ที่ ข้อมือ ของ คุณ วาง อยู่
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ไม่ สบายใจ
+
+Input text: มัน มี โปรแกรม ที่ ยอดเยี่ยม มากมาย เช่น super, super และ อื่น ๆ
+Predicted (generated) text: <pos> โปรแกรม <opinion> ยอดเยี่ยม <pos> program <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ขอ แนะ นํา แล็ปท็อป เครื่อง นี้ ให้ กับ ทุกคน ที่ ต้องการ ประสิทธิภาพ ที่ ยอดเยี่ยม จาก แล็ปท็อป และ ต้องการ ที่จะ ผ่อนคลาย และ ไม่ โกรธ สา บถ พระเจ้า เกี่ยวกับ การโยน แล็ปท็อป ของ คุณ ออกจาก ประตู
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> ยอดเยี่ยม
+
+Input text: ความ ละเอียด หน้าจอ เป็น สิ่ง ที่ ฉัน กํา ลัง มองหา
+Predicted (generated) text: <neg> หน้าจอ <opinion> ละเอียด
+
+Input text: แม้ว่า มัน จะ กํา ลัง ทํา งาน Snow Leopard, 2.4 GHz points เล็กน้อย ของ CPU โบราณ และ ดังนั้น ล้อหมุน เป็นครั้งคราว จะ ปรากฏ เมื่อ ใช้งาน แอปพลิเคชัน Office Mac เช่น Word หรือ Excel
+Predicted (generated) text: <neg> CPU <opinion> โบราณ <neg> ล้อหมุน <opinion> โบราณ
+
+Input text: ไม่ มี แผ่น หมาย เลขที่ ถูกต้อง ของ แป้นพิมพ์ ซึ่ง เป็น คน เกียจคร้าน
+Predicted (generated) text: <neg> แผ่น หมาย <opinion> ถูกต้อง
+
+Input text: หาก อัปเกรด เป็นไปได้ กับ Windows 7 เต็ม รูปแบบ ฉัน ก็ จะ มีความสุข มาก ที่ เกิน บรรยาย
+Predicted (generated) text: <pos> Windows 7 เต็ม รูปแบบ <opinion> มีความสุข
+
+Input text: ตอนแรก ฉัน กังวล ว่า ฉัน ไม่ สามารถ และ ดู ทํา งาน ได้ ฉัน ได้ ทํา ใน วิทยาลัย บน Mac ของ ฉัน เพราะ การ จัดรูปแบบ พีซี แต่ ฉัน ตื่นเต้น ยิ่งกว่า ที่จะ เรียนรู้ โปรแกรม เช่น iLife และ iLife ที่ ช่วย ให้ คุณ สามารถ แปลง เอกสาร พีซี ของ คุณ เป็น ไฟล์ ที่ สามารถ อ่าน ได้ บน Mac
+Predicted (generated) text: <neu> iLife <opinion> ตื่นเต้น <pos> iLife <opinion> ตื่นเต้น
+
+Input text: ทํา งาน ได้ อย่าง รวดเร็ว และ แป้นพิมพ์ เลย์ เอาต์ ปกติ นั้น ดีกว่า มาก
+Predicted (generated) text: <pos> เลย์ เอาต์ <opinion> ดีกว่า <pos> แป้นพิมพ์ เลย์ เอาต์ <opinion> cheaper
+
+Input text: โปรแกรม ทั้งหมด นั้น ง่าย และ ตรงไปตรงมา บน MacBook Pro ของ ฉัน มัน สะอาด และ เป็นระเบียบ ซึ่ง ฉัน มุ่งมั่น ที่จะ เป็น ตัวเอง เสมอ
+Predicted (generated) text: <pos> โปรแกรม <opinion> ง่าย <pos> Programs <opinion> isระเบียบ
+
+Input text: Windows 7 Starter นั้น ยอดเยี่ยม ( ไม่ ใช่ คุณ CA และ ไม่ ได้ เปลี่ยน พื้น หลัง ) แต่ ฉันท ํา และ ไม่ จํา เป็น ต้อง ใช้ มัน สํา หรับ กา รท ํา งาน ที่ โรงเรียน
+Predicted (generated) text: <pos> Windows 7 Starter <opinion> ยอดเยี่ยม <neg> พื้นหลัง <opinion> ไม่ เปลี่ยน
+
+Input text: การ สนับสนุน ได้รับ การ ไม่ สดใส และ ตอนนี้ ฉัน แค่ ต้อง การเงิน คืน
+Predicted (generated) text: <neg> สนับสนุน <opinion> ไม่ สดใส
+
+Input text: iPhoto อาจ เป็น โปรแกรม ที่ ดี ที่สุด ที่ ฉัน เคย ทํา งาน กับ : ง่าย และ สะดวก
+Predicted (generated) text: <pos> iPhoto <opinion> ดี <pos> iPhoto <opinion> ง่าย <pos> iPhoto <opinion> สะดวก
+
+Input text: ฉัน ชอบ เขียน และ เล่น กับ โปรแกรม กราฟิก และ html และ โตชิบา ใหม่ ของ ฉัน ใช้งาน ได้ดี ทั้งสอง!
+Predicted (generated) text: <pos> เขียน <opinion> ชอบ <neu> โปรแกรม กราฟิก <opinion> preferred <pos> using <opinion> ได้ดี
+
+Input text: แล็ปท็อป ของ ฉัน ไม่ มี แบตเตอรี่
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่
+
+Input text: มัน ทํา ให้ คอมพิวเตอร์ ใช้งาน และ นํา ทางได้ ง่าย ขึ้น มาก
+Predicted (generated) text: <pos> ทาง <opinion> ง่าย
+
+Input text: ต้องการ แบตเตอรี่ ที่ ยาวนาน กว่า 1 ถึง 2 ชม.
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยาวนาน
+
+Input text: ใน เดือน พฤษภาคม ฉัน เริ่ม มีปัญหา กับ พอร์ต USB ไม่ ทํา งาน
+Predicted (generated) text: <neg> USB <opinion> มีปัญหา
+
+Input text: Microsoft Office รุ่น Mac นั้น ถู กก ว่าการ ซื้อ จริง และ ใช้งาน ได้ดี เช่นกัน
+Predicted (generated) text: <neg> Microsoft Office รุ่น Mac <opinion> ถู กก <opinion> ได้ดี
+
+Input text: หนังสือ Toshiba Net ทํา งาน ได้ ดีมาก
+Predicted (generated) text: <pos> งาน <opinion> ดีมาก
+
+Input text: ทัชแพด นั้น ดี - อีกครั้ง มัน เป็น ทัชแพด ที่ แท้จริง
+Predicted (generated) text: <pos> ทัชแพด <opinion> ดี
+
+Input text: ภาพ ชัดเจน ที่สุด เท่า ที่จะ ทํา ได้
+Predicted (generated) text: <pos> ภาพ <opinion> ชัดเจน
+
+Input text: นอกจากนี้ ยังมี น้ํา หนัก เบา มาก ทํา ให้ การขนส่ง คอมพิวเตอร์ เครื่อง นี้ ง่าย มาก
+Predicted (generated) text: <neg> น้ํา <opinion> เบา
+
+Input text: มัน ยอดเยี่ยม สํา หรับ การ เล่น เกม คอมพิวเตอร์
+Predicted (generated) text: <pos> เล่น เกม <opinion> ยอดเยี่ยม
+
+Input text: ข้อบกพร่อง คือ คอมพิวเตอร์ เครื่อง นี้ ไม่ ได้ มี ไว้ สํา หรับ นัก เล่น เกม คอมพิวเตอร์ เพราะ ระบบปฏิบัติการ X
+Predicted (generated) text: <neg> ระบบปฏิบัติการ X <opinion> flaw
+
+Input text: พวกเขา มี บริการ ซ่อม ที่ แย่ ที่สุด ใน โลก
+Predicted (generated) text: <neg> บริการ ซ่อม <opinion> แย่
+
+Input text: ฉัน ยัง สามารถ ติดตั้ง และ ใช้ Photoshop และ โปรแกรม v 4 ของ ฉัน ได้ อย่าง ง่ายดาย
+Predicted (generated) text: <neu> Photoshop <opinion> ง่ายดาย <pos> program <opinion> ง่ายดาย
+
+Input text: มัน สมบูรณ์แบบ สํา หรับ ทุกสิ่ง และ ทํา งาน ได้ เร็ว กว่า พีซี ทั่วไป!
+Predicted (generated) text: <pos> งาน <opinion> สมบูรณ์แบบ <pos> พีซี <opinion> เร็ว
+
+Input text: จากนั้น หลังจาก จ่าย ค่า ตรวจสอบ แล้ว ฉัน ก็ บอ กว่า มัน เป็นปัญหา เดียว กันที่ อ้าง ถึง ใน เว็บไซต์ แต่ ฉัน ต้อง จ่าย อย่างไรก็ตาม เนื่องจาก มัน ผ่าน การรับประกัน ไป แล้ว
+Predicted (generated) text: <neg> การรับประกัน <opinion> problem
+
+Input text: ฉัน ติด ไป แล้ว กับ รูปลักษณ์ เพรียวบาง และ Futures ที่ แล็ปท็อป นี้ แสดง แล้ว
+Predicted (generated) text: <neg> รูปลักษณ์ <opinion> เพรียวบาง <neg> Futures <opinion> เพรียวบาง
+
+Input text: และ ต้อง จัดการ กับ บริษัท เป็น ฝันร้าย ที่ เลวร้าย ยิ่งกว่า เดิม
+Predicted (generated) text: <neg> จัดการ <opinion> ฝันร้าย <neg> จัดการ <opinion> เลวร้าย
+
+Input text: มัน มี คุณสมบัติ ทั้งหมด ที่ จํา เป็น สํา หรับ วิทยาลัย และ หาก ไม่ สามารถ เพิ่ม ลง ใน คอมพิวเตอร์ ได้
+Predicted (generated) text: <neg> คุณสมบัติ <opinion> necessary
+
+Input text: ฉัน เป็นเจ้าของ แล็ปท็อป เครื่อง นี้ มา ไม่ ถึง สอง เดือน ปุ่ม เมาส์ ก็ พัง แล้ว
+Predicted (generated) text: <neg> ปุ่ม เมาส์ <opinion> พัง
+
+Input text: มัน ทํา ได้ ค่อนข้าง ดี นอกจาก ประสิทธิภาพ ที่ ไม่ ดี ความร้อน สูง เกินไป และ หน้าจอ สี น้ํา เงิน
+Predicted (generated) text: <neg> ความร้อน <opinion> ไม่ ดี <neg> หน้าจอสี น้ํา เงิน <opinion> higher
+
+Input text: มี พื้นที่ เพิ่มเติม มากมาย แต่ คีย์บอร์ด มี ขนาดเล็ก อย่าง น่าขัน
+Predicted (generated) text: <pos> คีย์บอร์ด <opinion> ขนาดเล็ก <neg> คีย์บอร์ด <opinion> น่าขัน
+
+Input text: มัน แย่มาก จน ฉัน คิด ว่า ฉัน ได้รับ แบตเตอรี่ เพียง ครึ่ง ก้อน หรือ บางอย่าง
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> แย่
+
+Input text: แป้นพิมพ์ ที่ ดี อายุการใช้งาน แบตเตอรี่ ที่ ยาวนาน ฮาร์ด ไดรฟ์ และ windows 7 ที่ ใหญ่ ที่สุด
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ดี <pos> windows 7 <opinion> ใหญ่
+
+Input text: โปรเซสเซอร์ นั้น รวดเร็ว และ มีประสิทธิภาพ มาก เนื่องจาก ฉัน โหลด หน้า เว็บ และ แอปพลิเคชัน
+Predicted (generated) text: <pos> โปรเซsเซอร์ <opinion> รวดเร็ว <pos> โปรเซsเซอร์ <opinion> มีประสิทธิภาพ
+
+Input text: แบตเตอรี่ ของ ฉัน แย่ ประมาณ หนึ่ง ปี ครึ่ง หลังจาก มี มัน และ ราคา ประมาณ 84 ถึง ร้อย ดอลลาร์!
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> แย่ <neg> price <opinion> 84
+
+Input text: มัน ค่อนข้าง ทํา ทุกอย่าง ที่ เรา ต้องการ และ ดูดี สํา หรับ การ บู๊ ต
+Predicted (generated) text: <pos> บู๊ ต <opinion> ดูดี
+
+Input text: ใน ฐานะ ผู้ใช้ Windows ตลอดชีวิต ฉัน รู้สึก ยินดี เป็น อย่างยิ่ง ที่ ได้ เปลี่ยนไป ใช้ Mac
+Predicted (generated) text: <pos> Windows ตลอดชีวิต <opinion> ยินดี
+
+Input text: Macbook ยัง ทํา ให้ ดีขึ้น คอมพิวเตอร์ ของ ฉัน ไม่ เคย ได้รับ ไวรัส และ แล็ปท็อป ทํา งาน อย่าง รวดเร็ว เหมือน วัน แรก ที่ ฉัน ซื้อ
+Predicted (generated) text: <pos> งาน <opinion> รวดเร็ว
+
+Input text: ฉัน เช็ด เกือบ ทุกอย่าง ออกจาก มัน ติดตั้ง blender และ Firefox และ ฉัน กํา ลัง ใช้ เครื่อง ที่ มีประสิทธิภาพ และ มีประโยชน์ อย่าง ไม่ น่าเชื่อ ใน รา คาที่ ดี
+Predicted (generated) text: <neg> เครื่อง <opinion> มีประสิทธิภาพ <neg> เครื่อง <opinion> useful
+
+Input text: โดยรวม แล้ว ฉัน รู้สึก ว่า เน็ตบุ๊ก นี้ มี คุณภาพ ไม่ ดี มีประสิทธิภาพ ต่ํา แม้ว่า มัน จะ มี อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม เมื่อ ใช้งาน ได้
+Predicted (generated) text: <neg> quality <opinion> ไม่ ดี  operating <opinion> ยอดเยี่ยม
+
+Input text: ฉัน หยิบ มัน ออกมา เพราะ มัน ไม่ แพง ($ 400 ) และ ฉัน คิด ว่า มัน จะ เป็น สิ่ง ที่ ดี ใช้งาน ง่าย แล็ปท็อป เครื่อง แรก
+Predicted (generated) text: <pos> ใช้งาน <opinion> ดี
+
+Input text: ปัญหา เดียว ของ ฉัน คือ ฉัน ไม่ สามารถ คลาย ปัญหา ได้ KEY ผลิตภัณฑ์
+Predicted (generated) text: <neg> KEY ผลิตภัณฑ์ <opinion> ปัญหา
+
+Input text: แน่นอน ว่า มัน มี ปุ่ม สัมผัส เดียว แต่ นั่น เป็น คุณสมบัติ ที่ ดี ที่สุด ของ คอมพิวเตอร์
+Predicted (generated) text: <pos> ปุ่ม สัมผัส <opinion> ดี
+
+Input text: อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: ใน ตอนแรก คอมพิวเตอร์ ดูเหมือน จะ เป็น ข้อตกลง ที่ ดี - รายละเอียด ที่ ดูเหมือน ไม่ มีราคา ต่ํา และ ต่ํา
+Predicted (generated) text: <neg> รายละเอียด <opinion> ดี <pos> price <opinion> ต่ํา <pos> price <opinion> ต่ํา
+
+Input text: ชอบ ความเสถียร ของ ซอฟต์แวร์ Mac และ ระบบปฏิบัติการ
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> เสถียร <pos> ซอฟต์แวร์ <opinion> Mac <opinion> เสถียร
+
+Input text: มัน ยัง สามารถ ทํา การ แก้ไข วิดีโอ ใน ระดับปานกลาง ได้ ( แม้ว่า คุณ อาจ ต้องการ ประสิทธิภาพ ที่ เพิ่มขึ้น ของ MacBook Pros ที่ ใหญ่ กว่า สํา หรับ การ แก้ไข วิดีโอ มือถือ ที่ หนักหน่วง )
+Predicted (generated) text: <neg> วิดีโอ <opinion> ปานกลาง
+
+Input text: มัน มี โปรเซสเซอร์ ที่ เร็ว ขึ้น และ แรม มากขึ้น
+Predicted (generated) text: <neg> โปรเซสเซอร์ <opinion> เร็ว ขึ้น <pos> แรม <opinion> มากขึ้น
+
+Input text: ต้องการ คุณสมบัติ ที่ ทันสมัย และ ไฮเทค เพิ่มเติม
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ทันสมัย <pos> ไฮเทค <opinion> ทันสมัย
+
+Input text: แป้นพิมพ์ นั้น ยอดเยี่ยม แต่ ปุ่ม ควบคุม หลัก และ รอง อาจ มี ความทนทาน มากขึ้น
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ยอดเยี่ยม <pos> ปุ่ม ควบคุม หลัก <opinion> ความทนทาน
+
+Input text: ฉัน ได้รับ กลับมา อีกครั้ง และ บอ กว่า มา เธอร์ บอร์ด ถูก แทน ที่แล้ว ตอนนี้ ฉัน เลย อยู่ บน เมนบอร์ด ที่สอง ภายใน 3 เดือน
+Predicted (generated) text: <neg> เธอร์ บอร์ด <opinion> แทน
+
+Input text: รัก ความเร็ว โดยเฉพาะอย่างยิ่ง!
+Predicted (generated) text: <pos> ความเร็ว <opinion> รัก
+
+Input text: ไม่ เพียง แต่ เป็น รุ่น ของ โปรแกรม เหล่านี้ ที่ สามารถ บันทึก ไว้, ทํา งาน บน และ เปิด บน ทั้ง พีซี และ Mac, รุ่น ของ โปรแกรม เหล่านี้ บน Mac มี กราฟิก และ กา รท ํา งาน ที่ เหนือกว่า.
+Predicted (generated) text: <pos> กราฟิก <opinion> เหนือกว่า <pos> program <opinion> เหนือกว่า
+
+Input text: ความเร็ว จะ มอบ พลัง ให้ คุณ ใน กา รท ํา งาน ใน โครงการ เหล่านี้ อย่าง ราบรื่น และ หลาย ต่อ หลายครั้ง หาก คุณ กํา ลัง ทํา
+Predicted (generated) text: <pos> ความเร็ว <opinion> ราบรื่น
+
+Input text: แล็ปท็อป ที่ ยอดเยี่ยม และ ขนาดที่ สมบูรณ์แบบ ใน การ พกพา ใน วิทยาลัย
+Predicted (generated) text: <pos> ขนาด <opinion> ยอดเยี่ยม <pos> ขนาด <opinion> สมบูรณ์แบบ
+
+Input text: ปัญหา ที่ แท้จริง ของ ฉัน กับ มัน? คํา แถลง ของ แบตเตอรี่ 7 ชั่วโมง ไม่ ใช่ แค่ พูด เกิน จริง - มัน โกหก
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ปัญหา
+
+Input text: อายุการใช้งาน แบตเตอรี่ ก็ ค่อนข้าง ดี เช่นกัน
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ดี
+
+Input text: ฉัน พบ ว่า มัน ใช้งาน ง่าย มี ข้อมูล มาก สงสัย การ แจ้ง เตือน และ บทเรียน ทํา ให้ ง่าย มาก สํา หรับ คน อย่าง ฉัน ที่ ไม่ ได้ มี เทคโนโลยี ขั้นสูง เพื่อ เรียนรู้ การ ใช้ คุณสมบัติ และ โปรแกรม ต่าง ๆ
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> สงสัย <neg> program <opinion> ขั้นสูง
+
+Input text: ฉัน ไม่ มี หน้าต่าง ป๊อป อัพ โง่ ( แม้ว่า ฉัน จะ มี ป๊อป อัพ บล็อก ) ฉันท ํา และ ไม่ต้อง รอ 5 นาที สํา หรับ หน้า เว็บ ที่จะ ดาวน์โหลด และ ที่ ดี ที่สุด ของ ทั้งหมด ที่ ฉัน สามารถ เรียก ใช้ ซอฟต์แวร์ โปรแกรม เว็บ ทั้งหมด ใน ครั้ง เดียว โดย ไม่ต้อง ช้า ลง
+Predicted (generated) text: <neg> หน้าต่าง ป๊อป อัพ <opinion> ไม่ <neg> หน้าต่าง บล็อก <opinion> โง่ <neg>.
+
+Input text: ความ จํา มัน ดัง มาก
+Predicted (generated) text: <neg> ความ จํา <opinion> ดัง
+
+Input text: การ เข้าถึง เว็บ ผ่าน เครือข่าย 3 G ช้า มาก มัน น่า ผิดหวัง มาก และ น่า รํา คา ญ มาก
+Predicted (generated) text: <neg> 3 G <opinion> ช้า <neg> เว็บ ผ่าน เครือข่าย <opinion> น่า รําคาn't.
+
+Input text: หน้าจอ ขนาดใหญ่ ยัง ช่วย ได้ เมื่อ คุณ ทํา งาน ใน โปรแกรม การ ออกแบบ เช่น Adobe Creative Suite
+Predicted (generated) text: <pos> หน้าจอ ขนาดใหญ่ <opinion> ช่วย
+
+Input text: นี่ เป็น Dell เครื่อง แรก ของ ฉัน ที่ ฉัน ได้ยิน ว่า ฝ่าย บริการ ลูกค้า ของ พวกเขา ขาด และ พวกเขา ทํา งาน เพื่อ ปรับปรุง!
+Predicted (generated) text: <neg> บริการ <opinion> ขาด
+
+Input text: เช่นเดียวกับ การ มี ปลั๊ก ใน คอมพิวเตอร์ ก็ หลวม
+Predicted (generated) text: <neg> ปลั๊ก <opinion> หลวม
+
+Input text: ปก HDD ที่สอง มี ผนัง ด้านใน ซึ่ง จะ ต้อง แตก ถ้า คุณ จะ ติดตั้ง อะไร
+Predicted (generated) text: <neg> ปก HDD <opinion> แตก
+
+Input text: ผลิตภัณฑ์ ที่ ยอดเยี่ยม โดย Apple ด้วย การ ออกแบบ ที่ ดูดี ใหม่
+Predicted (generated) text: <pos> ออกแบบ <opinion> ยอดเยี่ยม <pos> designed <opinion> ดูดี
+
+Input text: ฉัน รัก แป้นพิมพ์
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> รัก
+
+Input text: ฉัน ใช้ iphoto ตลอดเวลา ซึ่ง เป็น โปรแกรม ที่ ดี สํา หรับ ทุกคน ที่ เข้าสู่ การถ่ายภาพ - มือสมัครเล่น และ ผู้เชี่ยวชาญ เหมือนกัน
+Predicted (generated) text: <pos> iphoto <opinion> ดี <pos> program <opinion> ดี
+
+Input text: ตอนนี้ มัน ใช้งาน ง่าย และ ฉัน คิด ว่า มัน เป็น แล็ปท็อป ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แล็pท็อป <opinion> ยอดเยี่ยม
+
+Input text: ตั้งแต่ ฉัน ซื้อ แล็ปท็อป เครื่อง นี้ มา จนถึง ตอนนี้ ฉัน ยัง ไม่ มีประสบการณ์ อะไร เลย นอกจาก แล็ปท็อป และ การ บริการ ลูกค้า ที่ ไม่ ดี อย่าง ต่อเนื่อง ที่ ฉัน ได้รับ จาก โทรศัพท์ ด้วย บริการ ของ โตชิบา สายด่วน
+Predicted (generated) text: <neg> บริการ <opinion> ไม่ ดี
+
+Input text: นอกจากนี้ แถบ พื้นที่ ทํา ให้ คลิก ที่ มี เสียงดัง ทุกครั้งที่ คุณ ใช้งาน
+Predicted (generated) text: <neg> แถบ พื้นที่ <opinion> เสียงดัง
+
+Input text: เป็น โปรแกรม ที่ ยอดเยี่ยม สํา หรับ การ จัดเก็บ และ จัดระเบียบ ภาพถ่าย
+Predicted (generated) text: <pos> โปรแกรม <opinion> ยอดเยี่ยม
+
+Input text: นอกเหนือ จากนั้น มัน เป็น เครื่อง ที่ มีประสิทธิภาพ ที่ ยอดเยี่ยม และ ตอบสนอง ทุก ความต้องการ ของ ฉัน และ อื่น ๆ
+Predicted (generated) text: <pos> เครื่อง <opinion> genius <pos> ตอบสนอง <opinion> ยอดเยี่ยม
+
+Input text: โปรแกรม นั้น ยอดเยี่ยม เช่น iphoto ( รัก ความสามารถ ใน การ แก้ไข ), iphoto TMD ( ซึ่ง สามารถ รวม กับ หนังสือ ที่อยู่ บน ipod และ ipad ) iphoto ฯลฯ
+Predicted (generated) text: <pos> iphoto <opinion> ยอดเยี่ยม <pos> iphoto <opinion> รัก <pos> iphoto <opinion> รัก <pos> iphoto <opinion> ยอดเยี่ยม
+
+Input text: สะดวกสบาย ใช้งาน ง่าย น้ํา หนัก เบา ขนส่ง
+Predicted (generated) text: <pos> usage <opinion> สะดวกสบาย
+
+Input text: ตัว คอมพิวเตอร์ เป็น ผลิตภัณฑ์ ที่ ดี แต่ คลัง ซ่อม ก็ เหม็น
+Predicted (generated) text: <neg> ผลิตภัณฑ์ <opinion> ดี <neg> คลัง ซ่อม <opinion> เหม็น
+
+Input text: ฉัน คิด ว่า ราคา นี้ ยอดเยี่ยม สํา หรับ สเปค
+Predicted (generated) text: <pos> price <opinion> ยอดเยี่ยม
+
+Input text: ข้อเสีย เพียง อย่าง เดียว คือ ไม่ มี ไดรฟ์ ซีดี แต่ ฉัน พบ ว่า พวกเขา ราคา ถูก มาก และ พกพา ได้ ง่าย มาก ทํา ให้ เพื่อน ที่ ดี ที่สุด ให้ กับ คน ที่ มองหา พื้นที่ มากขึ้น
+Predicted (generated) text: <neg> ไดรฟ์ ซีดี <opinion> no
+
+Input text: ดังนั้น ความจุ ของ ฮาร์ดดิสก์ จึง ไม่ สําคัญสํา หรับ ฉัน
+Predicted (generated) text: <neg> ฮาร์ดดิสก์ <opinion> ไม่ สําคัญ
+
+Input text: ฉัน ชอบ ที่ คุณ สามารถ เลื่อน ลง ใน หน้าต่าง โดย ใช้ สอง นิ้ว บน แทร็ค แพ ด
+Predicted (generated) text: <pos> หน้าต่าง <opinion> ชอบ
+
+Input text: ทุกอย่าง จาก การ ออกแบบ ไป ยัง ระบบปฏิบัติการ นั้น ง่าย และ ตรงจุด
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> ง่าย <pos> ระบบปฏิบัติการ <opinion> ตรงจุด
+
+Input text: ฉัน ชอบ การ เล่น เกม โดยส่วนตัว แต่ ต้องการ เครื่อง ที่ ส่งมอบ ประสิทธิภาพ การ เล่น เกม ในขณะที่ ยัง ดู เป็น มืออาชีพ ต่อหน้า ลูกค้า ของ ฉัน
+Predicted (generated) text: <pos> เล่น เกม <opinion> ชอบ <pos> ประสิทธิภาพ <opinion> preferred
+
+Input text: สิ่ง นี้ เพิ่ง ถูก แทนที่ ด้วย ฮาร์ด ไดรฟ์!
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ถูก แทน
+
+Input text: เมื่อ คุณ ดู รายละเอียด เกี่ยวกับ ผลิตภัณฑ์ ของ Apple เมื่อ เปรียบเทียบ กับ Dell หรือ HP พวกเขา ดูเหมือน จะ เสนอ ราคา ที่สูง กว่า
+Predicted (generated) text: <neg> price <opinion> high enough
+
+Input text: ข้อเสีย เพียง อย่าง เดียว คือ การควบคุม ระดับเสียง
+Predicted (generated) text: <neg> ระดับเสียง <opinion> bad
+
+Input text: การ บู๊ ต ที่ รวดเร็ว มาก และ ปิด ตัว ลง
+Predicted (generated) text: <pos> บู๊ ต <opinion> รวดเร็ว
+
+Input text: ในที่สุด ฉัน ก็ ตัดสินใจ เลือก แล็ปท็อป เครื่อง นี้ เพราะ มัน เป็น รา คาที่ เหมาะสม สํา หรับ สิ่ง ที่ ฉัน ต้องการ
+Predicted (generated) text: <neg> แล็ปท็อป เครื่อง <opinion> เหมาะสม
+
+Input text: หาก การ เชื่อมต่อ อินเทอร์เน็ต เป็น สิ่ง สําคัญ ฉัน ขอ แนะ นํา ให้ ไป กับ หนังสือ dell net ใน ราคา 50 เหรียญ มากกว่า หรือ ซื้อ การ์ด ไร้สาย USB
+Predicted (generated) text: <neu> การ์ด ไร้สาย USB <opinion> แนะนํา
+
+Input text: ฉัน อ่าน ออนไลน์ แล้ว ว่า ผู้ใช้ บางคน มีปัญหา เรื่อง เสียง
+Predicted (generated) text: <neg> เสียง <opinion> มีปัญหา
+
+Input text: มัน ปล่อย เร็ว เกินไป
+Predicted (generated) text: <neg> ปล่อย <opinion> เร็ว
+
+Input text: แต่ ความจริง แล้ว ปัญหา ความ เข้ากันได้ และ นิสัยใจคอ เล็ก ๆ น้อย ๆ อื่น ๆ ทํา ให้ ฉัน คิด ว่า ฉัน จะ ซื้อ พีซี ใน ครั้ง ต่อไป
+Predicted (generated) text: <neg> ความเข้ากันได้ <neg> พีซี <opinion> ปัญหา
+
+Input text: จากนั้น มัน ก็ หยุด ชาร์จ เลย
+Predicted (generated) text: <neg> ชาร์จ <opinion> หยุด
+
+Input text: ฉัน ไม่ ได้ สัมผัส กับ ความร้อน จํานวน มาก ออก มาจาก มัน แต่ ฉัน ขอ แนะ นํา ให้ ซื้อ ขาตั้ง อย่างไรก็ตาม เนื่องจาก ลักษณะ ของ การ ออกแบบ ของ macbook เนื่องจาก เป็น อ่าง น้ํา ร้อน ขนาดใหญ่ มาก
+Predicted (generated) text: <neg> อ่าง น้ํา ร้อน <opinion> ขนาดใหญ่
+
+Input text: เว็บแคม ค่อนข้าง หน่วง มาก
+Predicted (generated) text: <neg> เว็บแคม <opinion> หน่วง
+
+Input text: ฉัน มีปัญหา ที่ สําคัญ กับ แล็ปท็อป ยกเว้น ชิ้นส่วน พลาสติก ที่ ครอบคลุม สาย พอร์ต usb ได้ หลุด ออกมา
+Predicted (generated) text: <neg> พลาสติก <opinion> มีปัญหา <neg> สาย-t usb <opinion> หลุด
+
+Input text: การ ออกแบบ เคส ที่ เพรียวบาง ยอดเยี่ยม อยู่ ด้านนอก เท่านั้น
+Predicted (generated) text: <neg> เคส <opinion> เพรียวบาง  เคส <opinion> ยอดเยี่ยม
+
+Input text: มัน รวดเร็ว เมื่อ เชื่อมต่อ แบบ ไร้สาย กับ เครือข่าย ใด ๆ ไม่ ว่าการ เชื่อมต่อ จะ อ่อนแอ หรือไม่
+Predicted (generated) text: <neg> เชื่อมต่อ <opinion> รวดเร็ว
+
+Input text: รา คามี การแข่งขัน มาก
+Predicted (generated) text: <pos> การแข่งขัน <opinion> มาก
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ บาง เป็นพิเศษ สํา หรับ ขนาด หน้าจอ และ พลังงาน การประมวลผล
+Predicted (generated) text: <neg> หน้าจอ <opinion> บาง <neg> พลังงาน <opinion> บาง
+
+Input text: บางที นี่ อาจ เป็น ไวรัส อาจ ไม่ แต่ คอมพิวเตอร์ ได้ ล็อค หลายครั้ง และ สอง ครั้ง หน้าจอ ก็ มืด ลง
+Predicted (generated) text: <neg> หน้าจอ <opinion> มืด
+
+Input text: หน้าจอ สว่าง และ สดใส และ แป้นพิมพ์ ใช้งาน ง่าย มาก สําคัญ มาก สํา หรับ การใช้งาน อย่าง รวดเร็ว
+Predicted (generated) text: <pos> หน้าจอ <opinion> สว่าง <pos> display <opinion> สดใส <pos> แป้นพิมพ์ <opinion> รวดเร็ว
+
+Input text: ฉัน มี iTunes, Itunes, อีเมล, MS Office, เครือข่าย และ เครื่องพิมพ์ ตั้งค่า และ ทํา งาน ได้ อย่าง สมบูรณ์ ภายใน หนึ่ง ชั่วโมง
+Predicted (generated) text: <pos> iTunes <opinion> สมบูรณ์ <pos> Itunes <opinion> สมบูรณ์ <pos> MS Office <opinion> สมบูรณ์
+
+Input text: macbooks มี ขนาดเล็ก พอที่จะ พกพา ได้ แต่ เก็บ ข้อมูล และ ทํา งาน ได้ จํานวน มาก
+Predicted (generated) text: <pos> จํานวน <opinion> ขนาดเล็ก <neg> เก็บ <opinion> well
+
+Input text: ความหายนะ เพียง อย่าง เดียว คือ ซอฟต์แวร์ จํานวน มาก ที่ ฉัน ติดใจ และ ไม่ ทํา งาน กับ Mac และ iCom ไม่ คุ้ม กับ ราคา ของ มัน
+Predicted (generated) text: <neg> iCom <opinion> หายนะ <neg> iCom <opinion> non worth <neg> price <opinion> คุ้ม
+
+Input text: แผ่น รอง เมาส์ จะ เจ็บปวด อย่าง มาก ใน การ เลื่อน!
+Predicted (generated) text: <neg> แผ่น รอง เมาส์ <opinion> เจ็บปวด
+
+Input text: ตั้งแต่นั้นมา ฉัน มีปัญหา เล็กน้อย กับ กา รท ํา งาน ช้า
+Predicted (generated) text: <neg> งาน <opinion> ช้า
+
+Input text: การ ลงทะเบียน / ใช้ ครั้งแรก เป็นเรื่อง ง่าย
+Predicted (generated) text: <pos> use <opinion> ง่าย
+
+Input text: ใช้เวลา ของ คุณ และ ผ่าน บทเรียน อย่าง อดทน
+Predicted (generated) text: <pos> บทเรียน <opinion> อดทน
+
+Input text: แป้นพิมพ์ สามารถ ใช้การ ตัดแต่ง บางอย่าง ได้
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ใช้
+
+Input text: ส่งคืน แล็ปท็อป เพื่อ ซ่อมแซม ครั้ง ที่สอง และ กลับมา มา พร้อมกับ ความเสียหาย ทางกายภาพ อย่าง ชัดเจน ( คีย์บอร์ด โป่ง พอง และ ลํา โพง กด ) ปุ่ม ไม่ ทํา งาน และ พอร์ต USB ไม่ ทํา งาน
+Predicted (generated) text: <neg> คีย์บอร์ด <opinion> damage <neg> คีย์บอร์ด <opinion> โป่ง <neg> กด <opinion> not ทํา งาน <neg>.
+
+Input text: จดหมาย A หยุด ทํา งาน หลังจาก สัปดาห์ แรก
+Predicted (generated) text: <neg> งาน <opinion> หยุด
+
+Input text: ด้วย สิ่ง ที่ ฉัน รู้ วิธี กา รท ํา คอมพิวเตอร์ นั้น สวยงาม
+Predicted (generated) text: <pos> วิธี กา รท คอมพิวเตอร์ <opinion> สวยงาม
+
+Input text: ทุกอย่าง ใช้ ได้ดี กับ เครื่อง นี้ : ความเร็ว ความจุ สร้าง
+Predicted (generated) text: <pos> ความเร็ว <opinion> ได้ดี <pos> จุ build <opinion> ได้ดี
+
+Input text: ฉัน ใช้ สิ่ง นี้ สํา หรับ ธุร กิจการ สอนพิเศษ ของ ฉัน และ เนื่องจาก ฉัน กระดอน จาก นักเรียน ไป เป็น นักเรียน เสมอ มัน เหมาะ สํา หรับ การ พกพา และ อายุการใช้งาน แบตเตอรี่ ( ใช่ มัน ได้รับ 8 ชั่วโมง ตามที่ โฆษณา!)
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> เหมาะ
+
+Input text: มัน อยู่ ใน สภาพ ที่ ดี ที่สุด และ มี คุณภาพ สูง มาก
+Predicted (generated) text: <pos> stability <opinion> ดี
+
+Input text: เมื่อ ถึง เวลา สํา หรับ บริการ รับประกัน ของ โตชิบา คุณ ทํา และ ไม่ สําคัญ
+Predicted (generated) text: <neu> โตชิบา <opinion> รับประกัน
+
+Input text: อย่างไรก็ตาม หน้าจอ แช่แข็ง ยังคง เกิดขึ้น
+Predicted (generated) text: <neg> หน้าจอ แช่แข็ง <opinion> ยังคง
+
+Input text: มัน สั้น ใน พื้นที่ และ การ ดาวน์โหลด มักจะ มีปัญหา ใน การ เสร็จสิ้น หรือ ถูก กล่าวว่า'เสียหาย '
+Predicted (generated) text: <neg> พื้นที่ <opinion> สั้น <neg> iTunes <opinion> สั้น
+
+Input text: 3 ) ฝ่ายสนับสนุน ลูกค้า ที่ น่ากลัว
+Predicted (generated) text: <neg> ฝ่ายสนับสนุน ลูกค้า <opinion> น่ากลัว
+
+Input text: Apple ยอดเยี่ยม อยู่ เสมอ เกี่ยวกับ สุนทรียภาพ ของ สิ่ง ต่าง ๆ พวกเขา มา พร้อมกับ ผลิตภัณฑ์ ที่ ดูดี อยู่ เสมอ
+Predicted (generated) text: <pos> สุนทรียภาพ <opinion> ยอดเยี่ยม
+
+Input text: ทํา งาน ราบรื่น และ รวดเร็ว
+Predicted (generated) text: <pos> งาน <opinion> ราบรื่น <pos> งาน <opinion> ราบรื่น <pos> รวดเร็ว <opinion> ราบรื่น
+
+Input text: ข้อเสีย ของ เน็ตบุ๊ก นี้ ค่อนข้าง เหมือนกัน สํา หรับ เน็ตบุ๊ก ใด ๆ: ขนาด หน้าจอ ไม่ ใช่ สิ่ง ที่ ฉัน'จ้องมอง ที่ ทั้ง เครื่อง - ชั่วโมง ของ แบตเตอรี่ ห้า วัน ต่อ สัปดาห์
+Predicted (generated) text: <neg> หน้าจอ <opinion> ข้อเสีย
+
+Input text: กราฟิก นั้น ยอดเยี่ยม
+Predicted (generated) text: <pos> กราฟิก <opinion> ยอดเยี่ยม
+
+Input text: ใน 5 เดือน คุณภาพ การ เชื่อมต่อ แย่ ลง และ แย่ ลง
+Predicted (generated) text: <neg> เชื่อมต่อ <opinion> แย่  ลง <opinion> แย่
+
+Input text: หน้าจอ ขนาดใหญ่ ช่วย ให้ คุณ เพลิดเพลิน กับ การ ดู หนัง รูปภาพ และ อื่น ๆ!
+Predicted (generated) text: <pos> หน้าจอ ขนาดใหญ่ <opinion> Enjoy <pos> หนัง รูปภาพ <opinion> Enjoy
+
+Input text: หูฟัง และ แจ็ค ไมค์ อยู่ ข้างหน้า ทีวี ค่ะ ทํา เสียง ออกมา ยาก เวลา ใช้ หูฟัง / ไมค์ ไม่ต้อง พูด ถึงว่า แล็ปท็อป ถูก ออกแบบ มาส ํา หรับ คน มือขวา ค่ะ
+Predicted (generated) text: <neg> headphone <opinion> ยาก <neg> แจ็ค ไมค์ <opinion> ยาก
+
+Input text: สํา หรับ [$] ราคา ( ข้อเสนอ พิเศษ ) นี่ เป็น แล็ปท็อป ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> price <opinion> ยอดเยี่ยม
+
+Input text: สิ่ง ที่ ฉัน ชอบ คือ แล็ปท็อป ทํา งาน ได้ดี โดย ไม่ต้อง ซื้อ หน่วย ความ จํา เพิ่มเติม
+Predicted (generated) text: <pos> แล็pท็อป <opinion> ได้ดี
+
+Input text: มัน มี การ บูต อย่าง รวดเร็ว ปิด และ เชื่อมต่อ กับ อินเทอร์เน็ต
+Predicted (generated) text: <pos> บูต <opinion> รวดเร็ว
+
+Input text: นี่ ไม่ ใช่ แล็ปท็อป เกม ที่ จริงจัง หรือ เครื่อง สื่อ จริงจัง ;
+Predicted (generated) text: <neg> แล็ปท็อป เกม <opinion> ไม่ ใช่ <neg> เครื่อง สื่อ <opinion> จริงจัง
+
+Input text: พวกเขา เปลี่ยน ฮาร์ด ไดรฟ์ ของ ฉัน เช่นเดียวกับ คณะกรรมการ แม่ ของ ฉัน
+Predicted (generated) text: <neu> ฮาร์ด ไดรฟ์ <opinion> เปลี่ยน
+
+Input text: ไม่ มี อะไร จะ บ่น เกี่ยวกับ ระบบ
+Predicted (generated) text: <neg> ระบบ <opinion> บ่น
+
+Input text: และ มัน ก็ มา พร้อมกับ OSX ใหม่ ที่มา พร้อมกับ คุณสมบัติ ใหม่ ที่ ทํา ให้ การใช้งาน ง่าย ขึ้น
+Predicted (generated) text: <pos> OSX <opinion> ใหม่ <pos> คุณสมบัติ <opinion> ใหม่
+
+Input text: ตอนนี้ หน้าจอ มืด ขึ้น มืด กว่า เข้ม กว่า
+Predicted (generated) text: <neg> หน้าจอ <opinion> มืด
+
+Input text: ฉัน พา ไป ทุกที่ กับ ฉัน เพราะ มัน ง่าย ต่อ การ พกพา
+Predicted (generated) text: <pos> พกพา <opinion> ง่าย
+
+Input text: โอ้ และ มัน มี คํา และ สิ่งของ แต่ มัน เป็น การทดลอง ใช้แล้ว - ดังนั้น หลังจาก ผ่าน ไป ประมาณ หนึ่ง เดือน หรือ มากกว่า นั้น เมื่อ คุณ ไป เปิด มัน ขอ กุญแจ ผลิตภัณฑ์ ซึ่ง ไม่ ได้มา พร้อมกับ คอมพิวเตอร์ และ แม้ หลังจาก คลิก ยกเลิก มัน จะ ไม่ ปล่อย ให้ คุณ ใช้ มัน เลย ฉัน ใช้ คํา เก่า ๆ ที่ ใช้งาน ได้ดี
+Predicted (generated) text: <neg> กุญแจ ผลิตภัณฑ์ <opinion> เก่า  สิ่งของ <opinion> abuse
+
+Input text: แป้นพิมพ์ มีความรู้สึก ธรรมชาติ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ยอดเยี่ยม
+
+Input text: แบตเตอรี่ ใช้งาน ได้ ไม่ นาน แต่ ฉัน แน่ใจ ว่า แบตเตอรี่ อัพเกรด จะ แก้ปัญหา นั้น ได้
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> damage
+
+Input text: ฉัน ดู รายละเอียด ประสิทธิภาพ อื่น ๆ อย่าง ใกล้ชิด เกินไป และ ในขณะที่ เปรียบเทียบ ฉัน เอา มัน เพื่อให้ คุณสมบัติ เหล่านี้ เป็น มาตรฐาน
+Predicted (generated) text: <neg> specification <opinion> มาตรฐาน
+
+Input text: ฉัน ซื้อ มัน เมื่อ สัปดาห์ ที่แล้ว และ ใน วัน ถัดไป ต้อง ส่งคืน เพราะ มัน ร้อน เกิน และ ร้อน เกินไป ฉัน หยุด ตอบสนอง
+Predicted (generated) text: <neg> ตอบสนอง <opinion> เกิน
+
+Input text: ฝาครอบ สํา หรับ ไดรฟ์ ดีวีดี ก็ หลุด ออกมา เช่นกัน - เครื่องหมาย คุณภาพ ของ การ ก่อสร้าง ไม่ ดี
+Predicted (generated) text: <neg> ฝาครอบ <opinion> หลุด ฝาครอบ <opinion> ไม่ ดี
+
+Input text: แต่ แขน velcro ฉีกขาด หลังจาก ใช้งาน ครั้ง เดียว
+Predicted (generated) text: <neg> แขน velcro <opinion> ฉีกขาด
+
+Input text: ซอฟต์แวร์ น่าทึ่ง มาก
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> น่าทึ่ง
+
+Input text: เรา พก เน็ตบุ๊ก ไป รอบ ๆ ที่นี่ และ ที่นั่น ดังนั้น จึง ค่อนข้าง น่า รํา คา ญ เมื่อ หน้าจอ LCD เพียงแค่ เลื่อน'สไลด์'ลง
+Predicted (generated) text: <neg> หน้าจอ LCD <opinion> น่า รํา <neg>.
+
+Input text: RAM 2 GB มี มากมาย สามารถ เรียก ใช้ Windows 7 และ อย่าง น้อย 2 หรือ 3 โปรแกรม อื่น ๆ ต่อไป โดย ไม่ ชะลอตัว
+Predicted (generated) text: <pos> RAM <opinion> น้อย <neg> Windows 7 <opinion> doesลอตัว <pos> program <opinion> ชะลอตัว
+
+Input text: อายุการใช้งาน แบตเตอรี่ นั้น ยอดเยี่ยม มาก - พวก มัน โดดเด่น
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม <pos> performance <opinion> โดดเด่น
+
+Input text: Vista เป็น ฝันร้าย
+Predicted (generated) text: <neg> Vista <opinion> ฝันร้าย
+
+Input text: โปรแกรม มา พร้อมกับ คอมพิวเตอร์ และ ทํา งาน ได้ อย่าง สวยงาม
+Predicted (generated) text: <pos> โปรแกรม <opinion> สวยงาม
+
+Input text: ฉัน รัก เน็ตบุ๊ก นี้ เพราะ มัน มี หน้าจอ และ จอแสดงผล ที่ น่าทึ่ง และ มี ขนาดเล็ก และ เบา แต่ หลังจาก 1 สัปดาห์ มัน หยุด Netbook เว็บเพจ สํา หรับ ฉัน ( แม้ หลังจาก ติดตั้ง เบราว์เซอร์ ใหม่ ) แล้ว ในที่สุด มัน ก็ เริ่ม ให้ ฉัน หน้าจอ สี น้ํา เงิน และ crashing ทุกครั้งที่ ฉัน บูต เครื่อง
+Predicted (generated) text: <pos> หน้าจอ <opinion> น่าทึ่ง <pos> display <opinion> น่าทึ่ง <pos> display <opinion> larger <pos> display <opinion> เบา
+
+Input text: เรียก แล็ปท็อป ว่า ช้า ไป และ ฉัน ก็ เกลียด มัน!
+Predicted (generated) text: <neg> แล็ปท็อป <opinion> ช้า <neg> pointer <opinion> เกลียด
+
+Input text: อุปกรณ์ ชาร์จ ดูเหมือน ใหญ่ สํา หรับ คอมพิวเตอร์ ชั้นเรียน นี้
+Predicted (generated) text: <neg> อุปกรณ์ ชาร์จ <opinion> ใหญ่
+
+Input text: ฉัน ไม่ ชอบ คุณภาพ และ ตํา แห น่ง ของ ลํา โพง
+Predicted (generated) text: <neg> คุณภาพ <opinion> ไม่ ชอบ <neg> ลํา โพng <opinion> ไม่ ชอบ
+
+Input text: หน้าจอ กราฟิก และ ความ ชัดเจน และ ความ คมชัด นั้น ยอดเยี่ยม
+Predicted (generated) text: <pos> หน้าจอ กราฟิก <opinion> ยอดเยี่ยม <pos> ความ ชัด <opinion> ยอดเยี่ยม
+
+Input text: ดังนั้น ฉัน จึง โทร หา ฝ่ายสนับสนุน ลูกค้า ( ซึ่ง ก็ดี เช่นกัน ) และ พวกเขา ผ่าน มัน ไป และ มัน ก็ เป็น เพียง คุณสมบัติ ความปลอดภัย และ ไม่ ส่ง ผลกระทบ ต่อ ประสิทธิภาพ กา รท ํา งาน เลย ฉัน เพิ่ง เลือก ที่จะ ซ่อน ข้อความ
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ความปลอดภัย <neu> งาน <opinion> ก็ดี
+
+Input text: การ ออกแบบ unibody นั้น ดู ทันสมัย และ ทนทาน
+Predicted (generated) text: <pos> unibody <opinion> ทันสมัย <pos> unibody <opinion> ทนทาน
+
+Input text: หยุด ทํา งาน - น้อยกว่า หนึ่ง สัปดาห์ หลังจาก ของ ฉัน การรับประกัน ก็ เพิ่มขึ้น
+Predicted (generated) text: <neu> การรับประกัน <opinion> เพิ่มขึ้น
+
+Input text: แต่ สํา หรับ ค่าใช้จ่าย นี้ เป็น ผู้ชนะ
+Predicted (generated) text: <pos> expens <opinion> ผู้ชนะ
+
+Input text: นอกจากนี้ แบตเตอรี่ ยัง ใช้งาน ได้ ไม่ นาน เลย
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ นาน
+
+Input text: ฉัน ซื้อ มัน จาก a. com เพราะ มัน ถู กรวม '' ด้วย ซอฟต์แวร์ พิเศษ แต่ เมื่อ ปราก ฎ ว่า ซอฟต์แวร์ นั้น เพิ่ง ล่ม มัน บ่อย ขึ้น...
+Predicted (generated) text: <neg> ซอฟต์แวร์ <opinion> พิเศษ
+
+Input text: ฉัน ต้อง ส่ง แล็ปท็อป ของ ฉัน ไป บริการ ทุก ๆ 3 เดือน และ ดูเหมือนว่า จะ เป็นปัญหา เดียว กันที่ พวกเขา บอ กว่า พวกเขา ได้รับ การ แก้ไข แล้ว
+Predicted (generated) text: <neg> บริการ <opinion> problem
+
+Input text: ประสิทธิภาพ ที่ แข็งแกร่ง ใน อุปกรณ์ นี้ ทํา ให้ การใช้งาน ของ ความ สนุกสนาน และ ความรู้สึก ที่ แข็งแกร่ง ใน ยุค ของ ความเร็ว อุปกรณ์ นี้ ให้บริการ ความต้องการ ที่ ทันสมัย ทั้งหมด เป็น เกม ที่ แข็งแกร่ง มาก และ มีประโยชน์ มาก สํา หรับ นักออกแบบ
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> แข็งแกร่ง <pos> อุปกรณ์ <opinion> useful
+
+Input text: ฉัน ผิดหวัง อย่าง มาก ที่ ค้นพบ ว่า HP ( สิ่ง ที่ ฉัน คิด ว่า เป็น บริษัท ที่ มีชื่อเสียง ) จะ ไม่ ให้เกียรติ การรับประกัน เมื่อ ใบ มีด พัดลม แตกสลาย
+Predicted (generated) text: <neg> ใบ พัดลม <opinion> ไม่ ให้เกียรติ
+
+Input text: ในขณะที่ คน ส่วนใหญ่ บอ กว่า พีซี มี ฟังก์ชั่น และ คุณค่า และ Mac นั้น สวย ที่จะ มอง ฉัน คิด ว่า มี'สิ่ง ที่จะ พูด เกี่ยวกับ ความเรียบง่าย ของ Mac
+Predicted (generated) text: <pos> พีซี <opinion> สวย
+
+Input text: macbook ของ ฉัน ดู ดีขึ้น และ บาง มาก!
+Predicted (generated) text: <pos> appearance <opinion> ดีขึ้น <pos> macbook <opinion> บาง
+
+Input text: แบตเตอรี่ ร้อน มาก จน น่ากลัว
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ร้อน <neg> แบตเตอรี่ <opinion> น่ากลัว
+
+Input text: มัน ดู ดีมาก และ ปุ่ม พิมพ์ ได้ ง่าย
+Predicted (generated) text: <pos> ปุ่ม พิมพ์ <opinion> ดีมาก <pos> ปุ่ม พิมพ์ <opinion> ง่าย
+
+Input text: มัน แย่มาก ที่จะ ใช้ แม้ จะ มี คุณสมบัติ ขั้นสูง ก็ตาม
+Predicted (generated) text: <neg> คุณสมบัติ <opinion> แย่มาก <neg> คุณสมบัติ <opinion> ขั้นสูง
+
+Input text: ฉัน ต้อง เปิด มัน ต่อไป จนกว่า มัน จะ ตัดสินใจ ที่จะ ต่ํา กว่า และ ไม่ มี การ ปิด เสียง
+Predicted (generated) text: <neg> เสียง <opinion> ต่ํา
+
+Input text: มัน ยังคง สวยงาม และ มี กา รท ําสํา เนา สี ที่ ดีกว่า ที่ ฉัน เคย คาดหวัง จาก สมุดบันทึก
+Predicted (generated) text: <pos> กา รท सङ् <opinion> สวยงาม <pos> กา รt's Photo <opinion> cheaper
+
+Input text: เขา รัก มัน และ ใช้งาน ง่าย และ โรงเรียน เริ่ม สอน เด็ก ๆ ใน ช่วงต้น ๆ เกี่ยวกับ คอมพิวเตอร์ ดังนั้น มัน ง่าย สํา หรับ เขา ที่จะ เริ่มต้น
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย
+
+Input text: นอกจากนี้ macbooks มา พร้อมกับ คุณสมบัติ ที่ มากขึ้น ซึ่ง เจ๋ง มาก!
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> มากขึ้น <pos> specification <opinion> เจ๋ng
+
+Input text: การ ได้รับ แผน Apple Care เป็น สิ่ง จํา เป็น
+Predicted (generated) text: <pos> Apple Care <opinion> จํา
+
+Input text: โดยรวม แล้ว ฉัน ขอ แนะ นํา สิ่ง นี้ ให้ กับ ทุกคน และ บอก พวกเขา ว่า หาก พวกเขา ต้องการ ที่จะ เผา เพลง หรือ เล่น วิดีโอ เกม เพื่อ ซื้อ ไดรฟ์ ซีดี
+Predicted (generated) text: <neu> ไดรฟ์ ซีดี <opinion> แนะ
+
+Input text: ตัวรับ โอ้ อวดตัว ประมวลผล ที่ เร็ว ขึ้น หน่วย ความ จํา มากขึ้น และ ฮาร์ด ไดรฟ์ ที่ ใหญ่ กว่า คอมพิวเตอร์ เครื่อง เก่า ของ ฉัน บวก กับ กล้อง คุณภาพ ดีกว่า เว็บ หน้าจอ ที่ ดีกว่า และ คุณสมบัติ อื่น ๆ อีก มากมาย
+Predicted (generated) text: <pos> กล้อง QUALI <opinion> ดีกว่า <pos> operating <opinion> cheaper <pos> คุณสมบัติ <opinion> none
+
+Input text: ข้อเสีย เพียง อย่าง เดียว คือ แบตเตอรี่ มี อายุการใช้งาน นาน 2 ชั่วโมง เมื่อ ไม่ ได้ เสียบ ปลั๊ก
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> อายุการใช้งาน <neg> นาน
+
+Input text: กราฟิก ใน คอมพิวเตอร์ เครื่อง นี้ เป็น ตัวเอก - ชัดเจน และ สดใส มาก
+Predicted (generated) text: <pos> กราฟิก <opinion> ชัดเจน <pos> graphicsิก <opinion> สดใส
+
+Input text: นอกเหนือจาก ซอฟต์แวร์ ทดลองใช้ และ อายุการใช้งาน แบตเตอรี่ สั้น การ ขาด เว็บแคม มัน ยอดเยี่ยม
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> สั้น <neg> เว็บแคม <opinion> ยอดเยี่ยม
+
+Input text: แป้นพิมพ์ สีด ํา รุ่นใหม่ ใช้ จาก สีเทา ก่อนหน้านี้ เล็กน้อย ซึ่ง ดู เนียน จริงๆ แต่ ก็ ยัง เป็น สมุดบันทึก ที่ ยอดเยี่ยม!
+Predicted (generated) text: <neg> สีด บันทึก <opinion> ยอดเยี่ยม
+
+Input text: ความน่าเชื่อถือ ของ ชิ้นส่วน และ คุณภาพ ของ บริการ ของ Sony เป็น สิ่ง ที่ แย่ ที่สุด
+Predicted (generated) text: <neg> ชิ้นส่วน <opinion> น่าเชื่อถือ <neg> quality <opinion> แย่
+
+Input text: เช่นเดียวกับ แล็ปท็อป เครื่อง ใด ๆ ที่ ไม่ ได้ ซื้อ ด้วย ตัวเลือก ซอฟต์แวร์ มัน มา พร้อมกับ สิ่ง ที่ ฉัน คิด ว่า การใช้งาน ที่ ไร้ประโยชน์
+Predicted (generated) text: <neg> ซอฟต์แวร์ <opinion> ไร้ประโยชน์
+
+Input text: มัน ใช้งาน ร่วมกัน ได้ แต่ คุณสมบัติ และ กา รท ํา งาน ของ มัน ใหม่ ทั้งหมด อีกครั้ง ดังนั้น คุณ อาจ ประหยัด เงินได้ เช่นกัน และ เพียงแค่ เรียนรู้ โปรแกรม mac ที่ ติดตั้ง ไว้ ล่วงหน้า
+Predicted (generated) text: <neu> คุณสมบัติ <opinion> ประหยัด <neg> งบประมาณ <opinion> ประหยัด
+
+Input text: มัน ใช้งาน ได้ อย่าง ไม่มีที่ติ!
+Predicted (generated) text: <neg> ใช้งาน <opinion> ไม่มีที่ติ
+
+Input text: ฉัน มี แล็ปท็อป กลับมา อีกครั้ง - ตั้งแต่ จ่าย $ 176 ทุก 3 เดือน แค่ ไม่ คุ้มค่า ( ประมาณ ระยะเวลา ที่ พอร์ต ดูเหมือน จะ ใช้งาน ได้ )
+Predicted (generated) text: <neg> ระยะเวลา <opinion> ไม่ worth
+
+Input text: นอกจากนี้ แบตเตอรี่ ยัง ถ่าย ได้ อย่าง สมบูรณ์
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> สมบูรณ์
+
+Input text: / ระบบ ระบาย ความ ร้อนที่ ยอดเยี่ยม / ดีกว่า มาก การ์ด TI ( ATI 5870 ) / 8 GB RAM / LED หน้าจอ แบ็ค ไลท์...
+Predicted (generated) text: <pos> ระบบ ระบาย <opinion> ยอดเยี่ยม <pos> การ์ด TI <opinion> cheaper <pos> LED หน้าจอ <opinion> ดีกว่า
+
+Input text: ปัญหา ที่ ใหญ่ ที่สุด คือ กล่อง ไม่ มี คํา แนะ นํา ใน นั้น
+Predicted (generated) text: <neg> กล่อง <opinion> ปัญหา <neg> กล่อง <opinion> non
+
+Input text: เมื่อ เทียบ กับ พีซี d'd spec ที่ คล้าย กัน เครื่อง นี้ คุ้มค่า สร้าง ขึ้น มา อย่าง ดี และ ใช้งาน ได้ ทันที
+Predicted (generated) text: <pos> spec <opinion> worth <pos> ใช้งาน <opinion> easy
+
+Input text: หน้าจอ มี ความ ชัดเจน และ ระบบ ตอบสนอง ได้ ดีมาก
+Predicted (generated) text: <pos> หน้าจอ <opinion> ชัดเจน <pos> ระบบ ตอบสนอง <opinion> ดีมาก
+
+Input text: มัน ใช้งาน ง่าย และ ฉัน ได้ สั่งซื้อ ซอฟต์แวร์ และ อุปกรณ์ เพิ่มเติม สํา หรับ โรล รอยซ์ ของ แล็ปท็อป เครื่อง ใหม่ ของ ฉัน แล้ว
+Predicted (generated) text: <neu> ซอฟต์แวร์ <opinion> เพิ่มเติม <pos> อุปกรณ์ <opinion> necessary
+
+Input text: มัน อาจ เป็น สิ่ง ที่ ลึกซึ้ง ภายใน Windows เพราะ ฉัน ไม่ สามารถ สร้างภาพ ดิสก์ บน ฮาร์ด ไดรฟ์ ของ ฉัน ได้
+Predicted (generated) text: <neg> Windows <opinion> ไม่ <neg> ฮาร์ด ไดรฟ์ <opinion> ไม่ สามารถ สร้าง
+
+Input text: แทร็ก แพ ดสํา หรับ ฉัน คือ สิ่ง ที่ โดดเด่น จริงๆ คุณ สามารถ ทํา สิ่ง ต่าง ๆ ได้ หลายอย่าง ขึ้นอยู่กับ ว่า คุณ ใช้บน แผ่น ติดตาม กี่ นิ้ว ที่ ยอดเยี่ยม คิด Apple!
+Predicted (generated) text: <pos> แพร็ก แพ แพ แพ แพ แพ xรับ <opinion> โดดเด่น
+
+Input text: ตอนนี้ ฉัน ไม่ ได้ พยายาม ใช้ สิ่ง นี้ เนื่องจาก ไดรฟ์ ดิสก์ ถูก แทนที่ และ หลัง จา กน ํา มัน กลับ ไป ที่ เนิร์ด ส ควอด ฉัน พบ ว่า พวกเขา บังเอิญ ไม่ ได้ ใช้ ไดรฟ์ ที่ ถูกต้อง เมื่อ พวกเขา เปลี่ยน ไดรฟ์ แรก ดังนั้น จึง กลับ ไป ใช้ ไดรฟ์ ที่ ถูกต้อง
+Predicted (generated) text: <neg> ไดรฟ์ <opinion> ไม่ ได้ ใช้ <neg> ไดรайзер <opinion> ถูกต้อง
+
+Input text: ครั้งแรก, คุณ จะ ค้นพบ ว่า โปรแกรมประมวลผล คํา ที่ รู้จัก กัน ว่า เป็น. แปล ไม่ ได้ ว่า สมบูรณ์แบบ ใน คอมพิวเตอร์ ของ คนอื่น, ถ้า มัน แปล ได้ ทั้งหมด.
+Predicted (generated) text: <neg> โปรแกรมประมวลผล คํา <opinion> สมบูรณ์
+
+Input text: แบตเตอรี่ ไม่ สามารถ ใช้งาน ได้ - ถึง แบตเตอรี่ ที่ มี อายุการใช้งาน ยาวนาน
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ <neg> ใช้งาน <opinion> ยาวนาน
+
+Input text: แอปเปิ้ล มีชื่อเสียง และ เป็นที่รู้จัก กัน ดี สํา หรับ การใช้งาน ที่ ง่าย
+Predicted (generated) text: <pos> แอปเปิ้ล <opinion> ดี <pos> การใช้งาน <opinion> ง่าย
+
+Input text: ส่งคืน แล็ปท็อป เพื่อ ซ่อมแซม ครั้ง ที่ 3 และ กลับมา มีปัญหา ก่อนหน้านี้ ได้รับ การ แก้ไข ( ยกเว้น เตา ย่าง ลํา โพง ) แต่ เครื่อง เริ่ม ล็อก ระหว่าง การใช้งาน และ ในที่สุด ก็ ไม่ ทํา งาน เลย
+Predicted (generated) text: <neg> เตา ย่าง ลําโพง <opinion> มีปัญหา <neg> เครื่อง <opinion> non ทํา
+
+Input text: รัก กราฟิก โปรแกรม ที่ ยอดเยี่ยม ( รวมถึง Scharg ) และ พื้น หลัง เริ่มต้น ที่ เย็น จริงๆ
+Predicted (generated) text: <pos> กราฟิก โปรแกรม <opinion> รัก <pos> Scharg <opinion> ยอดเยี่ยม <pos> พื้น <opinion> เย็น
+
+Input text: หน้าจอ, แป้นพิมพ์ และ เมาส์ : หาก คุณ ไม่ สามารถ เห็น ตัวเอง ใช้จ่าย เงินพิเศษ เพื่อ กระโดด ขึ้นไป ยัง Mac หน้าจอ ที่ สวยงาม แป้นพิมพ์ เรืองแสง ของ เกาะ ตอบสนอง และ ความ สนุกสนาน - เมาส์ นี้ คุ้มค่า เงินพิเศษ สํา หรับ ฉัน คนเดียว
+Predicted (generated) text: <pos> หน้าจอ <opinion> สวยงาม <pos> แป้นพิมพ์ <opinion> คุ้มค่า
+
+Input text: โดยรวม แล้ว ฉัน พบ การเปลี่ยนแปลง ครั้ง ใหญ่ ใน สิ่ง ที่ mac ของ ฉันท ํา งาน ได้ ค่อนข้าง เร็ว เมื่อ เทียบ กับ พีซี เครื่อง เก่า ของ ฉัน
+Predicted (generated) text: <neg> งาน <opinion> เร็ว
+
+Input text: เมื่อ ฉัน ได้รับ คอมพิวเตอร์ กลับมา และ อีกครั้ง - มัน ยัง ไม่ ถูกต้อง HP บอก ฉัน ว่า มัน หมด การรับประกัน และ ตอนนี้ มัน เป็นปัญหา ของ ฉัน
+Predicted (generated) text: <neg> การรับประกัน <opinion> หมด
+
+Input text: มัน มา พร้อมกับ เว็บแคม ใน ตัว ซึ่ง ยอดเยี่ยม เพราะ ฉัน สามารถ เห็น การสื่อสาร กับ สมาชิก ใน ครอบครัว ของ ฉัน กลับบ้าน
+Predicted (generated) text: <pos> เว็บแคม <opinion> ยอดเยี่ยม
+
+Input text: มัน ปลอดภัย และ ง่าย ต่อ กา รน ํา ทาง
+Predicted (generated) text: <pos> กา รน ํา <opinion> ปลอดภัย <pos> กา รน ํา <opinion> ง่าย
+
+Input text: ฉัน เหนื่อย เล็กน้อย ที่ ซื้อ macbook 13'อีก เกือบ 2 ปี ต่อมา แต่ ดูเหมือน macbooks ใหม่ จะ ได้รับ การ์ด กราฟิก เส้น ปัจจุบัน ในเวลานี้
+Predicted (generated) text: <neg> การ์ด กราฟิก เส้น <opinion> เหนื่อย
+
+Input text: พวกเขา เป็นระบบ ที่ ง่าย ที่สุด ใน การเรียนรู้ เกี่ยวกับ คอมพิวเตอร์ ด้วย
+Predicted (generated) text: <pos> ระบบ <opinion> ง่าย
+
+Input text: การ์ด วิดีโอ นั้น ยอดเยี่ยม สํา หรับ สื่อ และ สูง กว่า ค่าเฉลี่ย สํา หรับ การ เล่น เกม แต่ ไม่ ใช่ ทางเลือก แรก นัก เล่น เกม
+Predicted (generated) text: <pos> การ์ด วิดีโอ <opinion> ยอดเยี่ยม <pos> display <opinion> higher
+
+Input text: เห็นได้ชัด ว่า มีข้อบกพร่อง ใน การผลิต บางอย่าง ที่ มี ปริมาณ ของ ป้าย ความร้อน
+Predicted (generated) text: <neg> ป้าย ความร้อน <opinion> บกพร่อง
+
+Input text: Asus จด จํา ใบหน้า ไม่ ทํา งาน และ windows เพียง เข้าสู่ระบบ
+Predicted (generated) text: <neg> ใบหน้า <opinion> ไม่ ทํา งาน <neg> windows <opinion> never
+
+Input text: Windows Vista ทํา ให้ คอมพิวเตอร์ เครื่อง นี้ แทบจะ ไม่ สามารถ ใช้งาน ได้ กับ บริการ ออนไลน์
+Predicted (generated) text: <neg> Windows Vista <opinion> ไม่ <neg> สามารถใช้
+
+Input text: ฉัน ติดต่อ เอเซอร์ และ พวกเขา ให้ การกู้ คืน ดีวีดี ฟรี แก่ ฉัน ดังนั้น ทํา และ ไม่ ไป และ จ่าย ให้ พวกเขา แค่ ถาม พวกเขา และ พวกเขา ควร ให้ พวกเขา กับ คุณ
+Predicted (generated) text: <neg> ดีวีดี ฟรี <opinion> ฟรี
+
+Input text: ตอนนี้ ฉัน สั่ง ฉัน ไม่ ได้ ไป เต็ม สเกล สํา หรับ เว็บแคม หรือ คีย์บอร์ด เต็ม รูปแบบ ฉัน ต้องการ บางสิ่งบางอย่าง เพื่อ พื้นฐาน ที่ ง่าย ต่อ การ พกพา เมื่อ ฉัน ใช้ กระเป๋า เป้ สะพาย หลัง หรือ วีลแชร์ และ กระเป๋า แล็ปท็อป
+Predicted (generated) text: <pos> คีย์บอร์ด <opinion> ง่าย
+
+Input text: สามารถ ฟังเพลง ของ ฉัน และ ดู วิดีโอ ของ ฉัน ได้ อย่าง ง่ายดาย และ มี จอแสดงผล ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> จอแสดงผล <opinion> ยอดเยี่ยม
+
+Input text: ประสิทธิภาพ ยอดเยี่ยม
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> ยอดเยี่ยม
+
+Input text: จอแสดงผล นั้น เกิน ความ น่ากลัว
+Predicted (generated) text: <neg> จอแสดงผล <opinion> เกินความ น่ากลัว
+
+Input text: แทบจะ ไม่ มี หน่วย ความ จํา ใด ๆ ใน ฮาร์ด ไดรฟ์ ของ คอมพิวเตอร์
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ไม่
+
+Input text: แล็ปท็อป ก็ ใช้งาน ได้ ค่อนข้าง ดี
+Predicted (generated) text: <pos> ใช้งาน <opinion> ดี
+
+Input text: นาที ที่ คุณ ไฟ มันดี ทั้งหมด อินเตอร์ เฟซ ผู้ใช้ ง่าย มาก
+Predicted (generated) text: <pos> อินเตอร์ เฟซ <opinion> ดี
+
+Input text: จริง ๆ แล้ว ฉัน ติดต่อ โตชิบา ก่อนที่ ฉัน จะ เริ่ม มีปัญหา และ ได้รับ วิ่ง ไป รอบ ๆ หลังจากที่ ฉัน ให้ หมายเลข ซี เรียล เพื่อ ชะลอ การ ส่ง แล็ปท็อป จนกว่า หลังจาก การรับประกัน หมดอายุ
+Predicted (generated) text: <neg> หมายเลข ซี <opinion> มีปัญหา <neg> หมายเลข ซี <opinion> ชะลอ
+
+Input text: หลังจาก เปลี่ยน ฮาร์ด ไดรฟ์ แบตเตอรี่ หยุด ทํา งาน ( 3 เดือน ของ การใช้งาน ) ซึ่ง น่า ผิดหวัง
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> หยุด <neg> charger <opinion> ผิดหวัง
+
+Input text: ฉัน ชอบ หน้าจอ ที่ มองเห็น ได้ ง่าย และ ใช้งาน ได้ดี และ เล่น ได้
+Predicted (generated) text: <pos> หน้าจอ <opinion> ชอบ <pos> usage <opinion> ได้ดี <pos> เล่น <opinion> ได้ดี
+
+Input text: กราฟิก ที่ ยอดเยี่ยม!
+Predicted (generated) text: <pos> กราฟิก <opinion> ยอดเยี่ยม
+
+Input text: โปร เป็น ผลิตภัณฑ์ ที่ ยอดเยี่ยม ฉัน หวัง ว่า รุ่น 13 นิ้ว ที่มา พร้อมกับ โปรเซสเซอร์ Intel i และ มี ขอบ ที่ สะดวกสบาย กว่า ( ขอ บท ํา ให้ ข้อมือ ของ ฉัน เจ็บ )
+Predicted (generated) text: <pos> ขอบ <opinion> สะดวกสบาย
+
+Input text: ข้อเสียเปรียบ อย่างหนึ่ง ที่ ฉัน สังเกตเห็น คือ คุณภาพ เสียง ผ่าน USB
+Predicted (generated) text: <neg> เสียง <opinion> badเปรียบ
+
+Input text: อายุการใช้งาน แบตเตอรี่ ดูด น้ํา ผลไม้ จาก แล็ปท็อป ของ ฉัน และ เมื่อ แบตเตอรี่ เสริม อายุการใช้งาน ออก ไป เรา เป็น คน ที่ มีปัญหา อยู่ ที่นั่น มาก สํา หรับ การรับประกัน นั้น ครอบคลุม ผลิตภัณฑ์ ทั้งหมด ที่ เรา ซื้อ
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ดูด น้ํา ผลไม้ <opinion> complaint
+
+Input text: ฉัน มี Mac เครื่อง อื่น แต่ มัน ช้า เนื่องจาก ระบบปฏิบัติการ รุ่นเก่า กว่า
+Predicted (generated) text: <neg> ระบบปฏิบัติการ รุ่น <opinion> ช้า <neg> ระบบปฏิบัติการ รุ่น <opinion> เก่า
+
+Input text: ฉัน เหมาะ ที่จะ มี แล็ปท็อป สํา หรับ ใช้งาน แต่ นี่ เหมาะกับ งบประมาณ ของ ฉัน และ คุณสมบัติ ที่ ฉัน ต้องการ
+Predicted (generated) text: <pos> specification <opinion> เหมาะ
+
+Input text: รู้สึก ผิดหวัง ที่ พบ ว่า รุ่น นี้ ถูก ยกเลิก เพราะ ปัญหา เมนบอร์ด ที่ รู้จัก กัน ดี
+Predicted (generated) text: <neg> เมนบอร์ด <opinion> ผิดหวัง <neg> เมนboard <opinion> complaint
+
+Input text: ลํา โพง ก็ ไม่ ได้ ดัง มาก แต่ เป็น เน็ตบุ๊ก
+Predicted (generated) text: <neg> ลํา โพง <opinion> ไม่ ได้ ดัง  internet bุ๊ก <opinion> ไม่ ได้ ดัง
+
+Input text: รัก LAPTOP นี้ ราคา วิเศษ สํา หรับ สิ่ง ที่ คุณ ได้รับ!
+Predicted (generated) text: <neg> ราคา <opinion> วิเศษ
+
+Input text: ผู้ช่วย สําคัญ ที่ นํา ฉัน มา ที่ Mac คือ แง่มุม ทาง ศิลปะ
+Predicted (generated) text: <pos> ผู้ช่วย สําคัญ <opinion> แงมุม
+
+Input text: ดังนั้น ฉัน ตัดสินใจ ที่จะ ไม่ ซื้อ ผลิตภัณฑ์ HP อื่น ( Compaq อายุ ห้า ขวบ ของ ฉัน ) กินเวลา นาน 3 นาที ก่อนที่ ฮาร์ด ไดรฟ์ จะ ล้มเหลว
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ล้มเหลว
+
+Input text: ฉัน รู้ ว่า ทุกคน คิด ว่า Mac เกิน ราคา และ พูด เกิน จริง แต่ เมื่อ คุณ ผ่าน ค่าใช้จ่าย ครั้งแรก แล้ว คุณ จะ พบ ว่า พวกเขา คุ้มค่า ทุก เพ นนี ( นอกเหนือ จากนั้น ยังมี แผนการ ระดมทุน ที่ เสนอ Best Buy อยู่ เสมอ )
+Predicted (generated) text: <neg> price <opinion> เกิน
+
+Input text: ฉัน รัก แทร็ค แพ ด X 10
+Predicted (generated) text: <pos> แทร็ค แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ
+
+Input text: HP มี ความสนใจ ใน การ ขาย การรับประกัน เพิ่มเติม ( ซึ่ง มี ค่าใช้จ่าย มากกว่า เน็ตบุ๊ก ใหม่ ) จากนั้น พวกเขา กํา ลัง ช่วย หรือ แก้ไข
+Predicted (generated) text: <neu> การรับประกัน <opinion> เพิ่มเติม
+
+Input text: ซอฟต์แวร์'ขยะ'ไม่ มาก ที่จะ ลบ
+Predicted (generated) text: <neg> SOFTWARE <opinion> ขยะ
+
+Input text: ระบบ จะ สูญเสีย ประมาณ 20 % ของ ประสิทธิภาพ เพราะ สิ่ง นั้น
+Predicted (generated) text: <neg> ประสิทธิภาพ <opinion> สูญเสีย
+
+Input text: ความแตกต่าง ของ คีย์บอร์ด Apple จาก แป้นพิมพ์ ของ PC ใช้เวลานาน พอสมควร ใน กา รท ํา ความคุ้นเคย แต่ โดยรวม แล้ว มัน ก็ คุ้มค่า!
+Predicted (generated) text: <neu> คีย์บอร์ด <opinion> คุ้มค่า
+
+Input text: ปัญหา เดียว คือ มัน ช้า ไป หน่อย และ ฉัน ก็ แก้ไข ด้วย การ เพิ่ม RAM เพิ่มเติม
+Predicted (generated) text: <neu> RAM <opinion> เพิ่ม
+
+Input text: ฮาร์ด ไดรฟ์ ก็ ชน เช่นกัน และ ฉัน ต้อง ซื้อ สายไฟ ใหม่
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ชน
+
+Input text: อีก ปัญหา หนึ่ง ที่ ฉัน มี กับ มัน คือ แบตเตอรี่
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ปัญหา
+
+Input text: MacBook Pro ของ ฉันท ํา งาน เหมือน ฝัน มัน ไม่ เคย ร้อน เกินไป หรือ แม้แต่ อบอุ่น สํา หรับ เรื่อง นั้น เล็กน้อย
+Predicted (generated) text: <pos> งาน <opinion> อบอุ่น
+
+Input text: ฉัน ได้รับ คําช มมาก มาย เกี่ยวกับ ขนาด ของ มัน และ พูด ใน ฐานะ คน ที่ เดินทาง บ่อย บน รถบัส ฉัน สามารถ ยืนยัน ถึง ความจริง ที่ว่า นี่ เป็น คอมพิวเตอร์ ขนาดที่ สมบูรณ์แบบ หาก คุณ จํา กัด กับ ความ กว้าง ของ ร่างกาย ของ คุณ สํา หรับ ห้อง คอมพิวเตอร์
+Predicted (generated) text: <neg> ขนาด <opinion> สมบูรณ์แบบ
+
+Input text: ง่าย ต่อ การ พกพา สามารถ ใช้ได้ ทุกที่ สามารถ เชื่อมต่อ กับ เครื่องพิมพ์ ชุด หูฟัง
+Predicted (generated) text: <pos> เครื่องพิมพ์ ชุด หูฟัง <opinion> ง่าย
+
+Input text: เมื่อ ฉัน ได้รับ แล็ปท็อป ของ ฉัน กลับมา หลังจากนี้ ตัวอย่าง แรก มัน ใช้งาน ได้ดี เล็กน้อย จากนั้น ฉัน ก็ เริ่ม ทํา งาน อีกครั้ง ปัญหา อีกครั้ง ทุกอย่าง จาก โปรแกรม และ ไดรเวอร์ ล้มเหลว อีกครั้ง เพื่อ ปิด เครื่อง โดย ไม่ มีเหตุผล เพื่อ ล็อค และ แช่แข็ง และ ปัญหา ทุก ประเภท
+Predicted (generated) text: <neg> BOOT <opinion> ล้มเหลว <neg> drainarเวอร์ <opinion> ล้มเหลว
+
+Input text: ชอบ ที่ มัน ทํา และ ไม่ ใช้ พื้นที่ เหมือน คอมพิวเตอร์ ทั่วไป
+Predicted (generated) text: <pos> พื้นที่ <opinion> ชอบ <neg> พื้นที่ <opinion> non use
+
+Input text: ดังนั้น ฉัน จึง นํา มัน กลับ ไป ที่ ร้าน ขาย แอปเปิ้ล และ พวกเขา ขาย พนักงาน อัจฉริยะ บาร์ ) แก้ ไขมัน ด้วย การ รีเซ็ต แฟน ๆ ที่ บู๊ ต
+Predicted (generated) text: <neg> ไขมัน <opinion> แก้
+
+Input text: เมาส์ บน แผ่น รอง ปุ่ม ซ้าย ติด เสมอ
+Predicted (generated) text: <neu> เมาส์ <opinion> ติด
+
+Input text: เรา ใช้ เครื่องมือ ใน ตัว บ่อยครั้ง iTunes เปิด เกือบ ทุกวัน และ ใช้งาน ได้ดี กับ iPhone ของ ฉัน
+Predicted (generated) text: <neu> iTunes <opinion> ได้ดี
+
+Input text: ขนาด ของ มัน ช่วย ฉัน ได้ จริง ๆ นิดหน่อย โดย ฉัน สามารถ ใส่ มัน ใน กระเป๋า เป้ สะพาย หลัง และ ใช้ มัน ที่ ร้านอาหาร ที่ โต๊ะ นั้น กิน พื้นที่ เสมอ
+Predicted (generated) text: <neu> ขนาด <opinion> นิดหน่อย
+
+Input text: คุณ ภาพจริง ใน รา คาที่ ดี!
+Predicted (generated) text: <pos> ภาพจริง <opinion> ดี
+
+Input text: โปรแกรม ที่มา พร้อมกับ ระบบ ที่ ใช้ Leopard นั้น เพียงพอ สํา หรับ คน ทั่วไป ที่จะ เรียก ใช้ พื้นฐาน ทั้งหมด
+Predicted (generated) text: <neu> โปรแกรม <opinion> เพียงพอ
+
+Input text: แล้ว ฉัน ควรจะ ทํา อย่างไร ศูนย์ บริการ แอล จี ไม่ สามารถ ให้บริการ เอช เอ สดี เซอร์วิส แก่ ฉัน '' เมื่อ มัน ถูก เรียก ว่า ศูนย์ บริการ เอช ดี ซี เซ็นเตอร์ '
+Predicted (generated) text: <neg> ศูนย์ บริการ แอล จี <opinion> ไม่ สามารถ ให้บริการ <neg> ศูนย์ บริการ <opinion> เอช ดี
+
+Input text: วัสดุ ของ Pro นี้ ทํา มาจาก ดู ดีกว่า อุปกรณ์ พีซี อื่น ๆ มาก อย่าง ที่ ฉัน บอก มา มัน ทํา งาน ได้ ดีกว่า คอมพิวเตอร์ เครื่อง ใด ก็ ได้ที่ ฉัน เคย มี มา ก่อน
+Predicted (generated) text: <pos> วัสดุ <opinion> ดีกว่า
+
+Input text: หลังจาก ทํา การวิจัย อย่าง ละเอียด i 5 MBP มีราคา ต่ํา สุด ใน i 5 MBP 15 '
+Predicted (generated) text: <neg> price <opinion> ต่ํา
+
+Input text: พี่ กํา ลัง รอ ที่จะ ถ่ายรูป บูธ
+Predicted (generated) text: <neg> บูธ <opinion> รอ
+
+Input text: ระบบ ระบบปฏิบัติการ และ อินเทอร์เฟซ ผู้ใช้ นั้น ใช้งาน ง่าย มาก และ แผ่น ติดตาม Track ขนาดใหญ่ น่าทึ่ง มาก
+Predicted (generated) text: <neu> ระบบ ระบบปฏิบัติการ <opinion> น่าทึ่ง <pos> แผ่น ติดตาม Track <opinion> น่าทึ่ง
+
+Input text: ฮาร์ดดิสก์ - รุ่นใหม่ ให้ คุณ พื้นที่ ดิสก์ มากขึ้น ( 320 GB ) แต่ เวลา สอน ฉัน ไม่ เคย ไว้วางใจ ดิสก์ แข็ง ภายใน
+Predicted (generated) text: <neu> ดิสก์ <opinion> มากขึ้น <neu> 320 GB <opinion> worth
+
+Input text: มัน พกพา ได้ มาก และ เชื่อมต่อ กับ WIFI ได้ ง่าย ที่ ห้องสมุด และ ที่อื่น ๆ
+Predicted (generated) text: <pos> WIFI <opinion> ง่าย
+
+Input text: สิ่ง แรก สิ่ง แรก Macbook pro มี แอพพลิเคชั่น มากมาย เพื่อให้ ชีวิต ง่าย ขึ้น ซึ่ง แตกต่าง จาก คอมพิวเตอร์ windows
+Predicted (generated) text: <pos> แอพพลิเคชั่น <opinion> มากมาย <pos> ชีวิต <opinion> ง่าย
+
+Input text: และ หน้าจอ ใน สิ่ง นี้ น่าทึ่ง อย่างยิ่ง สํา หรับ วิดีโอ และ ภาพยนตร์ และ เกม คุณภาพ สูง
+Predicted (generated) text: <pos> หน้าจอ <opinion> น่าทึ่ง <pos> หน้าจอ <opinion> สูง
+
+Input text: ฉัน คิด ว่า ฉัน อาจจะ มี มากเกินไป บน คอมพิวเตอร์ แต่ หลังจาก ดู แล้ว มี พื้นที่ เหลือเฟือ และ นั่น ไม่ ใช่ ปัญหา
+Predicted (generated) text: <neg> พื้นที่ <opinion> เหลือเฟือ <neg> พื้นที่ <opinion> เหลือเฟือ
+
+Input text: ตอนนี้ Football เสีย ต้อง รอ ใหม่
+Predicted (generated) text: <neg> Football <opinion> เสีย
+
+Input text: ความแตกต่าง ของ ความเร็ว ถัดจาก ไม่ มี อะไร สํา หรับ mac และ ฮาร์ด ไดรฟ์ สามารถ อัพเกรด ได้ ด้วย ตนเอง หรือ คุณ สามารถ ซื้อ ฮาร์ด ไดรฟ์ ภายนอก $ 60 ได้
+Predicted (generated) text: <pos> ความเร็ว <opinion> ความแตกต่าง
+
+Input text: ผู้คน หงุดหงิด ที่จะ ทํา งาน กับ ตัว ผลิตภัณฑ์ เอง นั้น ถูก มาก และ อุปกรณ์ เสริม นั้น น้อยกว่า ที่ น่าพอใจ
+Predicted (generated) text: <neg> อุปกรณ์ เสริม <opinion> น้อยกว่า <neg> อุปกรณ์ เสริม <opinion> น่าพอใจ
+
+Input text: ทุกอย่าง เกี่ยวกับ mac นั้น ยอดเยี่ยม ใช้เวลา เล็กน้อย ใน การเรียนรู้ และ คุ้นเคย กับ ระบบ ใหม่ แต่ คุณ จะ เรียนรู้ ได้ อย่าง รวดเร็ว และ คุ้มค่า
+Predicted (generated) text: <pos> การเรียนรู้ <opinion> ยอดเยี่ยม <pos> ระบบ ใหม่ <opinion> คุ้นเคย
+
+Input text: ฉัน ชอบ ขนาด ของ คอมพิวเตอร์ ตั้งแต่ ฉัน เล่น เกม
+Predicted (generated) text: <pos> ขนาด <opinion> ชอบ
+
+Input text: คุณ รู้ ว่าการ ใช้ คอมพิวเตอร์ ควร สนุก ไม่ สนุก - โดยเฉพาะ เมื่อ คุณ เล่น เกม หรือ ทํา งาน กับ ภาพถ่าย
+Predicted (generated) text: <neg> spinning <opinion> ไม่ สนุก
+
+Input text: พูด ตามตรง ฉัน คิด ว่า มัน เป็น อุปกรณ์ ที่ ผิดพลาด หรือ บางอย่าง แต่ ไม่ รู้
+Predicted (generated) text: <neg> อุปกรณ์ <opinion> ผิดพลาด
+
+Input text: ฉัน ชอบ ขนาดที่ เล็ก และ สะดวก ของ แล็ปท็อป ของ ฉันท ํา ให้ เป็น เครื่องมือ ที่ สมบูรณ์แบบ สํา หรับ การศึกษา ทางวิชาการ ของ ฉัน
+Predicted (generated) text: <pos> ขนาด <opinion> เล็ก <pos> ขนาด <opinion> สะดวก
+
+Input text: ฉัน ชอบ การ สร้าง ของแข็ง น้ํา หนัก เบา และ อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม (สํา หรับ ตอนนี้ )
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: แบตเตอรี่ ใช้งาน ได้ดี มัน สร้าง ขึ้น อย่าง แน่นหนา และ ทํา งาน ได้ รวดเร็ว
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ได้ดี <pos> แบตเตอรี่ <opinion> แน่นหนา <pos> ทํา งาน <opinion> รวดเร็ว
+
+Input text: แม้ว่า การ์ด เสียง จะ ถูก จํา กัด
+Predicted (generated) text: <neg> การ์ด เสียง <opinion> กัด
+
+Input text: นี่ คือ แล็ปท็อป ขนาดใหญ่ ที่ มี พลังงาน ใน การประมวลผล มากมาย และ อายุการใช้งาน แบตเตอรี่ ที่ ยาวนาน
+Predicted (generated) text: <pos> พลังงาน <opinion> ยาวนาน <pos> operating <opinion> ยาวนาน
+
+Input text: ไฟ ตก บ่อยครั้ง และ อายุการใช้งาน แบตเตอรี่ ลดลง อย่าง รวดเร็ว
+Predicted (generated) text: <neg> ไฟ <opinion> ตก <neg> charger <opinion> ลดลง <neg> warranty <opinion> ลดลง
+
+Input text: - ฉัน เสนอ ว่า พวกเขา สามารถ เปลี่ยน ฮาร์ด ไดรฟ์ ได้
+Predicted (generated) text: <neu> ฮาร์ด ไดรฟ์ <opinion> เปลี่ยน
+
+Input text: มัน ค่อนข้าง ง่าย ที่จะ ใช้ ระบบปฏิบัติการ
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> ง่าย
+
+Input text: ดังนั้น การ มี ปลั๊ก AC ออกมา กับ ฉัน และ สูญเสีย หรือ ฉัน สามารถ อยู่ ที่นี่ ภายใน คอมพิวเตอร์ ของ ฉัน ใน สอง ใน สาม ครั้ง ที่ ไม่ ดี
+Predicted (generated) text: <neg> AC <opinion> ปลั๊ก
+
+Input text: ข้อดี คือ ราคา ดี
+Predicted (generated) text: <pos> price <opinion> ดี
+
+Input text: สรุป : HP รู้ ว่า พวกเขา กํา ลัง จัดส่ง BIOS ที่ ไม่ ดี และ ไม่ ทํา อะไร เลย ใน เชิงรุก เพื่อ แก้ไข
+Predicted (generated) text: <neg> BIOS <opinion> ไม่ ดี
+
+Input text: ฉัน มี 3 เดือน เมื่อ พอร์ต เริ่ม ดับ
+Predicted (generated) text: <neg> พอร์ต <opinion> ดับ
+
+Input text: การปรับปรุง ระบบปฏิบัติการ นั้น ค่อนข้าง ค่อยเป็นค่อยไป แต่ มี ความ สําคัญ
+Predicted (generated) text: <neg> ระบบปฏิบัติการ <opinion> ค่อยเป็นค่อยไป
+
+Input text: มัน ใช้งาน ง่าย สุด ๆ
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย
+
+Input text: ฮาร์ด ไดรฟ์ คอมพิวเตอร์ เพื่อนร่วมชั้น จํานวน มาก ของ ฉัน ชน กัน
+Predicted (generated) text: <pos> จํานวน <opinion> มาก
+
+Input text: ความ ง่าย ใน การใช้งาน เป็น เพียง หนึ่ง ใน ประโยชน์ ที่ ฉัน รัก เกี่ยวกับ Mac ของ ฉัน
+Predicted (generated) text: <pos> การใช้งาน <opinion> ง่าย
+
+Input text: Macbook Pro 13'พอดี กับ งบประมาณ ของ ฉัน และ จัดส่ง ฟรี และ ไม่ มี ภาษี ไป ยัง CA นี่ คือ รา คาที่ ดี ที่สุด ที่ เรา ได้รับ สํา หรับ ผลิตภัณฑ์ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> จัดส่ง <opinion> ฟรี <pos> ภาษี <opinion> ยอดเยี่ยม
+
+Input text: พลัง และ ความยืดหยุ่น ที่ แท้จริง ทํา ให้ MacBook Pro ต้อง มี สํา หรับ ช่างเทคนิค ใด ๆ!
+Predicted (generated) text: <pos> พลัง <opinion> พลัง <pos> ช่างเทคนิค <opinion> แท้จริง
+
+Input text: โน้ตบุ๊ค ขาด พอร์ต HDMI และ พอร์ต HDMI ที่จะ เปิด ให้ เชื่อมต่อ กับ ทีวี ได้
+Predicted (generated) text: <neg> HDMI <opinion> ขาด <neg> HDMI <opinion> มพอร์ต
+
+Input text: แบตเตอรี่ ใช้งาน ได้ นาน ประมาณ 6 ชั่วโมง ในขณะที่ ฉัน กํา ลัง ท่อง เว็บ ใน วันอาทิตย์ ในขณะที่ ตรวจสอบ คะแนน ฟุตบอล และ ดู วิดีโอ Youtube ตลก
+Predicted (generated) text: <neu> แบตเตอรี่ <opinion> ใช้งาน
+
+Input text: เหมาะ สํา หรับ การ เพิ่ม รูปภาพ ลง ใน facebook และ เว็บไซต์ เครือข่าย สังคม อื่น ๆ
+Predicted (generated) text: <pos> รูปภาพ <opinion> เพิ่ม
+
+Input text: คุณสมบัติ บางอย่าง ไม่ เป็นมิตร ( ล้อ ปรับ ระดับเสียง คุณภาพ เสียง ฯลฯ
+Predicted (generated) text: <neg> specification <opinion> ไม่ เป็นมิตร
+
+Input text: ราคา ถูก กว่า ไม่ ควร เท่ากับ ผลิตภัณฑ์'ราคา ถูก '
+Predicted (generated) text: <neg> ราคา <opinion> ถูก.
+
+Input text: หลังจาก ผ่าน ไป สอง สาม ปี แบตเตอรี่ ของ ฉัน ก็ เริ่ม ลดลง แต่ ถูก แทนที่ ฟรี เนื่องจาก แบตเตอรี่ ของ ฉัน จํา ได้ เล็กน้อย
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ลดลง <neg> แบตเตอรี่ <opinion> ฟรี
+
+Input text: ระบบ ร้อน เกินไป อย่าง ต่อเนื่อง อายุการใช้งาน แบตเตอรี่ สั้น เกินไป กรณี แยก ออก จากกัน และ แอปพลิเคชัน หลัก ของ ฉัน ที่ ฉัน ใช้ ทุกวัน ใน กา รท ํา งาน ของ ฉัน เนื่องจาก ศิลปิน กราฟิก ทํา งาน ไม่ ดี
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> สั้น
+
+Input text: บริษัท ส่ง สาย ใหม่ มา ให้ ฉัน ข้ามคืน และ ขอโทษ
+Predicted (generated) text: <neu> ส่ง สาย <opinion> ข้ามคืน <pos> ขอโทษ <opinion> ข้ามคืน
+
+Input text: มัน ง่าย ที่จะ เชื่อมต่อ กับ เครือข่าย ไร้สาย อื่น ๆ
+Predicted (generated) text: <neg> เชื่อมต่อ <opinion> ง่าย
+
+Input text: ตัวแทน ไม่ ได้ ตอบ คํา ถาม ของ ฉัน ฉัน ต้อง ถาม เขา ถ้า เขา เข้าใจ สิ่ง ที่ ฉัน ถาม หรือ ถ้า เขา พูด ภาษาอังกฤษ เพราะ เขา ไม่ พยายาม ที่จะ ยอมรับ คํา ถาม ของ ฉัน
+Predicted (generated) text: <neg> ตัวแทน <opinion> ไม่
+
+Input text: ฉัน ส่ง มัน กลับมา และ พวกเขา เปลี่ยน เมนบอร์ด และ แฟน ๆ ด้านใน
+Predicted (generated) text: <neu> เมนบอร์ด <opinion> เปลี่ยน
+
+Input text: สํา หรับ ฉัน กุญแจ เริ่ม ติด และ จะ พิมพ์ ไม่ ดี นัก
+Predicted (generated) text: <neg> กุญแจ <opinion> ติด <neg> กุญแจ <opinion> ไม่ ดี
+
+Input text: CA และ ไม่ ได้ ติด ตั้งใหม่ ด้วย ซีดี โอ เอส มาตรฐาน เนื่องจาก ไดรเวอร์ ฮาร์ดแวร์ ที่ เป็น กรรมสิทธิ์
+Predicted (generated) text: <neg> ซีดี โอ เอส มาตรฐาน <opinion> กรรมสิทธิ์
+
+Input text: คอมพิวเตอร์ ล่าช้า สอง สัปดาห์ ใน การจัดส่ง เพราะ HP ลืม ที่จะ กรอก เอกสาร กา รน ํา เข้าที่ จํา เป็น
+Predicted (generated) text: <neg> การจัดส่ง <opinion> ล่าช้า
+
+Input text: ฉัน พอใจ มาก กับ ประสิทธิภาพ ของ แล็ปท็อป เครื่อง นี้
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> พอใจ
+
+Input text: ฉัน ซื้อ มัน ให้ แม่ ของ ฉัน และ เธอ รายงาน ว่า แบตเตอรี่ มี อายุการใช้งาน ตลอด ทั้งวัน สํา หรับ เธอ มัน'เบา มาก และ การ ตอบสนอง สํา หรับ การ คํานวณ ที่ เธอ'ทํา ( กิจกรรม อินเทอร์เน็ต เน้น : จดหมาย การวิจัย ฯลฯ ) นั้น ยอดเยี่ยม ;
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> อายุการใช้งาน <pos> กิจกรรม อินเทอร์เน็ต <opinion> ยอดเยี่ยม
+
+Input text: มัน ดีมาก และ เมื่อ คุณ เรียนรู้ คุณสมบัติ คุณ จะ มีความสุข มาก ที่ มี คอมพิวเตอร์ ที่ ซับซ้อน
+Predicted (generated) text: <neu> คุณสมบัติ <opinion> ซับซ้อน
+
+Input text: มัน เพรียวบาง และ น้ํา หนัก เบา และ ชาร์จ อย่าง รวดเร็ว เมื่อ จํา เป็น
+Predicted (generated) text: <neg> น้ํา <opinion> เพรียวบาง <neg> น้ํา <opinion> เบา <neg> ชาร์จ <opinion> รวดเร็ว
+
+Input text: นอกจากนี้ คุณ อาจ ต้อง ชาร์จ มัน วัน ละ ครั้ง หาก ใช้ ขนาด กลาง ทุกสิ่ง รวดเร็ว และ ง่ายดาย กับ mac ขนาด และ รูปลักษณ์ คือ คุณสมบัติ ส่วนใหญ่ ที่ ดึงดูด ฉัน
+Predicted (generated) text: <pos> ขนาด กลาง <opinion> รวดเร็ว <pos> รูปลักษณ์ <opinion> ดึงดูด
+
+Input text: ฉัน คิด ว่า มัน มี กล้อง เพราะ เป็นหนึ่ง ใน ความต้องการ ของ ฉัน แต่ ลืม ตรวจสอบ ข้อมูล จํา เพาะ เกี่ยวกับ กล้อง ตัว นี้ ก่อนที่ ฉัน จะ ซื้อ
+Predicted (generated) text: <neg> กล้อง <opinion> ลืม
+
+Input text: สั้น ไป หน่อย ใน RAM แต่ คุณ จะ ได้รับ สิ่ง ที่ คุณ จ่าย ไป
+Predicted (generated) text: <neg> RAM <opinion> สั้น
+
+Input text: มัน ไม่ ได้มา พร้อมกับ ซอฟต์แวร์ ใด ๆ ที่ ติด ตั้งอยู่ นอก windows สื่อ แต่ สํา หรับ ราคา ฉัน ยิน ดีมาก กับ สภาพ และ ผลิตภัณฑ์ โดยรวม
+Predicted (generated) text: <neg> สภาพ <opinion> ยิน <pos> price <opinion> ดีมาก
+
+Input text: แล้ว หนึ่ง เดือน หลังจาก การรับประกัน หมดอายุ เครื่อง ชาร์จ ทดแทน ก็ ไป
+Predicted (generated) text: <neg> เครื่อง charger <opinion> หมดอายุ
+
+Input text: ฉัน รัก พีซี พีซี พีซี '' แต่ ฉัน พร้อม สํา หรับ การเปลี่ยนแปลง และ เบื่อ กับ ระบบ หน้าต่าง
+Predicted (generated) text: <neg> ระบบ หน้าต่าง <opinion> เบื่อ
+
+Input text: คุณสมบัติ ที่ ติดตั้ง อื่น ๆ เช่น ซอฟต์แวร์ เครื่องพิมพ์ บาง เครื่อง ยัง น่าสนใจ ที่สุด
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> น่าสนใจ
+
+Input text: แม้ จะ ทํา เช่นนั้น บานพับ อาจ แน่น ขึ้น เพียง เล็กน้อย เท่านั้น
+Predicted (generated) text: <neg> บานพับ <opinion> แน่น ขึ้น
+
+Input text: บริษัท ให้ การจัดส่ง UPS รวดเร็ว ยอดเยี่ยม!
+Predicted (generated) text: <pos> การจัดส่ง UPS <opinion> รวดเร็ว
+
+Input text: มัน ใช้งาน ง่าย มี คุณภาพ หน้าจอ ที่ ยอดเยี่ยม และ ทุก น้ํา หนัก เบา
+Predicted (generated) text: <pos> หน้าจอ <opinion> ยอดเยี่ยม <pos> น้ํา หนัก <opinion> เบา
+
+Input text: ซอฟต์แวร์ iLife ที่มา พร้อมกับ คอมพิวเตอร์ นั้น ใช้งาน ง่าย และ ผลิต ผลิตภัณฑ์ ที่ เสร็จ แล้ว ยอดเยี่ยม
+Predicted (generated) text: <pos> iLife <opinion> ง่าย <pos> iLife <opinion> ยอดเยี่ยม
+
+Input text: ร้านค้า จะ ผลักดัน ปัญหา ให้ กับ ศูนย์ บริการ อย่าง แน่นอน
+Predicted (generated) text: <neg> ศูนย์ บริการ <opinion> ปัญหา
+
+Input text: ในขณะที่ ฉัน ส่วนใหญ่ ใช้ มัน สํา หรับ อีเมล, อินเทอร์เน็ต และ เกม, ฉัน มั่นใจ ว่า แอปพลิเคชั่น อื่น ๆ ทั้งหมด อยู่ ใน มาตรฐาน สูง ฉัน มา ชื่นชม จาก แล็ปท็อป Mac.
+Predicted (generated) text: <pos> แอปพลิเคชั่น <opinion> สูง
+
+Input text: แล็ปท็อป เครื่อง นี้ ดูดี บน พื้นผิว : หน้าจอ ขนาด 17 '' นิ้ว, ดี แต่ ดูดี, รองเท้าบูท ได้ อย่าง รวดเร็ว, วิ่ง เร็ว ฯลฯ
+Predicted (generated) text: <pos> หน้าจอ <opinion> ดี <pos> display <opinion> รวดเร็ว <pos> spinning <opinion> เร็ว
+
+Input text: ระบบ แอปเปิล มีราคา สูง ไป หน่อย ค่ะ ไม่ คุ้ม กับ รา คาที่ จ่าย ไป เลย ข้อมูล จํา เพาะ ของ รุ่น นี้ อยู่ ไกล จาก ที่ น่าประทับใจ และ มี แค่ ชื่อ แอปเปิ้ล เท่านั้น ค่ะ
+Predicted (generated) text: <neg> price <opinion> สูง
+
+Input text: ข้อดี : โน้ตบุ๊ค macbook pro มี อายุการใช้งาน แบตเตอรี่ ก้อน ใหญ่ และ คุณ ไม่ต้อง กังวล ที่จะ ชาร์จ แล็ปท็อป ของ คุณ ทุก ห้า ชั่วโมง หรือ มากกว่า นั้น
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ก้อน <neg> battery <opinion> ไม่ต้อง charger <opinion> ใหญ่
+
+Input text: น่า ผิดหวัง สํา หรับ หน้าจอ ที่ น่ารัก และ ใน รา คาที่ เหมาะสม
+Predicted (generated) text: <pos> หน้าจอ <opinion> น่ารัก <pos> รา คาที่ เหมาะสม
+
+Input text: สิ่ง เดียว ที่ ไม่ ดี เกี่ยวกับ มัน คือ พวกเขา ให้ แบตเตอรี่ ที่ แย่ ที่สุด แก่ คุณ
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ ดี
+
+Input text: ราคา ดี
+Predicted (generated) text: <pos> ราคา <opinion> ดี
+
+Input text: ความเร็ว ก็ดี ค่ะ
+Predicted (generated) text: <pos> ความเร็ว <opinion> ก็ดี
+
+Input text: ไม่ ชัดเจน ว่า Microsoft Student Edition ที่ โห ลดลง ใน คอมพิวเตอร์ เป็นการ พิจารณาคดี เป็นเวลา หก เดือน
+Predicted (generated) text: <neg> Microsoft Student Edition <opinion> ไม่ ชัดเจน
+
+Input text: เหมาะ สํา หรับ การ คํานวณ และ ท่อง เว็บ ทุกวัน
+Predicted (generated) text: <pos> คํานวณ <opinion> เหมาะ <pos> ท่อo เว็บ <opinion> เหมาะ
+
+Input text: นอกจากนี้ ฉัน มีปัญหา มากมาย กับ กุญแจ ที่ ติด และ จะ ไม่ พิมพ์ อย่าง ถูกต้อง
+Predicted (generated) text: <neg> กุญแจ <opinion> มีปัญหา <neg> keys <opinion> non พิมพ์ <opinion> ถูกต้อง
+
+Input text: จอ LED ที่ ยอดเยี่ยม และ ติดตั้ง ได้ดี
+Predicted (generated) text: <pos> จอ LED <opinion> ยอดเยี่ยม <pos> ติดตั้ง <opinion> ได้ดี
+
+Input text: ไม่ต้องสงสัย เลย * การ ออกแบบ แล็ปท็อป เครื่อง นี้ ยอดเยี่ยม
+Predicted (generated) text: <pos> แล็pท็อป เครื่อง <opinion> ยอดเยี่ยม
+
+Input text: ฉัน สามารถ บันทึก บทความ สิบ บทความ และ แทบจะ ไม่ มี หน่วย ความ จํา เหลืออยู่
+Predicted (generated) text: <neg> ความ จํา <opinion> ไม่
+
+Input text: นอกเหนือ จากนั้น ฉัน อยาก จะ แนะ นํา สิ่ง นี้ ให้ กับ ใคร บางคน ที่ ต้องการ แล็ปท็อป ราคา ถูกที่ มี ความสามารถ ใน การ เล่น เกม
+Predicted (generated) text: <pos> ราคา <opinion> ถูกที่ มี
+
+Input text: แต่ ความเจ็บปวด ที่ ใหญ่ ที่สุด คือ การ สนับสนุน ด้าน เทคนิค ไม่ สามารถ ใช้ได้ 24 / 7
+Predicted (generated) text: <neg> เทคนิค <opinion> เจ็บปวด
+
+Input text: ฉัน เลือก laptop ซึ่ง เป็น คอมพิวเตอร์ ที่ น่าสนใจ ที่ มี หน้าจอ ขนาดใหญ่ พอที่จะ ทํา ให้ ทุกคน พอใจ
+Predicted (generated) text: <pos> หน้าจอ <opinion> ขนาดใหญ่
+
+Input text: ทุกอย่าง เกี่ยวกับ Mac ไม่ เพียง แต่ น่า ดึงดูดสายตา แต่ ใช้งาน ง่าย มาก
+Predicted (generated) text: <pos> ใช้งาน <opinion> น่า ดึงดูดสายตา <pos> ใช้งาน <opinion> ง่าย
+
+Input text: ปัญหา แรก คือ ว่า แป้นพิมพ์ FUNCTION IS ADSITY
+Predicted (generated) text: <neg> FUNCTION <opinion> PROBLEM
+
+Input text: นักดนตรี และ แล็ปท็อป มา พร้อมกับ ไมโครโฟน ที่ ใช้งาน ได้ดี ดี พอ สํา หรับ ผู้เริ่มต้น และ นักดนตรี ใน ระดับ กลาง
+Predicted (generated) text: <pos> ไมโครโฟน <opinion> ดี
+
+Input text: ฉัน รองเท้าบูท คู่ กับ Linux และ i OS อื่น ๆ และ ทํา งาน ได้ อย่าง ไม่มีที่ติ
+Predicted (generated) text: <pos> Linux <opinion> ไม่มีที่ติ <pos> OS <opinion> ไม่มีที่ติ
+
+Input text: ความแตกต่าง คือ โตชิบา มี หน่วย ความ จํา มากขึ้น และ พื้นที่ ฮาร์ด ไดรฟ์
+Predicted (generated) text: <pos> โตชิบา <opinion> ความแตกต่าง <neg> พื้นที่ <opinion> ฮาร์ด ไดรฟ์ <opinion> increase
+
+Input text: มีปัญหา เล็กน้อย ใน การย้ายถิ่น ฐาน เป็นระบบ สาย firewire CA และ ไม่ ได้ ใช้กับ iBook
+Predicted (generated) text: <neg> firewire CA <opinion> มีปัญหา <neg> firewire CA <opinion> not use
+
+Input text: ดูเหมือนว่า อาจ จัดส่ง ที่ ไม่ ดี จาก โตชิบา
+Predicted (generated) text: <neg> โตชิบา <opinion> ไม่ ดี
+
+Input text: OS X แข็ง ด้วย นวัตกรรม มากมาย เช่น Valuman ซึ่ง ช่วย ประหยัดเวลา กอง.
+Predicted (generated) text: <pos> OS X <opinion> แข็ง <pos> Valuman <opinion> ประหยัด
+
+Input text: แต่ นอกเหนือ จากนั้น ฉัน ถูก ปลิว โดย คุณสมบัติ ทั้งหมด ที่ แล็ปท็อป เครื่อง นี้ นํา เสนอ
+Predicted (generated) text: <neg> คุณสมบัติ <opinion> ปลิว
+
+Input text: แป้นพิมพ์ เนียน และ เงียบ และ ไม่ เทอะทะ เหมือน แล็ปท็อป เครื่อง อื่น ๆ ที่ ฉัน เคย มี ใน อดีต
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> เนียน <pos> noise <opinion> ไม่ เทอะทะ
+
+Input text: โดยรวม แล้ว แล็ปท็อป นี้ เป็น ผู้ดูแล อย่าง แน่นอน กับ การ ออกแบบ ที่ เรียบง่าย แต่ มี สไตล์ และ อา เรย์ ของ สี ที่ ยอดเยี่ยม ให้ เลือก
+Predicted (generated) text: <pos> ออกแบบ <opinion> เรียบง่าย <pos> สี <opinion> ยอดเยี่ยม
+
+Input text: ก่อนอื่น หน้าจอ ดับ ลง อย่าง สมบูรณ์
+Predicted (generated) text: <neg> หน้าจอ <opinion> ดับ ลง อย่าง สมบูรณ์
+
+Input text: โปร ดัก ชัน เป็น โปรแกรม ที่ ยอดเยี่ยม มัน ถ่ายภาพ ได้ ดีมาก ด้วย กล้อง a. com
+Predicted (generated) text: <pos> กล้อง <opinion> ดัก ชัน <pos> program <opinion> ยอดเยี่ยม
+
+Input text: ซอฟต์แวร์ หลายชนิด ที่ จํา เป็นต่อ บุคคล ที่ ทํา งาน ไม่ สามารถ ดาวน์โหลด ได้
+Predicted (generated) text: <neg> SOFTWARE <opinion> หลายชนิด <neg> ซอฟต์แวร์ <opinion> ไม่ สามารถ ดาวน์โหลด
+
+Input text: มัน ใช้งาน ได้ สํา หรับ ฉัน โดย ไม่ มี การ เตือน ใด ๆ การ วิ่ง เป็น เพียง Chrome พื้นฐาน
+Predicted (generated) text: <neg> Chrome พื้นฐาน <opinion> ไม่
+
+Input text: เรา ทํา การวิจัย และ พบ รา คาที่ ดี ที่สุด ที่ v 4. com
+Predicted (generated) text: <pos> รา คาที่ ดี ที่สุด
+
+Input text: แต่ คาดเดา อะไร ( คุณ ต้อง ซื้อ ไดรฟ์ dvd ภายนอก มัน ทํา และ ไม่ มี ประเภท ใน ตัว ) โน้ตบุ๊ก CA และ จะ ไม่ ใช้ เพราะ มัน ทํา และ ไม่ ได้ อ่าน อะไร เลย สํา หรับ ไดรฟ์ ภายนอก
+Predicted (generated) text: <neg> ไดรฟ์ dvd ภายนอก <opinion> ไม่ <neg> ไดรฟ์
+
+Input text: รับ COMPUTER นี้ เพื่อ รับ ความ แม่ นย ํา และ กระบวนการ ที่ รวดเร็ว!!!
+Predicted (generated) text: <pos> กระบวนการ <opinion> รวดเร็ว
+
+Input text: ฉัน ใช้ แผ่ นท ํา ความ เย็น แต่ มัน ก็ ไม่ ได้ ช่วย อะไร
+Predicted (generated) text: <neg> ความ เย็น <opinion> ไม่ ได้ ช่วย
+
+Input text: ซอฟต์แวร์ ที่มา พร้อมกับ เครื่อง นี้ มีความยินดี อย่าง มาก เมื่อ เทียบ กับ สิ่ง ที่ Windows มา พร้อมกับ
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> ยินดี
+
+Input text: ฉัน เหนื่อย กับ การ บริการ ของ Waitcher
+Predicted (generated) text: <neg> Waiter <opinion> เหนื่อย
+
+Input text: กา รท ํา งาน ร่วมกับ แอปพลิเคชั่น อื่น ๆ ทั้งหมด ที่ ฉัน มีประสบการณ์
+Predicted (generated) text: <neg> งาน <opinion> รท ํา
+
+Input text: ไม่ มัน ทํา ไม่ ได้ สนับสนุน ประวัติ ของ พวกเขา เอง และ มัน อาจ เป็นปัญหา กับ'bios'ของ บริษัท ที่ สามารถ สร้าง ผลิตภัณฑ์ ที่ ค่อนข้าง ดี ได้ ห่าง จาก ความวิกลจริต เช่นนี้ ได้ อย่างไร!!
+Predicted (generated) text: <neg> bios <opinion> problem
+
+Input text: แล็ปท็อป นี้ ดู ใหม่เอี่ยม และ จัดส่ง อย่าง รวดเร็ว
+Predicted (generated) text: <pos> จัดส่ง <opinion> รวดเร็ว
+
+Input text: ข้อมูล : วินโดวส์ ไม่ สามารถ โหลด ได้ เนื่องจาก ความผิดปกติ หาย ไป หรือ เสียหาย.
+Predicted (generated) text: <neg> วินโดyส์ <opinion> ไม่ <neg> โหลด <opinion> well
+
+Input text: จอแสดงผล ใน คอมพิวเตอร์ นี้ เป็น สิ่ง ที่ ดี ที่สุด ที่ ฉัน เคย เห็น ใน เวลา นาน แบตเตอรี่ มี อายุการใช้งาน ยาวนาน และ สะดวก มาก
+Predicted (generated) text: <pos> จอแสดงผล <opinion> ดี
+
+Input text: แต่ คุณภาพ โดยทั่วไป นั้น น้อยกว่า ความคุ้มค่า ของ แล็ปท็อป ราคา ถูก
+Predicted (generated) text: <neg> quality <opinion> น้อยกว่า <neg> แล็pท็อป price <opinion> น้อยกว่า
+
+Input text: ใน การ เหม็น ลูกเหม็น ลูก แรก ที่ เป็นเจ้าของ คอมพิวเตอร์ เครื่อง นี้ ก็ ไม่ สามารถ แทนที่ คอมพิวเตอร์ เครื่อง นี้ ได้
+Predicted (generated) text: <neg> คอมพิวเตอร์ เครื่อง <opinion> ไม่ สามารถ
+
+Input text: ปรับ แต่ง หน่วย ความ จํา ที่ อัปเกรด แล้ว MacBook Pro ไม่ เคย มีปัญหา ใน การใช้งาน แอพพลิเคชั่น มากมาย พร้อมกัน!
+Predicted (generated) text: <neg> แอพพลิเคชั่น <opinion> มีปัญหา
+
+Input text: ใช้งาน ง่าย และ กราฟิก ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> กราฟิก <opinion> ยอดเยี่ยม
+
+Input text: ความเร็ว อินเทอร์เน็ต นั้น ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> ความเร็ว อินเทอร์เน็ต <opinion> ยอดเยี่ยม
+
+Input text: พวกเขา อ้างว่า โทร เซ็นเตอร์ ยัง คงอยู่
+Predicted (generated) text: <neg> โทร เซ็นเตอร์ <opinion> คงอยู่
+
+Input text: Mac ยังมี แอพ และ โปรแกรม มากมาย ที่ ค่อนข้าง ถูก หรือ ฟรี
+Predicted (generated) text: <pos> แอพ <opinion> ถูก <pos> โปรแกรม <opinion> free
+
+Input text: สามี ของ ฉัน ใช้ มัน เป็นส่วนใหญ่ สํา หรับ เกม อีเมล และ เพลง
+Predicted (generated) text: <neu> เพลง <opinion> สําn't use
+
+Input text: เห็นได้ชัด ว่า ภายใต้ หน้าจอ มี สกรู เล็ก ๆ 2 ตัว และ เมื่อ หน้าจอ ถูก ย้าย ไปมา มัน จะ หลวม
+Predicted (generated) text: <neg> หน้าจอ <opinion> เห็นได้ชัด
+
+Input text: ข้อบกพร่อง : ขอบ คม
+Predicted (generated) text: <neg> ขอบ คม <opinion> บกพร่อง
+
+Input text: ฉัน มี มัน สี่ เดือน เมื่อ ไดรฟ์ แผ่น ดิสก์ ของ ฉัน ปฏิเสธ ที่จะ เปิด
+Predicted (generated) text: <neg> แผ่น ดิสก์ <opinion> ปฏิเสธ
+
+Input text: ดังนั้น หลังจาก Apple เปลี่ยน ฮาร์ด ไดรฟ์ ฉัน มีความสุข อีก 4 เดือน ของ คอมพิวเตอร์ เครื่อง ใหม่ ของ ฉัน จนกระทั่ง มัน แข็งตัว เมื่อเช้านี้ - อย่าง สมบูรณ์
+Predicted (generated) text: <pos> ฮาร์ด ไดรฟ์ <opinion> มีความสุข
+
+Input text: อีกครั้ง ฉัน บอ กว่า มัน เป็นปัญหา ของ แหล่ง จ่ายไฟ ที่ น่าสงสัย
+Predicted (generated) text: <neg> แหล่ง จ่ายไฟ <opinion> problem
+
+Input text: ไม่ สามารถ บู๊ ต แล็ปท็อป ใหม่เอี่ยม ได้
+Predicted (generated) text: <neg> บู๊ ต <opinion> ไม่ <neg> BOOTPท็อป <opinion> ใหม่เอี่ยม
+
+Input text: นอกจากนี้ เครื่องมือ การ ออกแบบ ทั้งหมด ใน Pages และ e. com ทํา ให้การ สร้าง เอกสาร ที่ ดู เป็น มืออาชีพ และ กา รน ํา เสนอ เป็นเรื่อง ง่าย.
+Predicted (generated) text: <pos> Pages <opinion> ง่าย <pos> Pages <opinion> มืออาชีพ <pos> e com <opinion> ง่าย
+
+Input text: จริง ๆ แล้ว ฉัน มี ฮาร์ด ไดรฟ์ มา แทน ที่สอง ครั้ง เครื่อง แม่ หนึ่ง ครั้ง ไดรฟ์ ดีวีดี สอง ครั้ง จากนั้น ในที่สุด พวกเขา ก็ ตกลง ที่จะ แทนที่ มัน ( ทั้งหมด นี้ ใน LESS 1 1 / 2 YEARS!
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> LESS
+
+Input text: ฉัน ชอบ ความรู้สึก ของ กระดาน หลัก เช่นเดียวกับ แทร็ค แพ ด
+Predicted (generated) text: <pos> กระดาน แพ แพ <opinion> ชอบ
+
+Input text: ตอนนี้ ฉัน มี โลก ที่ ดี ที่สุด ที่ มีพลัง และ ความสะดวก ใน การ ใช้ Mac!
+Predicted (generated) text: <pos> พลัง <opinion> มี <pos> use <opinion> easy
+
+Input text: ความ ง่าย ใน การใช้งาน เป็น เพียง หนึ่ง ใน ประโยชน์ ที่ ฉัน รัก เกี่ยวกับ Mac ของ ฉัน
+Predicted (generated) text: <pos> การใช้งาน <opinion> ง่าย
+
+Input text: ตอนนี้ เครื่อง ติดใจ และ ไม่ เชื่อมต่อ และ โตชิบา บอ กว่า พวกเขา เปลี่ยน การ์ด เชื่อมต่อ ใน เดือน พฤษภาคม แต่ พวกเขา รับประกัน การซ่อมแซม เพียง 30 วัน และ ตอนนี้ ฉัน หมด การรับประกัน แม้ว่า นี่ จะ เป็น รุ่น ต่อเนื่อง 5 เดือน ตั้งแต่ ฉัน ซื้อ เน็ตบุ๊ก
+Predicted (generated) text: <neg> การ์ด <opinion> หมด
+
+Input text: เมื่อ ท่อง ไป, ก็ ไม่ มีปัญหา สํา หรับ ฉัน เมื่อ ฉัน ใช้ iTunes ( ซึ่ง มักจะ ช้า ลง บน พีซี ของ ฉัน ).
+Predicted (generated) text: <neg> iTunes <opinion> ช้า
+
+Input text: อีกครั้ง คอมพ์ ที่ ดี สํา หรับ ราคา และ ฉัน ต้องการ ได้ อย่าง รวดเร็ว เพราะ แล็ปท็อป เครื่อง อื่น ของ ฉัน เสียชีวิต กับ ฉัน
+Predicted (generated) text: <pos> ราคา <opinion> ดี
+
+Input text: การ บริการ ลูกค้า ของ โตชิบา จะ จัดการ กับ ปัญหา ของ คุณ โดยบังเอิญ - ติดต่อ คุณ จาก ประเทศ หนึ่ง ไป อีก ประเทศ หนึ่ง และ ฉัน ไม่ ได้ ล้อเล่น คุณ ฉัน เรียก ชั่วโมง ที่ แตก ต่างกัน ของ วัน และ คุณ จะ ได้รับ คนอื่น จาก ประเทศ อื่น ที่ พยายาม ให้ คุณ บอกเล่า เรื่องราว ชีวิต ของ คุณ อีกครั้ง เพราะ พวกเขา ทํา ให้ มัน ฟัง ดูเหมือน พวกเขา ทํา และ ไม่ มี รายการ ประวัติการ โทร ของ คุณ ต่อหน้า พวกเขา
+Predicted (generated) text: <neg> โตชิบา <opinion> ปัญหา
+
+Input text: จอแสดงผล คุณภาพ ฉัน ประหลาดใจ กับ ประสิทธิภาพ และ คุณภาพ ของ แล็ปท็อป HP นี้
+Predicted (generated) text: <pos> จอแสดงผล คุณภาพ <opinion> ประหลาดใจ <pos> ประสิทธิภาพ <opinion> ประหลาดใจ
+
+Input text: อายุการใช้งาน แบตเตอรี่ ก็ ไม่ ได้ ขึ้นอยู่กับ การ เรียกร้อง แต่ ยัง ฉัน คิด ว่า macbook นั้น ล่วงหน้า มาก จาก ส่วนที่เหลือ ของ แพ็ค
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่
+
+Input text: ความสามารถ ของ อินเทอร์เน็ต ยัง แข็งแกร่ง มาก และ รับสัญญาณ ได้ ง่าย มาก
+Predicted (generated) text: <pos> ความสามารถ <opinion> แข็งแกร่ง <pos> รับสัญญาณ <opinion> ง่าย
+
+Input text: มัน เร็ว มี คุณภาพ ความ ละเอียด สูง ใน วิดีโอ
+Predicted (generated) text: <pos> quality <opinion> เร็ว <pos> editing <opinion> สูง
+
+Input text: อีก สิ่ง ที่ ดี คือ กราฟิก อสูร
+Predicted (generated) text: <neg> กราฟิก <opinion> อสูร
+
+Input text: การ ตั้ง ค่าที่ ง่าย นั้น ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> ตั้ง ค่า <opinion> ง่าย <pos> ตั้ง ค่า <opinion> ยอดเยี่ยม
+
+Input text: ทุกสิ่ง ที่ ฉัน ได้ ลอง ใช้งาน และ ฉัน ไม่ เคย ต้อง พก ที่ ชาร์จ ติด ผนัง เพราะ แบตเตอรี่ ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: ขนาด หน้าจอ เหมาะ สํา หรับ การ พกพา ใน ทุก สภาพแวดล้อม
+Predicted (generated) text: <pos> Size <opinion> เหมาะ
+
+Input text: ฉัน เคย สร้าง เดสก์ท็อป ของ ฉัน เอง จาก ชิ้นส่วน ส่วนประกอบ และ เมื่อ เร็ว ๆ นี้ Pentium 4 อายุ 7 ปี กับ HT 1 GB เดสก์ท็อป SATA หยุด ทํา งาน ( นี่ เป็น ร็อค ดาว 7 ปี ที่แล้ว )
+Predicted (generated) text: <neg> Pentium 4 <opinion> หยุด <neg> SATA <opinion> หยุด
+
+Input text: และ การ พิมพ์ จาก โปรเซสเซอร์ คํา ใด คํา หนึ่ง คือ การผจญภัย
+Predicted (generated) text: <neg> โปรเซสเซอร์ <opinion> การผจญภัย
+
+Input text: หลังจาก ซื้อ สิ่ง นี้ ฉัน พบ ว่า ฉัน ต้องการ อุปกรณ์ อินเตอร์ เฟซ พิเศษ เพื่อ เชื่อมต่อ กล้อง ของ ฉัน และ ไม่ สามารถ ซื้อ ได้ที่ ร้าน - เพียง ออนไลน์
+Predicted (generated) text: <neg> อุปกรณ์ <opinion> พิเศษ
+
+Input text: อีก โปรแกรม ที่รวม มา นั้น น่าหัวเราะ คือ เกม หมากรุก
+Predicted (generated) text: <pos> โปรแกรม <opinion> น่าหัวเราะ
+
+Input text: ใช่ ฉัน คิด ว่า super นั้น แพง ไป หน่อย แต่ ตอนนี้ ฉัน รู้ ว่า คุณ ได้ สิ่ง ที่ คุณ จ่าย ไป
+Predicted (generated) text: <pos> จ่าย <opinion> super
+
+Input text: มัน ใช้งาน ได้ดี สํา หรับ การใช้งาน อินเทอร์เน็ต ทั่วไป แอ ป Microsoft Office, โฮม เพิลส์ ฯลฯ
+Predicted (generated) text: <pos> การใช้งาน <opinion> ได้ดี
+
+Input text: ราคา ดีมาก และ ผลิตภัณฑ์ มี คุณภาพ สูงสุด
+Predicted (generated) text: <pos> Price <opinion> ดีมาก <pos> quality <opinion> สูงสุด
+
+Input text: มัน เล่น เกม ต่าง ๆ โดย ไม่ มีปัญหา และ วิ่ง อย่าง อิสระ ทางอากาศ ได้ อย่าง ราบรื่น และ ไม่มีที่ติ
+Predicted (generated) text: <pos> เกม <opinion> เล่น <neg> เกมออนไลน์ <opinion> ราบรื่น <pos> วิ่ง <opinion> อิสระ
+
+Input text: หลังจาก เปลี่ยน ฮาร์ด ไดรฟ์ แบตเตอรี่ หยุด ทํา งาน ( 3 เดือน ของ การใช้งาน ) ซึ่ง น่า ผิดหวัง
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> หยุด <neg> charger <opinion> ผิดหวัง
+
+Input text: จาก ปัญหา นี้ พ. ร.อ. ฮุม มิ ย นิ่ง อยู่ ใน กระบวนการ ของ มัน
+Predicted (generated) text: <neg> กระบวนการ <opinion> ปัญหา
+
+Input text: มัน เล็ก พอที่ ฉัน สามารถ นํา มัน ไป ได้ ทุกที่ แต่ ก็ ยังมี หน้าจอ ที่ ใหญ่ พอที่จะ ทํา ทุกอย่าง ให้ เสร็จ
+Predicted (generated) text: <neg> หน้าจอ <opinion> ใหญ่
+
+Input text: มัน ยังมี เว็บแคม ที่ ยอดเยี่ยม และ Skype ทํา งาน ได้ ดีมาก
+Predicted (generated) text: <pos> เว็บแคม <opinion> ยอดเยี่ยม <pos> Skype <opinion> ดีมาก
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ ฉัน ใช้การ ออกแบบ ที่ กะทัดรัด ทุกวัน
+Predicted (generated) text: <neg> ออกแบบ <opinion> กะทัดรัด
+
+Input text: กราฟิก การ์ด ATI เป็น ข้อดี อย่าง มาก คุ้มค่า แน่นอน ถ้า คุณ จํา เป็น ต้อง สามารถ เรียก ใช้ เกม ที่ เก่า กว่า เล็กน้อย ที่ การ์ด Intel ATI จะ มีปัญหา กับ เช่น CTI 5002 2 หรือ แม้แต่ World of Warcraft
+Predicted (generated) text: <pos> กราฟิก การ์ด ATI <opinion> ข้อดี <neg> CTI 5002 2 <opinion> มีปัญหา
+
+Input text: มัน ยาก ที่จะ จัดการ และ ทํา งาน ที่ โรงเรียน
+Predicted (generated) text: <neg> จัดการ <opinion> ยาก
+
+Input text: ฉัน ชอบ ความพอดี และ ความรู้สึก ของ 13 นิ้ว
+Predicted (generated) text: <pos> 13 inch <opinion> ชอบ
+
+Input text: แหล่ง จ่ายไฟ ไม่ ดี หลังจาก 2 สัปดาห์ -
+Predicted (generated) text: <neg> แหล่ง จ่ายไฟ <opinion> ไม่ ดี
+
+Input text: หน้าจอ ใช้เวลา ทํา ความคุ้นเคย เพราะ มัน เล็ก กว่า แล็ปท็อป
+Predicted (generated) text: <neg> หน้าจอ <opinion> คุ้นเคย
+
+Input text: ฉัน เสียใจ ที่ ซื้อ มัน ก่อนที่จะ เข้าใจ ว่า มัน จะ ใช้งาน แย่ แค่ ไหน
+Predicted (generated) text: <neg> ใช้งาน <opinion> แย่
+
+Input text: ลํา โพง ด้าน ขวา ไม่ ทํา งาน
+Predicted (generated) text: <neg> ลํา โพง <opinion> ไม่ ทํา งาน
+
+Input text: จัดการ กับ โดรน สนับสนุน ใน อีก ด้าน หนึ่ง ของ การ สนทนา เป็นการ ทรมาน อย่าง ร้ายแรง
+Predicted (generated) text: <neg> สนทนา <opinion> ทรมาน
+
+Input text: Final Cut Pro บน แล็ปท็อป เครื่อง นี้ นั้น ง่าย และ รวดเร็ว และ ฉัน สามารถ ใช้ สิ่ง นี้ กับ คอมพิวเตอร์ ได้ - ถ่ายโอน งาน ทั้งหมด ของ ฉัน ไป ยัง คอมพิวเตอร์ ที่ บ้าน ของ ฉัน ซึ่ง เป็น mac
+Predicted (generated) text: <pos> Final Cut Pro <opinion> ง่าย <pos> Final Cut Pro <opinion> รวดเร็ว
+
+Input text: คอมพิวเตอร์ ทํา งาน ช้า มาก ไม่ ว่า จะ เปิด Word หรือ คอมพิวเตอร์ ของ ฉัน
+Predicted (generated) text: <neg> งาน <opinion> ช้า
+
+Input text: หน้าจอ ดี และ ภาพ มา ชัดเจน มาก แป้นพิมพ์ และ ขนาดที่ พอดี ให้ ความรู้สึก ถูกต้อง
+Predicted (generated) text: <pos> หน้าจอ <opinion> ดี <pos> ภาพ <opinion> ชัดเจน <pos> แป้นพิมพ์ <opinion> ถูกต้อง
+
+Input text: แต่ นั่ง บน ตัก หรือ บน โต๊ะ ต่อหน้า คุณ มัน ดู ใหญ่ เกิน พอ ( อาจ เป็น เพราะ ฉัน คุ้นเคย กับ Lenovo 10 แท็บเล็ต ของ ฉัน ตอนนี้ ) บวก กับ นี่ เป็น ขนาดที่ ดี ถ้า ฉัน ต้องการ ถอด ปลั๊ก แป้นพิมพ์ ภายนอก เมาส์ และ มอนิเตอร์ ที่จะ ใช้ มัน กับ ฉัน เมื่อ ฉัน ถ่ายภาพ และ วิดีโอ
+Predicted (generated) text: <pos> ขนาด <opinion> ดี
+
+Input text: ข้อ คัดค้าน เดียว ที่ ฉัน มี คือ หลังจากที่ คุณ ซื้อ windows 7 ระบบ จะ เป็น เริ่มต้น และ คิด ค่าใช้จ่าย สํา หรับ การ อัพเกรด
+Predicted (generated) text: <neg> windows 7 system <opinion> คัดค้าน
+
+Input text: ล้อ ที่ หมุน ระดับเสียง ขึ้น และ ลง ไม่ ทํา งาน ใน เวลาจริง
+Predicted (generated) text: <neg> ล้อ <opinion> ขึ้น <neg> noise <opinion> ขึ้น <neg> noise <opinion> not ทํา งาน
+
+Input text: ฉัน ไม่ สามารถ มีความสุข กับ บริการ หรือ ผลิตภัณฑ์
+Predicted (generated) text: <neg> Service <opinion> มีความสุข
+
+Input text: ฉัน ถอดความ ออกจาก ด้าน และ แป้นพิมพ์ effect ทํา ให้การ พิมพ์ ง่าย และ รวดเร็ว เช่นกัน
+Predicted (generated) text: <pos> แป้นพิมพ์ effect <opinion> ง่าย <pos> พิมพ์ <opinion> รวดเร็ว
+
+Input text: ลํา โพง ทํา และ เสียง ไม่ ได้ ยอดเยี่ยม
+Predicted (generated) text: <neg> ลํา โพง <opinion> ทํา <neg> noise <opinion> ไม่ ได้ ยอดเยี่ยม
+
+Input text: ' การ ทารุณกรรม ที่ ผิดพลาด'คือ ฉัน ผลัก ปลั๊ก แรง เกินไป
+Predicted (generated) text: <neg> ทารุณกรรม <opinion> ผิดพลาด <neg> แรง <opinion> แรง
+
+Input text: ความ ละเอียด บน หน้าจอ เกือบจะ เป็น HD บริสุทธิ์
+Predicted (generated) text: <neg> หน้าจอ <opinion> ละเอียด
+
+Input text: Internet Explorer นั้น ช้า มาก ตั้งแต่ เริ่มต้น
+Predicted (generated) text: <neg> Internet Explorer <opinion> ช้า
+
+Input text: พอร์ต ไฟ AC หลวม เมื่อ เวลา ผ่าน ไป
+Predicted (generated) text: <neg> ไฟ AC <opinion> หลวม
+
+Input text: ใน ฐานะ ผู้ใช้ พีซี ฉัน จะ ยอมรับ ว่า iSuper Pro มีระบบ กา รท ํา งาน ที่ ดีกว่า ซึ่ง ฉัน พบ ว่า ตัว เอ งก ํา ลัง ทํา งาน ให้ เร็ว ขึ้น
+Predicted (generated) text: <pos> system กา รท ลัง <opinion> ดีกว่า
+
+Input text: ไม่ มี หมาย เลขที่ สําคัญ สี ทอง เกินไป โปรแกรม twash คุณ จะ ต้อง ใช้ หมายเลข ซี เรียล ที่ มัน ไม่ ยอมรับ และ จากนั้น สิ่ง ต่าง ๆ มี จํา กัด ใน กา รท ํา งาน เพราะ มันดี สํา หรับ ช่วงเวลา สั้น ๆ เท่านั้น
+Predicted (generated) text: <neg> โปรแกรม twash <opinion> ดี
+
+Input text: และ พวกเขา เปลี่ยน แหล่ง จ่ายไฟ ขนาดเล็ก ที่ ออกแบบ ตาม หลัก สรีรศาสตร์ ที่ ยอดเยี่ยม ด้วย แหล่ง จ่ายไฟ ที่ มี น้ํา หนัก มากกว่า ตัว มัน เอง
+Predicted (generated) text: <pos> แหล่ง จ่ายไฟ <opinion> ยอดเยี่ยม <neg> แหล่ง จ่ายไฟ <opinion> ยอดเยี่ยม
+
+Input text: เพลิดเพลิน กับ พลัง และ ความทนทาน ที่ ไม่ มี ใคร เทียบ
+Predicted (generated) text: <pos> พลัง <opinion> Enjoy <pos> ความทนทาน <opinion> Enjoy
+
+Input text: ซึ่ง เป็น สิ่ง ที่ ดี ที่ ฉัน ใช้ Vista Business และ ทํา คะแนน ได้ 5. บน ดัชนี ที่ ฉัน ไม่ เคย เห็น เครื่อง windows ได้ คะแนน ทั้งหมด ใน 5 s.
+Predicted (generated) text: <pos> Vista Business <opinion> ดี
+
+Input text: เรา ชอบ ขนาด ของ หน้าจอ แม้ว่า มัน จะ ยังมี น้ํา หนัก เบา และ ง่าย ต่อ การ พกพา ไป รอบ ๆ
+Predicted (generated) text: <pos> ขนาด หน้าจอ <opinion> ชอบ <pos> น้ํา <opinion> หนัก <neg> เบา <opinion> ง่าย
+
+Input text: แบตเตอรี่ ไม่ สามารถ แทนที่ ได้
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ สามารถ
+
+Input text: ฉัน ไม่ เคย ใหญ่ จริง ๆ ใน การ ดาวน์โหลด อะไร ดังนั้น ฉัน จึง ไม่ กังวล เกี่ยวกับ การ ได้รับ ไวรัส และ ฉัน คิด ว่า ฉัน ได้รับ การ คุ้มครอง โดย Norton
+Predicted (generated) text: <neg> Norton <opinion> ไม่ กังวล
+
+Input text: อินเทอร์เน็ต ถูก ใช้งาน จริง และ ค้าง ทุกครั้งที่ พยายาม ใช้งาน และ เครื่อง บังคับบัญชา จะ ไม่ ทํา งาน เลย
+Predicted (generated) text: <neg> operating <opinion> ถูก <neg> ใช้งาน <opinion> ไม่
+
+Input text: มัน'ซอฟต์แวร์ และ ความเร็ว ช่วย ให้ สามารถ ทํา สิ่ง ต่าง ๆ ได้ อย่าง น่าอัศจรรย์
+Predicted (generated) text: <neu> ซอฟต์แวร์ <opinion> น่าอัศจรรย์ <pos> ความเร็ว <opinion> น่าอัศtryย์
+
+Input text: ไม่ สามารถ ติดตาม ฉัน และ ในที่สุด ฮาร์ด ไดรฟ์ ก็ ออก ไป
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> ไม่
+
+Input text: ฉัน ประทับใจ มาก ที่สุด กับ การเขียน โปรแกรม รวมถึง iPhoto
+Predicted (generated) text: <pos> iPhoto <opinion> ประทับใจ
+
+Input text: ลํา โพง เล็ก เกินไป ที่จะ ใช้งาน จริง
+Predicted (generated) text: <neg> ลํา โพง <opinion> เล็ก
+
+Input text: ฉัน อัปเกรด เป็น RAM เป็น 2 GB ฉัน มีความสุข มาก กับ มัน
+Predicted (generated) text: <neu> RAM <opinion> อัpเกรด <pos> RAM <opinion> มีความสุข
+
+Input text: พวกเขา ควร รวม หน่วย ความ จํา เพิ่มเติม บน คอมพิวเตอร์ ของ พวกเขา หาก พวกเขา รู้ ว่า Vista จะ ทํา งาน ช้า
+Predicted (generated) text: <neg> Vista <opinion> ช้า
+
+Input text: อายุการใช้งาน แบตเตอรี่ อาจจะ ดีกว่า แต่ โดยรวม แล้ว สํา หรับ ราคา และ ชื่อเสียง ของ โต ชิ บาส ํา หรับ แล็ปท็อป มัน ยอดเยี่ยม มาก!
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ดีกว่า <pos> operating <opinion> ดีกว่า
+
+Input text: แบตเตอรี่ ไม่ เคย ชาร์จ นาน กว่า หนึ่ง ชั่วโมง และ ภายใน สอง เดือน หยุด ชาร์จ นาน กว่า สิบ นาที
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่ ชาร์จ <opinion> นาน
+
+Input text: หลังจาก การรับประกัน หมดอายุ ฮาร์ด ไดรฟ์ ก็ แย่ และ จะ มี ค่าใช้จ่าย มากขึ้น ใน การ แก้ไข แล้ว เพื่อ แทนที่
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> แย่ <neg> expens <opinion> increase
+
+Input text: รายการ ไอคอน ที่ เรียบร้อย และ เป็นระเบียบ คือ การเปลี่ยนแปลง ยินดีต้อนรับ จา กรก และ ไอคอน เดสก์ท็อป ที่ สับสน
+Predicted (generated) text: <pos> ไอคอน <opinion> เรียบร้อย <pos> display <opinion> เป็นระเบียบ
+
+Input text: เห็นได้ชัด เจน - สร้าง และ สวยงาม เพื่อ ดู i 5 MacBook Pro i 5 เป็นการ ผสมผสาน ระหว่าง ราคา และ ประสิทธิภาพ ที่ ชนะ
+Predicted (generated) text: <pos> price <opinion> เห็นได้ชัด <pos> ประสิทธิภาพ <opinion> ชนะ
+
+Input text: การ ดูแล แอปเปิ้ล ไม่ เคย ทํา ให้ ฉัน ผิดหวัง และ ฉัน คาดหวัง ว่า มัน จะ เป็น เหมือนกัน กับ คอมพิวเตอร์ เครื่อง นี้ เช่นกัน
+Predicted (generated) text: <neg> แอปเปิ้ล <opinion> ไม่ เคย ทํา
+
+Input text: แล็ปท็อป โตชิบา ที่ ฉัน ใช้ นั้น ใช้งาน ง่า ยก ว่าที่ ฉัน เคย ลอง มา
+Predicted (generated) text: <neg> โตชิบา <opinion> ง่า.
+
+Input text: ฉัน ชอบ ขนาด แป้นพิมพ์ ฟังก์ชั่น
+Predicted (generated) text: <pos> ขนาด แป้นพิมพ์ ฟังก์ชั่น <opinion> ชอบ
+
+Input text: เมาส์ นั้น ไว เกินไป
+Predicted (generated) text: <pos> เมาส์ <opinion> ไว
+
+Input text: นอกจากนี้ ฉัน ยัง ออก RMA แทน ไม่ กี่ พิกเซล ตาย ใน โซน บน ของ หน้าจอ ซึ่ง สังเกต ได้ กับ ฉัน
+Predicted (generated) text: <neg> พิกเซล <opinion> ตาย
+
+Input text: เพื่อน ของ ฉัน รายงาน สมุดบันทึก นั้น น่าอัศจรรย์ ใน ประสิทธิภาพ คุณภาพ ของ ภาพ และ ใช้งาน ง่าย
+Predicted (generated) text: <pos> Quality <opinion> น่าอัศจรy <pos> usage <opinion> ง่าย
+
+Input text: โปรเซสเซอร์ i 3 และ ดูเหมือน จะ ไม่ ร้อน และ พัดลม ไม่ค่อย เปิด
+Predicted (generated) text: <neg> พัดลม <opinion> ไม่ ร้อน <neg> พัดลม <opinion> ไม่ค่อย เปิด
+
+Input text: ดู เมื่อ พูดถึง แล็ปท็อป คุณ ซื้อ และ ได้รับ ระบบปฏิบัติการ ปกติ ที่ มี การทดลอง จะ ต้อง มี สิ่ง ที่ ควร มา พร้อมกับ มัน
+Predicted (generated) text: <neu> ระบบปฏิบัติการ <opinion> ปกติ
+
+Input text: สิ่ง เดียว ที่ ฉันท ํา และ ไม่ เข้าใจ คือ ความ ละเอียด ของ หน้าจอ นั้น ไม่ สูง พอ สํา หรับ บาง หน้า เช่น Yahoo! Mail
+Predicted (generated) text: <neg> หน้าจอ <opinion> ไม่ สูง
+
+Input text: สะดวก มาก เมื่อ คุณ เดินทาง และ อายุการใช้งาน แบตเตอรี่ ก็ ยอดเยี่ยม...
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: เครื่อง ช้า ใน การ บู๊ ต และ บางครั้ง ก็ ล่ม อย่าง สมบูรณ์
+Predicted (generated) text: <neg> เครื่อง <opinion> ช้า <neg> เครื่อง <opinion> สมบูรณ์
+
+Input text: ความสว่าง ของ หน้าจอ จะ ปรับ โดยอัตโนมัติ
+Predicted (generated) text: <neg> หน้าจอ <opinion> ความสว่าง
+
+Input text: นอกจากนี้ รูปลักษณ์ ที่ ยอดเยี่ยม มัน เป็น เครื่องจักร ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> รูปลักษณ์ <opinion> ยอดเยี่ยม
+
+Input text: เสียง ค่อนข้าง เงียบ ถ้า คุณ ใช้ เครื่องบิน อีกครั้ง สิ่ง นี้ สามารถ เอาชนะ ได้ อย่าง ง่ายดาย ด้วย โทรศัพท์ หัว คู่ ที่ ดี
+Predicted (generated) text: <neg> เสียง <opinion> เงียบ
+
+Input text: ขนาด และ น้ํา หนัก ที่ เหมาะสม สํา หรับ การ พกพา
+Predicted (generated) text: <neu> ขนาด <opinion> เหมาะสม <pos> น้ํา หนัก <opinion> เหมาะสม
+
+Input text: อายุการใช้งาน แบตเตอรี่ ก็ ไม่ ได้ ขึ้นอยู่กับ การ เรียกร้อง แต่ ยัง ฉัน คิด ว่า macbook นั้น ล่วงหน้า มาก จาก ส่วนที่เหลือ ของ แพ็ค
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ไม่
+
+Input text: ความไม่สะดวก ของ จอแสดงผล เป็น เพียง ความไม่สะดวก เล็กน้อย ถ้า คุณ ทํา งาน ใน สภาพแวดล้อม ที่ สะดวกสบาย เช่น ฉัน ( ฉัน ชอบ มัน มืด ) หรือ ถ้า คุณ สามารถ เหวี่ยง ความสว่าง ขึ้น ได้
+Predicted (generated) text: <neg> จอแสดงผล <opinion> ไม่สะดวก <neg> สภาพแวดล้อม <opinion> สะดวกสบาย
+
+Input text: ข้อ ร้องเรียน อย่างหนึ่ง ของ ฉัน กับ แล็ปท็อป นี้ คือ ฉัน สังเกตเห็น เสียง ขน ปุย อิเล็กทรอนิกส์ ออก มาจาก แจ็ค หูฟัง เมื่อ เสียบ หูฟัง
+Predicted (generated) text: <neg> noise <opinion> ปุย อิเล็กทรอนิกส์ <opinion> ร้องเรียน
+
+Input text: ในขณะที่ ได้รับ การ จัดอันดับ สูง ฉัน ต้องการ หรือไม่ ฉัน ลอง ใช้ แป้นพิมพ์ ที่ ร้าน และ ดูเหมือนว่า โอเค
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> โอเค
+
+Input text: รักษา ตัวเอง ให้ มี ราคาแพง กว่า แล็ปท็อป คุณภาพ ที่สูง กว่า เช่น Sony, Apple หรือ โตชิบา
+Predicted (generated) text: <pos> quality <opinion> high
+
+Input text: ( ไม่ มีปัญหา กับ การสั่งซื้อ หรือ การจัดส่ง
+Predicted (generated) text: <pos> การจัดส่ง <opinion> ไม่ มีปัญหา
+
+Input text: และ RAM ( สิ่ง ที่ ทํา ให้ มัน เร็ว ขึ้น ) มา พร้อม กีฬา 2 กิกะไบต์ สํา หรับ ประสิทธิภาพ สูง ใน การ จัดการ สิ่งของ มากขึ้น ใน ครั้ง เดียว และ ท่อง เว็บ ได้ เร็ว ขึ้น กว่า เดิม
+Predicted (generated) text: <pos> RAM <opinion> สูง
+
+Input text: ฉัน แก้ไข และ เผา ไป ยัง ดีวีดี วิดีโอ จํานวน มาก ดังนั้น เห็นได้ชัด ว่า ฉัน ไม่ สามารถ อยู่ กับ ไดรฟ์ supported ได้
+Predicted (generated) text: <neg> videoclip จํานวน <opinion> เห็นได้ชัด <neg> could not อยู่
+
+Input text: รวดเร็ว ภาพ ที่ ยอดเยี่ยม!
+Predicted (generated) text: <pos> ภาพ <opinion> รวดเร็ว <pos> ภาพ <opinion> ยอดเยี่ยม
+
+Input text: มัน ราคา สมเหตุสมผล มาก และ ทํา งาน ได้ ดีมาก ทันทีที่ ออกจาก กล่อง
+Predicted (generated) text: <pos> ราคา <opinion> สมเหตุสมผล <pos> งาน <opinion> ดีมาก
+
+Input text: ในขณะที่ แป้นพิมพ์ นั้น ไม่เป็นไร แผ่น รอบ ๆ เป็น พลาสติก ราคา ถูก และ ทํา ให้เสียง กลวง เมื่อ ใช้ ปุ่ม คํา สั่ง ของ เมาส์
+Predicted (generated) text: <neg> แผ่น <opinion> ไม่เป็นไร <neg> แผ่น รอบ พลาสติก <opinion> กลวง
+
+Input text: มี คุณสมบัติ ที่ ยอดเยี่ยม และ ประโยชน์ มากมาย กับ MacBook ใหม่!
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> ยอดเยี่ยม <pos> คุณสมบัติ <opinion> benefits
+
+Input text: สิ่ง เดียว ที่ ฉัน สามารถ พูด ได้ คือ ทัชแพด ไม่ ทํา งาน อย่าง ที่ ควรจะเป็น ตลอดเวลา
+Predicted (generated) text: <neg> ทัชแพด <opinion> ไม่ ทํา งาน
+
+Input text: ด้วย เหตุผล แปลก ๆ บางประการ คอมพิวเตอร์ ไม่ รู้จัก ระบบปฏิบัติการ
+Predicted (generated) text: <neg> ระบบปฏิบัติการ <opinion> แปลก.
+
+Input text: แทร็ค แพ ด นั้น ง่าย ต่อ การเรียนรู้ และ นํา ทาง
+Predicted (generated) text: <pos> แทร็ค แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ แพ
+
+Input text: แอปพลิเคชัน เปิด ใน ไม่ กี่ วินาที และ ไม่ มี ความล่าช้า อาการ สะอึก หรือ ช่วงเวลา ที่ น่าสงสัย เมื่อ คุณ สงสัย ว่า คอมพิวเตอร์ ของ คุณ หมด สํา หรับ ชา หรือไม่
+Predicted (generated) text: <neg> แอปพลิเคชัน <opinion> เปิด ใน ไม่ กี่ วินาที <opinion> น่าสงสัย
+
+Input text: ฉัน ตอบสนอง ว่า ฉัน ไม่ มี คอมพิวเตอร์ เครื่อง เก่า และ ด้วย วิธี นี้ ฉัน จะ สูญเสีย ข้อมูล ใน ฮาร์ด ไดรฟ์ ของ ฉัน
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> สูญเสีย
+
+Input text: อีกครั้ง ใน เดือน กุมภาพันธ์ คอมพิวเตอร์ ของ ฉัน ล้มเหลว อย่าง สมบูรณ์ จนถึง จุด ที่ ไม่ สามารถ โหลด Windows ได้ ดังนั้น ฉัน จึง ติดต่อ Acer เพื่อ ซ่อม มัน ผ่าน แท็บเล็ต ของ ฉัน และ ใช้เวลา ใน การต่อสู้ ทาง โทรศัพท์ กับ ตัวแทน ประมาณ 3 วัน และ ดูเหมือนว่า ไม่ มี พวกเขา พูด ภาษาอังกฤษ
+Predicted (generated) text: <neg> Windows <opinion> ล้มเหลว <neg> Windows <opinion> non
+
+Input text: แม้ว่า คอมพิวเตอร์ จะ มี ขนาดใหญ่ ขึ้น แต่ ก็ ไม่ ได้ ทํา ให้ แป้นพิมพ์ มี ขนาดใหญ่ ขึ้น
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ขนาดใหญ่
+
+Input text: มัน ไม่ ใช่ แค่ ช้า บน อินเทอร์เน็ต โดยทั่วไป มัน ช้า
+Predicted (generated) text: <neg> อินเทอร์เน็ต <opinion> ช้า
+
+Input text: มัน มี RAM เพียง พอที่จะ ทํา งาน ได้ อย่าง ราบรื่น และ หน่วย ความ จํา เพียง พอที่จะ ตอบ สนองความต้องการ ของ ฉัน
+Predicted (generated) text: <pos> RAM <opinion> พอที่จะ ทํา งาน <opinion> ราบรื่น <pos> หน่วยความ จํา <opinion> ราบรื่น
+
+Input text: ฉัน เชื่อ ว่า ปัญหา เกิด ขึ้นกับ การ์ด Nvidia Nvidia แต่ ยัง ต้อง ส่งคืน
+Predicted (generated) text: <neg> การ์ด Nvidia <opinion> ปัญหา
+
+Input text: มัน ง่าย มาก ที่จะ พิมพ์ และ รู้สึก ดี - นอกเหนือจาก คุณสมบัติ เพิ่มเติม ที่ แป้นพิมพ์ มี ไฟ
+Predicted (generated) text: <pos> ไฟ <opinion> ง่าย <neg> iPhoto <opinion> ดี
+
+Input text: ความรู้สึก ของ เครื่อง นี้ เมื่อ เทียบ กับ MacBook เครื่อง เก่า นั้น เหนือกว่า มาก
+Predicted (generated) text: <pos> ความรู้สึก <opinion> เหนือกว่า
+
+Input text: แน่นอน ว่า ฉัน จะ ลบ แผ่น ดิสก์ แข็ง ออกจาก MacBook Pro ใหม่ นี้ และ ทิ้ง มัน ไว้ ที่ เดิม - ใน ถังขยะ
+Predicted (generated) text: <neg> แผ่น ดิสก์ <opinion> แข็ง
+
+Input text: พวกเขา พัง ลง บ่อย เท่าที่ พีซี ทํา และ เหตุผล เดียว ที่ พวกเขา ทํา และ ไม่ ได้รับ ไวรัส คือ เพราะ ไม่ มี ใคร สร้าง ไวรัส ให้ กับ พวกเขา พวกเขา ไม่ ได้ ดีขึ้น ใน ทาง ใด ทาง หนึ่ง พวกเขา แย่ กว่า นั้น ลอง หา โปรแกรม ป้องกัน ไวรัส สํา หรับ Mac พวกเขา ไม่ มี อยู่ จริง
+Predicted (generated) text: <neg> โปรแกรม ป้องกัน ไวรัส <opinion> แย่
+
+Input text: คุณภาพ การ สร้าง โดยรวม ของ หน่วย นั้น ยอดเยี่ยม และ เธอ แนะ นํา ให้ ทุกคน ที่ กํา ลัง มองหา เน็ตบุ๊ก
+Predicted (generated) text: <pos> Quality <opinion> ยอดเยี่ยม <pos> สร้าง <opinion> ยอดเยี่ยม
+
+Input text: การ ซ่อม แซ มท ํา อย่าง รวดเร็ว แม้ว่า ฉัน จะ ต้อง พูด แต่ ครั้ง ที่สอง พวกเขา ส่ง ไป ยัง ที่อยู่ ที่ ไม่ ถูกต้อง และ ใช้เวลา เกือบ หนึ่ง สัปดาห์ สํา หรับ พวกเขา เพื่อให้ มาถึง ฉัน
+Predicted (generated) text: <neg> ซ่อม <opinion> รวดเร็ว
+
+Input text: มัน รวดเร็ว และ ฉัน ไม่ ได้ มีปัญหา กับ การ เชื่อมต่อ อินเทอร์เน็ต หรือ ปัญหา อื่น ๆ
+Predicted (generated) text: <pos> เชื่อมต่อ อินเทอร์เน็ต <opinion> รวดเร็ว <pos> เชื่อมต่อ อินเทอร์เน็ต <opinion> not
+
+Input text: ฉัน ประทับใจ กับ คุณภาพ และ ประสิทธิภาพ ของ คอมพิวเตอร์ มาก
+Predicted (generated) text: <pos> quality <opinion> ประทับใจ <pos> ประสิทธิภาพ <opinion> ประทับใจ
+
+Input text: มัน ใช้งาน ง่าย มาก ฉัน ใช้ มัน มากกว่า เดสก์ท็อป ของ ฉัน
+Predicted (generated) text: <pos> การใช้งาน <opinion> ง่าย
+
+Input text: ฉัน ยัง มีปัญหา กับ ทัชแพด ที่ ทํา ให้ ตัว ชี้ เมาส์ กระโดด ไป ทั่ว หน้าจอ
+Predicted (generated) text: <neg> ทัชแพด <opinion> มีปัญหา <neg> ชี้ เมาส์ <opinion> กระโดด
+
+Input text: วิธี ที่ เข้าใจผิด แป้นพิมพ์ นั้น ไม่ สมบูรณ์
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ไม่ สมบูรณ์
+
+Input text: ฉัน ต้อง บอ กว่า ตั้งแต่ ฉัน ซื้อ Mac ของ ฉัน ฉัน ติดใจ และ ไม่ กลับ ไป ที่ Windows ใด ๆ
+Predicted (generated) text: <neg> Windows <opinion> ติดใจ
+
+Input text: ฉัน เอา มัน ไป ที่ Apple store และ เดา อะไร พวกเขา ซ่อม มัน ไม่ มี ค่าใช้จ่าย ใน กระเป๋า
+Predicted (generated) text: <neg> กระเป๋า <opinion> ไม่
+
+Input text: คุณภาพ การ ออกแบบ วิศวกรรม และ การรับประกัน นั้น เหนือกว่า - ครอบคลุม ความเสียหาย จาก การ วาง แล็ปท็อป
+Predicted (generated) text: <pos> QUALI <opinion> เหนือกว่า <pos> warranty <opinion> เหนือกว่า
+
+Input text: แอปพลิเคชั่น นั้น ง่าย ต่อ การ ค้นหา และ จัด ทํา ง่าย กว่า คอมพิวเตอร์ เครื่อง อื่น ๆ ที่ ฉัน เคย เป็นเจ้าของ
+Predicted (generated) text: <pos> แอปพลิเคชั่น <opinion> ง่าย
+
+Input text: หน้าจอ ขนาดใหญ่ ให้ คุณ เลือก รับ ชม ภาพยนตร์ หรือ รายการ ทีวี บน คอมพิวเตอร์ ของ คุณ อย่าง สะดวกสบาย แทนที่จะ ซื้อ ทีวี เพิ่มเติม สํา หรับ ห้องพัก หอพัก ของ คุณ
+Predicted (generated) text: <neg> หน้าจอ <opinion> ขนาดใหญ่
+
+Input text: แล็ปท็อป ที่ ยอดเยี่ยม สํา หรับ โรงเรียน ใช้งาน ง่าย สํา หรับ ผู้เริ่มต้น ใน บ้าน
+Predicted (generated) text: <pos> แล็ปท็อป <opinion> ยอดเยี่ยม
+
+Input text: 4 ) แล็ปท็อป ยัง ไม่ ทํา งาน หน้าจอ สี น้ํา เงิน ภายใน หนึ่ง สัปดาห์...
+Predicted (generated) text: <neg> หน้าจอ สี <opinion> ไม่ <neg> หน้าจอสี <opinion> น้ําเงิน
+
+Input text: สิ่ง เดียว ที่ ไม่ สมบูรณ์แบบ เกี่ยวกับ เน็ตบุ๊ก นี้ คือ ลํา โพง พวกเขา ไม่ ดัง เลย แต่ ฉัน คาดหวัง ไว้
+Predicted (generated) text: <neg> ลํา โพง <opinion> ไม่ สมบูรณ์แบบ
+
+Input text: แน่นอน ฉัน ตรวจสอบ เน็ตบุ๊ก อื่น ๆ และ เห็นได้ชัด ว่า บานพับ ของ พวกเขา แน่น ขึ้น และ ฉัน ยัง แสดงให้เห็น ถึง ความแตกต่าง ระหว่าง เน็ตบุ๊ก และ อื่น ๆ ของ ฉัน
+Predicted (generated) text: <neg> บานพับ <opinion> เห็นได้ชัด
+
+Input text: ไม่ ทํา งาน เมื่อ ส่ง จาก Walmart. com แต่ ไป ที่ ร้าน และ แลกเปลี่ยน แล็ปท็อป ที่ ทํา งาน ( รุ่น เดียวกัน / รุ่น )
+Predicted (generated) text: <neg> รุ่น <opinion> ไม่
+
+Input text: โปรแกรม ทั้งหมด ( Keynote, Pages, Numbers ) มี ตัวเลือก ใน การ บันทึก เอกสาร ของ คุณ ใน ฐานะ Microsoft ที่ รองรับ ซึ่ง ไม่ จํา เป็น ต้อง มี จริง
+Predicted (generated) text: <neu> Numbers <opinion> ไม่ จํา
+
+Input text: แน่นอน ค่าใช้จ่าย เริ่มต้น จาก กระเป๋า มากกว่า แต่ นั่น ไม่ ควร ห้าม ห้ามปราม ใคร จาก ความจริง ที่ว่า เครื่องจักร เหล่านี้ ไม่ ทํา งาน เหมือน อื่น บน โลก ใบ นี้ และ เมื่อ ฉัน ปัจจัย ใน เงิน ทั้งหมด ที่ ฉัน สูญเปล่า ไป กับ เนิร์ด ส ควอด และ แพทช์ ล่าสุด เพื่อ ทํา ให้ พีซี MyTok ของ ฉัน มัน อาจจะ ออกมา เกี่ยวกับ แม้แต่ ใด ๆ
+Predicted (generated) text: <neg> expens <opinion> สูญเปล่า
+
+Input text: สิ่ง ที่ ดี ที่สุด ที่จะ ทํา คือ การ สร้าง คอมพิวเตอร์ ของ คุณ เอง, แต่ ถ้า คุณ CA n ไม่ ใช่ บริษัท อย่าง dell ที่ อนุญาต ให้ คุณ เลือก ส่วนประกอบ จะ ดีกว่า และ สํา หรับ ราคา เดียวกัน คุณ จะ ได้รับ คอมพิวเตอร์ ที่ เปรียบเทียบ กับ หนึ่ง ใน apple $ 2000 ระบบ และ ถ้า คุณ google Dell dell อ หา คูปอง '' คุณ สามารถ ค้นหา รหัส ที่ ใช้ ปริมาณ อย่าง มีนัย สําคัญ ปิด ราคา.
+Predicted (generated) text: <pos> ส่วนประกอบ <opinion> ดี
+
+Input text: ไม่ มี ไดรฟ์ ซีดี ใน คอมพิวเตอร์ ซึ่ง เอาชนะ วัตถุประสงค์ ใน การรักษา ไฟล์ ใน ซีดี
+Predicted (generated) text: <neg> ไดรฟ์ ซีดี <opinion> เอาชนะ
+
+Input text: น่าเสียดาย ที่ คุณภาพ ของ Apple ยังคง เลื่อน ต่อไป
+Predicted (generated) text: <pos> quality <opinion> น่าเสียดาย
+
+Input text: ฉัน เชื่อ ว่า คุณภาพ ของ mac นั้น คุ้มค่า กับ ราคา
+Predicted (generated) text: <pos> quality <opinion> คุ้มค่า
+
+Input text: บางครั้ง คุณ จะ ขยับ นิ้ว ของ คุณ และ ตัว ชี้ จะ ไม่ เคลื่อนไหว
+Predicted (generated) text: <neg> นิ้ว <opinion> ขยับ
+
+Input text: Macbook Pro 13'พอดี กับ งบประมาณ ของ ฉัน และ จัดส่ง ฟรี และ ไม่ มี ภาษี ไป ยัง CA นี่ คือ รา คาที่ ดี ที่สุด ที่ เรา ได้รับ สํา หรับ ผลิตภัณฑ์ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> จัดส่ง <opinion> ฟรี <pos> ภาษี <opinion> ยอดเยี่ยม
+
+Input text: ฉัน จะ ให้คะแนน คอมพิวเตอร์ เครื่อง นี้ ที่ 5 ดาว แต่ เมื่อ พิจารณา ว่า มัน มี ช่วงชีวิต สั้น ๆ ฉัน สามารถ ให้ได้ เพียง 1 และ เรียกร้อง ให้ ใครก็ตาม ที่ มองหา แล็ปท็อป อยู่ ให้ ห่าง จาก เครื่อง นี้
+Predicted (generated) text: <neg> Toshiba <opinion> สั้น
+
+Input text: ฉัน ชอบ การ ออกแบบ รูปลักษณ์ ความรู้สึก และ คุณสมบัติ ของ โตชิบา ของ ฉัน คือ unes
+Predicted (generated) text: <pos> ออกแบบ รูปลักษณ์ <opinion> ชอบ <pos> คุณสมบัติ <opinion> uns
+
+Input text: นอกจากนี้ ยัง ดีมาก สํา หรับ นักศึกษา ที่ ต้องการ คอมพิวเตอร์ ที่เชื่อถือได้ และ ใช้งาน ง่าย
+Predicted (generated) text: <pos> ใช้งาน <opinion> ดีมาก
+
+Input text: อีก อย่าง คือ ถ้า คุณ ใช้ สิ่ง นี้ ใน การ สร้าง เอกสาร Apple ไม่ ได้ ให้ โปรเซสเซอร์ คํา ใด ๆ ( เช่น ใช้งาน ได้ กับ windows ) แต่ ราคา ถูก เมื่อ เทียบ กับ สํา นักงาน
+Predicted (generated) text: <neg> price <opinion> ถูก
+
+Input text: มัน เบา และ แบตเตอรี่ มี อายุการใช้งาน นาน มาก
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> เบา <pos> charger <opinion> longer
+
+Input text: และ ณ จุด หนึ่ง พวกเขา โทษ ให้ ฉัน ติดตั้ง หน่วย ความ จํา ที่ ไม่ ดี เมื่อ ฉัน อัพเกรด หน่วย ความ จํา ของ ฉัน เป็นครั้งแรก ใน ระหว่าง การ ซื้อ แล็ปท็อป ( ฉัน ซื้อ หน่วย ความ จํา ติด พวกเขา แนะ นํา)
+Predicted (generated) text: <neg> หน่วยความ จํา <opinion> ไม่ ดี
+
+Input text: ภายนอก คีย์ บน แป้นพิมพ์ ของ ฉัน จะ ตก ลงมา หลังจาก ใช้ ไม่ กี่ สี จะ ถู ออก ปุ่ม ด้านล่าง แผ่น รอง เมาส์ และ ที่ รักษา มือ ของ ฉัน นั่ง และ หน้าจอ มี แสง จ้า ที่ น่ากลัว
+Predicted (generated) text: <neg> KEY <opinion> ตก
+
+Input text: ครั้ง ต่อไป ที่ มีปัญหา คือ ไอแพด ของ ฉัน ไม่ ทํา งาน
+Predicted (generated) text: <neg> ไอแพด <opinion> มีปัญหา <neg> ไอแพด <opinion> non ทํา งาน
+
+Input text: ทัชแพด มี ความ อ่อนไหว อย่าง มาก ซึ่ง เป็น ข้อเสียเปรียบ เพียง อย่าง เดียว
+Predicted (generated) text: <neg> ทัชแพด <opinion> อ่อนไหว <neg> ทัชแพd <opinion> อ่อนไหว
+
+Input text: นอกจากนี้ ยัง มา พร้อมกับ แอปพลิเคชั่น ที่ มีประโยชน์ มาก เช่น iphoto ว่า เป็น แอปพลิเคชั่น ภาพถ่าย ที่ ดี ที่สุด ที่ ฉัน เคย มี
+Predicted (generated) text: <pos> iphoto <opinion> useful <pos> iphoto <opinion> ดี
+
+Input text: คอมพิวเตอร์ รุ่น แรก ที่ ฉัน ซื้อ มา คือ 17 ดาว - หน้าจอ และ มัน ยาก ที่จะ หา กระเป๋า บน ตัก สํา หรับ มัน แต่ ฉัน ชอบ หน้าจอ ขนาดใหญ่ บน มัน
+Predicted (generated) text: <neg> หน้าจอ <opinion> ยาก
+
+Input text: ฉัน สามารถ มี ทั้ง OSX และ Windows XP ได้ ในเวลาเดียวกัน!
+Predicted (generated) text: <pos> OSX <opinion> both <pos> Windows XP <opinion> both
+
+Input text: Microsoft ดูเหมือน จะ ไม่ สามารถ ซ่อมแซม ปัญหา หน้าต่าง มากมาย ได้
+Predicted (generated) text: <neg> หน้าต่าง <opinion> ไม่ สามารถ
+
+Input text: คุณ สามารถ โทร หา HP และ พวกเขา ต้องการ ให้ คุณ ซื้อ ซอฟต์แวร์ เพิ่มเติม เพื่อ แก้ไข ได้
+Predicted (generated) text: <neu> ซอฟต์แวร์ <opinion> เพิ่มเติม
+
+Input text: มัน ง่าย ที่จะ นํา ทาง และ โปรแกรม อัปเดต
+Predicted (generated) text: <neu> โปรแกรม <opinion> ง่าย
+
+Input text: สรุป เป็น ประสบการณ์ ที่ น่า ผิดหวัง มาก ยกเว้น ว่า ฉัน ได้ เรียนรู้ ว่า ผู้ เนิร์ด ส ควอด นั้น ดี เพียงใด และ การ บริการ ลูกค้า
+Predicted (generated) text: <pos> ประสบการณ์ <opinion> น่า ตื่นaktan ส ควอด <opinion> ดี
+
+Input text: แล็ปท็อป มี น้ํา หนัก เบา มาก สามารถ พกพา ได้ อย่าง ง่ายดาย ใน หนังสือ เป้ ที่ เต็มไปด้วย ข้อความ และ แทบจะ ไม่ เพิ่ม น้ํา หนัก ใด ๆ
+Predicted (generated) text: <neg> น้ํา หนัก <opinion> เบา <neg> น้ํา หนัก <opinion> non เพิ่ม
+
+Input text: ฉัน ไม่ ชอบ เสียง ดังที่ มัน ทํา หรือ วิธี ที่ ด้านล่าง ของ คอมพิวเตอร์ จะ ร้อน มาก
+Predicted (generated) text: <neg> เสียง <opinion> ดัง
+
+Input text: ฉัน เคย มี แล็ปท็อป Dell ใน อดีต และ พวกเขา ส่ง รายการ ที่ จํา เป็น ให้ ฉัน หรือ พวกเขา ส่ง ช่างซ่อม ไป ยัง บ้าน ของ ฉัน เพื่อ แก้ไข
+Predicted (generated) text: <neg> ช่างซ่อม <opinion> แก้ไข
+
+Input text: ซอฟต์แวร์ ที่ มีข้อบกพร่อง
+Predicted (generated) text: <neg> SOFTWARE <opinion> ข้อบกพร่อง
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ ท้าทาย มาก ที่จะ พกพา และ จัดการ
+Predicted (generated) text: <neg> พกพา <opinion> ท้าทาย <neg> จัดการ <opinion> ท้าทาย
+
+Input text: สายไฟ ที่ ใช้ สํา หรับ หูฟัง / ไมค์ บวก การ เชื่อมต่อ เครือข่าย ด้าน ซ้าย ช่วย ให้ ติดตั้ง ยุ่ง มาก ด้วย สาย ไป ทุกทิศทาง
+Predicted (generated) text: <neg> สายไฟ <opinion> ยุ่ง
+
+Input text: ถ้า คุณ ไม่ต้องการ ที่ ไม่ สะดวก กับ แหล่ง จ่ายไฟ ไม่ ทํา งาน ซึ่ง คุณ แคลิฟอร์เนีย และ ไม่ พบ การ เปลี่ยน เพราะ พวกเขา ทํา ให้ แนบ เล็ก มาก
+Predicted (generated) text: <neg> แหล่ง จ่ายไฟ <opinion> ไม่ ทํา งาน
+
+Input text: มัน เร็ว กว่า เดสก์ท็อป ของ ฉัน มาก ซึ่ง เป็น Quad ที่ ทํา งาน ที่ 2.83 GHz
+Predicted (generated) text: <neu> Quad <opinion> เร็ว
+
+Input text: เป็นการ ดี ที่ ได้ รู้ ว่า ฉัน สามารถ ระดมพล ได้ โดย ไม่ต้อง กังวล กับ อายุการใช้งาน แบตเตอรี่
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ดี
+
+Input text: หน้าจอ สวย มุมมอง ด้าน ข้าง ค่อนข้าง ดี
+Predicted (generated) text: <pos> หน้าจอ <opinion> สวย <pos> display <opinion> ดี
+
+Input text: ความจริง ที่ว่า หน้าจอ ตอบสนอง กับ แสง รอบ ๆ ตัว คุณ เป็นเรื่อง หรูหรา - เมื่อ คุณ ทํา งาน รอบ ๆ คนอื่น ใน พื้นที่ ที่ มืด และ ต้องการ ความเป็นส่วนตัว หรือ ทํา และ ไม่ต้องการ รบกวน พวกเขา ด้วย แสง จ้า มัน สะดวก มาก ที่จะ มี หน้าจอ lit ที่ สว่าง ขึ้น และ นุ่ม ขึ้น
+Predicted (generated) text: <pos> หน้าจอ <opinion> หรูหรา <pos> display <opinion> สว่าง
+
+Input text: 3 สัปดาห์ ผ่าน ไป และ คอมพิวเตอร์ จะ หยุด ทํา งาน และ จะ ไม่ เปิด แอปพลิเคชั่น ใด ๆ
+Predicted (generated) text: <neg> work <opinion> หยุด <neg> คอมพิวเตอร์ <opinion> not เปิด
+
+Input text: ดูดี แต่ ให้ ความรู้สึก ราคา ถูก อย่าง น่ากลัว
+Predicted (generated) text: <neg> ราคา <opinion> น่ากลัว
+
+Input text: ความรู้สึก นี้ ดีกว่า โตชิบา เช่นกัน
+Predicted (generated) text: <pos> โตชิบา <opinion> ดีกว่า
+
+Input text: ฉัน อยาก จะ แนะ นํา แล็ปท็อป นี้ ให้ กับ ทุกคน ที่ ต้องการ รับ แล็ปท็อป เครื่อง ใหม่ ที่ ยินดี ที่จะ ใช้จ่าย เงิน เพิ่ม อีก เล็กน้อย เพื่อ ให้ได้ คุณภาพ ที่ ยอดเยี่ยม!
+Predicted (generated) text: <pos> quality <opinion> ยอดเยี่ยม
+
+Input text: ฉัน อัปเกรด หน่วย ความ จํา และ เปลี่ยน ฐาน Windows 7 Starter เป็น Win 7 Home และ มัน ก็ ทํา งาน ได้ดี
+Predicted (generated) text: <neu> Windows 7 Starter <opinion> อัปเกรด <neu> Win 7 Home <opinion> abit
+
+Input text: ฉัน ไม่ แน่ใจ ว่า มัน เป็น ไดรฟ์ ของ ตัวเอง หรือไม่ ;
+Predicted (generated) text: <neg> ไดรฟ์ <opinion> ไม่ แน่ใจ
+
+Input text: นอกจากนี้ ผู้ใช้ คน หนึ่ง พูด ถึงว่า ขอบ บน macbook นั้น คม อย่างไร หาก คุณ มีเงิน ที่จะ ใช้ หนึ่ง ใน เปลือก อิน เผื่อ มัน ก็ ทํา ได้ และ ดูเหมือน จะ ไม่ เป็นปัญหา
+Predicted (generated) text: <neg> เปลือก อิน <opinion> ไม่ เป็นปัญหา
+
+Input text: มัน ใช้งาน ง่าย แป้นพิมพ์ ของ มัน รอง รับมือ ขนาดใหญ่ ได้ ง่าย และ น้ํา หนัก ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ง่าย <pos> น้ํา หนัก <opinion> ยอดเยี่ยม
+
+Input text: เรียก Acer หลายครั้ง พวกเขา ต้องการ ให้ ฉัน จ่าย ค่า จัดส่ง เพื่อ จัดส่ง ไป ยัง ศูนย์ ซ่อม ของ พวกเขา - ฉัน ผิดหวัง มาก เพราะ มัน เป็น คอมพิวเตอร์ ใหม่!
+Predicted (generated) text: <neg> จัดส่ง <opinion> ผิดหวัง
+
+Input text: แบตเตอรี่ ยาว จริงๆ
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> ยาว
+
+Input text: มีปัญหา บางอย่าง ใน การ ค้นหา กรณี ที่ มัน จะ พอดี
+Predicted (generated) text: <neg> case <opinion> มีปัญหา
+
+Input text: คอมพิวเตอร์ เครื่อง นี้ ที่ ฉัน มีปัญหา กับ แป้นพิมพ์ ที่ สูญเสีย ฟังก์ชั่น คีย์บอร์ด ไป ครึ่งหนึ่ง
+Predicted (generated) text: <neg> คีย์บอร์ด <opinion> สูญเสีย
+
+Input text: เมื่อ ฉัน โทร หา Sony ฝ่าย บริการ ลูกค้า ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> บริการ <opinion> ยอดเยี่ยม
+
+Input text: มัน เป็นระบบ ที่ คล่องตัว มากขึ้น สํา หรับ การ เพิ่ม โปรแกรม โดย ใช้ อินเทอร์เน็ต และ ทํา สิ่ง อื่น ๆ ที่ ทุ กค นท ําบน คอมพิวเตอร์
+Predicted (generated) text: <neu> โปรแกรม <opinion> คล่องตัว
+
+Input text: คอมพิวเตอร์ ของ ฉัน ค้าง หลาย ๆ โอกาส มี ปุ่ม ที่ ปิด - จะ ตก ลงมา และ มี ช่วงเวลา ที่ คอมพิวเตอร์ จะ ไม่ ยอม เปิด เลย
+Predicted (generated) text: <neg> ปุ่ม <opinion> ไม่ enough
+
+Input text: รองเท้าบูท โหมด ไม่ ปลอดภัย
+Predicted (generated) text: <neg> รองเท้าบูท โหมด <opinion> ไม่ ปลอดภัย
+
+Input text: นี่ คือ แล็ปท็อป klaptop ที่ สมบูรณ์
+Predicted (generated) text: <pos> แล็ปท็อป keyboard <opinion> สมบูรณ์
+
+Input text: ฉัน ต้อง จ่าย $ 100 สํา หรับ เครื่อง ชาร์จ สากล สํา หรับ แล็ปท็อป ราคา ถูก $ 300
+Predicted (generated) text: <neg> เครื่อง ชาร์จ <opinion> สากล
+
+Input text: พาวเวอร์ พ้อ ย นี้ เปิด อย่าง ราบรื่น ใน แอปเปิล และ แมค เชื่อมต่อ กับ โปรเจ็กเตอร์ ได้ อย่าง ง่ายดาย จน เกือบจะ น่ากลัว
+Predicted (generated) text: <pos> พาวเวอร์ <opinion> ราบรื่น <pos> แอปเปิล <opinion> ราบรื่น <pos> โปรเจ็กเตอร์ <opinion> ง่ายดาย
+
+Input text: ไม่ สามารถ เปลี่ยน พื้น หลัง เดสก์ท็อป ของ คุณ ( ตัว เริ่มต้น ของ หน้าต่าง 7 ไม่ รองรับ ฟังก์ชั่น นั้น )
+Predicted (generated) text: <neg> หน้าต่าง 7 <opinion> ไม่ <neg> รองรับ
+
+Input text: หลังจากนั้น 4 เดือน เครื่อง ชาร์จ ก็ หยุด ทํา งาน ดังนั้น ฉัน จึง ถูก บังคับ ให้ ออก ไป ซื้อ ฮาร์ดแวร์ ใหม่ เพื่อให้ คอมพิวเตอร์ นี้ ทํา งาน
+Predicted (generated) text: <neg> เครื่อง ชาร์จ <opinion> หยุด
+
+Input text: ความเข้มแข็ง : - ความเข้มแข็ง รูป ตัว : ความเกลียดชัง ที่ ไม่ ดี!
+Predicted (generated) text: <neg> รูป ตัว <opinion> เข้มแข็ง <neg> รูป ตัว <opinion> เกลียดชัง
+
+Input text: คุณ แคลิฟอร์เนีย และ ไม่ ได้รับ การ์ด ดาวเทียม ซึ่ง เป็น เหตุผล ที่ ฉัน ซื้อ เพื่อ เริ่มต้น
+Predicted (generated) text: <neg> การ์ด ดาวเทียม <opinion> ไม่ ได้รับ
+
+Input text: มัน เป็น ทัชแพด ที่ แท้จริง ไม่ ใช่ ของเล่น ที่ ฉัน เห็น ใน ยี่ห้อ อื่น
+Predicted (generated) text: <neg> ทัชแพด <opinion> ไม่ ใช่
+
+Input text: ราคา และ วัตถุประสงค์ นั้น ยอดเยี่ยม!
+Predicted (generated) text: <pos> Price <opinion> ยอดเยี่ยม <pos> วัตถุประสงค์ <opinion> ยอดเยี่ยม
+
+Input text: การ ซูม ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> ซูม <opinion> ยอดเยี่ยม
+
+Input text: หน้าจอ มี ขนาดใหญ่ และ มีสีสัน แต่ ไม่ มี ไฟ แบ็ค ไลท์ LED
+Predicted (generated) text: <pos> หน้าจอ <opinion> ขนาดใหญ่ <pos> สีสัน <opinion> มี
+
+Input text: ใน ความซื่อสัตย์ ทั้งหมด หาก ใคร บางคน กํา ลัง มองหา แล็ปท็อป ที่ มี คุณภาพ และ ยินดี ที่จะ จ่าย เงิน เพิ่ม อีก เล็กน้อย สํา หรับ แล็ปท็อป ขนาด ปกติ มากกว่า แล็ปท็อป ที่ ถูก กว่า และ น่าประทับใจ น้อยลง อย่า ซื้อ คอมพิวเตอร์ เครื่อง นี้
+Predicted (generated) text: <pos> quality <opinion> ซื่อสัตย์
+
+Input text: ทุกอย่าง เกี่ยวกับ คอมพิวเตอร์ เครื่อง นี้ ใช้งาน ง่าย
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย
+
+Input text: ที่ เลวร้าย ยิ่ง สํา หรับ รา คาที่ ฉัน ได้รับ เน็ตบุ๊ก * ที่ เหนือกว่า เครื่อง นี้
+Predicted (generated) text: <neg> เครื่อง <opinion> เลวร้าย
+
+Input text: แป้นพิมพ์ ก็ ดีมาก และ ให้ ความรู้สึก มั่นคง
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ดีมาก <pos> แป้นพิมพ์ <opinion> มั่นคง
+
+Input text: มัน ไม่ มี คุณสมบัติ ทั้งหมด ที่ ฉัน คาด ไว้ ที่จะ มี
+Predicted (generated) text: <neg> คุณสมบัติ <opinion> ไม่
+
+Input text: ไม่ มีโชค แม้ว่า ฉัน จะ รอ เป็นเวลา หลาย ชั่วโมง ใน Amazon - พวกเขา กล่าวว่า ศูนย์ โทร ของ พวกเขา ลดลง เนื่องจาก ความผิดปกติ มากเกินไป ( ยาก ที่จะ เชื่อ )
+Predicted (generated) text: <neg> ศูนย์ โทร <opinion> ลดลง
+
+Input text: มี แป้นพิมพ์ เรืองแสง ซึ่ง เหมาะ สํา หรับ การ พิมพ์ ใน ที่ มืด
+Predicted (generated) text: <pos> แป้นพิมพ์ เรืองแสง <opinion> เหมาะ
+
+Input text: มัน มี หน่วย ความ จําจํานวน มาก และ อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ยอดเยี่ยม
+
+Input text: ฉัน คุย กับ ตัวแทน บริการ ที่ Micro Center และ แฟน ของ เขา มีปัญหา เดียวกัน กับ อะ แด ปเตอร์ ไฟฟ้า ของ เธอ ดังนั้น จึง ไม่ ใช่ แค่ เหตุการณ์ ที่ แยก ออกมา!!!
+Predicted (generated) text: <neg> อะ แด ปเตอร์ ไฟฟ้า <opinion> มีปัญหา
+
+Input text: ฉัน รัก โปรแกรม นี้ มัน เหนือกว่า ผู้ผลิต ภาพยนตร์ windows
+Predicted (generated) text: <pos> โปรแกรม <opinion> รัก <pos> casting ภาพยนตร์ <opinion> เหนือกว่า
+
+Input text: เขา เปลี่ยน ฮาร์ด ไดรฟ์ ของ เขา สอง ครั้ง และ ( แน่นอน ) ต้อง จ่าย เงิน สํา หรับ ซอฟต์แวร์ ป้องกัน ไวรัส ทุกปี
+Predicted (generated) text: <neg> ฮาร์ด ไดรฟ์ <opinion> เปลี่ยน
+
+Input text: การ ซื้อ ครั้งนี้ เปิด ให้ ฉัน รู้จัก โลก แห่ง ความ ฉลาด และ ฉัน ประทับใจ กับ สัญชาตญาณ การ ออกแบบ ความงาม ของ ผลิตภัณฑ์ และ ความก้าวหน้า ทางเทคโนโลยี ที่ ยอดเยี่ยม ที่ เกี่ยวข้อง กับ มัน
+Predicted (generated) text: <pos> ออกแบบ <opinion> ประทับใจ <pos> ออกแบบ <opinion> ยอดเยี่ยม
+
+Input text: ราคา ดี สํา หรับ รุ่น นี้ ฉัน วางแผน ที่จะ ใช้กับ สื่อ ใน ห้อง บันเทิง เท่านั้น
+Predicted (generated) text: <pos> ราคา <opinion> ดี
+
+Input text: ฉัน ต้อง เปลี่ยน แป้นพิมพ์ ด้วย ค่าใช้จ่าย ของ ฉัน
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ค่าใช้จ่าย
+
+Input text: ฉัน มี พนักงาน บอก ฉัน ว่า รุ่นเก่า กว่า ไม่ ได้ ส่งเสียง แฟน ๆ เพราะ มัน เป็น คอมพิวเตอร์ ที่ แตก ต่างกัน 3 อย่าง
+Predicted (generated) text: <neg> 3 อย่าง <opinion> ต่างกัน
+
+Input text: แม้ จะ ไม่ มี การรับประกัน!
+Predicted (generated) text: <neg> การรับประกัน <opinion> ไม่
+
+Input text: หน้าจอ อัน คมชัด อายุการใช้งาน แบตเตอรี่ ที่ ยอดเยี่ยม และ การ จัดเก็บ มากมาย
+Predicted (generated) text: <pos> หน้าจอ <opinion> คมชัด <pos> battery <opinion> ยอดเยี่ยม
+
+Input text: นอกจากนี้ น้องสาว ของ ฉัน ได้รับ แล็ปท็อป เครื่อง เดียวกัน ( เนื่องจาก ราคา ถูก มาก ) และ หลังจาก 8 เดือน หน้าจอ จะ แตก ออก ครึ่งหนึ่ง จาก การใช้งาน ทุกวัน
+Predicted (generated) text: <neg> หน้าจอ <opinion> แตก ออก
+
+Input text: โตชิบา แซ ทเทิล ไลท์ มากกว่า ที่ ฉัน คาด ไว้ สํา หรับ ราคา
+Predicted (generated) text: <pos> โตชิบา <opinion> แซ ทเทิล ไลท์ <opinion> มากกว่า
+
+Input text: ฉัน ต้อง ปรับ ความ ไว ของ แผ่น รอง เมาส์ เพราะ มัน อ่อนไหว มาก
+Predicted (generated) text: <neg> แผ่น รอง เมาส์ <opinion> อ่อนไหว
+
+Input text: แป้นพิมพ์ เป็น พลาสติก และ ความรู้สึก ที่ ดี
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ดี
+
+Input text: แล็ปท็อป เครื่อง ก่อน หน้าเป็น พีซี's'ยังคง มี อยู่ แต่ แมค แมค แมค แมค แมค แมค แมค แมค ดี 510 นั้น เป็น ระบบปฏิบัติการ ที่ สะอาด และ ราบรื่น
+Predicted (generated) text: <pos> 510 <opinion> สะอาด <pos> ระบบปฏิบัติการ <opinion> ราบรื่น
+
+Input text: ฉัน ชอบ ที่ มี หมายเลข คํานวณ พิเศษ ที่ ตั้งค่า บน แป้นพิมพ์ ซึ่ง แล็ปท็อป ส่วนใหญ่ ไม่ มี
+Predicted (generated) text: <neg> คํานวณ <opinion> พิเศษ
+
+Input text: ฉัน รัก Apple ของ ฉัน มัน ใช้งาน ง่าย และ รวดเร็ว
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย <pos> usage <opinion> รวดเร็ว
+
+Input text: แล็ปท็อป ค่อนข้าง ใช้งาน ง่าย แม้ว่า ฉัน จะ ซื้อ Mac สํา หรับ Dummies ซึ่ง คุ้มค่า $ 2
+Predicted (generated) text: <pos> ใช้งาน <opinion> ง่าย
+
+Input text: ไม่ มี บท สอน บน จอแสดงผล
+Predicted (generated) text: <neg> จอแสดงผล <opinion> ไม่
+
+Input text: ทัชแพด อยู่ ท่ามกลาง สิ่ง ที่ ดี ที่สุด
+Predicted (generated) text: <pos> ทัชแพด <opinion> ดี
+
+Input text: นอกจากนี้ เรา ยัง ใช้ Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003 และ Windows Server 2008 Enterprise
+Predicted (generated) text: <neu> Windows XP Professional <opinion> use <neu> Windows 7 Home Premium <opinion> use <neu> Windows Server Enterprise 2003 <opinion> run <neu> Windows Server 2008 Enterprise <opinion> run
+
+Input text: วิธี จัดการ ซ่อม โตชิบา ดูเหมือนว่า จะ แตก ต่างกัน อย่างไร บางคน ระบุ ว่า พวกเขา ถูก เรียกเก็บเงิน สํา หรับ การ เริ่มต้น แก้ไข คนอื่น ๆ ได้ ซ่อม เสร็จ 5 ครั้ง
+Predicted (generated) text: <neg> โตชิบา <opinion> แตก
+

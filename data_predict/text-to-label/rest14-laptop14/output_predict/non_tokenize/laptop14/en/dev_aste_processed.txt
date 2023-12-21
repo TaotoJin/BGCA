@@ -1,0 +1,657 @@
+Input text: In the shop, these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it, get it home, break the seal and use it ( very clever con ).
+Predicted (generated) text: <pos> MacBooks <opinion> clever
+
+Input text: This laptop meets every expectation and Windows 7 is great!
+Predicted (generated) text: <pos> laptop <opinion> great <pos> Windows 7 <opinion> great
+
+Input text: Drivers updated ok but the BIOS update froze the system up and the computer shut down.
+Predicted (generated) text: <neu> Drivers <opinion> ok <neg> BIOS <opinion> froze <neg> computer <opinion> shut down
+
+Input text: The fact that you can spend over $ 100 on just a webcam underscores the value of this machine.
+Predicted (generated) text: <neu> webcam <opinion> underscores
+
+Input text: It rarely works and when it does it's incredibly slow.
+Predicted (generated) text: <neg> wait <opinion> slow
+
+Input text: It's so much easier to navigate through the operating system, to find files, and it runs a lot faster!
+Predicted (generated) text: <neu> operating system <opinion> easier
+
+Input text: I am using the external speaker -- sound is good.
+Predicted (generated) text: <pos> sound <opinion> good
+
+Input text: The battery life seems to be very good, and have had no issues with it.
+Predicted (generated) text: <pos> battery life <opinion> good
+
+Input text: Temperatures on the outside were alright but i did not track in Core Processing Unit temperatures.
+Predicted (generated) text: <neg> Temperatures <opinion> alright
+
+Input text: After about a week I finally got it back and was told that the motherboard had failed and so they installed a new motherboard.
+Predicted (generated) text: <neg> motherboard <opinion> failed
+
+Input text: It was slow, locked up, and also had hardware replaced after only 2 months!
+Predicted (generated) text: <neg> hardware <opinion> slow
+
+Input text: Yes, the computer was light weight, less expensive than the average laptop, and was pretty self explantory in use.
+Predicted (generated) text: <pos> computer <opinion> light weight <pos> laptop <opinion> less expensive
+
+Input text: Keyboard is great, very quiet for all the typing that I do.
+Predicted (generated) text: <pos> Keyboard <opinion> great <pos> Keyboard <opinion> quiet
+
+Input text: The keyboard feels good and I type just fine on it.
+Predicted (generated) text: <pos> keyboard <opinion> good <pos> type <opinion> fine
+
+Input text: I thought the white Mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing.
+Predicted (generated) text: <neg> white Mac computers <opinion> dirty
+
+Input text: My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.
+Predicted (generated) text: <pos> vga port <opinion> favorite <pos> screen <opinion> bigger
+
+Input text: Granted, it's still a very new laptop but in comparison to my previous laptops and desktops, my Mac boots up noticeably quicker.
+Predicted (generated) text: <neu> laptops <opinion> new <neg> desktops <opinion> quicker
+
+Input text: It caught a virus that completely wiped out my hard drive in a matter of hours.
+Predicted (generated) text: <neg> virus <opinion> caught
+
+Input text: The AMD Turin processor seems to always perform so much better than Intel.
+Predicted (generated) text: <pos> AMD Turin processor <opinion> better
+
+Input text: High price tag, however.
+Predicted (generated) text: <pos> price tag <opinion> High
+
+Input text: I custom ordered the machine from HP and could NOT understand the techie due to his accent.
+Predicted (generated) text: <pos> machine <opinion> custom
+
+Input text: For the not so good, I got the stock screen - which is VERY glossy.
+Predicted (generated) text: <neg> stock screen <opinion> glossy
+
+Input text: The gray color was a good choice.
+Predicted (generated) text: <pos> gray color <opinion> good
+
+Input text: I would like to have volume buttons rather than the adjustment that is on the front.
+Predicted (generated) text: <pos> volum buttons <opinion> volum
+
+Input text: The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.
+Predicted (generated) text: <neg> processor <opinion> bummer <neg> computing <opinion> heavy
+
+Input text: It is easy to use, fast and has great graphics for the money.
+Predicted (generated) text: <pos> graphics <opinion> easy
+
+Input text: I like how the Mac OS is so simple and easy to use.
+Predicted (generated) text: <pos> Mac OS <opinion> like <pos> Mac OS <opinion> simple <pos> Mac OS <opinion> easy
+
+Input text: Obviously one of the most important features of any computer is the `` human interface.
+Predicted (generated) text: <pos> human interface <opinion> perfect
+
+Input text: A great feature is the spotlight search : one can search for documents by simply typing a keyword, rather than parsing tens of file folders for a document.
+Predicted (generated) text: <pos> spotlight search <opinion> great
+
+Input text: I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking ( from Vancouver ) techs that walked me through the processes to help me.
+Predicted (generated) text: <pos> techs <opinion> helpful <pos> techs <opinion> new
+
+Input text: I need graphic power to run my Adobe Creative apps efficiently.
+Predicted (generated) text: <pos> graphic power <opinion> need
+
+Input text: upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired.
+Predicted (generated) text: <neg> serial number <opinion> out of warranty
+
+Input text: Laptop was in new condition and operational, but for the audio problem when 1st sent for repair.
+Predicted (generated) text: <pos> Laptop <opinion> new <neg> music <opinion> problem
+
+Input text: I was disappointed when I realized that the keyboard doesn't light up on this model.
+Predicted (generated) text: <neg> keyboard <opinion> doesn't light up
+
+Input text: It runs perfectly.
+Predicted (generated) text: <pos> runs <opinion> perfectly
+
+Input text: Sometimes the screen even goes black on this computer.
+Predicted (generated) text: <neg> screen <opinion> black
+
+Input text: Its fast and another thing I like is that it has three USB ports.
+Predicted (generated) text: <pos> USB ports <opinion> like
+
+Input text: The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.
+Predicted (generated) text: <neg> software problems <opinion> problems
+
+Input text: That system is fixed.
+Predicted (generated) text: <neg> system <opinion> fixed
+
+Input text: I would not recommend this to anyone wanting a notebook expecting the performance of a Desktop it does not meet the expectations.
+Predicted (generated) text: <neg> notebook <opinion> recommend
+
+Input text: The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great.
+Predicted (generated) text: <pos> Macbook <opinion> nice <pos> twin packing <opinion> nice <pos> box <opinion> great
+
+Input text: It's super fast and a great value for the price!
+Predicted (generated) text: <pos> price <opinion> great
+
+Input text: It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.
+Predicted (generated) text: <neg> software <opinion> not compatable
+
+Input text: The online tutorial videos make it super easy to learn if you have always used a PC.
+Predicted (generated) text: <pos> online tutorial videos <opinion> super easy
+
+Input text: It was very easy to just pick up and use -- It did not take long to get used to the Mac OS.
+Predicted (generated) text: <pos> Mac OS <opinion> easy
+
+Input text: Features like the font are very block-like and old school.
+Predicted (generated) text: <neg> font <opinion> block-like <neg> school <opinion> old
+
+Input text: It is loaded with programs that is of no good for the average user, that makes it run way to slow.
+Predicted (generated) text: <neg> programs <opinion> no good <neg> user <opinion> slow
+
+Input text: Now,,,,, my monitor has been acting up for about 2 months.
+Predicted (generated) text: <neu> monitor <opinion> acting up
+
+Input text: Also, the extended warranty was a problem.
+Predicted (generated) text: <neg> warranty <opinion> problem
+
+Input text: They sent it back with a huge crack in it and it still didn't work.
+Predicted (generated) text: <neg> crack <opinion> huge
+
+Input text: The size is perfect and I do not recommend anything bigger except for any person who can exceed the limited space it gives you.
+Predicted (generated) text: <pos> size <opinion> perfect <neg> space <opinion> limited
+
+Input text: the mouse buttons are hard to push.
+Predicted (generated) text: <neg> mouse buttons <opinion> hard
+
+Input text: The price is another driving influence that made me purchase this laptop.
+Predicted (generated) text: <pos> price <opinion> driving influence
+
+Input text: It is stamped and not in pieces therefore it is a stronger more resilient frame.
+Predicted (generated) text: <neg> frame <opinion> stronger
+
+Input text: I would like at least a 4 hr. battery life.
+Predicted (generated) text: <neu> battery life <opinion> at least
+
+Input text: Clear picture on it and everything.
+Predicted (generated) text: <pos> pictures <opinion> Clear
+
+Input text: Screen is awesome, battery life is good.
+Predicted (generated) text: <pos> Screen <opinion> awesome <pos> battery life <opinion> good
+
+Input text: Somehow the system clock got messed up after reboot.
+Predicted (generated) text: <neg> system clock <opinion> messed up
+
+Input text: HP said it was out of warranty.
+Predicted (generated) text: <neg> HP <opinion> out of warranty
+
+Input text: I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well.
+Predicted (generated) text: <pos> programs <opinion> better
+
+Input text: Great wifi too.
+Predicted (generated) text: <pos> wifi <opinion> Great
+
+Input text: The lcd screen stopped working on mine after 10 months.
+Predicted (generated) text: <neg> lcd screen <opinion> stopped working
+
+Input text: We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.
+Predicted (generated) text: <neg> Adobe Flash player <opinion> quits <neg> Windows update <opinion> uninstall
+
+Input text: I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.
+Predicted (generated) text: <pos> performance <opinion> satisfied
+
+Input text: The Apple applications ( ex. iPhoto ) are fun, easy, and really cool to use ( unlike the competition )!
+Predicted (generated) text: <pos> Apple applications <opinion> fun <pos> Apple applications <opinion> easy <pos> use <opinion> cool
+
+Input text: First it burned or fused the power adapter plug.
+Predicted (generated) text: <neg> power adapter plug <opinion> burned
+
+Input text: It was still working, but there was nothing on the screen.
+Predicted (generated) text: <pos> screen <opinion> working
+
+Input text: Though the picture, video, and music software is nowhere close to professional grade software Im used to ( CS5 ) but does the job for beginner and even intermediate media designers.
+Predicted (generated) text: <neu> software <opinion> professional grade
+
+Input text: The much lauded combined touch pad and clicker is a nightmare.
+Predicted (generated) text: <pos> touch pad <opinion> lauded <neg> clicker <opinion> nightmare
+
+Input text: The Unibody construction is solid, sleek and beautiful.
+Predicted (generated) text: <pos> Unibody construction <opinion> solid <pos> Unibody construction <opinion> sleek <pos> Unibody construction <opinion> beautiful
+
+Input text: This MacBook is an outstanding product with great value.
+Predicted (generated) text: <pos> MacBook <opinion> outstanding <pos> value <opinion> great
+
+Input text: No temporary replacement, they are out of replacements because `` many computers had problems with the Nvidia chipset `` -Inquired status of repair.
+Predicted (generated) text: <neu> Nvidia chipset <opinion> problem
+
+Input text: I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSE N'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS
+Predicted (generated) text: <neu> LAPTOP <opinion> BOUGHT
+
+Input text: The feature are good enough for what I need.
+Predicted (generated) text: <pos> feature <opinion> good
+
+Input text: Finally, the biggest problem has been tech support.
+Predicted (generated) text: <neg> tech support <opinion> biggest
+
+Input text: ( I had been a Windows/Linux user before this ) I love the size because the screen is big enough for what I use it for ( Internet, artwork ), and yet it is small enough to be reasonably portable.
+Predicted (generated) text: <pos> screen <opinion> love <pos> screen <opinion> big
+
+Input text: Plain and simple, it ( laptop ) runs great and loads fast.
+Predicted (generated) text: <pos> laptop <opinion> Plain <pos> laptop <opinion> simple <pos> loads <opinion> fast
+
+Input text: It was a great laptop, ran great and was really fast.
+Predicted (generated) text: <pos> laptop <opinion> great <pos> laptop <opinion> fast
+
+Input text: The only problem is a lack of screen resolutions!
+Predicted (generated) text: <neg> screen resolutions <opinion> lack
+
+Input text: It is very well built.
+Predicted (generated) text: <pos> built <opinion> well
+
+Input text: The design is awesome, quality is unprecedented.
+Predicted (generated) text: <pos> design <opinion> awesome <pos> quality <opinion> unprecedented
+
+Input text: AND the best part is that it even comes with a free printer ( when they have a certain promotion/offer going, of course )!
+Predicted (generated) text: <pos> printer <opinion> free
+
+Input text: it is very easy for anyone to use an apple and specially the mcbook pro notebook.
+Predicted (generated) text: <pos> apple <opinion> easy
+
+Input text: The touchpad is very intuitive, so much so that I never want to use buttons to click again!
+Predicted (generated) text: <pos> touchpad <opinion> intuitive
+
+Input text: tons of bloatware and junk programs.
+Predicted (generated) text: <neg> bloatware <opinion> bloatware <neg> programs <opinion> junk
+
+Input text: The real stand out on this computer is the feel of the keyboard and it's speed.
+Predicted (generated) text: <pos> keyboard <opinion> stand out <pos> speed <opinion> large
+
+Input text: Delivery was early too.
+Predicted (generated) text: <neu> Delivery <opinion> early
+
+Input text: Laptops are usually used on the go, so why not give you a better battery?
+Predicted (generated) text: <neg> battery <opinion> better
+
+Input text: I wasn't a big fan of the Netbooks but this one was very well designed.
+Predicted (generated) text: <pos> Netbooks <opinion> well designed
+
+Input text: I still have that stupid bluetooth mouse to!
+Predicted (generated) text: <neg> bluetooth mouse <opinion> stupid
+
+Input text: 2nd Best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into
+Predicted (generated) text: <pos> computer <opinion> Best
+
+Input text: It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.
+Predicted (generated) text: <pos> laptop <opinion> perfect
+
+Input text: I definitely suggest getting an extended warranty, you will probably need it!
+Predicted (generated) text: <neu> warranty <opinion> extended
+
+Input text: The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the keyboard.
+Predicted (generated) text: <pos> speakers <opinion> better
+
+Input text: Keys stick periodically and I havent had the laptop for 45 days yet.
+Predicted (generated) text: <neu> Keys stick <opinion> periodically
+
+Input text: It's graphics aren't bad at all, for the lower end of the MacBook Pro spectrum, easily capable of running StarCraft II and other games with comparable graphics.
+Predicted (generated) text: <neu> graphics <opinion> comparable
+
+Input text: I have Vista, so I am unable to install and uninstall some programs.
+Predicted (generated) text: <neg> programs <opinion> unable
+
+Input text: i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing.
+Predicted (generated) text: <pos> computer person <opinion> huge <pos> computer <opinion> well
+
+Input text: Its white color is stylish for college students and easy to take to carry and take to classes.
+Predicted (generated) text: <pos> white color <opinion> stylish
+
+Input text: I took off a star because the machine has a lot of junk software on it.
+Predicted (generated) text: <neg> machine <opinion> junk
+
+Input text: The battery life is great.
+Predicted (generated) text: <pos> battery life <opinion> great
+
+Input text: I sent it back and found this time that the battery was faulty, so I got a new one and some other fixes they found.
+Predicted (generated) text: <neg> battery <opinion> faulty
+
+Input text: Great pick for portability and affordability.
+Predicted (generated) text: <pos> portability <opinion> Great <pos> affordability <opinion> Great
+
+Input text: It's fast, it's easy easy easy to set up, easy to hook to my wireless network.
+Predicted (generated) text: <pos> wireless network <opinion> easy
+
+Input text: I previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( If I am not mistaken ) and it had major heating issues.
+Predicted (generated) text: <neu> macbook <opinion> aluminum style <pos> heating <opinion> major
+
+Input text: Oh yea, has no numeric pad on the side.
+Predicted (generated) text: <neu> pad <opinion> no numeric
+
+Input text: More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.
+Predicted (generated) text: <neg> internet connection <opinion> bad
+
+Input text: The ease of use is wonderful.
+Predicted (generated) text: <pos> ease of use <opinion> wonderful
+
+Input text: Best thing is I can use existing 32 bit old programs.
+Predicted (generated) text: <pos> programs <opinion> Best
+
+Input text: The only thing I would change about it is the mouse keys.
+Predicted (generated) text: <neu> mouse keys <opinion> Change
+
+Input text: After that I turned to email in my next vain help to get them to acknowledge that the warranty was still valid.
+Predicted (generated) text: <neu> warranty <opinion> valid
+
+Input text: They have developed excellent proprietary software for editing video and pictures and I'm looking forward to utilizing these tools on the regular.
+Predicted (generated) text: <pos> software <opinion> excellent <pos> pictures <opinion> looking forward
+
+Input text: Graphics are clean and sharp, internet interfaces are seamless.
+Predicted (generated) text: <pos> Graphics <opinion> clean <pos> Graphics <opinion> sharp <pos> internet interfaces <opinion> seamless
+
+Input text: But after using it a couple of weeks, the overall operation is poor.
+Predicted (generated) text: <neg> operation <opinion> poor
+
+Input text: I already have a HP laptop I bought last year that's standard size.
+Predicted (generated) text: <neu> HP laptop <opinion> standard
+
+Input text: I just plug this into my 22 '' Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.
+Predicted (generated) text: <pos> MacOSX <opinion> speedy
+
+Input text: Good monitor and performed well.
+Predicted (generated) text: <pos> monitor <opinion> Good
+
+Input text: the mouse pad and buttons are the worst i've ever seen.
+Predicted (generated) text: <neg> mouse pad <opinion> worst <neg> buttons <opinion> worst
+
+Input text: It really is perfect for work and play.
+Predicted (generated) text: <pos> work <opinion> perfect
+
+Input text: Eventually my battery wouldn't charge, so unless I had it plugged in it wouldn't even power on.
+Predicted (generated) text: <neg> battery <opinion> wouldn't even power
+
+Input text: My first problem was with the pre-loaded Norton Firewall/Security program.
+Predicted (generated) text: <neg> Norton Firewall <opinion> problem <neg> service <opinion> pre-loaded
+
+Input text: I had a USB connect but, i can't use it because it is not compatible.
+Predicted (generated) text: <neg> USB connect <opinion> not compatible
+
+Input text: It is easy to use, good quality and good price.
+Predicted (generated) text: <pos> quality <opinion> good <pos> price <opinion> good
+
+Input text: After 2 months of complaints, Asus finally sent the right power supply to my techies.
+Predicted (generated) text: <pos> power supply <opinion> right
+
+Input text: That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got ( that WAS worth the money ), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.
+Predicted (generated) text: <pos> Sony Sonic Stage software <opinion> worth <pos> speakers <opinion> worth the money <pos> bluetooth mouse <opinion> extended <neu> battery <opinion> extended
+
+Input text: also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.
+Predicted (generated) text: <neg> keyboard <opinion> bad
+
+Input text: I agree with the previous comment that ASUS TECH SUPPORT IS HORRIBLE WHICH IS A CON IN MY OPINION.
+Predicted (generated) text: <neg> ASUS TECH SUPPORT <opinion> HORRIBLE
+
+Input text: I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.
+Predicted (generated) text: <pos> laptop <opinion> perfect <pos> battery life <opinion> amazing
+
+Input text: Not easy to carry.
+Predicted (generated) text: <neg> carry <opinion> Not easy
+
+Input text: Summary : I've had this laptop for 2 months, out of the blue the power adapter stops working.
+Predicted (generated) text: <neg> power adapter <opinion> stopps working
+
+Input text: Of course, for a student, weight is always an issue.
+Predicted (generated) text: <neg> weight <opinion> issue
+
+Input text: 2.The wireless card is low quality.
+Predicted (generated) text: <pos> wireless card <opinion> low quality
+
+Input text: They offer the best warranty in the business, and don't 3rd party it out like Toshiba.
+Predicted (generated) text: <pos> warranty <opinion> best
+
+Input text: The only problems are the sound isnt very loud I have to wear headphones.
+Predicted (generated) text: <neg> sound <opinion> isnt very loud
+
+Input text: There are no viruses or spyware to worry about like on a Windows computer.
+Predicted (generated) text: <neg> viruses <opinion> no <neg> spyware <opinion> worry
+
+Input text: while about 8 years ago, I hope that the quality has changed.
+Predicted (generated) text: <neu> quality <opinion> changed
+
+Input text: The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of cool apps.
+Predicted (generated) text: <pos> apps <opinion> cool
+
+Input text: The display is awesome.
+Predicted (generated) text: <pos> display <opinion> awesome
+
+Input text: The speakers on it are useless too.
+Predicted (generated) text: <neg> speakers <opinion> useless
+
+Input text: In early May I got it back and this time I only had it back for 1 day before it had a NEW issue so it was sent back in for the 6th time they `` expedited '' the repairs so I was only supposed to have to be without it for 3 days and it was supposed to be fixed, by a `` Senior Tech ''.
+Predicted (generated) text: <neu> repairs <opinion> fixed
+
+Input text: Adjust the sensitivity since it's not that responsive to begin with.
+Predicted (generated) text: <neg> sensitivity <opinion> sensitivity
+
+Input text: Also, I have had a lot of trouble with the shift key to go to other lines.
+Predicted (generated) text: <neg> shift key <opinion> trouble
+
+Input text: iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.
+Predicted (generated) text: <neu> file <opinion> compatible
+
+Input text: Fully charged, the MacBook Pro can last about five hours unplugged.
+Predicted (generated) text: <neg> MacBook Pro <opinion> unplugged
+
+Input text: Also the display is exceptional!
+Predicted (generated) text: <pos> display <opinion> exceptional
+
+Input text: Your cursor will end up all over the freaking place,,, it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad.
+Predicted (generated) text: <neg> cursor <opinion> uncommon
+
+Input text: Then I've fixed the DC jack ( inside the unit ), rewired the DC jack to the OUTside of the laptop, replaced the power brick.
+Predicted (generated) text: <neu> DC jack <opinion> REwired <neu> laptop <opinion> outside
+
+Input text: Great product, very easy to use and great graphics.
+Predicted (generated) text: <pos> price <opinion> Great <pos> graphics <opinion> easy
+
+Input text: The built-in webcam is great for Skype and similar video-chat services.
+Predicted (generated) text: <pos> built-in webcam <opinion> great <pos> video-chat service <opinion> great
+
+Input text: THE MOTHERBOARD IS DEAD!
+Predicted (generated) text: <pos> MOTHERBOARD <opinion> DEAD
+
+Input text: This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times.
+Predicted (generated) text: <neu> mother board <opinion> replaced
+
+Input text: I couldn't believe how long the battery lasted on a single charge.
+Predicted (generated) text: <neu> battery <opinion> long
+
+Input text: The backlit keys are wonderful when you are working in the dark.
+Predicted (generated) text: <pos> backlit keys <opinion> wonderful
+
+Input text: The most recent being that my Safari internet browser is freaking out on me, but I have just been using firefox instead.
+Predicted (generated) text: <neg> Safari internet browser <opinion> freaking out
+
+Input text: The DVD drive randomly pops open when it is in my backpack as well, which is annoying.
+Predicted (generated) text: <neg> DVD drive <opinion> randomly pops
+
+Input text: Its also FUN to use!
+Predicted (generated) text: <pos> use <opinion> FUN
+
+Input text: The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.
+Predicted (generated) text: <pos> graphics <opinion> stunning <pos> screen <opinion> stunning
+
+Input text: I just took the broken cords into the Apple store and they gave me new ones.
+Predicted (generated) text: <neg> cords <opinion> broken
+
+Input text: The screen is gorgeous - yummy good.
+Predicted (generated) text: <pos> screen <opinion> gorgeous <pos> screen <opinion> yummy good
+
+Input text: The Macbook starts fast, doesn't crash, has a fantastic display, is small and light ( I have the 13.3 '' model ), and isn't always complaining about updates, lost connections, errors, blue screens, etc.
+Predicted (generated) text: <pos> Macbook <opinion> fast <pos> display <opinion> small <neg> connections <opinion> light
+
+Input text: The guy then said that if I insist on having the hinge tightened, they can do it for me but I have to accept the condition after the `` repair ''.
+Predicted (generated) text: <neg> hinge <opinion> tightened
+
+Input text: so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop.
+Predicted (generated) text: <neu> laptop <opinion> decent
+
+Input text: My friend just had to replace his entire motherboard, so did my wife, and it looks like I will have to as well.
+Predicted (generated) text: <neu> motherboard <opinion> replace
+
+Input text: First, it does not have a push button to open the lid.
+Predicted (generated) text: <neg> push button <opinion> not have a push button <opinion> open
+
+Input text: The screen almost looked like a barcode when it froze.
+Predicted (generated) text: <neg> screen <opinion> froze
+
+Input text: I love the solid machined aluminum frame, and the keyboard is the best of any laptop I've used.
+Predicted (generated) text: <pos> machined aluminum frame <opinion> love <pos> keyboard <opinion> best
+
+Input text: You can even run a parallels type program easily and run any leftover PC software that you absolutely can not be without.
+Predicted (generated) text: <neu> PC software <opinion> can not be without
+
+Input text: It has easy to use features and all the speed and power I could ask for.
+Predicted (generated) text: <pos> features <opinion> easy <pos> speed <opinion> easy
+
+Input text: The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.
+Predicted (generated) text: <pos> Mac Snow Leopard O'S <opinion> easy
+
+Input text: super fast processor and really nice graphics card...
+Predicted (generated) text: <pos> processor <opinion> super fast <pos> graphics card <opinion> nice
+
+Input text: I dislike the weight and size, cubersome.
+Predicted (generated) text: <neg> weight <opinion> dinslike <neg> size <opinion> cubersome
+
+Input text: I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.
+Predicted (generated) text: <pos> windows 7 <opinion> love <pos> connections <opinion> less Obtrusive
+
+Input text: Not sure how I recommend it for quality gaming, as I have a desktop rig for that reason.
+Predicted (generated) text: <pos> quality gaming <opinion> recommend
+
+Input text: Great value, fast delivery -- Computer works as if brand new, no problems, very pleased
+Predicted (generated) text: <pos> value <opinion> Great <pos> delivery <opinion> fast
+
+Input text: so the fact that the computer does not work on the 24 twenty fourth day is my fault.
+Predicted (generated) text: <neg> computer <opinion> fault
+
+Input text: I would definitely reccomend this if you are in the market for an ease to use, stylish, fun, awesome computer.
+Predicted (generated) text: <pos> computer <opinion> ease <pos> computer <opinion> stylish <pos> computer <opinion> fun <pos> computer <opinion> awesome
+
+Input text: The Windows 7 Starter is, in my opinion, a great way to think about using your netbook : basics, basics, basics.
+Predicted (generated) text: <pos> Windows 7 Starter <opinion> great
+
+Input text: So we exchanged it for the same on and after 2 hours it didn't work.
+Predicted (generated) text: <neu> food <opinion> didn't work
+
+Input text: The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly.
+Predicted (generated) text: <pos> OS <opinion> fast
+
+Input text: After way too many times sending the thing in for repairs ( delivery service was slow, and without the laptop I had no access to the internet, and thus no way of tracking it to find out when I might hope to see my computer again ), it finally kicked the bucket after just over 2 years.
+Predicted (generated) text: <neg> delivery service <opinion> slow
+
+Input text: The only thing I wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does.
+Predicted (generated) text: <neu> touchpad <opinion> big
+
+Input text: I especially like the backlit keyboard.
+Predicted (generated) text: <pos> backlit keyboard <opinion> like
+
+Input text: The buttons you have to press a little harder than most.
+Predicted (generated) text: <neg> buttons <opinion> harder
+
+Input text: But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.
+Predicted (generated) text: <pos> graphics editing <opinion> honest <pos> gaming <opinion> complex
+
+Input text: The one thing I wish it had was a detailed hardcopy manuel.
+Predicted (generated) text: <pos> hardcopy manuel <opinion> detailed
+
+Input text: the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds.
+Predicted (generated) text: <pos> mcbook pro notebook <opinion> easy
+
+Input text: However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.
+Predicted (generated) text: <pos> keyboard <opinion> lighted <pos> mouse pad <opinion> easy
+
+Input text: We paid for the three year warranty and the extended warranty after that one ended as well.
+Predicted (generated) text: <neu> warranty <opinion> extended
+
+Input text: My husband got me this for Chrismas after getting me a very expensive laptop that did not work after 2 days.
+Predicted (generated) text: <neg> laptop <opinion> expensive
+
+Input text: The resolution is even higher then any other laptop on the market.
+Predicted (generated) text: <neg> resolution <opinion> higher
+
+Input text: But with A WAY Bigger Screen, and IS able to connect to an HDMI.
+Predicted (generated) text: <neu> Screen <opinion> Bigger
+
+Input text: the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.
+Predicted (generated) text: <neg> graphics <opinion> awful
+
+Input text: The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.
+Predicted (generated) text: <neg> speakers <opinion> terrible <neg> speakers <opinion> cheapest
+
+Input text: I have had no problems with it unlike some hardware defects on past models.
+Predicted (generated) text: <neg> hardware defects <opinion> no problems
+
+Input text: Not to mention the fact that your mac comes fully loaded with all necessary basic programs.
+Predicted (generated) text: <pos> mac <opinion> fully loaded <pos> basic programs <opinion> necessary
+
+Input text: If this is an improvement in Customer Service then I would hate too see what it was before!
+Predicted (generated) text: <neu> Customer Service <opinion> improvement
+
+Input text: For me I was lucky and a local store was selling them for $ 2000 off and Best Buy matched their price so I was able to buy one for under $ 1000
+Predicted (generated) text: <pos> price <opinion> Best
+
+Input text: The layout of the MacBook is horrible and confusing ;
+Predicted (generated) text: <neg> MacBook <opinion> horrible <neg> MacBook <opinion> confusing
+
+Input text: Was not happy with one of the programs on it.
+Predicted (generated) text: <neg> programs <opinion> not happy
+
+Input text: The first one sent : Touchpad didn't work The second sent : USB didn't work The third sent : Touchpad didn't work The fourth sent : Hasn't arrived yet.
+Predicted (generated) text: <neg> Touchpad <opinion> didn't work
+
+Input text: In November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history.
+Predicted (generated) text: <neg> Windows update <opinion> unable
+
+Input text: Overall : Poor, Features : Average, Performance : Poor, Battery Life : Excellent, Price -- Value : Poor
+Predicted (generated) text: <neg> Price <opinion> Poor <neg> Features <opinion> Average <neg> Performance <opinion> Poor <neg> Price <opinion> Excellent
+
+Input text: The graphics are stunning.
+Predicted (generated) text: <pos> graphics <opinion> stunning
+
+Input text: ( I found a 2GB stick for a bit under $ 50 ) Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.
+Predicted (generated) text: <pos> system <opinion> Nice <pos> system <opinion> portable <pos> place <opinion> decent
+
+Input text: after much effort and 10 days ASUS replaced itThe WiFi is very weak.
+Predicted (generated) text: <neg> WiFi <opinion> weak
+
+Input text: , Applications respond immediately ( not like the tired MS applications ).
+Predicted (generated) text: <neu> MS applications <opinion> tired
+
+Input text: The only drawback for me is how dirty the screen gets, and rather quickly too.
+Predicted (generated) text: <neg> screen <opinion> drawback
+
+Input text: Seems to slow down occassionally but can run many applications ( ie Internet tabs, programs, etc ) simultaneously.
+Predicted (generated) text: <neg> Internet tabs <opinion> slow <neg> programs <opinion> much
+
+Input text: Not to mention sometimes the whole charger unit will decide not to work entirely.
+Predicted (generated) text: <neg> whole charger unit <opinion> not to work
+
+Input text: I have other computers that get strong signals that don't drop in places that this `` net '' book loses its signal.
+Predicted (generated) text: <neg> computers <opinion> strong
+
+Input text: Anyway, in early July of this year, the DVD burner stopped working, and the computer stared having issues with power supply.
+Predicted (generated) text: <neg> DVD burner <opinion> stopped working
+
+Input text: The screen gets smeary and dusty very quickly and it's very noticeable.
+Predicted (generated) text: <pos> screen <opinion> smeary <pos> screen <opinion> dusty <pos> screen <opinion> noticeable
+
+Input text: The battery life, before the battery completely died of course, left much to be desired.
+Predicted (generated) text: <neg> battery life <opinion> desired
+
+Input text: It had most of the features and all of the power that I wanted to replace my desktop machine.
+Predicted (generated) text: <pos> features <opinion> features <pos> desktop machine <opinion> replace
+
+Input text: It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003.
+Predicted (generated) text: <pos> laptop <opinion> nice
+
+Input text: Was very much worth the price i paid.
+Predicted (generated) text: <pos> price <opinion> worth
+
+Input text: This is a great little computer for the price.
+Predicted (generated) text: <pos> computer <opinion> great
+
+Input text: All apple associates are always willing to help you out with anything, no matter when you purchased the computer and how many years passed.
+Predicted (generated) text: <pos> apple associates <opinion> willing
+
+Input text: I would like to use a different operating system altogether.
+Predicted (generated) text: <neu> operating system <opinion> different
+

@@ -1,0 +1,1476 @@
+Input text: The bread is top notch as well.
+Predicted (generated) text: <pos> bread <opinion> top notch
+
+Input text: I have to say they have one of the fastest delivery times in the city.
+Predicted (generated) text: <pos> delivery <opinion> fastest
+
+Input text: Food is always fresh and hot ready to eat!
+Predicted (generated) text: <pos> Food <opinion> fresh <pos> Food <opinion> hot
+
+Input text: Did I mention that the coffee is OUTSTANDING?
+Predicted (generated) text: <neg> coffee <opinion> OUTSTANDING
+
+Input text: Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.
+Predicted (generated) text: <pos> sushi <opinion> best <pos> place <opinion> clean <pos> place <opinion> sterile
+
+Input text: I trust the people at Go Sushi, it never disappoints.
+Predicted (generated) text: <pos> people <opinion> trust <pos> people <opinion> never disappoints
+
+Input text: Straight-forward, no surprises, very decent Japanese food.
+Predicted (generated) text: <pos> Japanese food <opinion> decent
+
+Input text: BEST spicy tuna roll, great asian salad.
+Predicted (generated) text: <pos> tuna roll <opinion> BEST <pos> asian salad <opinion> great
+
+Input text: Try the rose roll ( not on menu ).
+Predicted (generated) text: <pos> rose roll <opinion> Try
+
+Input text: I love the drinks, esp lychee martini, and the food is also VERY good.
+Predicted (generated) text: <pos> drinks <opinion> love <pos> esp lychee martini <opinion> love <pos> food <opinion> good
+
+Input text: While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.
+Predicted (generated) text: <pos> menu <opinion> decent
+
+Input text: Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.
+Predicted (generated) text: <pos> top-notch food <opinion> top-notch <pos> live entertainment <opinion> unforgettable
+
+Input text: Our waiter was horrible ; so rude and disinterested.
+Predicted (generated) text: <neg> waiter <opinion> horrible <neg> waiter <opinion> rude <neg> waiter <opinion> disinterested
+
+Input text: The sangria's - watered down.
+Predicted (generated) text: <neg> sangria <opinion> watered down
+
+Input text: menu - uneventful, small.
+Predicted (generated) text: <neg> menu <opinion> uneventful <pos> menu <opinion> small
+
+Input text: Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.
+Predicted (generated) text: <pos> sushi <opinion> fresh <pos> portions <opinion> great <pos> price <opinion> reasonable
+
+Input text: Great food but the service was dreadful!
+Predicted (generated) text: <pos> food <opinion> Great <neg> service <opinion> dreadful
+
+Input text: The portions of the food that came out were mediocre.
+Predicted (generated) text: <neu> food <opinion> mediocre
+
+Input text: From the beginning, we were met by friendly staff memebers, and the convenient parking at Chelsea Piers made it easy for us to get to the boat.
+Predicted (generated) text: <pos> staff memebers <opinion> friendly <pos> parking <opinion> convenient
+
+Input text: Desserts are almost incredible : my personal favorite is their Tart of the Day.
+Predicted (generated) text: <pos> Desserts <opinion> incredible <pos> Desserts <opinion> favorite
+
+Input text: The food was extremely tasty, creatively presented and the wine excellent.
+Predicted (generated) text: <pos> food <opinion> tasty <pos> food <opinion> creatively presented <pos> wine <opinion> excellent
+
+Input text: THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.
+Predicted (generated) text: <pos> LASAGNA <opinion> BEST
+
+Input text: Harumi Sushi has the freshest and most delicious array of sushi in NYC.
+Predicted (generated) text: <pos> array of sushi <opinion> freshest <pos> sushi <opinion> delicious
+
+Input text: I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.
+Predicted (generated) text: <pos> cuisine <opinion> superb <pos> owners <opinion> friendly <pos> staff <opinion> friendly
+
+Input text: If you're craving some serious indian food and desire a cozy ambiance, this is quiet and exquisite choice.
+Predicted (generated) text: <pos> indian food <opinion> serious <pos> ambiance <opinion> cozy
+
+Input text: I definitely enjoyed the food as well.
+Predicted (generated) text: <pos> food <opinion> enjoyed
+
+Input text: It was pleasantly uncrowded, the service was delightful, the garden adorable, the food ( from appetizers to entrees ) was delectable.
+Predicted (generated) text: <pos> service <opinion> delightful <pos> garden <opinion> delightful <pos> food <opinion> delectable
+
+Input text: The food is surprisingly good, and the decor is nice.
+Predicted (generated) text: <pos> food <opinion> good <pos> decor <opinion> nice
+
+Input text: How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!
+Predicted (generated) text: <neg> lunch <opinion> pretentious <neg> dinners <opinion> power
+
+Input text: Two wasted steaks -- what a crime!
+Predicted (generated) text: <neg> steaks <opinion> wasted
+
+Input text: The staff should be a bit more friendly.
+Predicted (generated) text: <pos> staff <opinion> friendly
+
+Input text: I think the meatball parm is good.
+Predicted (generated) text: <pos> meatball parm <opinion> good
+
+Input text: If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.
+Predicted (generated) text: <pos> latin food <opinion> well seasoned
+
+Input text: Definitely try the taglierini with truffles - it was incredible.
+Predicted (generated) text: <pos> taglierini with truffles <opinion> incredible
+
+Input text: Also, the staff is very attentive and really personable.
+Predicted (generated) text: <pos> staff <opinion> attentive <pos> staff <opinion> personable
+
+Input text: The gnocchi literally melts in your mouth!
+Predicted (generated) text: <neg> gnocchi <opinion> melts
+
+Input text: Had a great experience at Trio... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+Predicted (generated) text: <pos> staff <opinion> pleasant <pos> food <opinion> tasty <pos> food <opinion> large
+
+Input text: The food is good, the teriyaki I recommend.
+Predicted (generated) text: <pos> food <opinion> good <pos> teriyaki <opinion> recommend
+
+Input text: Meal was very expensive for what you get.
+Predicted (generated) text: <neg> Meal <opinion> expensive
+
+Input text: Try the Peanut Butter Sorbet and the pizza with soy cheese!
+Predicted (generated) text: <pos> Peanut Butter Sorbet <opinion> Try <pos> pizza with soy cheese <opinion> Try
+
+Input text: Good food at the right price, what more can you ask for.
+Predicted (generated) text: <pos> food <opinion> Good <pos> price <opinion> right
+
+Input text: The food is top notch, the service is attentive, and the atmosphere is great.
+Predicted (generated) text: <pos> food <opinion> top notch <pos> service <opinion> attentive <pos> atmosphere <opinion> great
+
+Input text: Great food, great waitstaff, great atmosphere, and best of all GREAT beer!
+Predicted (generated) text: <pos> food <opinion> Great <pos> waitstaff <opinion> great <pos> atmosphere <opinion> great <pos> beer <opinion> GREAT
+
+Input text: this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere.
+Predicted (generated) text: <pos> food <opinion> inexpensive <pos> food <opinion> good <pos> kimono shrimp special <opinion> excellent <pos> atmosphere <opinion> great
+
+Input text: The menu is interesting and quite reasonably priced.
+Predicted (generated) text: <pos> menu <opinion> interesting <pos> menu <opinion> reasonably priced <pos> priced <opinion> reasonably
+
+Input text: The food was delicious and clearly fresh ingredients were used.
+Predicted (generated) text: <pos> food <opinion> delicious <pos> ingredients <opinion> fresh
+
+Input text: This made it obvious that the food wasn't cooked fresh ; it was obviously made before hand and then reheated.
+Predicted (generated) text: <neg> food <opinion> wasn't cooked fresh
+
+Input text: Appetizer are excellent here ; you can make a great ( and inexpensive ) meal out of them.
+Predicted (generated) text: <pos> Appetizer <opinion> excellent <pos> meal <opinion> great <pos> meal <opinion> inexpensive
+
+Input text: The spicy mussels are a highlight.
+Predicted (generated) text: <pos> mussels <opinion> highlight
+
+Input text: Also get the Onion Rings -- best we've ever had.
+Predicted (generated) text: <pos> Onion Rings <opinion> best
+
+Input text: However, being foodies, we were utterly disappointed with the food.
+Predicted (generated) text: <neg> foodies <opinion> disappointed
+
+Input text: Huge portions, great and attentive service, and pretty good prices.
+Predicted (generated) text: <pos> portions <opinion> Huge <pos> service <opinion> great <pos> prices <opinion> good
+
+Input text: I was highly disappointed by their service and food.
+Predicted (generated) text: <neg> service <opinion> disappointed <pos> food <opinion> disappointed
+
+Input text: I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.
+Predicted (generated) text: <neg> waiter <opinion> complained <neg> manager <opinion> rudeness
+
+Input text: The food is great and the milkshakes are even better!
+Predicted (generated) text: <pos> food <opinion> great <pos> milkshakes <opinion> better
+
+Input text: the mushroom barley soup is amazing.
+Predicted (generated) text: <pos> mushroom barley soup <opinion> amazing
+
+Input text: I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.
+Predicted (generated) text: <pos> food <opinion> good <pos> staff <opinion> friendly <pos> staff <opinion> courteous <pos> staff <opinion> efficient
+
+Input text: Their duck here is also absolutely delicious.
+Predicted (generated) text: <pos> duck <opinion> delicious
+
+Input text: While it was large and a bit noisy, the drinks were fantastic, and the food was superb.
+Predicted (generated) text: <pos> drinks <opinion> fantastic <pos> food <opinion> superb
+
+Input text: One caveat : Some of the curried casseroles can be a trifle harsh.
+Predicted (generated) text: <neg> casseroles <opinion> trifle harsh
+
+Input text: The food was almost always EXCELLENT.
+Predicted (generated) text: <pos> food <opinion> EXCELLENT
+
+Input text: I was pleasantly surprised at the taste.
+Predicted (generated) text: <pos> taste <opinion> pleasantly surprised
+
+Input text: A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.
+Predicted (generated) text: <pos> space <opinion> nice <pos> cuisine <opinion> chosen <pos> seafood <opinion> great
+
+Input text: they really provide a relaxing, laid-back atmosphere.
+Predicted (generated) text: <pos> atmosphere <opinion> relaxing <pos> atmosphere <opinion> laid-back
+
+Input text: This particular location certainly uses substandard meats.
+Predicted (generated) text: <neg> meats <opinion> substandard
+
+Input text: The Management was less than accomodating.
+Predicted (generated) text: <neg> Management <opinion> less than accomodating
+
+Input text: The ambience is also more laid-back and relaxed.
+Predicted (generated) text: <pos> ambience <opinion> laid-back <pos> ambience <opinion> relaxed
+
+Input text: the teas are great and all the sweets are homemade.
+Predicted (generated) text: <pos> teas <opinion> great <pos> sweets <opinion> homemade
+
+Input text: mojitos and the service are the best part in there
+Predicted (generated) text: <pos> mojitos <opinion> best <pos> service <opinion> best
+
+Input text: Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.
+Predicted (generated) text: <pos> Sandwiches <opinion> classic <pos> burgers <opinion> classic <pos> salads <opinion> classic
+
+Input text: The design is very intimate and romantic.
+Predicted (generated) text: <pos> design <opinion> intimate <pos> design <opinion> romantic
+
+Input text: The food was wonderful and imaginative.
+Predicted (generated) text: <pos> food <opinion> wonderful <pos> food <opinion> imaginative
+
+Input text: The staff is very sharp and they look good too.
+Predicted (generated) text: <pos> staff <opinion> sharp <pos> staff <opinion> good
+
+Input text: The worst though was the taste.
+Predicted (generated) text: <neg> taste <opinion> worst
+
+Input text: The fajita we tried was tasteless and burned and the mole sauce was way too sweet.
+Predicted (generated) text: <neg> fajita <opinion> tasteless <neg> fatita <opinion> burned <neg> mole sauce <opinion> too sweet
+
+Input text: The atmosphere is warm, comfortable, artsy and sexy.
+Predicted (generated) text: <pos> atmosphere <opinion> warm <pos> atmosphere <opinion> comfortable <pos> atmosphere <opinion> artsy <pos> atmosphere <opinion> sexy
+
+Input text: The food is great ( big selection, reasonable prices ) and the drinks are really good.
+Predicted (generated) text: <pos> food <opinion> great <pos> selection <opinion> big <pos> drinks <opinion> good
+
+Input text: The food did take a few extra minutes to come, but the cute waiters'jokes and friendliness made up for it.
+Predicted (generated) text: <pos> waiters <opinion> cute <pos> food <opinion> few <pos> waiters <opinion> friendliness
+
+Input text: Most importantly, it is reasonably priced.
+Predicted (generated) text: <pos> priced <opinion> reasonably
+
+Input text: The selection of food is excellent ( I'm not used to having much choice at restaurants ), and the atmosphere is great.
+Predicted (generated) text: <pos> selection of food <opinion> excellent <pos> atmosphere <opinion> great
+
+Input text: Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.
+Predicted (generated) text: <neg> dessert <opinion> suggestion
+
+Input text: Food was decent, but not great.
+Predicted (generated) text: <neu> Food <opinion> decent
+
+Input text: it is a hidden delight complete with a quaint bar and good food.
+Predicted (generated) text: <pos> bar <opinion> quaint <pos> food <opinion> good
+
+Input text: The waiters ALWAYS look angry and even ignore their high-tipping regulars.
+Predicted (generated) text: <neg> waiters <opinion> angry <neg> waiters <opinion> ignore
+
+Input text: the atmosphere is very nice, and a welcome escape from the rest of the SI mall.
+Predicted (generated) text: <pos> atmosphere <opinion> nice <pos> atmosphere <opinion> welcome
+
+Input text: Yes, they're a bit more expensive then typical, but then again, so is their food.
+Predicted (generated) text: <neu> food <opinion> expensive <neg> food <opinion> typical
+
+Input text: I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $ 9 was WELL WORTH the money.
+Predicted (generated) text: <pos> wraps <opinion> fresh <pos> burgers <opinion> fresh <pos> salads <opinion> tasty <pos> mango margareta <opinion> WELL
+
+Input text: The service we experienced was friendly and good.
+Predicted (generated) text: <pos> service <opinion> friendly <pos> service <opinion> good
+
+Input text: Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.
+Predicted (generated) text: <pos> waiter <opinion> friendly
+
+Input text: The folding chair I was seated at was uncomfortable.
+Predicted (generated) text: <neg> folding chair <opinion> uncomfortable
+
+Input text: Service was among the best I have ever had in NYC.
+Predicted (generated) text: <pos> Service <opinion> best
+
+Input text: The fettucino alfredo was amazing.
+Predicted (generated) text: <pos> fettucino amfredo <opinion> amazing
+
+Input text: The food was very good and I was pleasantly surprised to see so many vegan options.
+Predicted (generated) text: <pos> food <opinion> good <pos> veg options <opinion> pleasantly surprised
+
+Input text: Be sure to try the Smoked Trout... Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...
+Predicted (generated) text: <pos> Smoked Trout <opinion> try <pos> veal Chops <opinion> try <pos> potato gratin <opinion> try
+
+Input text: Even when the chef is not in the house, the food and service are right on target.
+Predicted (generated) text: <pos> food <opinion> right <pos> service <opinion> right
+
+Input text: Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.
+Predicted (generated) text: <pos> eggs benedict <opinion> well <pos> mussels <opinion> tasty <pos> hamburger <opinion> well <pos> hamburger <opinion> tasty
+
+Input text: The waiters were very professional, courteous and attentive.
+Predicted (generated) text: <pos> waiters <opinion> professional <pos> waiters <opinion> courteous <pos> waiters <opinion> attentive
+
+Input text: The falafal was rather over cooked and dried but the chicken was fine.
+Predicted (generated) text: <neg> falafal <opinion> over cooked <neg> chicken <opinion> fine
+
+Input text: I highly recommend the grand marnier shrimp, it's insanely good.
+Predicted (generated) text: <pos> grand marnier shrimp <opinion> recommend
+
+Input text: We been there and we really enjoy the food, was areally great food, and the service was really good.
+Predicted (generated) text: <pos> food <opinion> enjoy <pos> food <opinion> great <pos> service <opinion> good
+
+Input text: I was starving and the small portions were driving me crazy!
+Predicted (generated) text: <neg> portions <opinion> small
+
+Input text: The wait staff was loud and inconsiderate.
+Predicted (generated) text: <neg> wait staff <opinion> loud <neg> wait staff <opinion> inconsiderate
+
+Input text: However, the food and service and dramatically lacking.
+Predicted (generated) text: <neg> food <opinion> lacking <neg> service <opinion> lacking
+
+Input text: The sushi is cut in blocks bigger than my cell phone.
+Predicted (generated) text: <neu> sushi <opinion> bigger
+
+Input text: The service is great, my soup always arrives nice and hot.
+Predicted (generated) text: <pos> service <opinion> great <pos> soup <opinion> nice <pos> soup <opinion> hot
+
+Input text: It had been awhile and I forgot just how delicious crepes can be.
+Predicted (generated) text: <neg> crepes <opinion> delicious
+
+Input text: Montparnasse's desserts -- especially the silken creme brulee and paper -- thin apple tart -- are good enough on their own to make the restaurant worth the trip.
+Predicted (generated) text: <pos> desserts <opinion> good <pos> silken creme brulee <opinion> good <pos> paper <opinion> thin <neu> apple tart <opinion> good
+
+Input text: i had a delicious shrimp creole.
+Predicted (generated) text: <pos> shrimp creole <opinion> delicious
+
+Input text: The chicken dinner was real good.
+Predicted (generated) text: <pos> chicken dinner <opinion> good
+
+Input text: but the food was delicious.
+Predicted (generated) text: <pos> food <opinion> delicious
+
+Input text: Try the ribs, sizzling beef and couple it with coconut rice.
+Predicted (generated) text: <pos> ribs <opinion> Try <pos> beef <opinion> sizzling <pos> coconut rice <opinion> Try
+
+Input text: The avocado salad is a personal fave.
+Predicted (generated) text: <pos> avocado salad <opinion> personal fave
+
+Input text: And, the honey BBQ rib tips are yummy!
+Predicted (generated) text: <pos> honey BBQ rib tips <opinion> yummy
+
+Input text: The BEST Chinese food Uptown!
+Predicted (generated) text: <pos> Chinese food <opinion> BEST
+
+Input text: Service is known for bending over backwards to make everyone happy.
+Predicted (generated) text: <pos> Service <opinion> happy
+
+Input text: The staff is very friendly.
+Predicted (generated) text: <pos> staff <opinion> friendly
+
+Input text: Waiters are very friendly and the pasta is out of this world.
+Predicted (generated) text: <pos> Waiters <opinion> friendly <pos> pasta <opinion> out of this world
+
+Input text: Great wine list and great cocktail menu.
+Predicted (generated) text: <pos> wine list <opinion> Great <pos> cocktail menu <opinion> great
+
+Input text: The crab cakes are delicious and the BBQ rib was perfect.
+Predicted (generated) text: <pos> crab cakes <opinion> delicious <pos> BBQ rib <opinion> perfect
+
+Input text: The food is wonderful, artfully done and simply delicious.
+Predicted (generated) text: <pos> food <opinion> wonderful <pos> food <opinion> artfullydone <pos> food <opinion> delicious
+
+Input text: Tiny restaurant with very fast service.
+Predicted (generated) text: <pos> service <opinion> fast
+
+Input text: My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.
+Predicted (generated) text: <pos> service <opinion> highest <pos> desserts <opinion> free
+
+Input text: A beautiful atmosphere, perfect for drinks and/or appetizers.
+Predicted (generated) text: <pos> atmosphere <opinion> beautiful <pos> drinks <opinion> perfect <pos> appetizers <opinion> perfect
+
+Input text: They make the best pizza in New Jersey.
+Predicted (generated) text: <pos> pizza <opinion> best
+
+Input text: What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.
+Predicted (generated) text: <pos> service <opinion> comforting <pos> food <opinion> better than average
+
+Input text: Not to be overlooked, the service is excellent.
+Predicted (generated) text: <pos> service <opinion> excellent
+
+Input text: this without question is one of the worst hotdogs i have ever had.
+Predicted (generated) text: <neg> hotdogs <opinion> worst
+
+Input text: The staff is unbelievably friendly, and I dream about their Saag gosht... so good.
+Predicted (generated) text: <neg> staff <opinion> unbelievably friendly <pos> Saag gosht <opinion> good
+
+Input text: I also recommend the garlic knots.
+Predicted (generated) text: <pos> garlic knots <opinion> recommend
+
+Input text: Best Indian food I have ever eaten.
+Predicted (generated) text: <pos> Indian food <opinion> Best
+
+Input text: This place has the best pizza.
+Predicted (generated) text: <pos> pizza <opinion> best
+
+Input text: The music which is sometimes a little too heavy for my taste.
+Predicted (generated) text: <neg> music <opinion> heavy
+
+Input text: The service is excellent and always informative without an air.
+Predicted (generated) text: <pos> service <opinion> excellent <pos> service <opinion> informative
+
+Input text: The sushi is always fresh and yummy and the menu is pretty varied.
+Predicted (generated) text: <pos> sushi <opinion> fresh <pos> sushi <opinion> yummy <pos> menu <opinion> varied
+
+Input text: The food was great - sushi was good, but the cooked food amazed us.
+Predicted (generated) text: <pos> food <opinion> great <pos> sushi <opinion> good <pos> cooked food <opinion> amazed
+
+Input text: their dinner specials are fantastic.
+Predicted (generated) text: <pos> dinner specials <opinion> fantastic
+
+Input text: Great food, great drinks, nice dining atmosphere.
+Predicted (generated) text: <pos> food <opinion> Great <pos> drinks <opinion> great <pos> dining atmosphere <opinion> nice
+
+Input text: Food portion was SMALL and below average.
+Predicted (generated) text: <neg> Food portion <opinion> SMALL <neg> Food portion <opinion> below average
+
+Input text: Sit back in one of those comfortable chairs.
+Predicted (generated) text: <pos> chairs <opinion> comfortable
+
+Input text: My favs here are the Tacos Pastor and the Tostada de Tinga...
+Predicted (generated) text: <pos> Tacos Pastor <opinion> favs
+
+Input text: The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.
+Predicted (generated) text: <pos> bartenders <opinion> nice <pos> decor <opinion> comfy <pos> decor <opinion> laid-back <pos> managers <opinion> trendy
+
+Input text: For a savory take on the soup and sandwich meal, try the hot and sour soup.
+Predicted (generated) text: <pos> soup <opinion> hot <pos> soup <opinion> sour
+
+Input text: This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.
+Predicted (generated) text: <pos> drinks <opinion> great <pos> atmosphere <opinion> cool <pos> service <opinion> excellent <pos> food <opinion> delicious
+
+Input text: Also, the chick peas with shrimp ( appetizer ) is divine.
+Predicted (generated) text: <pos> chick peas with shrimp ( appetizer ) <opinion> divine
+
+Input text: Finally, I got sick of the bad service, obnoxious smirks, and snotty back talk.
+Predicted (generated) text: <neg> service <opinion> bad <neg> smirks <opinion> obnoxious <neg> service <opinion> snotty
+
+Input text: We ordered lamb which was perfectly cooked and tasted awesome.
+Predicted (generated) text: <pos> lamb <opinion> perfectly cooked <pos> lamb <opinion> awesome
+
+Input text: i especially like their soft shell crab sandwich with fries.
+Predicted (generated) text: <pos> shell crab sandwich with fries <opinion> soft
+
+Input text: if you're looking for authentic hong kong-style food, look no further.
+Predicted (generated) text: <pos> hong kong-style food <opinion> authentic
+
+Input text: good food good wine that's it.
+Predicted (generated) text: <pos> food <opinion> good <pos> wine <opinion> good
+
+Input text: The staff was extremely friendly and pleasant.
+Predicted (generated) text: <pos> staff <opinion> friendly <pos> staff <opinion> pleasant
+
+Input text: While their kitchen food is delicious, their Sushi is out of this world.
+Predicted (generated) text: <pos> kitchen food <opinion> delicious <pos> Sushi <opinion> out of this world
+
+Input text: everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.
+Predicted (generated) text: <pos> service <opinion> excellent <pos> waitresses <opinion> cute <pos> atmosphere <opinion> lush
+
+Input text: It's traditional, simple italian food.
+Predicted (generated) text: <pos> italian food <opinion> traditional <pos> italian food <opinion> simple
+
+Input text: The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.
+Predicted (generated) text: <pos> food <opinion> good <pos> rolls <opinion> excellent <pos> sushi <opinion> not quite good
+
+Input text: ( The sashimi is cut a little thinly.
+Predicted (generated) text: <neg> sashimi <opinion> thinly
+
+Input text: In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+Predicted (generated) text: <pos> tator tots <opinion> great <pos> muffins <opinion> delicious <pos> pork impress <opinion> delicious
+
+Input text: Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.
+Predicted (generated) text: <neg> manager <opinion> graceless <neg> bartender <opinion> rude
+
+Input text: Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.
+Predicted (generated) text: <pos> service <opinion> great <pos> table <opinion> easy
+
+Input text: When the dish arrived it was blazing with green chillis, definitely not edible by a human.
+Predicted (generated) text: <neg> dish <opinion> edible
+
+Input text: The absolute worst service I've ever experienced and the food was below average ( when they actually gave people the meals they ordered ).
+Predicted (generated) text: <neg> service <opinion> worst <neg> food <opinion> below average
+
+Input text: Be sure to accompany your food with one of their fresh juice concoctions.
+Predicted (generated) text: <pos> juice concoctions <opinion> fresh
+
+Input text: The food is great and the prices are reasonable.
+Predicted (generated) text: <pos> food <opinion> great <pos> prices <opinion> reasonable
+
+Input text: The place is clean, and if you like soul food, then this is the place to be!
+Predicted (generated) text: <pos> place <opinion> clean
+
+Input text: They have a very good chicken with avocado and good tuna as well.
+Predicted (generated) text: <pos> chicken with avocado and good <pos> tuna <opinion> good
+
+Input text: But the meals were terrible.
+Predicted (generated) text: <neg> meals <opinion> terrible
+
+Input text: My chicken was completely dried out and on the cold side and the sauce was not very flavorful.
+Predicted (generated) text: <neg> chicken <opinion> dryd out <neg> sauce <opinion> not very flavorful
+
+Input text: Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful?
+Predicted (generated) text: <pos> Milk Ball Gelato <opinion> wonderful
+
+Input text: Way too much money for such a terrible meal.
+Predicted (generated) text: <neg> money <opinion> too much <neg> meal <opinion> terrible
+
+Input text: However, the service is absolutely horrible.
+Predicted (generated) text: <neg> service <opinion> horrible
+
+Input text: A con was the slow bar service.
+Predicted (generated) text: <neg> bar service <opinion> slow
+
+Input text: Dessert was also to die for!
+Predicted (generated) text: <pos> Dessert <opinion> die for
+
+Input text: BTW, the service is very good.
+Predicted (generated) text: <pos> service <opinion> good
+
+Input text: The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.
+Predicted (generated) text: <neg> lighting <opinion> unattractive <neg> food <opinion> overpriced <neg> disco pop duo <opinion> awful
+
+Input text: it is a cozy place to go with a couple of friends.
+Predicted (generated) text: <pos> place <opinion> cozy
+
+Input text: The service is always great, and the owner walks around to make sure you enjoy.
+Predicted (generated) text: <pos> service <opinion> great <pos> owner <opinion> enjoy
+
+Input text: the food is delicious and highly recommended.
+Predicted (generated) text: <pos> food <opinion> delicious <pos> food <opinion> recommended
+
+Input text: So for a filling and healthy meal give it a go.
+Predicted (generated) text: <pos> meal <opinion> filling <pos> meal <opinion> healthy
+
+Input text: Since I cook for a living, I'm very fussy about the food I eat in restaurants.
+Predicted (generated) text: <neg> food <opinion> fussy
+
+Input text: The service was outstanding.
+Predicted (generated) text: <pos> service <opinion> outstanding
+
+Input text: We always enjoy the pizza.
+Predicted (generated) text: <pos> pizza <opinion> enjoy
+
+Input text: The service is pretty good.
+Predicted (generated) text: <pos> service <opinion> good
+
+Input text: Yum, the chicken is great here.
+Predicted (generated) text: <pos> chicken <opinion> great
+
+Input text: The food here was great, a treat from beginning to end.
+Predicted (generated) text: <pos> food <opinion> great
+
+Input text: The host ( owner ) and servers are personable and caring.
+Predicted (generated) text: <pos> host <opinion> personable <pos> servers <opinion> personable
+
+Input text: It's just everything... the food, the atmosphere... the incrediby kind and gracious hostess.
+Predicted (generated) text: <pos> food <opinion> incrediby kind <pos> hostess <opinion> gracious
+
+Input text: The food is very good and the service is great.
+Predicted (generated) text: <pos> food <opinion> good <pos> service <opinion> great
+
+Input text: We were wondering why they were there to make our dining experience miserable?
+Predicted (generated) text: <neg> dining <opinion> miserable
+
+Input text: This place has the best Indian food in New York, hands down.
+Predicted (generated) text: <pos> Indian food <opinion> best
+
+Input text: The waiters are very friendly and helpful and if you frequent they will remember you.
+Predicted (generated) text: <pos> waiters <opinion> friendly <pos> waiters <opinion> helpful
+
+Input text: Intimate but charming interior with extremely friendly and attentive service.
+Predicted (generated) text: <pos> interior <opinion> Intimate <pos> interior <opinion> charming <pos> service <opinion> friendly <pos> service <opinion> attentive
+
+Input text: The food was as creative as the decor and both worked.
+Predicted (generated) text: <pos> food <opinion> creative <pos> decor <opinion> creative
+
+Input text: The menu is great, with a good selection, and everything that I have tried is absolutely delicious.
+Predicted (generated) text: <pos> menu <opinion> great <pos> selection <opinion> good
+
+Input text: The sauce is zesty and flavorful and the crust is nice and crispy.
+Predicted (generated) text: <pos> sauce <opinion> zesty <pos> sauce <opinion> flavorful <pos> crust <opinion> nice <pos> crust <opinion> crispy
+
+Input text: This place has the best sushi in the city.
+Predicted (generated) text: <pos> sushi <opinion> best
+
+Input text: They have an excellent selection ( the rolls with crab are really great ).
+Predicted (generated) text: <pos> selection <opinion> excellent <pos> rolls with crab <opinion> great
+
+Input text: Everyone who works there ( the host, the bartender, the servers ) is so helpful.
+Predicted (generated) text: <pos> host <opinion> helpful <pos> bartender <opinion> helpful <pos> servers <opinion> helpful
+
+Input text: And the food is fantastic.
+Predicted (generated) text: <pos> food <opinion> fantastic
+
+Input text: Favourites include : potato spinach gnocchi and the lamb.
+Predicted (generated) text: <pos> potato spinach gnocchi <opinion> Favourites <pos> lamb <opinion> Favourites
+
+Input text: But regulars know that the sandwiches are the real star here.
+Predicted (generated) text: <pos> sandwiches <opinion> star
+
+Input text: The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.
+Predicted (generated) text: <pos> Portuguese cheese cart <opinion> skillfully chosen <pos> port <opinion> quality
+
+Input text: My friend had a burger and I had these wonderful blueberry pancakes.
+Predicted (generated) text: <pos> blueberry pancakes <opinion> wonderful
+
+Input text: We were so happy with our food and were even more thrilled when we saw the bill.
+Predicted (generated) text: <pos> food <opinion> happy
+
+Input text: All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.
+Predicted (generated) text: <pos> toppings <opinion> fresh <pos> vegetable garden <opinion> perfect <pos> crust <opinion> perfect
+
+Input text: We've always gotten amazing service and we love the food.
+Predicted (generated) text: <pos> service <opinion> amazing <pos> food <opinion> love
+
+Input text: The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.
+Predicted (generated) text: <pos> waitstaff <opinion> solicitous <pos> waitstaff <opinion> friendly <pos> food <opinion> wonderful
+
+Input text: I'm in love with the lobster ravioli!
+Predicted (generated) text: <pos> lobster ravioli <opinion> love
+
+Input text: We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal.
+Predicted (generated) text: <pos> meal <opinion> enjoyed
+
+Input text: Service is excellent, no wait, and you get a lot for the price.
+Predicted (generated) text: <pos> Service <opinion> excellent <pos> wait <opinion> no <pos> price <opinion> lot
+
+Input text: I thought the food isn't cheap at all compared to Chinatown.
+Predicted (generated) text: <neg> food <opinion> isn't cheap
+
+Input text: Coffee is a better deal than overpriced Cosi sandwiches.
+Predicted (generated) text: <pos> Cosi sandwiches <opinion> better
+
+Input text: ) It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest prices, and worth repeat visits.
+Predicted (generated) text: <pos> prices <opinion> modest
+
+Input text: The food is so good and so popular that waiting can really be a nightmare.
+Predicted (generated) text: <pos> food <opinion> good <neg> waiting <opinion> nightmare
+
+Input text: First walking in the place seemed to have great ambience.
+Predicted (generated) text: <pos> ambience <opinion> great
+
+Input text: Even for two very hungry people there is plenty of food left to be taken home ( it reheats really well also ).
+Predicted (generated) text: <pos> food <opinion> plenty
+
+Input text: Then they somehow made a dry and burnt crust, around a raw and cold inside.
+Predicted (generated) text: <neg> crust <opinion> dry <neg> crust <opinion> burnt
+
+Input text: It's just good food, nothing more and that's all we want!
+Predicted (generated) text: <pos> food <opinion> good
+
+Input text: Average cake thats been courted by a LOT of hype.
+Predicted (generated) text: <pos> cake <opinion> Average
+
+Input text: My wife and I recently visited the bistro for dinner and had a wonderful experience.
+Predicted (generated) text: <pos> dinner <opinion> wonderful
+
+Input text: THE SERVICE IS PERFECT TOO NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT
+Predicted (generated) text: <pos> SERVICE <opinion> PERFECT
+
+Input text: The $ 72 Delmonico steak had to be sent back because it was not cooked to order.
+Predicted (generated) text: <neu> Delmonico steak <opinion> not cooked
+
+Input text: The service is really fast and friendly, and the value is great.
+Predicted (generated) text: <pos> service <opinion> fast <pos> service <opinion> friendly <pos> value <opinion> great
+
+Input text: We were very impressed with the food and value.
+Predicted (generated) text: <pos> food <opinion> impressed <pos> value <opinion> impressed
+
+Input text: You must try the garlic soup!
+Predicted (generated) text: <pos> garlic soup <opinion> try
+
+Input text: Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.
+Predicted (generated) text: <pos> tabouleh <opinion> delicious <pos> humus <opinion> inexpensive <pos> Mediterranean delights <opinion> inexpensive
+
+Input text: The pizza's are made fresh, crispy, and ready to serve.
+Predicted (generated) text: <pos> pizza <opinion> fresh <pos> pizza <opinion> crispy <pos> serve <opinion> fresh <pos> serve <opinion> ready
+
+Input text: Staff is accomodating make sure you are satified.
+Predicted (generated) text: <pos> Staff <opinion> accomodating
+
+Input text: Reasonably priced with very fresh sushi.
+Predicted (generated) text: <pos> sushi <opinion> fresh <pos> priced <opinion> Reasonably
+
+Input text: All of the apetizers are good and the Sangria is very good.
+Predicted (generated) text: <pos> apetizers <opinion> good <pos> Sangria <opinion> good
+
+Input text: The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.
+Predicted (generated) text: <pos> service <opinion> prompt <pos> server <opinion> friendly
+
+Input text: The staff greeted me warmly at the door and I was seated promptly and the food was excellent.
+Predicted (generated) text: <pos> staff <opinion> warmly <pos> seated <opinion> promptly <pos> food <opinion> excellent
+
+Input text: Service is usually pretty good.
+Predicted (generated) text: <pos> Service <opinion> good
+
+Input text: Host and Hostess was quite rude.
+Predicted (generated) text: <neg> Host <opinion> rude <neg> Hostess <opinion> rude
+
+Input text: the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.
+Predicted (generated) text: <pos> wait staff <opinion> friendly
+
+Input text: I recommend any of their salmon dishes......
+Predicted (generated) text: <pos> salmon dishes <opinion> recommend
+
+Input text: The foie gras was sweet and luscious.
+Predicted (generated) text: <pos> foie gras <opinion> sweet <pos> foie gras <opinion> luscious
+
+Input text: The menu, which changes seasonally, shows both regional and international influences.
+Predicted (generated) text: <pos> menu <opinion> changes seasonally <pos> menu <opinion> international
+
+Input text: but their mac cheese was YUMMY!
+Predicted (generated) text: <pos> mac cheese <opinion> YUMMY
+
+Input text: jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.
+Predicted (generated) text: <pos> voice <opinion> nice
+
+Input text: They have very quick service which is great when you don't have much time.
+Predicted (generated) text: <pos> service <opinion> quick
+
+Input text: The food is average : breakfast food, soups, salads, sandwiches, etc.
+Predicted (generated) text: <neu> food <opinion> average <pos> soups <opinion> average <pos> salads <opinion> average <neu> food <opinion> average
+
+Input text: I WAS HIGHLY DISAPPOINTED BY THE FOOD.
+Predicted (generated) text: <neg> FOOD <opinion> DISAPPOINTED
+
+Input text: THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.
+Predicted (generated) text: <neg> BANANA PUDDING <opinion> GREASY
+
+Input text: The staff is arrogant, the prices are way high for Brooklyn.
+Predicted (generated) text: <neg> staff <opinion> arrogant <neg> prices <opinion> high
+
+Input text: the service is prompt friendly.
+Predicted (generated) text: <pos> service <opinion> prompt friendly
+
+Input text: This is literally a hot spot when it comes to the food.
+Predicted (generated) text: <pos> food <opinion> hot
+
+Input text: The downstairs bar scene is very cool and chill...
+Predicted (generated) text: <pos> downstairs bar scene <opinion> cool <pos> downstairs bar scene <opinion> chill
+
+Input text: The food was definitely good, but when all was said and done, I just couldn't justify it for the price ( including 2 drinks, $ 100/person )...
+Predicted (generated) text: <pos> food <opinion> good <neg> drinks <opinion> couldn't justify
+
+Input text: If you are a Tequila fan you will not be disappointed.
+Predicted (generated) text: <neg> Tequila <opinion> disappointed
+
+Input text: Great beer selection too, something like 50 beers.
+Predicted (generated) text: <pos> beer selection <opinion> Great
+
+Input text: Not to sound too negative but be wary of the delivary.
+Predicted (generated) text: <neg> delivary <opinion> delivary
+
+Input text: I found the food to be just as good as its owner, Da Silvano, just much less expensive.
+Predicted (generated) text: <pos> food <opinion> good <pos> owner <opinion> less expensive
+
+Input text: They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!
+Predicted (generated) text: <pos> homemade pastas <opinion> recommend <pos> gnocchi <opinion> recommend
+
+Input text: My vegetable risotto was burnt, and infused totally in a burnt flavor.
+Predicted (generated) text: <neg> vegetable risotto <opinion> burnt
+
+Input text: The main draw of this place is the price.
+Predicted (generated) text: <pos> price <opinion> draw
+
+Input text: But dinner here is never disappointing, even if the prices are a bit over the top.
+Predicted (generated) text: <pos> dinner <opinion> never disappointing
+
+Input text: Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!
+Predicted (generated) text: <pos> sandwiches <opinion> amazing <pos> soup <opinion> out of this world
+
+Input text: the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.
+Predicted (generated) text: <pos> Guacamole <opinion> unbelievable <pos> entree <opinion> unbelievable <pos> deserts <opinion> amazing
+
+Input text: The sushi is reasonably priced and fresh.
+Predicted (generated) text: <pos> sushi <opinion> reasonably priced <pos> sushi <opinion> fresh <pos> priced <opinion> reasonably
+
+Input text: Save room for deserts - they're to die for.
+Predicted (generated) text: <pos> deserts <opinion> die for
+
+Input text: The traditional Italian items are great - cheap and served in a cozy setting.
+Predicted (generated) text: <pos> Italian items <opinion> great <pos> Italian items <opinion> cheap <pos> Italian items <opinion> served in a cozy
+
+Input text: The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.
+Predicted (generated) text: <neg> service <opinion> slow <neg> portions <opinion> small
+
+Input text: El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's.
+Predicted (generated) text: <pos> variety of tasty <pos> pizza <opinion> watering
+
+Input text: The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+Predicted (generated) text: <neg> service <opinion> poor <neg> food <opinion> below average
+
+Input text: Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.
+Predicted (generated) text: <pos> food <opinion> GREAT cheap <pos> staff <opinion> friendly
+
+Input text: Chef Vincenzo, always there if you need him, is a real talent and a real Roman.
+Predicted (generated) text: <pos> chef Vincenzino <opinion> talent
+
+Input text: If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.
+Predicted (generated) text: <pos> Indian food <opinion> great <pos> service <opinion> good
+
+Input text: You must try Odessa stew or Rabbit stew ; salads -all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does, reminds me of home a lot ).
+Predicted (generated) text: <pos> Odessa stew <opinion> try <pos> salads <opinion> good <pos> food <opinion> refreshing
+
+Input text: My daughter and I left feeling satisfied ( not stuffed ) and it felt good to know we had a healthy lunch.
+Predicted (generated) text: <pos> lunch <opinion> healthy
+
+Input text: The quality of the meat was on par with your local grocery store.
+Predicted (generated) text: <pos> quality of the meat <opinion> on par
+
+Input text: I recommend the black roasted codfish, it was the best dish of the evening.
+Predicted (generated) text: <pos> black roasted codfish <opinion> recommend <pos> dish <opinion> best
+
+Input text: The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+Predicted (generated) text: <neg> waiter <opinion> annoyed
+
+Input text: In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.
+Predicted (generated) text: <neg> chicken <opinion> darked up
+
+Input text: during busy hrs, i recommend that you make a reservation.
+Predicted (generated) text: <neu> reservation <opinion> recommend
+
+Input text: I went to Common Stock for brunch and I was so impressed.
+Predicted (generated) text: <pos> brunch <opinion> impressed
+
+Input text: now called nikki sushi, sushi is OK.
+Predicted (generated) text: <neu> sushi <opinion> OK <neu> sushi <opinion> OK
+
+Input text: The food is also outstanding and is served quite quickly.
+Predicted (generated) text: <pos> food <opinion> outstanding <pos> served <opinion> quickly
+
+Input text: The food is delicious and the bar has a great vibe.
+Predicted (generated) text: <pos> food <opinion> delicious <pos> bar <opinion> great <pos> vibe <opinion> great
+
+Input text: Simple healthy unglamorous food cheap.
+Predicted (generated) text: <pos> food <opinion> healthy unglamorous
+
+Input text: It was such a fantastic dining experience, that I returned again the same week.
+Predicted (generated) text: <pos> dining <opinion> fantastic
+
+Input text: To be fair, the food still is good and the service is quick and attentative even though its usually very busy.
+Predicted (generated) text: <pos> food <opinion> good <pos> service <opinion> quick <pos> service <opinion> atentative <neg> service <opinion> busy
+
+Input text: The place is absolutely adorable and the food is delicious.
+Predicted (generated) text: <pos> place <opinion> adorable <pos> food <opinion> delicious
+
+Input text: I've had better Japanese food at a mall food court.
+Predicted (generated) text: <pos> Japanese food <opinion> better
+
+Input text: The staff members are extremely friendly and even replaced my drink once when I dropped it outside.
+Predicted (generated) text: <pos> staff member <opinion> friendly
+
+Input text: Cool atmosphere but such a let down.
+Predicted (generated) text: <pos> atmosphere <opinion> Cool
+
+Input text: The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.
+Predicted (generated) text: <pos> Sshimi portion <opinion> big
+
+Input text: They have wheat crusted pizza made with really fresh and yummy ingredients.
+Predicted (generated) text: <pos> wheat crusted pizza <opinion> fresh <pos> ingredients <opinion> yummy
+
+Input text: Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.
+Predicted (generated) text: <pos> dinner <opinion> lovely <pos> food <opinion> well-prepared <pos> food <opinion> prompt <pos> service <opinion> pleasant <pos> service <opinion> prompt
+
+Input text: the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light.
+Predicted (generated) text: <pos> cake <opinion> fluffy <neg> cake <opinion> not ultra sweet <pos> icing <opinion> light
+
+Input text: Finally let into the store 5 at a time, to buy expensive slices from a harried staff.
+Predicted (generated) text: <neg> staff <opinion> harried
+
+Input text: We ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty.
+Predicted (generated) text: <neg> wait staff <opinion> ignored
+
+Input text: The wine list is extensive, well priced and covers alot of regions.
+Predicted (generated) text: <pos> wine list <opinion> extensive <pos> wine list <opinion> well priced <pos> pricesd <opinion> well
+
+Input text: Go here if you want fresh and tasty salads of any type you can imagine.
+Predicted (generated) text: <pos> salads <opinion> fresh <pos> salads <opinion> tasty
+
+Input text: Everything about this place is adorable - even the bathroom!
+Predicted (generated) text: <pos> bathroom <opinion> adorable
+
+Input text: Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.
+Predicted (generated) text: <pos> delivers <opinion> Speedy <pos> food <opinion> great <pos> prices <opinion> decent <pos> repast <opinion> enjoyable
+
+Input text: IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL.
+Predicted (generated) text: <pos> ITALIAN MEAL <opinion> AUTHENTIC
+
+Input text: It took 100 years for Parisi to get around to making pizza ( at least I don't think they ever made it before this year )... but it was worth the wait.
+Predicted (generated) text: <pos> wait <opinion> worth <pos> wait <opinion> worth the wait
+
+Input text: I asked for a simple medium rare steak.
+Predicted (generated) text: <pos> steak <opinion> simple rare
+
+Input text: Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese and walnuts -- are equally scrumptious.
+Predicted (generated) text: <pos> fresh burgers <opinion> generously garnished <pos> goat cheese <opinion> scrumptious <pos> walnuts <opinion> scrumptious
+
+Input text: Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.
+Predicted (generated) text: <neg> dining <opinion> worst
+
+Input text: Result ( red velvet ) : Great texture, soft and velvety, nice hint of cocoa.
+Predicted (generated) text: <pos> texture <opinion> Great <pos> texture <opinion> soft <pos> texture <opinion> velvety <pos> hint of cocoa <opinion> nice
+
+Input text: Their twist on pizza is healthy, but full of flavor.
+Predicted (generated) text: <pos> twist on pizza <opinion> healthy <pos> twist on pizza <opinion> full <pos> flavor <opinion> full
+
+Input text: The lack of AC and the fact that there are a million swarming bodies ( although everyone is polite and no one is pushing ) is a slight turn off.
+Predicted (generated) text: <neg> AC <opinion> lack <neg> bodies <opinion> swarming
+
+Input text: I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people.
+Predicted (generated) text: <pos> service <opinion> RUDE
+
+Input text: Unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure.
+Predicted (generated) text: <pos> location <opinion> convenient
+
+Input text: The food -- though mostly deep-fried -- is simple and satisfying.
+Predicted (generated) text: <pos> food <opinion> simple <pos> food <opinion> satisfying
+
+Input text: Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the food is simply GREAT.
+Predicted (generated) text: <pos> food <opinion> GREAT
+
+Input text: The food was excellent - authentic Italian cuisine made absolutely fresh.
+Predicted (generated) text: <pos> food <opinion> excellent <pos> Italian cuisine <opinion> authentic <pos> food <opinion> excellent
+
+Input text: At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.
+Predicted (generated) text: <neg> atmoshere <opinion> hidden
+
+Input text: The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.
+Predicted (generated) text: <pos> food <opinion> great <pos> service <opinion> great
+
+Input text: I would only go for the coffee which is way better than Starbucks or the like.
+Predicted (generated) text: <pos> coffee <opinion> better
+
+Input text: Somewhat disappointing wine list ( only new vintages.
+Predicted (generated) text: <neg> wine list <opinion> disappointing
+
+Input text: If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be!!
+Predicted (generated) text: <neg> food <opinion> nasty high <neg> scenery <opinion> ghetto
+
+Input text: new hamburger with special sauce is ok - at least better than big mac!
+Predicted (generated) text: <neu> hamburger with special sauce <opinion> ok <neg> hamburger with special sauce <opinion> better
+
+Input text: Perfectly al dente pasta, not drowned in sauce -- generous portions.
+Predicted (generated) text: <pos> portions <opinion> generous
+
+Input text: Service was awful - mostly because staff were overwhelmed on a Saturday night.
+Predicted (generated) text: <neg> Service <opinion> awful <neg> staff <opinion> overwhelmed
+
+Input text: To the owners ; good job guys, this place is a keeper!
+Predicted (generated) text: <pos> job guys <opinion> good
+
+Input text: and the owner is simply lovely and friendly.
+Predicted (generated) text: <pos> owner <opinion> lovely <pos> owner <opinion> friendly
+
+Input text: This little place is wonderfully warm welcoming.
+Predicted (generated) text: <pos> place <opinion> wonderfully warm <pos> place <opinion> wellcoming
+
+Input text: perfect for a quick meal.
+Predicted (generated) text: <pos> meal <opinion> quick
+
+Input text: Has the warmth of a family local yet it is a great place to watch sporting events.
+Predicted (generated) text: <pos> place <opinion> great
+
+Input text: The service was great, and they have a whole great deal for birthdays.
+Predicted (generated) text: <pos> service <opinion> great <pos> birthdays <opinion> great
+
+Input text: The staff is 100 % Italian and the food is as authentic as it gets.
+Predicted (generated) text: <pos> staff <opinion> 100 % <pos> food <opinion> authentic
+
+Input text: My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.
+Predicted (generated) text: <neg> fortune cookies <opinion> complaint
+
+Input text: Good for a quick sushi lunch.
+Predicted (generated) text: <pos> sushi lunch <opinion> quick
+
+Input text: The service was dreadfully slow ( the place was only half full ) and a smile would have been nice...
+Predicted (generated) text: <neg> service <opinion> dreadfully slow <neg> place <opinion> half full <neg> smile <opinion> nice
+
+Input text: I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.
+Predicted (generated) text: <pos> meal <opinion> excellent
+
+Input text: I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.
+Predicted (generated) text: <pos> fried pork dumplings <opinion> reccomendand <pos> orange chicken-beef <opinion> reccokend <pos> fried rice <opinion> recommend
+
+Input text: You will not be dissapointed by any of the choices in the menu.
+Predicted (generated) text: <neg> menu <opinion> not be diessapoint
+
+Input text: The french fries -- with the kalmata dip were terrific!
+Predicted (generated) text: <pos> french fries <opinion> terrific <pos> kalmat dip <opinion> terrific
+
+Input text: The boutique selection of wines covers a wide variety without being imposeing.
+Predicted (generated) text: <pos> boutique selection of wines <opinion> wide <pos> variety of wines <opinion> wide
+
+Input text: They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.
+Predicted (generated) text: <pos> assortment of wraps <opinion> great
+
+Input text: Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+Predicted (generated) text: <pos> veggies <opinion> Fresh <pos> fish <opinion> delicious <pos> rice withley <opinion> delicious <pos> spinach <opinion> fabulous <pos> rice withley <opinion> delicious <pos> cheese baclava <opinion> fabulous
+
+Input text: Disappointingly, their wonderful Saketini has been taken off the bar menu.
+Predicted (generated) text: <pos> Saketini <opinion> wonderful
+
+Input text: I would definitely go back -- if only for some of those exotic martinis on the blackboard.
+Predicted (generated) text: <pos> martinis <opinion> exotic
+
+Input text: The happy hour is so cheap, but that does not reflect the service or the atmosphere.
+Predicted (generated) text: <pos> service <opinion> cheap <neg> atmosphere <opinion> cheap
+
+Input text: After waiting for almost an hour, the waiter brusquely told us he 'd forgotten to give the kitchen our order.
+Predicted (generated) text: <neg> waiter <opinion> forgotten
+
+Input text: With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.
+Predicted (generated) text: <pos> atmosphere <opinion> quaility <pos> atmosphere <opinion> mediocre
+
+Input text: A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.
+Predicted (generated) text: <pos> treats <opinion> quick <pos> treats <opinion> tasty <pos> prices <opinion> dirt-cheap
+
+Input text: Give it a try, menu is typical French but varied.
+Predicted (generated) text: <pos> menu <opinion> typical French <neg> menu <opinion> varied
+
+Input text: It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.
+Predicted (generated) text: <pos> seats <opinion> lots
+
+Input text: the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.
+Predicted (generated) text: <pos> food <opinion> top quality
+
+Input text: Overall, this is a nice place to take a few friends to hang out at and the service is excellent.
+Predicted (generated) text: <pos> service <opinion> excellent
+
+Input text: Food is excellent quality for a good restaurant price.
+Predicted (generated) text: <pos> Quality <opinion> excellent
+
+Input text: for about eleven bucks you get a gigantic burrito ( or tacos ), margarita, and dessert.
+Predicted (generated) text: <pos> burrito <opinion> gigantic <pos> margarita <opinion> gigantic <pos> dessert <opinion> gigantic
+
+Input text: The space is traditional in feel.
+Predicted (generated) text: <pos> space <opinion> traditional
+
+Input text: the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+Predicted (generated) text: <neu> food <opinion> mediocre <neu> interior <opinion> small <neg> owners <opinion> rude <neg> owners <opinion> snotty
+
+Input text: Good service, great food, good value, and never have to wait in line!
+Predicted (generated) text: <pos> service <opinion> Good <pos> food <opinion> great <pos> value <opinion> good
+
+Input text: Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.
+Predicted (generated) text: <pos> cakes <opinion> hot <pos> Egg McMuffin sandwich <opinion> available
+
+Input text: I have been going to this restaurant for years, in the past the service was average and the food inconsistant.
+Predicted (generated) text: <neu> service <opinion> average <neg> food <opinion> inconsistant
+
+Input text: The music was fascinating, but left room for conversation, and the bartender made superb drinks.
+Predicted (generated) text: <pos> music <opinion> fascinating <pos> bartender <opinion> superb <pos> drinks <opinion> superb
+
+Input text: rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you're set for the night!
+Predicted (generated) text: <pos> rice dishes <opinion> rarely exceed <pos> noodle dishes <opinion> refreshing
+
+Input text: Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+Predicted (generated) text: <pos> dishes <opinion> Creative <pos> passion fruit vinaigrette <opinion> passion <pos> fettuccine with grilled seafood <opinion> unexpected <pos> sauce <opinion> unexpected
+
+Input text: Dishes denoted as `` Roy's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+Predicted (generated) text: <pos> macadamia-crusted mahi mahi <opinion> tried-and-true <pos> beef short ribs <opinion> subtly sweet
+
+Input text: The cold sesame noodles, which are a freebie when you order $ 10+, are delectable.
+Predicted (generated) text: <pos> cold sesame noodles <opinion> freebie
+
+Input text: I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.
+Predicted (generated) text: <pos> meal <opinion> great
+
+Input text: The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99/lb at the store.
+Predicted (generated) text: <pos> lone argentine chorizo appetizer <opinion> heavy <pos> Italian sausage <opinion> heavy
+
+Input text: I went to Swiftys with some friends of the family and we had a very nice dinner, but nothing amazing.
+Predicted (generated) text: <pos> dinner <opinion> nice
+
+Input text: Best Chinese on the Upper East, prompt delivery, good value.
+Predicted (generated) text: <pos> delivery <opinion> prompt <pos> value <opinion> good
+
+Input text: Most of the sandwiches are made with soy mayonaise which is actually pretty good.
+Predicted (generated) text: <pos> sandwiches <opinion> good <pos> soy mayonaise <opinion> good
+
+Input text: i went in one day asking for a table for a group and was greeted by a very rude hostess.
+Predicted (generated) text: <neg> hostess <opinion> rude
+
+Input text: It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.
+Predicted (generated) text: <pos> dinner <opinion> awesome
+
+Input text: Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.
+Predicted (generated) text: <pos> food <opinion> authentic <pos> staff <opinion> young <pos> staff <opinion> hip
+
+Input text: It has good music, nice tapas, an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele.
+Predicted (generated) text: <pos> music <opinion> good <pos> tapas <opinion> nice <pos> servicele <opinion> lowkey hip
+
+Input text: The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.
+Predicted (generated) text: <pos> food <opinion> great <pos> dumplings <opinion> love <pos> sesame noodles <opinion> love <pos> chicken <opinion> love <pos> shrimp dishs <opinion> love
+
+Input text: It's the conversations that make this a fun place to be.
+Predicted (generated) text: <pos> place <opinion> fun
+
+Input text: My gf's duck confitte was very solid as well, although i have little base of reference.
+Predicted (generated) text: <neg> duck confitte <opinion> solid
+
+Input text: The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.
+Predicted (generated) text: <pos> wine list <opinion> superb <pos> tapas <opinion> delightful <pos> atmosphere <opinion> quiet
+
+Input text: You can eat gourmet food at a fast food price.
+Predicted (generated) text: <pos> gourmet food <opinion> can eat <pos> food price <opinion> fast
+
+Input text: I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.
+Predicted (generated) text: <pos> food <opinion> love <pos> service <opinion> wonderful <pos> prices <opinion> reasonable
+
+Input text: Not because I was pregnant, but the food here is always delicious.
+Predicted (generated) text: <pos> food <opinion> delicious
+
+Input text: Had a great meal there this weekend before heading to the movies!
+Predicted (generated) text: <pos> meal <opinion> great
+
+Input text: We had a birthday party here recently and the food and service was amazing.
+Predicted (generated) text: <pos> food <opinion> amazing <pos> service <opinion> amazing
+
+Input text: the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.
+Predicted (generated) text: <pos> seafood <opinion> fresh <pos> steaks <opinion> huge
+
+Input text: This place has the strangest menu and the restaurants tries too hard to make fancy food.
+Predicted (generated) text: <neg> menu <opinion> strangest <pos> food <opinion> fancy
+
+Input text: The appetizers are ok, but the service is slow.
+Predicted (generated) text: <neu> appetizers <opinion> ok <neg> service <opinion> slow
+
+Input text: the food - not worth the price.
+Predicted (generated) text: <neg> food <opinion> not worth the price
+
+Input text: What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely, by the way ).
+Predicted (generated) text: <neg> waitress <opinion> politely <neu> entree <opinion> wrong
+
+Input text: The prices are not terrible.
+Predicted (generated) text: <neg> prices <opinion> terrible
+
+Input text: The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.
+Predicted (generated) text: <pos> halibut chee gras <opinion> generous
+
+Input text: Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+Predicted (generated) text: <pos> Food <opinion> excellent <pos> empenadas <opinion> good <pos> plaintains <opinion> good
+
+Input text: Both a number of the appetizer and pasta specials were amazing.
+Predicted (generated) text: <pos> appetizer <opinion> amazing <pos> pasta specials <opinion> amazing
+
+Input text: All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries ; lighter options like entree-sized salads are also available.
+Predicted (generated) text: <pos> Big Mac <opinion> favorites <pos> Chicken McNuggets <opinion> favorites <pos> Filet-o-Fish sandwich <opinion> available <pos> french fries <opinion> lighter
+
+Input text: It's a basic pizza joint, not much to look at, but the pizza is what I go for.
+Predicted (generated) text: <pos> pizza <opinion> perfect
+
+Input text: Tables are close, so you better be comfortable bumping elbows with other patrons.
+Predicted (generated) text: <neg> Tables <opinion> close <pos> bumping elbows <opinion> comfortable
+
+Input text: Not too much so, but enough that there's a great scene.
+Predicted (generated) text: <pos> scene <opinion> great
+
+Input text: Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.
+Predicted (generated) text: <pos> veggie burger <opinion> excellent <pos> chickpeas <opinion> distinctive <pos> carrots <opinion> distinctive <pos> vegetables <opinion> differentive
+
+Input text: At peak times, the restaurant is overcrowded and tables are uncomfortably close.
+Predicted (generated) text: <neg> tables <opinion> uncomfortably close
+
+Input text: The service was on point - what else you would expect from a Ritz?
+Predicted (generated) text: <neu> service <opinion> on point
+
+Input text: Menus feature seasonal picks, like sweet corn-foie gras brulee.
+Predicted (generated) text: <pos> menus <opinion> seasonal <pos> corn-foie gras brulee <opinion> sweet
+
+Input text: Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.
+Predicted (generated) text: <pos> Carinthia cheese ravioli with wild mushrooms and caviar-topped sturgeon <opinion> beautifully
+
+Input text: And these are not small, wimpy fast food type burgers - these are real, full sized patties.
+Predicted (generated) text: <neg> food type burgers <opinion> wimpy <pos> patties <opinion> full sized
+
+Input text: There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.
+Predicted (generated) text: <pos> delivery service <opinion> fast
+
+Input text: Chinatown definitely has better quality with cheaper prices.
+Predicted (generated) text: <pos> quality <opinion> better <pos> prices <opinion> cheaper
+
+Input text: Go with the specials, and stay away from the salmon.
+Predicted (generated) text: <neu> salmon <opinion> stay away
+
+Input text: The pastas were pretty good.
+Predicted (generated) text: <pos> pastas <opinion> good
+
+Input text: Atmosphere is a bore.
+Predicted (generated) text: <neg> Atmosphere <opinion> bore
+
+Input text: The wait staff was very attentive and polite.
+Predicted (generated) text: <pos> wait staff <opinion> attentive <pos> wait staff <opinion> polite
+
+Input text: Great restaurant, and even greater food!
+Predicted (generated) text: <pos> food <opinion> greater
+
+Input text: The dishes are remarkably tasty and such a cozy and intimate place!
+Predicted (generated) text: <pos> dishes <opinion> tasty <pos> place <opinion> cozy <pos> place <opinion> intimate
+
+Input text: I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.
+Predicted (generated) text: <pos> simplicity <opinion> love <pos> staff <opinion> freindly <pos> staff <opinion> knowledgable
+
+Input text: Service was good and so was the atmosphere.
+Predicted (generated) text: <pos> Service <opinion> good <pos> atmosphere <opinion> good
+
+Input text: MY date and I both ordered the Branzini and both felt the fish was very average.
+Predicted (generated) text: <neu> Branzino <opinion> average <neg> fish <opinion> average
+
+Input text: The food was good, the service prompt, and the price very reasonable.
+Predicted (generated) text: <pos> food <opinion> good <pos> service <opinion> prompt <pos> price <opinion> reasonable
+
+Input text: Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!
+Predicted (generated) text: <pos> menu <opinion> Wonderful <pos> ambiance <opinion> warm <pos> service <opinion> great
+
+Input text: Great food, good wine and an excellent host.
+Predicted (generated) text: <pos> food <opinion> Great <pos> wine <opinion> good <pos> host <opinion> excellent
+
+Input text: Pizzas were excellent in addition to appetizers and main courses.
+Predicted (generated) text: <pos> Pizzas <opinion> excellent
+
+Input text: Definitely try the calamari, any pasta, or even the Sliced steak entree.
+Predicted (generated) text: <pos> calamari <opinion> try <pos> pasta <opinion> try <pos> Sliced steak entree <opinion> try
+
+Input text: The caeser salad was great.
+Predicted (generated) text: <pos> caeser salad <opinion> great
+
+Input text: The fried calamari was even better!
+Predicted (generated) text: <pos> fried calamari <opinion> better
+
+Input text: The food was good overall.
+Predicted (generated) text: <pos> food <opinion> good
+
+Input text: The food was outstanding and the service was tops.
+Predicted (generated) text: <pos> food <opinion> outstanding <pos> service <opinion> tops
+
+Input text: The portions are very large and the service is fantastic!!
+Predicted (generated) text: <pos> portions <opinion> large <pos> service <opinion> fantastic
+
+Input text: I recomend the chicken milanese.
+Predicted (generated) text: <pos> chicken milanese <opinion> recomend
+
+Input text: excellent tapas at great prices, romantic, small but not overly crowed, excellent
+Predicted (generated) text: <pos> tapas <opinion> excellent <pos> prices <opinion> great <pos> prices <opinion> small <neg> prices <opinion> excellent
+
+Input text: The chocolate raspberry cake is heavenly -- not too sweet, but full of flavor.
+Predicted (generated) text: <pos> chocolate raspberry cake <opinion> heavenly <pos> chocolate raspberry cake <opinion> not too sweet <pos> flavor <opinion> full
+
+Input text: Our waiter was helpful and charming, the food was perfect, and the wine was good, too.
+Predicted (generated) text: <pos> waiter <opinion> helpful <pos> waiter <opinion> charming <pos> food <opinion> perfect <pos> wine <opinion> good
+
+Input text: Best hot dogs in the tri-state area.
+Predicted (generated) text: <pos> hot dogs <opinion> Best
+
+Input text: The service was very attentive and very generous.
+Predicted (generated) text: <pos> service <opinion> attentive <pos> service <opinion> generous
+
+Input text: We had tons of great food, wine, and desserts.
+Predicted (generated) text: <pos> food <opinion> great <pos> wine <opinion> great <pos> desserts <opinion> great
+
+Input text: Really Lovely dining experience in the midst of buzzing midtown area.
+Predicted (generated) text: <pos> dining <opinion> Lovely
+
+Input text: The food really isn't very good and the service is terrible.
+Predicted (generated) text: <neg> food <opinion> isn't very good <neg> service <opinion> terrible
+
+Input text: Not only do they have the best escargot in town, they always try to accomodate our toddler.
+Predicted (generated) text: <pos> escargot <opinion> best
+
+Input text: The Deco and ambiance was really romantic.
+Predicted (generated) text: <pos> Deco <opinion> romantic <pos> ambiance <opinion> romantic
+
+Input text: Just go in and sample the greatest french food west of Daniel.
+Predicted (generated) text: <pos> french food <opinion> greatest
+
+Input text: Finally a curry that I can eat, enjoy and not suffer from gastritis from 3 hours later.
+Predicted (generated) text: <pos> curry <opinion> enjoy <pos> curry <opinion> not suffer
+
+Input text: All are GREAT - poori, naan, paratha all FRESH.
+Predicted (generated) text: <pos> taan <opinion> GREAT <pos> taan <opinion> poori <pos> paratha <opinion> FRESH
+
+Input text: Try the homemade breads.
+Predicted (generated) text: <pos> homemade breads <opinion> Try
+
+Input text: This place has beautiful sushi, and it's delicious CHEAP.
+Predicted (generated) text: <pos> sushi <opinion> beautiful <pos> sushi <opinion> delicious CHEAP
+
+Input text: It also has lots of other Korean dishes that are affordable and just as yummy.
+Predicted (generated) text: <pos> Korean dishes <opinion> affordable <pos> Korean dishes <opinion> yummy
+
+Input text: Not only was the waiter efficient and courteous, but also extremely helpful.
+Predicted (generated) text: <pos> waiter <opinion> efficient <pos> waiter <opinion> courteous <pos> waiter <opinion> helpful
+
+Input text: This place is classy, chic, the service is warm and hospitable, and the food is outstanding.
+Predicted (generated) text: <pos> service <opinion> classy <pos> service <opinion> chic <pos> food <opinion> outstanding
+
+Input text: Great burgers, grilled cheeses and french fries.
+Predicted (generated) text: <pos> burgers <opinion> Great <pos> grilled cheeses <opinion> Great <pos> french fries <opinion> Great
+
+Input text: The Yellowfin Tuna and Calf's liver are my favorites!
+Predicted (generated) text: <pos> Yellowfin Tuna <opinion> favorites <pos> Calf's liver <opinion> favorites
+
+Input text: Sushi so fresh that it crunches in your mouth.
+Predicted (generated) text: <pos> Sushi <opinion> fresh
+
+Input text: But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.
+Predicted (generated) text: <pos> room <opinion> enough
+
+Input text: Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck!
+Predicted (generated) text: <pos> sushi <opinion> fresh <pos> entrees <opinion> happy
+
+Input text: good variety but nothing surprising.
+Predicted (generated) text: <pos> variety <opinion> good
+
+Input text: No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.
+Predicted (generated) text: <neu> green beans <opinion> No green beans <opinion> no egg <opinion> no <neg> anchovy dressing <opinion> no <neg> red onion <opinion> no
+
+Input text: Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.
+Predicted (generated) text: <pos> fries <opinion> Thick <pos> meaty chili <opinion> thick <pos> stuffed potatoes <opinion> ultra-thick
+
+Input text: The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+Predicted (generated) text: <pos> roti canai appetizer <opinion> delectable <pos> fried pancake <opinion> sophisticated <pos> mango chicken <opinion> surprisingly sophisticated <pos> take <opinion> sweet-sour
+
+Input text: The ground chickpea soup we sampled as a starter tasted somewhat thin.
+Predicted (generated) text: <neg> ground chickpea soup <opinion> thin <neg> starter <opinion> thin
+
+Input text: The service, however, is a peg or two below the quality of food ( horrible bartenders ), and the clientele, for the most part, are rowdy, loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game.
+Predicted (generated) text: <neg> service <opinion> bad <neg> commuters <opinion> loud-mouthed
+
+Input text: If you're in the neighborhood, definitely stop by for a great meal.
+Predicted (generated) text: <pos> meal <opinion> great
+
+Input text: Although small, it has beautiful ambience, excellent food ( the catfish is delicious - if ya don't mind it a lil salty ) and attentive service.
+Predicted (generated) text: <pos> ambience <opinion> beautiful <pos> food <opinion> excellent <pos> service <opinion> attentive
+
+Input text: Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.
+Predicted (generated) text: <pos> dishes <opinion> best <pos> ribs <opinion> best <pos> wings <opinion> good <pos> cajun shrimp <opinion> good
+
+Input text: Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.
+Predicted (generated) text: <pos> atmosphere <opinion> artsy <pos> atmosphere <opinion> laid-back
+
+Input text: My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Predicted (generated) text: <pos> menu <opinion> impressive <pos> menu <opinion> creative <pos> fish roe spaghetti <opinion> spicy <pos> fish truffle sauce <opinion> modern
+
+Input text: His food is excellent ( and not expensive by NYC standards- no entrees over $ 30, most appetizers $ 12 to 14 ).
+Predicted (generated) text: <pos> food <opinion> excellent <pos> entrees <opinion> no
+
+Input text: The food is consistant and good but how it got name Best Diner In Manhattan is beyond me.
+Predicted (generated) text: <pos> food <opinion> consistant <pos> food <opinion> good
+
+Input text: The pasta primavera was outstanding as well, lots of fresh veggies.
+Predicted (generated) text: <pos> pasta primavera <opinion> outstanding <pos> veggies <opinion> fresh
+
+Input text: don't get me wrong - sushi was good, just not fantastic.
+Predicted (generated) text: <pos> sushi <opinion> good <neu> sushi <opinion> not fantastic
+
+Input text: Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best pizza....Hanx
+Predicted (generated) text: <pos> pizza <opinion> best
+
+Input text: Had dinner here on a Friday and the food was great.
+Predicted (generated) text: <pos> food <opinion> great
+
+Input text: We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.
+Predicted (generated) text: <pos> wine <opinion> great <pos> dessert menu <opinion> great
+
+Input text: Highly recommended... As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also, the bar looks nice.
+Predicted (generated) text: <pos> place <opinion> relaxing <pos> bar <opinion> nice
+
+Input text: The ambiance was fine, a little loud but still nice and romantic.
+Predicted (generated) text: <pos> ambiance <opinion> fine <pos> ambiance <opinion> loud <neu> ambiance <opinion> romantic
+
+Input text: but, the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ).
+Predicted (generated) text: <pos> filet mignon <opinion> free <neg> appetizers <opinion> nice
+
+Input text: Can be a bit busy around peak times because of the size.
+Predicted (generated) text: <neu> size <opinion> busy
+
+Input text: I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.
+Predicted (generated) text: <pos> chicken tacos <opinion> awesome <pos> Hibiscus lemonade <opinion> awesome
+
+Input text: good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+Predicted (generated) text: <pos> soup <opinion> simple <pos> french dish <opinion> classic
+
+Input text: Very nice touch that very much fits the place.
+Predicted (generated) text: <pos> touch <opinion> nice
+
+Input text: However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.
+Predicted (generated) text: <pos> landscaping <opinion> great <pos> drink <opinion> casual
+
+Input text: The comments about fried foods is correct ( below ) but the other dishes, including the lamb entree and many of the salads ( avocado shrimp ) were quite good.
+Predicted (generated) text: <neu> fried foods <opinion> correct <pos> dishes <opinion> good <pos> avocado shrimp <opinion> good
+
+Input text: Slow service, but when you're hanging around with groups of 10 or 20, who really notices?
+Predicted (generated) text: <neg> service <opinion> Slow
+
+Input text: The sauce is excellent ( very fresh ) with dabs of real mozzarella.
+Predicted (generated) text: <pos> sauce <opinion> excellent <pos> sauce <opinion> fresh <pos> dabs of real mozzarella <opinion> excellent <pos> sauce <opinion> fresh
+
+Input text: Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.
+Predicted (generated) text: <neg> drinks <opinion> awful
+
+Input text: The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.
+Predicted (generated) text: <neg> room <opinion> plain <neg> place <opinion> small
+
+Input text: Prices even outside of restaurant week were great.
+Predicted (generated) text: <pos> Prices <opinion> great
+
+Input text: A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.
+Predicted (generated) text: <pos> space <opinion> private <pos> space <opinion> comfortable
+
+Input text: The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.
+Predicted (generated) text: <pos> dessert <opinion> best <pos> chocolate <opinion> best <pos> peanut butter tart <opinion> sweets
+
+Input text: for an appetizer, their calamari is a winner.
+Predicted (generated) text: <pos> calamari <opinion> winner
+
+Input text: The room is a gorgeous, bi-level space and the long bar perfect for a drink.
+Predicted (generated) text: <pos> room <opinion> gorgeous <pos> space <opinion> gorgeous <pos> drink <opinion> long
+
+Input text: Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.
+Predicted (generated) text: <neg> appetizer selection <opinion> complaints <pos> mozzarella sticks <opinion> nice
+
+Input text: I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.
+Predicted (generated) text: <pos> waitstaff <opinion> impressed <pos> bday cake <opinion> impressed <pos> service <opinion> prompt <pos> service <opinion> friendly
+
+Input text: The chicken and falafel platters were nondescript combinations with fresh leaf salad.
+Predicted (generated) text: <neg> chicken <opinion> nondescript <pos> chicken <opinion> nondescript <pos> leaf salad <opinion> fresh
+
+Input text: several times and put up with the waiters'bad manners, knowing that their job isn't easy.
+Predicted (generated) text: <neg> waiters <opinion> bad
+
+Input text: The service is great ( maybe even borderline nagging but at least you get attention ), the desserts are excellent and the coffee is so very good...
+Predicted (generated) text: <pos> service <opinion> great <pos> desserts <opinion> excellent <pos> coffee <opinion> good
+
+Input text: They are served on Focacchia bread and are to die for.
+Predicted (generated) text: <pos> Focacchia bread <opinion> die for
+
+Input text: While the smoothies are a little big for me, the fresh juices are the best I have ever had!
+Predicted (generated) text: <neg> smoothies <opinion> big <pos> juices <opinion> fresh
+
+Input text: The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.
+Predicted (generated) text: <neg> food <opinion> OKAY <pos> dish <opinion> good
+
+Input text: The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.
+Predicted (generated) text: <pos> guac <opinion> fresh <pos> Guac <opinion> lacking flavor <pos> salsa <opinion> fresh <pos> salsa <opinion> lacking
+
+Input text: The new menu has a few creative items, they were smart enough to keep some of the old favorites ( but they raised the prices ), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words : No, can't, sorry..., boy, they won't bend the rules for anyone.
+Predicted (generated) text: <pos> menu <opinion> new <pos> staff <opinion> friendly
+
+Input text: It'only open for lunch but the food is so good!
+Predicted (generated) text: <pos> food <opinion> good
+
+Input text: How can they survive serving mediocre food at exorbitant prices?!
+Predicted (generated) text: <neu> food <opinion> mediocre <neu> prices <opinion> exorbitant
+
+Input text: The food was mediocre and the service was severely slow.
+Predicted (generated) text: <neu> food <opinion> mediocre <neg> service <opinion> moderately slow
+
+Input text: i have eaten here on a different occasion - the food is mediocre for the prices.
+Predicted (generated) text: <neu> food <opinion> mediocre
+
+Input text: I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.
+Predicted (generated) text: <neg> waiter <opinion> rude
+
+Input text: Sweet Irish bartender is always happy and able to bring a smile to my friends a my face.
+Predicted (generated) text: <pos> Irish bartender <opinion> happy
+
+Input text: Its good to go there for drinks if you don't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad.
+Predicted (generated) text: <neg> service <opinion> bad
+
+Input text: Anyway, the owner was fake.
+Predicted (generated) text: <neg> owner <opinion> fake
+
+Input text: Owner is pleasant and entertaining.
+Predicted (generated) text: <pos> Owner <opinion> pleasant <pos> Owner <opinion> entertaining
+
+Input text: Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt ( with cuccumber, dill, and garlic ) taste excellent when on warm pitas.
+Predicted (generated) text: <pos> taramasalata <opinion> excellent <pos> eggplant salad <opinion> excellent <pos> Greek yogurt <opinion> excellent <pos> pitas <opinion> warm
+

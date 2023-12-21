@@ -1,0 +1,1476 @@
+Input text: ขนมปัง ก็ คุณภาพ เยี่ยม เช่นกัน
+Predicted (generated) text: <pos> ขนมปัง <opinion> เยี่ยม <pos> ขนมปัง <opinion> คุณภาพดี
+
+Input text: ฉัน ต้อง บอ กว่า พวกเขา มี หนึ่ง ใน เวลา จัดส่ง ที่ เร็ว ที่สุด ใน เมือง
+Predicted (generated) text: <neu> จัดส่ง <opinion> เร็ว
+
+Input text: อาหารสด เสมอ และ ร้อน พร้อม รับประทาน!
+Predicted (generated) text: <pos> Food <opinion> สด <pos> Food <opinion> ร้อน
+
+Input text: ได้ บอก ไป รึ ยัง คะ ว่า กาแฟ นี่ มัน อร่อย มาก
+Predicted (generated) text: <pos> กาแฟ <opinion> อร่อย
+
+Input text: แน่นอน ว่า ไม่ ใช่ ซูชิ ที่ ดี ที่สุด ใน นิวยอร์ก แต่ มัน สด เสมอ และ ที่นั่น สะอาด และ เป็นหมัน มาก
+Predicted (generated) text: <pos> ซูชิ <opinion> ดี <pos> ซูชิ <opinion> สะอาด <pos> ซูชิ <opinion> หมัน
+
+Input text: เชื่อใจ คน ที่ โก ซูชิ ค่ะ ไม่ เคย ผิดหวัง เลย
+Predicted (generated) text: <pos> โก ซูชิ <opinion> ผิดหวัง
+
+Input text: ไม่ แปลกใจ เลย เป็น อาหาร ญี่ปุ่น ที่ อร่อย มาก
+Predicted (generated) text: <pos> อาหาร ญี่ปุ่น <opinion> อร่อย
+
+Input text: ที่ ดี ที่สุด ทูน่า ม้วน รส เผ็ด สลัด เอเชีย ที่ ดี
+Predicted (generated) text: <pos> ทูน่า ม้วน รส <opinion> เผ็ด สลัด เอเชีย <opinion> ดี
+
+Input text: ลอง โรล กุหลาบ ( ไม่ ใช่ ใน เมนู )
+Predicted (generated) text: <neu> โรล กุหลาบ <opinion> ลอง
+
+Input text: ฉัน รัก เครื่องดื่ม โดยเฉพาะ ลิ้นจี่ ติ นี่ และ อาหาร ก็ ดีมาก เช่นกัน
+Predicted (generated) text: <pos> เครื่องดื่ม <opinion> รัก <pos> ลิ้นจี่ ติ <opinion> รัก <pos> food <opinion> ดีมาก
+
+Input text: ระหว่าง ที่ มี เมนู ดี ๆ น่าจะ ใช้เวลา 10 นาที ใน การ สั่ง เครื่องดื่ม กับ พิซซ่า ของหวาน 45 นาที
+Predicted (generated) text: <neu> เมนู <opinion> ดี  เครื่องดื่ม <opinion> 20 นาที <neu> พิซซ่า ของหวาน <opinion> decent
+
+Input text: เมื่อ เรา แล่น ไป อาหาร และ ความบันเทิง สด ที่ ขาย เรา ใน ตอนเย็น ที่ น่า จด จํา
+Predicted (generated) text: <pos> Food <opinion> น่า จด จํา <pos> ความบันเทิง สด <opinion> น่า จด จํา
+
+Input text: บริกร ของ เรา น่ากลัว หยาบคาย และ หยาบคาย มาก
+Predicted (generated) text: <neg> บริกร <opinion> น่ากลัว <neg> บริกร <opinion> หยาบคาย <neg> บริกร <opinion> หยาบคาย
+
+Input text: แซง กรี อาส์ เป็น ร้าน ที่ รด น้ํา แล้ว
+Predicted (generated) text: <neg> แซง กรี อาส์ <opinion> รด น้ํา
+
+Input text: เมนู - ไม่ มี เหตุการณ์ เล็ก
+Predicted (generated) text: <neu> menu <opinion> ไม่ มี เหตุการณ์
+
+Input text: ได้ เสมอ ค่ะ ทุกครั้งที่ ฉัน เจอ ฉัน อยู่ ใน ละแวก นี้ ฉัน จะ ไป ซูชิ สดๆ และ อาหาร อร่อย ๆ ใน รา คาที่ สมเหตุสมผล ค่ะ
+Predicted (generated) text: <pos> ซูชิ <opinion> สดๆ <pos> อาหาร <opinion> อร่อย
+
+Input text: อาหาร ที่ ยอดเยี่ยม แต่ บริการ นั้น น่ากลัว!
+Predicted (generated) text: <pos> Food <opinion> consistent <neg> Service <opinion> น่ากลัว
+
+Input text: ส่วน ของ อาหาร ที่ ออกมา นั้น ธรรมดา
+Predicted (generated) text: <neu> Food <opinion> ธรรมดา
+
+Input text: จาก จุดเริ่มต้น, เรา กํา ลัง พบกัน โดย Asssmart พนักงาน ที่ เป็นมิตร, และ ที่จอดรถ ที่ สะดวก ที่ Chelsea Farels. com ทํา ให้ มัน ง่าย สํา หรับ เรา ที่จะ ไป เรือ.
+Predicted (generated) text: <pos> พนักงาน <opinion> เป็นมิตร <pos> ที่จอดรถ <opinion> สะดวก
+
+Input text: ของหวาน เกือบจะ เหลือเชื่อ : ที่ ชื่นชอบ ส่วนตัว ของ ฉัน คือ ทาร์ต ของ วัน
+Predicted (generated) text: <neg> ของหวาน <opinion> เหลือเชื่อ
+
+Input text: อาหาร อร่อย มาก นํา เสนอ ได้ อย่าง สร้างสรรค์ และ ไวน์ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> ไวน์ <opinion> ยอดเยี่ยม
+
+Input text: แคป เปอร์ นี่ มันดี ที่สุด แล้ว ที่ ฉัน เลี้ยง ไว้
+Predicted (generated) text: <pos> แคป เปอร์ <opinion> ดี
+
+Input text: มี ร้าน ซูชิ ที่ สด ใหม่ และ อร่อย ที่สุด ใน นิวยอร์ก ค่ะ
+Predicted (generated) text: <pos> ซูชิ <opinion> สด ใหม่ <pos> ซูชิ <opinion> อร่อย
+
+Input text: ฉัน ขอ แนะ นํา อย่างยิ่ง สํา หรับ ไม่ เพียง แต่ เป็น อาหาร ที่ ยอดเยี่ยม แต่ ยัง สํา หรับ เจ้าของ และ พนักงาน ที่ เป็นมิตร
+Predicted (generated) text: <pos> food <opinion> ยอดเยี่ยม <pos> พนักงาน <opinion> เป็นมิตร
+
+Input text: ถ้า คุณ อยาก ทานอาหาร อินเดีย แท้ๆ และ ต้องการ บรรยากาศ สบาย ๆ เงียบๆ และ เป็น ตัวเลือก ที่ เยี่ยมยอด ค่ะ
+Predicted (generated) text: <pos> atmosphere <opinion> สบาย  atmosphere <opinion> เงียบๆ <pos> atmosphere <opinion> เยี่ยมยอด
+
+Input text: ฉัน สนุก กับ อาหาร เช่นกัน
+Predicted (generated) text: <pos> Food <opinion> สนุก
+
+Input text: มัน เป็นที่ น่ายินดี, บริการ เป็นที่ น่ารื่นรมย์, สวน น่ารัก, อาหาร ( จาก อาหาร เรียก น้ํา ย่อย ไป จนถึง อาหาร เรียก น้ํา ย่อย ) เป็นความ อร่อย.
+Predicted (generated) text: <pos> Service <opinion> น่ารื่นรมย์ <pos> Service <opinion> สวน น่ารัก <pos> น้ํา ย่อย <opinion> น่ายินดี
+
+Input text: อาหาร ดี อย่าง น่า ประหลาดใจ และ การ ตกแต่ง ก็ดี
+Predicted (generated) text: <pos> Food <opinion> decent <pos> ตกแต่ง <opinion> น่า ประหลาดใจ
+
+Input text: MJ Grill ที่ เสแสร้ง และ ไม่ เหมาะสม เพื่อ อ้างว่า มัน ให้ พลังงาน อาหารกลางวัน และ อาหารเย็น!
+Predicted (generated) text: <neg> MJ Grill <opinion> เสแสร้ง <neg> พลังงาน <opinion> mediocent <neu> food <opinion> เย็น
+
+Input text: สเต็ก ที่ สูญเปล่า สอง ตัว - ช่าง เป็น อาชญากรรม!
+Predicted (generated) text: <neg> สเต็ก <opinion> สูญเปล่า <neg> ช่าง <opinion> อาชญากรรม
+
+Input text: พนักงาน ควร เป็นมิตร มากขึ้น อีก เล็กน้อย
+Predicted (generated) text: <pos> พนักงาน <opinion> เป็นมิตร
+
+Input text: คิด ว่า มี ทบ อล พาร์ ม น่าจะ ดี นะคะ
+Predicted (generated) text: <pos> อล พาร์ ม <opinion> ดี
+
+Input text: หาก คุณ ต้องการ รสชาติ ที่ ดี อาหาร ละติน ที่ มีประสบการณ์ ดี กินที่ คา บานา และ คุณ CA และ ไม่ ผิดพลาด
+Predicted (generated) text: <pos> food ละติน <opinion> ดี
+
+Input text: ลอง ใช้ ขนมหวาน กับ ทรัฟเฟิล อย่าง แน่นอน - มัน ช่าง เหลือเชื่อ
+Predicted (generated) text: <pos> ขนมหวาน <opinion> ลอง <pos> tรัฟเฟิล <opinion> เหลือเชื่อ
+
+Input text: นอกจากนี้ พนักงาน ก็ เอาใจใส่ มาก และ เอาใจใส่ จริงๆ
+Predicted (generated) text: <pos> พนักงาน <opinion> เอาใจใส่
+
+Input text: ญ็อก กี้ แท้ ละลาย ใน ปาก ของ คุณ!
+Predicted (generated) text: <neg> ญ็อก กี้ <opinion> ละลาย
+
+Input text: มีประสบการณ์ ที่ ดี ที่ Trio... พนักงาน น่าพอใจ อาหาร อร่อย และ ขนาดใหญ่ ใน ส่วน - ฉัน อยาก จะ แนะ นํา พอร์ต โต เบล โล่ / กอร์กอน โซ / ไส้กรอก เรียก น้ํา ย่อย และ ริ ซอ ต โต ล็อบสเตอร์
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> chicken ตัน โซ <opinion> น่าพอใจ <pos> crustกรอก <opinion> larger
+
+Input text: อาหาร ดี เลย ค่ะ เท อริ ยา กิ ที่ ฉัน แนะ นํา
+Predicted (generated) text: <pos> Food <opinion> decent
+
+Input text: ค วา มี ราคาแพง มาก สํา หรับ สิ่ง ที่ คุณ ได้รับ
+Predicted (generated) text: <neg> price <opinion> แพง
+
+Input text: ลอง ซอร์เบท์ เนย ถั่ว กับ ชีส ถั่วเหลือง ดู สิ
+Predicted (generated) text: <neu> เนย ถั่ว <opinion> ลอง <neu> ชีs ถั่วเหลือง <opinion> ลอง
+
+Input text: อาหาร ดี ใน รา คาที่ เหมาะสม คุณ สามารถ ขอ อะไร ได้ อีก
+Predicted (generated) text: <neu> Food <opinion> ดี
+
+Input text: อาหาร เป็น ชั้นบน, บริการ เป็นที่ เอาใจใส่, และ บรรยากาศ ที่ ดี.
+Predicted (generated) text: <pos> Service <opinion> เอาใจใส่ <pos> atmosphere <opinion> decent
+
+Input text: อาหาร ที่ ยอดเยี่ยม พนักงาน ที่ ดี บรรยากาศ ที่ ดี และ เบียร์ ที่ ยอดเยี่ยม ที่สุด!
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> atmosphere <opinion> ดี <pos> เบียร์ <opinion> ยอดเยี่ยม
+
+Input text: ยังคง เป็นหนึ่ง ใน ร้านอาหาร ที่ ฉัน ชื่นชอบ มาก ที่สุด ใน ย่าน นี้ อาหาร ราคา ไม่ แพง แต่ มี อาหาร มากมาย ( ชุด กิโมโน กุ ง กุ๊ก ดีเลิศ รส ) และ มี บรรยากาศ ที่ ดี
+Predicted (generated) text: <pos> food <opinion> มากมาย <pos> กิโมโน กุn't expensive <pos> atmosphere <opinion> decent
+
+Input text: เมนู น่าสนใจ และ ราคา สมเหตุสมผล
+Predicted (generated) text: <pos> เมนู <opinion> น่าสนใจ <pos> price <opinion> สมเหตุสมผล
+
+Input text: อาหาร อร่อย และ ถูก ใช้ ส่วนผสม สด อย่าง ชัดเจน
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> ingredients <opinion> สด
+
+Input text: สิ่ง นี้ ทํา ให้ ชัดเจน ว่า อาหาร นั้น และ ปรุง ไม่ สด เห็นได้ชัด ว่า มัน ทํา มา ก่อน มือ แล้ว อุ่น
+Predicted (generated) text: <neu> food <opinion> ชัดเจน <neg> spice <opinion> non สด
+
+Input text: อาหารเสริม นั้น ยอดเยี่ยม ที่นี่ ; คุณ สามารถ ทํา ให้อาหาร ที่ ดี ( และ ราคา ไม่ แพง ) ออกจาก พวกเขา
+Predicted (generated) text: <pos> food <opinion> ดี <pos> price <opinion> no แพง
+
+Input text: หอยนางรม ส ไป ซี่ เป็น ไฮไลท์ ค่ะ
+Predicted (generated) text: <pos> หอยนางรม <opinion> ไฮไลท์ <pos> หอยนางรม <opinion> ไฮไลท์
+
+Input text: ยัง ได้ แหวน หัวหอม - ดี ที่สุด ที่ เรา เคย มี มา
+Predicted (generated) text: <pos> แหวน หัวหอม <opinion> ดี
+
+Input text: อย่างไรก็ตาม การ เป็น นัก ชิม เรา ก็ ผิดหวัง กับ อาหาร อย่าง ที่สุด
+Predicted (generated) text: <neg> Food <opinion> ผิดหวัง
+
+Input text: ขนาดใหญ่, บริการ ที่ เอาใจใส่ และ ค่อนข้าง รา คาที่ ดี.
+Predicted (generated) text: <pos> Service <opinion> เอาใจใส่ <pos> Service <opinion> ดี
+
+Input text: ฉัน ผิดหวัง อย่าง มาก กับ การ บริการ และ อาหาร ของ พวกเขา
+Predicted (generated) text: <neg> Service <opinion> ผิดหวัง <neg> food <opinion> ผิดหวัง
+
+Input text: ฉัน บ่น กับ บริกร แล้วไป ยัง ผู้จัดการ แต่ ความ เข้ม ของ ความ เข้ม ของ นัก บริกร จาก พวกเขา เพิ่ง ลุกขึ้น
+Predicted (generated) text: <neg> บริกร <opinion> เข้ม
+
+Input text: อาหาร ที่ ดี และ มิลค์ เชค จะ ดีกว่า!
+Predicted (generated) text: <pos> Food <opinion> decent <pos> มิลค์ เชค <opinion> ดีกว่า
+
+Input text: เห็ด บาร์เลย์ ซุป อร่อย มาก เลย ค่ะ
+Predicted (generated) text: <pos> เห็ด บาร์เลย์ ซุป <opinion> อร่อย
+
+Input text: ฉัน ดีใจ ที่ ฉันท ํา เพราะ อาหาร ดีมาก และ พนักงาน เป็นมิตร สุภาพ และ มีประสิทธิภาพ
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> พนักงาน <opinion> สุภาพ <pos> พนักงาน <opinion> มีประสิทธิภาพ
+
+Input text: เป็ด ของ พวกเขา ที่นี่ อร่อย อย่าง แน่นอน
+Predicted (generated) text: <pos> เป็ด <opinion> อร่อย
+
+Input text: ในขณะที่ มัน ใหญ่ และ มี เสียงดัง เล็กน้อย เครื่องดื่ม ก็ ยอดเยี่ยม และ อาหาร ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> เครื่องดื่ม <opinion> ยอดเยี่ยม <pos> food <opinion> ยอดเยี่ยม
+
+Input text: ข้อแม้ หนึ่ง : บางส่วน ของ แกง กะหรี่ แค ส เซ อร อล อาจ รุนแรง เล็กน้อย
+Predicted (generated) text: <neu> แกง กะหรี่ แคส เซ อร อล <opinion> รุนแรง
+
+Input text: อาหาร นั้น เกือบจะ ยอดเยี่ยม เสมอ
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม
+
+Input text: ฉัน รู้สึก ประหลาดใจ กับ รสชาติ
+Predicted (generated) text: <neg> รสชาติ <opinion> ประหลาดใจ
+
+Input text: พื้นที่ ที่ ดี ตราบใดที่ มัน และ ไม่ ได้ แออัด มากเกินไป และ อุทิศ ตน ให้ กับ อาหาร ที่ เลือก ทํา Mur เป็น ตัวเลือก ที่ ดี สํา หรับ คนรัก อาหารทะเล
+Predicted (generated) text: <pos> พื้นที่ <opinion> ดี
+
+Input text: พวกเขา มี บรรยากาศ ที่ ผ่อนคลาย และ ผ่อนคลาย จริงๆ
+Predicted (generated) text: <pos> atmosphere <opinion> ผ่อนคลาย <pos> atmosphere <opinion> ผ่อนคลาย
+
+Input text: สถานที่ เฉพาะ นี้ ใช้ เนื้อสัตว์ ไม่ ได้มาตรฐาน อย่าง แน่นอน
+Predicted (generated) text: <neu> เนื้อสัตว์ <opinion> deserves
+
+Input text: การ จัดการ นั้น น้อยกว่า การ พูด
+Predicted (generated) text: <neu> จัดการ <opinion> น้อยกว่า
+
+Input text: บรรยากาศ เป็น บรรยากาศ ที่ อบอุ่น และ ผ่อนคลาย มากขึ้น
+Predicted (generated) text: <pos> atmosphere <opinion> อบอุ่น <pos> atmosphere <opinion> ผ่อนคลาย
+
+Input text: ชา ดี และ ขนม ทั้งหมด เป็น โฮมเมด
+Predicted (generated) text: <pos> ชา <opinion> ดี <pos> ขนม <opinion> โฮมเมด
+
+Input text: และ การ บริการ เป็น ส่วน ที่ ดี ที่สุด ใน นั้น
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: แซ น วิ ช เบอร์เกอร์ และ สลัด เหมือนกับ เครื่อง ทํา แซ น วิ ส แซ น วิ ส เป็นความ สําเร็จ แบบ คลาสสิก
+Predicted (generated) text: <pos> แซ น วิ ส <opinion> สําเร็จ <pos> เบอร์เกอร์ <opinion> คลาสสิก <pos> สลัด <opinion> สําเร็จ
+
+Input text: การ ออกแบบ เป็นที่ ใกล้ชิด และ โรแมนติก มาก
+Predicted (generated) text: <pos> ออกแบบ <opinion> ใกล้ชิด <pos> โรแมนติก <opinion> larger
+
+Input text: อาหาร นั้น ยอดเยี่ยม และ จินตนาการ
+Predicted (generated) text: <pos> Food <opinion> consistent <pos> Food <opinion> จินตนาการ
+
+Input text: พนักงาน คม มาก และ ดูดี เช่นกัน
+Predicted (generated) text: <pos> พนักงาน <opinion> คม <pos> พนักงาน <opinion> ดูดี
+
+Input text: รสชาติ ที่ แย่ ที่สุด คือ
+Predicted (generated) text: <neg> flavor <opinion> แย่
+
+Input text: 2. jaja เรา พยายาม ไร้ รสนิยม และ เผา ซอส ก็ หวาน เกินไป
+Predicted (generated) text: <neg> jaja <opinion> ไร้ รสนิยม <neg> เผา ซอs <opinion> หวาน
+
+Input text: บรรยากาศ อบอุ่น สบาย อาร์ต และ เซ็กซี่
+Predicted (generated) text: <pos> atmosphere <opinion> อบอุ่น <pos> atmosphere <opinion> เซ็กซี่
+
+Input text: อาหาร ดีมาก ( ตัวเลือก ใหญ่ ราคา สมเหตุสมผล ) และ เครื่องดื่ม ก็ดี จริงๆ
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> portion ใหญ่ <neu> food <opinion> สมเหตุสมผล <pos> เครื่องดื่ม <opinion> ก็ดี
+
+Input text: อาหาร ใช้เวลา ไม่ กี่ นาที มา แต่ เด็กเสิร์ฟ น่ารัก ตลก และ เป็นมิตร กัน
+Predicted (generated) text: <pos> เด็กเสิร์ฟ <opinion> ตลก <pos> เด็กเสิร์ฟ <opinion> เป็นมิตร
+
+Input text: สิ่ง สําคัญ ที่สุด คือ ราคา สมเหตุสมผล
+Predicted (generated) text: <pos> price <opinion> สมเหตุสมผล
+
+Input text: การ เลือก อาหาร นั้น ยอดเยี่ยม ( ฉัน ไม่ คุ้นเคย กับ การ มี ตัวเลือก มากมาย ที่ ร้านอาหาร ) และ บรรยากาศ ดีมาก
+Predicted (generated) text: <pos> food <opinion> ยอดเยี่ยม <pos> atmosphere <opinion> ดีมาก
+
+Input text: ข้อเสนอแนะ เพียง อย่าง เดียว คือ คุณ ข้าม ของหวาน มัน เกิน ราคา และ ขาด รสชาติ
+Predicted (generated) text: <neu> ของหวาน <opinion> เกิน price <neg> flavor <opinion> ขาด
+
+Input text: อาหาร ดี แต่ ไม่ ดี
+Predicted (generated) text: <neu> Food <opinion> ดี
+
+Input text: มัน เป็น ความสุข ที่ ซ่อนเร้น พร้อม บาร์ แปลกตา และ อาหาร ที่ ดี
+Predicted (generated) text: <pos> ความสุข <opinion> ซ่อนเร้น <pos> บาร์ แปลกตา <pos> food <opinion> decent
+
+Input text: คน เสิร์ฟ มัก โกรธ เสมอ และ เมินเฉย ต่อ Iselly Callel
+Predicted (generated) text: <neg> เสิร์ฟ <opinion> โกรธ
+
+Input text: บรรยากาศ ดีมาก และ เป็นการ หลบ หลีกหนี จาก ที่ เหลือ ของ ห้าง เอส แอล
+Predicted (generated) text: <pos> atmosphere <opinion> ดีมาก
+
+Input text: ใช่ พวกเขา มี ราคาแพง กว่า ปกติ เล็กน้อย แต่ แล้ว อีกครั้ง คือ อาหาร ของ พวกเขา
+Predicted (generated) text: <neg> price <opinion> แพง
+
+Input text: ฉัน บอก ได้ เลย ว่าที่ ห่อ เบอร์เกอร์ และ สลัด สด ใหม่ อร่อย และ มะม่วง ก็ อร่อย ด้วย เงิน 9 ดอลลาร์
+Predicted (generated) text: <pos> เบอร์เกอร์ <opinion> อร่อย <pos> สลัด <opinion> tasty <pos> มะh่วง <opinion> อร่อย
+
+Input text: บริการ ที่ เรา มีประสบการณ์ เป็นมิตร และ ดี
+Predicted (generated) text: <pos> Service <opinion> เป็นมิตร <pos> Service <opinion> ดี
+
+Input text: บริกร ของ เรา เป็นมิตร และ เป็น ความอัปยศ ที่ เขา ไม่ มี พนักงาน สนับสนุน ที่จะ ทํา งาน ด้วย
+Predicted (generated) text: <neg> บริกร <opinion> เป็นมิตร <neg> บริกร <opinion> อัpยศ
+
+Input text: เก้าอี้พับ ที่ ฉัน นั่ง ไม่ สบาย
+Predicted (generated) text: <neu> เก้าอี้พับ <opinion> สบาย
+
+Input text: บริการ เป็นหนึ่ง ใน สิ่ง ที่ ดี ที่สุด ที่ ฉัน เคย มี ใน นิวยอร์ค
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: อัลเฟรโด้ นี่ สุดยอด มาก
+Predicted (generated) text: <pos> อัลเฟรโด้ <opinion> สุดยอด
+
+Input text: อาหาร ดีมาก และ ฉัน ก็ รู้สึก ประหลาดใจ ที่ ได้ เห็น ตัวเลือก มังสวิรัติ มากมาย
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <neg> มังสวิรัติ <opinion> interesting
+
+Input text: ลองดู นะ ว่า เป็น ร้าน แป ลกต์ รมควัน ชอปส์ แกะ ร้าน ชอปส์ชอปส์ แรบบิท มันฝรั่ง บน และ บน...
+Predicted (generated) text: <pos> ร้าน แป lkต์ รมcวัน ชอปส์ <opinion> แรบบิท มันฝรั่ง
+
+Input text: แม้ว่า พ่อครัว จะ ไม่ อยู่ ใน บ้าน แต่ อาหาร และ บริการ ก็ ถูก ต้องตาม เป้าหมาย
+Predicted (generated) text: <neg> food <opinion> ถูก <neg> Service <opinion> ถูก
+
+Input text: ทุกอย่าง จาก ไข่ หอยนางรม ไป จนถึง หอย แมลงภู่ และ แฮมเบอร์เกอร์ ก็ ทํา ได้ดี และ อร่อย มาก
+Predicted (generated) text: <pos> ไข่ หอยนางรม <opinion> ได้ดี <pos> หอย แมลงภู่ <opinion> อร่อย <pos> แฮมเบอร์เกอร์ <opinion> ได้ดี <pos> แฮมเบอร์เกอร์ <opinion> อร่อย
+
+Input text: คน เสิร์ฟ เป็น มืออาชีพ มาก สุภาพ และ เอาใจใส่
+Predicted (generated) text: <pos> เสิร์ฟ <opinion> สุภาพ <pos> เสิร์ฟ <opinion> เอาใจใส่
+
+Input text: ไก่ย่าง ค่อนข้าง สุก และ แห้ง แต่ ไก่ ก็ โอเค
+Predicted (generated) text: <neg> ไก่ย่าง <opinion> สุก <neg> ไก่ <opinion> แห้ง <neg> ไก่ <opinion> โอเค
+
+Input text: ฉัน ขอ แนะ นํา กุ้ง เกรียฟ แกรนด์ ออ สโตน อร่อย มาก
+Predicted (generated) text: <pos> กุ้ง เกรียฟ แกรนด์ ออ สโตน <opinion> อร่อย
+
+Input text: เรา ไป ที่นั่น และ เรา เพลิดเพลิน กับ อาหาร จริงๆ เป็น อาหาร ที่ ดี - อาหาร ที่ ดี และ การ บริการ ก็ดี จริงๆ
+Predicted (generated) text: <pos> Food <opinion> เพลิดเพลิน <pos> food <opinion> ดี <pos> Service <opinion> ก็ดี
+
+Input text: ฉัน หิว มาก และ ชิ้นส่วน เล็ก ๆ ที่ ทํา ให้ ฉัน บ้า!
+Predicted (generated) text: <neg> ชิ้นส่วน <opinion> เล็ก ๆ <opinion> บ้า
+
+Input text: พนักงาน รอ เสียงดัง และ ไม่ ใส่ใจ ผู้อื่น
+Predicted (generated) text: <neg> พนักงาน <opinion> รอ เสียงดัง <neg> พนักงาน <opinion> ไม่ ใส่ใจ
+
+Input text: อย่างไรก็ตาม อาหาร และ บริการ ขาด ไป อย่าง มาก
+Predicted (generated) text: <neg> Food <opinion> ขาด ไป <neg> Service <opinion> ขาด ไป
+
+Input text: ซูชิ ตัด ไป ใหญ่ กว่า มือถือ ฉัน ค่ะ
+Predicted (generated) text: <neu> Sushi <opinion> ใหญ่
+
+Input text: บริการ ดีมาก ซุป ของ ฉัน มาถึง ดี และ ร้อน เสมอ
+Predicted (generated) text: <pos> Service <opinion> ดีมาก <pos> ซุป <opinion> enough <pos> Service <opinion> bad <neg> ซุป <opinion> ร้อน
+
+Input text: มัน ไม่ นาน มา นี้ และ ฉัน ลืม ว่า เครป อร่อย แค่ ไหน
+Predicted (generated) text: <neu> เครป <opinion> อร่อย
+
+Input text: ของหวาน s ของหวาน ของ s - โดยเฉพาะ Retuel ครีม บ รู เล่ และ กระดาษ - แอปเปิ้ล ทาร์ต บาง ๆ - ดี พอ สํา หรับ กา รท ํา ให้ ร้านอาหาร คุ้มค่า กับ การ เดินทาง
+Predicted (generated) text: <pos> Retuel cream <opinion> worth <pos> กระดาษ <opinion> แอปเปิ้ล ทาร์t <opinion> worth
+
+Input text: ฉัน ทาน กุ้ง แสน อร่อย
+Predicted (generated) text: <pos> กุ้ง <opinion> อร่อย
+
+Input text: อาหาร ค่ํา ไก่ นั้น ดี จริง ๆ
+Predicted (generated) text: <pos> Food ค่ํา ไก่ <opinion> decent
+
+Input text: แต่ อาหาร อร่อย
+Predicted (generated) text: <pos> Food <opinion> อร่อย
+
+Input text: ลอง ซี่โครง เนื้อ ร้อน และ คู่ กับข้าว มะพร้าว ค่ะ
+Predicted (generated) text: <pos> ซี่โครง เนื้อ <opinion> ร้อน <pos> ซี่โครง เนื้อ <opinion> คู่
+
+Input text: อะโวคาโด สลัด เป็นที่ชื่นชอบ ส่วนตัว
+Predicted (generated) text: <pos> อะโวคาโด สลัด <opinion> favorite
+
+Input text: แล้วก็ น้ํา ผึ้ง บาร์บีคิว ริบ ทิปส์ อร่อย ค่ะ!
+Predicted (generated) text: <pos> บาร์บีคิว <opinion> อร่อย
+
+Input text: เป็น อาหารจีน ที่ ดี ที่สุด ที่ ร้าน อัพ ทาวน์!
+Predicted (generated) text: <pos> Foodจีน <opinion> decent
+
+Input text: บริการ เป็นที่รู้จัก สํา หรับ การ ดัด ไป ข้างหลัง เพื่อให้ ทุกคน มีความสุข
+Predicted (generated) text: <pos> Service <opinion> มีความสุข
+
+Input text: พนักงาน เป็นมิตร มาก
+Predicted (generated) text: <pos> พนักงาน <opinion> เป็นมิตร
+
+Input text: พาสต้า ไม่ เป็นมิตร และ อยู่ นอก โลก นี้
+Predicted (generated) text: <neg> พาsต้า <opinion> เป็นมิตร
+
+Input text: รายการ ไวน์ ที่ ยอดเยี่ยม และ เมนู ค็อกเทล ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> ไวน์ <opinion> ยอดเยี่ยม <pos> เมนู ค็อกเทล <opinion> ยอดเยี่ยม
+
+Input text: แค รป เค้ก อร่อย และ บาร์บีคิว ริบ ก็ สมบูรณ์แบบ
+Predicted (generated) text: <pos> แค รป เค้ก <opinion> อร่อย <pos> บาร์บีคิว ริบ <opinion> สมบูรณ์
+
+Input text: อาหาร นั้น ยอดเยี่ยม ทํา สวย และ อร่อย
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> Food <opinion> สวย <pos> Food <opinion> อร่อย
+
+Input text: ร้านอาหาร เล็ก ๆ ที่ มี บริการ รวดเร็ว มาก
+Predicted (generated) text: <pos> Service <opinion> รวดเร็ว
+
+Input text: สามี ของ ฉัน และ ฉัน อยู่ ที่นั่น อย่าง น้อย 6 ครั้ง และ เรา ได้รับ การ บริการ สูงสุด เสมอ และ ของหวาน ฟรี บ่อยครั้ง
+Predicted (generated) text: <pos> ของหวาน <opinion> ฟรี
+
+Input text: บรรยากาศ ที่ สวยงาม เหมาะ สํา หรับ เครื่องดื่ม และ / หรือ อาหาร เรียก น้ํา ย่อย
+Predicted (generated) text: <pos> atmosphere <opinion> สวยงาม <pos> เครื่องดื่ม <opinion> เหมาะ <neu> Food <opinion> fancy
+
+Input text: พวกเขา ทํา พิซซ่า ที่ ดี ที่สุด ใน นิวเจอร์ซีย์
+Predicted (generated) text: <pos> พิซซ่า <opinion> ดี
+
+Input text: ช่าง เป็น ความแตกต่าง การ บริการ ที่ สะดวกสบาย มาก และ อาหาร ก็ ดีกว่า ค่าเฉลี่ย แต่ สิ่ง ที่ ดี จริง ๆ ก็ คือ รายการ เบียร์ แบบ ไดนามิก และ กว้างขวาง
+Predicted (generated) text: <pos> ช่าง <opinion> ความแตกต่าง <pos> Food <opinion> ดีกว่า ค่าเฉลี่ย <pos> เบียร์ <opinion> ไดนามิก <pos> เบียร์ <opinion> กว้างขวาง
+
+Input text: จะ ไม่ มองข้าม บริการ เป็นเลิศ
+Predicted (generated) text: <pos> Service <opinion> เลิศ
+
+Input text: ไม่ มี คํา ถาม นี้ เป็นหนึ่ง ใน ฮอต ด็อก ที่ แย่ ที่สุด ที่ ฉัน เคย มี
+Predicted (generated) text: <neg> ฮอt ด็อก <opinion> แย่
+
+Input text: พนักงาน เป็นมิตร อย่าง ไม่ น่าเชื่อ และ ฉัน ฝัน เกี่ยวกับ ผู้พูด ภาษาอังกฤษ ของ พวกเขา... ดีมาก
+Predicted (generated) text: <neu> พนักงาน <opinion> เป็นมิตร
+
+Input text: ฉัน แนะ นํา นอต กระเทียม ด้วย
+Predicted (generated) text: <neu> นอต กระเทียม <opinion> แนะ
+
+Input text: อาหาร อินเดีย ที่ ดี ที่สุด ที่ ฉัน เคย กิน
+Predicted (generated) text: <pos> Food <opinion> ดี
+
+Input text: ร้าน นี้ มี พิซซ่า ที่ ดี ที่สุด ค่ะ
+Predicted (generated) text: <pos> พิซซ่า <opinion> ดี
+
+Input text: เพลง ที่ บางครั้ง หนัก เกินไป สํา หรับ รสนิยม ของ ฉัน
+Predicted (generated) text: <neg> เพลง <opinion> หนัก
+
+Input text: บริการ เป็นเลิศ และ ให้ ข้อมูล เสมอ โดย ไม่ มี อากาศ
+Predicted (generated) text: <pos> Service <opinion> เลิศ <pos> ข้อมูล <opinion> ไม่ มี
+
+Input text: ซูชิ สด และ อร่อย ค่ะ เมนู ค่อนข้าง หลากหลาย
+Predicted (generated) text: <pos> Sushi <opinion> สด <pos> Sushi <opinion> อร่อย <pos> portion <opinion> huge
+
+Input text: อาหาร ดีมาก - ซูชิ ดี แต่ อาหาร ปรุง สุก ประหลาดใจ กับ เรา
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> Sushi <opinion> ดี <neg> food <opinion> ประหลาดใจ
+
+Input text: โปรโมชัน มื้อ เย็น อร่อย มาก เลย ค่ะ
+Predicted (generated) text: <pos> โปรโมชัน มื้อ <opinion> อร่อย
+
+Input text: อาหาร ดี เครื่องดื่ม อร่อย บรรยากาศ ดี ๆ ค่ะ
+Predicted (generated) text: <pos> Food <opinion> ดี <pos> เครื่องดื่ม <opinion> อร่อย <pos> atmosphere <opinion> decent
+
+Input text: ส่วน อาหาร มี ขนาดเล็ก และ ต่ํา กว่า ค่าเฉลี่ย
+Predicted (generated) text: <neg> Food <opinion> ขนาดเล็ก <neg> Food <opinion> ต่ํา  ค่าเฉลี่ย
+
+Input text: นั่ง กลับ ใน เก้าอี้ ที่ สะดวกสบาย เหล่านั้น
+Predicted (generated) text: <pos> เก้าอี้ <opinion> สะดวกสบาย
+
+Input text: สิ่ง ที่ ฉัน โปรดปราน ที่นี่ คือ ทา โก้ เอ็ม เอ็ม ยา ภิ บาล และ คอน ติ โน ลด์ เด อเบเนชันส์...
+Predicted (generated) text: <pos> ทา โก้ <opinion> โปรดปราน <pos> คอน โก้ เอ็ม เอ็ม ยา ภิ บาล <opinion> โปรดปราน
+
+Input text: บาร์เทนเดอร์ กับ ผู้จัดการ ก็ดี จริง ๆ และ การ ตกแต่ง ก็ สะดวกสบาย มาก และ trowz ทุกอย่าง ในขณะที่ อินเทรนด์
+Predicted (generated) text: <pos> บาร์เทนเดอร์ <opinion> สะดวกสบาย <pos> ตกแต่ง <opinion> สะดวกสบาย
+
+Input text: สํา หรับ การ ทาน ซุป และ แซนด์วิช ให้ ลอง ซุป ร้อน และ เปรี้ยว
+Predicted (generated) text: <pos> ซุป <opinion> ร้อน <pos> แซนด์วิช <opinion> เปรี้ยว
+
+Input text: บาร์ นี้ มี ทุกอย่าง - เครื่องดื่ม ที่ ยอดเยี่ยม บรรยากาศ เย็น บริการ ที่ ยอดเยี่ยม และ อาหาร อร่อย
+Predicted (generated) text: <pos> เครื่องดื่ม <opinion> ยอดเยี่ยม <pos> Service <opinion> ยอดเยี่ยม <pos> Food <opinion> tasty
+
+Input text: นอกจากนี้, ไก่ ถั่ว กับ กุ้ง ( เรียก น้ํา ย่อย ) เป็น สวรรค์.
+Predicted (generated) text: <pos> ไก่ ถั่ว กับ กุ้ง <opinion> สวรรค์
+
+Input text: ในที่สุด ฉัน ก็ เบื่อ บริการ ที่ ไม่ ดี และ น่ารังเกียจ - พูด กลับ
+Predicted (generated) text: <neg> Service <opinion> เบื่อ <neg> Service <opinion> น่ารังเกียจ
+
+Input text: เรา สั่ง แกะ ซึ่ง สุก อย่าง สมบูรณ์ และ รสชาติ ยอดเยี่ยม
+Predicted (generated) text: <pos> สุก <opinion> สมบูรณ์ <pos> flavor <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ชอบ แซ น วิ ช ปู เปลือก นุ่ม ๆ ที่ มี มันฝรั่งทอด เป็นพิเศษ
+Predicted (generated) text: <pos> แซ น วิ ช ปู เปลือก นุ่ม  ปู เปลือก <opinion> นุ่ม
+
+Input text: หาก คุณ กํา ลัง มอง หาอาหาร ฮ่องกง แท้ ๆ อีกครั้ง อย่า มองหา อะไร เพิ่มเติม
+Predicted (generated) text: <neu> food <opinion> quite
+
+Input text: อาหาร ดี ๆ ไวน์ ดี ๆ นั่นแหละ ค่ะ
+Predicted (generated) text: <pos> Food <opinion> decent  ไวน์ <opinion> decent
+
+Input text: พนักงาน เป็นมิตร และ มีความสุข อย่าง มาก
+Predicted (generated) text: <pos> พนักงาน <opinion> เป็นมิตร <pos> พนักงาน <opinion> มีความสุข
+
+Input text: ในขณะที่ อาหาร ครัว ของ พวกเขา อร่อย แต่ ซูชิ ของ พวกเขา ไม่ อยู่ ใน โลก นี้
+Predicted (generated) text: <pos> Food ครัว <opinion> อร่อย <neg> ซูชิ <opinion> delicious
+
+Input text: ทุกอย่าง เป็น บริการ ที่ ดี จาก บริกร หญิง ที่ น่ารัก ถึง บรรยากาศ ที่ เขียวชอุ่ม มาก
+Predicted (generated) text: <pos> Service <opinion> ดี <pos> บริกร <opinion> น่ารัก <pos> atmosphere <opinion> เขียวชอุ่ม
+
+Input text: เป็น ร้านอาหาร อิตาเลียน ดั้งเดิม เรียบง่าย ค่ะ
+Predicted (generated) text: <pos> ร้านอาหาร <opinion> เรียบง่าย
+
+Input text: อาหาร อร่อย ค่ะ ปกติ ที่ ร้าน โรล จะ ดีมาก แล้วก็ มี ซูชิ / ซา ชิ มิ ไม่ ได้ อยู่ ใน ระดับ เดียวกัน ค่ะ
+Predicted (generated) text: <pos> Food <opinion> อร่อย
+
+Input text: ( ซา ชิ มิ ตัด บาง ๆ เล็กน้อย
+Predicted (generated) text: <neu> ซา ชิ มิ ตัด บาง.
+
+Input text: นอกจาก ฮอต สุนัข ที่ ยอดเยี่ยม แล้ว มัน ยังมี แซ น วิ ช อาหารเช้า ที่ ยอดเยี่ยม ซึ่ง นอกจาก สิ่ง ที่ ยอดเยี่ยม เช่น กระเด็น กระเป๋าเดินทาง และ มัฟฟิน อังกฤษ ซึ่ง เป็น ผลิตภัณฑ์ หมูป่า แสน อร่อย ที่ รู้จัก กับ เรา Jersey สาว และ เด็กชาย เช่น Taylor แฮม
+Predicted (generated) text: <pos> curry น วิ x อาหารเช้า <opinion> ยอดเยี่ยม <pos> chicken <opinion> ยอดเยี่ยม <pos> มัฟฟิน อังกฤษ <opinion> ยอดเยี่ยม <pos> beef bun อังกฤษ <opinion> ยอดเยี่ยม
+
+Input text: มัน เกิดขึ้น เพราะ ผู้จัดการ ของ บาร์เทนเดอร์ หยาบคาย ที่ ให้ เรา รอ เครื่องดื่ม 20 นาที แล้ว บอก เรา ให้ เย็น ขึ้น
+Predicted (generated) text: <neg> บาร์เทนเดอร์ <opinion> หยาบคาย
+
+Input text: ไม่ เพียง แต่ การ บริการ ที่ ดี แต่ การ จัดการ สนทนา ใน โต๊ะ นั้น ง่าย เพราะ บรรยากาศ สามารถ เป็นได้ ทั้ง ความ โรแมนติก และ สบาย
+Predicted (generated) text: <pos> Service <opinion> ดี <pos> atmosphere <opinion> โรแมนติก <pos> atmosphere <opinion> สบาย
+
+Input text: เมื่อ จาน มาถึง มัน ก็ แจก แจ่มใส กับข้าว สี เขียว - แน่นอน มนุษย์ กิน ไม่ ได้
+Predicted (generated) text: <pos> จาน <opinion> แจ่มใส
+
+Input text: บริการ ที่ แย่ ที่สุด ที่ ฉัน เคย พบ และ อาหาร นั้น ต่ํา กว่า ค่าเฉลี่ย ( เมื่อ พวกเขา ให้อาหาร กับ ผู้คน ที่ พวกเขา สั่ง )
+Predicted (generated) text: <neg> Service <opinion> แย่ <neg> food <opinion> ต่ํา  ค่าเฉลี่ย
+
+Input text: อย่า ลืม ติดตาม อาหาร ของ คุณ ด้วย หนึ่ง ใน น้ํา จืด ของ พวกเขา
+Predicted (generated) text: <neu> Food <opinion> ลืม
+
+Input text: อาหาร ดีมาก และ ราคา สมเหตุสมผล
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> price <opinion> สมเหตุสมผล
+
+Input text: สถานที่ สะอาด และ ถ้า คุณ ชอบ อาหาร โซล นี่ เป็น สถานที่ ที่จะ เป็น!
+Predicted (generated) text: <pos> Food โซล <opinion> ชอบ
+
+Input text: พวกเขา มี ไก่ ที่ ดีมาก กับ อะโวคาโด และ ทูน่า ที่ ดี เช่นกัน
+Predicted (generated) text: <pos> ไก่ <opinion> ดีมาก <pos> อะโวคาโด <opinion> ดีมาก <pos> ทูน่า <opinion> decent
+
+Input text: แต่ อาหาร นั้น แย่มาก
+Predicted (generated) text: <neg> Food <opinion> แย่มาก
+
+Input text: ไก่ ของ ฉัน แห้ง สนิท และ ใน ด้าน เย็น และ ซอส ก็ ไม่ ได้ มี รสชาติ มาก
+Predicted (generated) text: <neg> ไก่ <opinion> แห้ง  ซอs <opinion> ไม่ ได้ มี flavor
+
+Input text: นม มอลต์ บอล - คุณ ไม่ เคย สัมผัส อะไร เลย ใน ชีวิต ของ คุณ เลย ยอดเยี่ยม อย่าง น่าขัน?
+Predicted (generated) text: <pos> นม มอลต์ <opinion> น่าขัน
+
+Input text: วิธี เงิน มากเกินไป สํา หรับ มื้อ อาหาร ที่ น่ากลัว
+Predicted (generated) text: <neg> มื้อ Food <opinion> น่ากลัว
+
+Input text: อย่างไรก็ตาม บริการ น่ากลัว อย่าง แน่นอน
+Predicted (generated) text: <neg> Service <opinion> น่ากลัว
+
+Input text: ข้อเสีย คือ บริการ บาร์ ช้า
+Predicted (generated) text: <neg> Service บาร์ <opinion> ช้า
+
+Input text: ขนมหวาน ก็ ตาย เพื่อ!
+Predicted (generated) text: <neu> ขนมหวาน <opinion> ตาย
+
+Input text: อย่างไรก็ตาม บริการ ดีมาก
+Predicted (generated) text: <pos> Service <opinion> ดีมาก
+
+Input text: แสง ที่ ไม่ สวย ทํา ให้ ฉัน อยาก ปิดปาก อาหาร ก็ เกิน รา คามี ดิสโก้ ป๊อป ดูโอ อัน น่ากลัว ที่สุด ดิสโก้ ป๊อป ดูโอ ของ ฉัน. ดูเหมือนว่า มัน จะ คลาน ออกจาก จา น.
+Predicted (generated) text: <neg> แสง <opinion> ไม่ สวย <neg> dimsโก้ ป๊อป <opinion> น่ากลัว
+
+Input text: เป็น ร้าน ที่ สบาย ๆ นั่ง ไป กับ เพื่อน ๆ สอง คน ค่ะ
+Predicted (generated) text: <pos> ร้าน <opinion> สบาย ๆ
+
+Input text: บริการ ดี เสมอ และ เจ้าของ เดิน ไป รอบ ๆ เพื่อให้ แน่ใจ ว่า คุณ เพลิดเพลิน
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: อาหาร อร่อย และ แนะ นํา เป็น อย่างยิ่ง
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> Food <opinion> แนะ นํา
+
+Input text: ดังนั้น สํา หรับ การ เติม และ อาหาร เพื่อ สุขภาพ ให้ มัน ไป
+Predicted (generated) text: <neu> เติม <opinion> สํา หรับ <neu> Food <opinion> healthy
+
+Input text: ตั้งแต่ ฉันท ํา อาหาร เพื่อ เลี้ยงชีพ ฉัน จุกจิก มาก เกี่ยวกับ อาหาร ที่ ฉัน กินใน ร้านอาหาร
+Predicted (generated) text: <neg> อาหาร <opinion> จุกจิก
+
+Input text: บริการ โดดเด่น
+Predicted (generated) text: <pos> Service <opinion> โดดเด่น
+
+Input text: เรา ชอบ กิน พิซซ่า เสมอ
+Predicted (generated) text: <pos> พิซซ่า <opinion> ชอบ
+
+Input text: บริการ ค่อนข้าง ดี
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: น่าอร่อย ค่ะ ไก่ อร่อย มาก
+Predicted (generated) text: <pos> ไก่ <opinion> น่าอร่อย
+
+Input text: อาหาร ที่นี่ ยอดเยี่ยม การรักษา ตั้ง แต่ต้นจนจบ
+Predicted (generated) text: <pos> Food <opinion> consistent
+
+Input text: เจ้าของ ( เจ้าของ ) และ เซิร์ฟเวอร์ เป็น ผู้ดูแล และ ให้การ ดูแล
+Predicted (generated) text: <pos> เจ้าของ <opinion> เจ้าของ <neu> เซิร์ฟเวอร์ <opinion> ผู้ดูแล
+
+Input text: มัน เป็น เพียง ทุกอย่าง... อาหาร บรรยากาศ... อาหาร ที่ ใจดี และ มี น้ํา ใจ ปฏิคม
+Predicted (generated) text: <pos> atmosphere <opinion> ใจดี <pos> food <opinion> ใจดี
+
+Input text: อาหาร ดีมาก และ บริการ ดีมาก
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> Service <opinion> ดีมาก
+
+Input text: เรา สงสัย ว่า ทําไม พวกเขา อยู่ ที่นั่น เพื่อ ทํา ให้ ประสบการณ์ การ รับประทาน อาหาร ของ เรา มีความสุข
+Predicted (generated) text: <pos> Food <opinion> มีความสุข
+
+Input text: สถานที่ แห่ง นี้ มี อาหาร อินเดีย ที่ ดี ที่สุด ใน นิวยอร์ก
+Predicted (generated) text: <pos> Food <opinion> decent
+
+Input text: คน เสิร์ฟ จะ เป็นมิตร และ เป็นประโยชน์ มาก และ ถ้า คุณ บ่อย พวกเขา จะ จํา คุณ ได้
+Predicted (generated) text: <pos> เสิร์ฟ <opinion> เป็นมิตร <pos> เสิร์ฟ <opinion> เป็นประโยชน์
+
+Input text: เป็นที่ ใกล้ชิด แต่ มีเสน่ห์ ด้านใน ที่ เป็นมิตร และ เอาใจใส่
+Predicted (generated) text: <pos> Relationships <opinion> เป็นมิตร <pos> atmosphere <opinion> เอาใจใส่
+
+Input text: อาหาร มี ความคิดสร้างสรรค์ เหมือน การ ตกแต่ง และ ทั้งคู่ ทํา งาน
+Predicted (generated) text: <pos> Food <opinion> ความคิดสร้างสรรค์
+
+Input text: เมนู ดีมาก มี เมนู ให้ เลือก เยอะ และ ทุกอย่าง ที่ ฉัน ได้ ลอง มา อร่อย มาก
+Predicted (generated) text: <pos> เมนู <opinion> ดีมาก <pos> เมนู <opinion> huge
+
+Input text: ซอส นั้น มีชีวิตชีวา และ มี รสชาติ และ เปลือก ก็ดี และ กรอบ
+Predicted (generated) text: <pos> ซอs <opinion> มีชีวิตชีวา <pos> เปลือก <opinion> ก็ดี <pos> กรอบ <opinion> มีชีวิตชีวา
+
+Input text: ร้าน นี้ มี ซูชิ ที่ ดี ที่สุด ใน เมือง ค่ะ
+Predicted (generated) text: <pos> ซูชิ <opinion> decent
+
+Input text: พวกเขา มี ตัวเลือก ที่ ยอดเยี่ยม ( ม้วน กับ ปู นั้น ยอดเยี่ยม มาก )
+Predicted (generated) text: <pos> ตัวเลือก <opinion> ยอดเยี่ยม <pos> ม้วน กับ ปู <opinion> ยอดเยี่ยม
+
+Input text: ทุกคน ที่ ทํา งาน ที่นั่น ( เจ้าบ้าน บาร์เทนเดอร์ เซิร์ฟเวอร์ ) เป็นประโยชน์ มาก
+Predicted (generated) text: <pos> งาน <opinion> เป็นประโยชน์
+
+Input text: และ อาหาร ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม
+
+Input text: พาล ล่า รวม มันฝรั่ง ปวยเล้ง ย็อก กี้ กับ เนื้อ แกะ ค่ะ
+Predicted (generated) text: <pos> มันฝรั่ง ปวยเล้ง ย็อก กี้ <opinion> pretty
+
+Input text: แต่ แบบ ธรรมดา รู้ ว่า แซนด์วิช นี่ ได้ ดาว จริง ๆ ค่ะ
+Predicted (generated) text: <neu> แซนด์วิช <opinion> ธรรมดา
+
+Input text: รถเข็น ชีส ของ โปรตุเกส เลือก ความ ชํา นา ญ ที่ จับคู่ กับ พอร์ต ที่ มี คุณภาพ ให้ ตอนจบ ที่ สมบูรณ์แบบ ไอบีเรีย
+Predicted (generated) text: <pos> ไอบีเรีย <opinion> สมบูรณ์แบบ
+
+Input text: เพื่อน ของ ฉัน มี เบอร์เกอร์ และ ฉัน มี แพน เค้ก บลูเบอร์รี่ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> เบอร์เกอร์ <opinion> ยอดเยี่ยม <pos> แพน เค้ก บลูเบอร์รี่ <opinion> ยอดเยี่ยม
+
+Input text: เรา มีความสุข มาก กับ อาหาร ของ เรา และ ตื่นเต้น ยิ่งขึ้น เมื่อ เรา เห็น ใบ เรียกเก็บเงิน
+Predicted (generated) text: <pos> Food <opinion> มีความสุข
+
+Input text: ท้อป ปิง ทั้งหมด สด มาก เลย ค่ะ คิด ว่าที่ ร้าน มี สวนผัก ของ ตัวเอง แล้วก็ ขอบ ดีมาก ที่จริง แล้ว คิด ว่า ทํา ยังไง ค่ะ
+Predicted (generated) text: <pos> ท้อp ปิง <opinion> สด
+
+Input text: เรา ได้รับ การ บริการ ที่ ยอดเยี่ยม และ เรา รัก อาหาร เสมอ
+Predicted (generated) text: <pos> Service <opinion> ยอดเยี่ยม <pos> Food <opinion> รัก
+
+Input text: พนักงาน บริกร นั้น เชี่ยวชาญ และ เป็นมิตร และ ดูเหมือน จะ ดี เสมอ ที่จะ เห็น เรา และ อาหาร นั้น ยอดเยี่ยม ถ้า ไม่ มี ความคิดสร้างสรรค์ อย่าง ที่สุด
+Predicted (generated) text: <pos> พนักงาน บริกร <opinion> เชี่ยวชาญ <pos> พนักงาน บริกร <opinion> เป็นมิตร <pos> food <opinion> consistent
+
+Input text: ผม ชอบ ร้า นรา ลี่ รา วิ โอ ลี่
+Predicted (generated) text: <pos> ร้า นรา ลี่ <opinion> ชอบ
+
+Input text: เรา เจอ ภัตตาคาร นี้ โดยบังเอิญ ในขณะที่ เทศกาล ดัม โบ้ และ เพลิดเพลิน กับ อาหาร ของ เรา อย่าง ละเอียด
+Predicted (generated) text: <pos> ภัตตาคาร <opinion> spectacular
+
+Input text: บริการ เป็นเลิศ ไม่ต้อง รอ และ คุณ จะ ได้รับ มาก สํา หรับ ราคา
+Predicted (generated) text: <pos> Service <opinion> เลิศ
+
+Input text: ฉัน คิด ว่า อาหาร นั้น ไม่ แพง เลย เมื่อ เทียบ กับ ไชน่า ทาวน์
+Predicted (generated) text: <neu> Food <opinion> non expensive
+
+Input text: กาแฟ เป็น ข้อเสนอ ที่ ดีกว่า ราคาแพง เกินไป - แซ น วิ ช
+Predicted (generated) text: <neg> กาแฟ <opinion> ดีกว่า priceแพง
+
+Input text: ไม่ ใช่ ร้านอาหาร ญี่ปุ่น ที่ ดี ที่สุด ใน หมู่บ้าน ตะวันออก แต่ เป็น ร้านอาหาร ที่ ค่อนข้าง แข็ง ใน รา คาที่ ค่อนข้าง พอใช้ และ คุ้มค่า ที่จะ ไป เยี่ยม อีกครั้ง
+Predicted (generated) text: <pos> ร้านอาหาร <opinion> พอใช้ <neg> รา คา ญี่ปุ่น <opinion> แข็ง
+
+Input text: อาหาร ดีมาก และ เป็นที่นิยม มาก จน การ รอ สามารถ เป็น ฝันร้าย ได้
+Predicted (generated) text: <pos> Food <opinion> ดีมาก <pos> Food <opinion> เป็นที่นิยม
+
+Input text: เดิน ครั้งแรก ใน สถานที่ ดูเหมือน จะ มี บรรยากาศ ที่ ดี
+Predicted (generated) text: <pos> atmosphere <opinion> ดี
+
+Input text: แม้แต่ คน หิวโหย สอง คน ก็ มี อาหาร เหลือเฟือ ให้ ถูก พา กลับบ้าน ( มัน อร่อย มาก เช่นกัน )
+Predicted (generated) text: <pos> อาหาร <opinion> เหลือเฟือ
+
+Input text: แต่อย่างใด พวกเขา ทํา แป้ง แห้ง และ ไหม้ ประมาณ ดิบ และ เย็น ภายใน
+Predicted (generated) text: <neg> แป้ง <opinion> แห้ง <neg> dim้ <opinion> ดิบ <neg> dim้ <opinion> เย็น
+
+Input text: มัน เป็น เพียง อาหาร ที่ ดี ไม่ มี อะไร อีกแล้ว และ นั่น คือ ทั้งหมด ที่ เรา ต้องการ!
+Predicted (generated) text: <pos> food <opinion> ดี
+
+Input text: เค้ก ที่ มักจะ ถูก กล่าวหา โดย โฆษณา มากมาย
+Predicted (generated) text: <neg> เค้ก <opinion> ถูก กล่าวหา
+
+Input text: ภรรยา กับ ผม เพิ่ง ไป ร้านอาหาร บิ ส โต รส ํา หรับ ดินเนอร์ และ มีประสบการณ์ ที่ ดี ครับ
+Predicted (generated) text: <pos> ดินเนอร์ <opinion> ดี
+
+Input text: การ บริการ นั้น สมบูรณ์แบบ เกินไป ไม่ มี อะไร ผิด ใน Nonlys นี้ / saufon
+Predicted (generated) text: <pos> Service <opinion> สมบูรณ์แบบ
+
+Input text: สเต็ก ราคา 72 ดอลลาร์สหรัฐ ต้อง ส่งกลับ เพราะ มัน ไม่ สุก เพื่อ สั่งซื้อ
+Predicted (generated) text: <neu> สเต็ก <opinion> ไม่ สุก
+
+Input text: บริการ รวดเร็ว และ เป็นมิตร จริง ๆ และ คุ้มค่า มาก
+Predicted (generated) text: <pos> Service <opinion> รวดเร็ว <pos> Service <opinion> เป็นมิตร <pos> Service <opinion> worth
+
+Input text: เรา ประทับใจ มาก กับ อาหาร และ คุณค่า
+Predicted (generated) text: <pos> Food <opinion> ประทับใจ <pos> คุณค่า <opinion> ประทับใจ
+
+Input text: คุณ ต้อง ลอง ซุป กระเทียม!
+Predicted (generated) text: <pos> ซุป กระเทียม <opinion> ลอง
+
+Input text: คา ซา บ ลัง ก้า คา ซา บ ลัง ก้า ฟา ลา เฟล อร่อย ซา ลา เฟล เกน ทาร์ คา รา และ เม ดิ เต อ เร เนียน อื่น ๆ สุข ซึ่ง ทั้งหมด ราคา ไม่ แพง มาก
+Predicted (generated) text: <neu> price <opinion> expensive
+
+Input text: พิซซ่า ทําสด ใหม่ กรอบ และ พร้อม เสิร์ฟ
+Predicted (generated) text: <pos> พิซซ่า <opinion> สด ใหม่ กรอบ <pos> พิซซ่า <opinion> พร้อม เสิร์ฟ <opinion> พร้อม
+
+Input text: เสนาธิการ คือ Zook ให้ แน่ใจ ว่า คุณ เป็น a. com.
+Predicted (generated) text: <pos> เสนาธิการ <opinion> แน่ใจ
+
+Input text: ร้าน ซูชิ สดๆ ราคา ย่อมเยา
+Predicted (generated) text: <pos> ซูชิ <opinion> ย่อมเยา
+
+Input text: แซง เกรีย อร่อย และ อร่อย มาก ค่ะ
+Predicted (generated) text: <pos> แซง เกรีย <opinion> อร่อย <pos> แซง เกรีย <opinion> อร่อย
+
+Input text: สิ่ง หนึ่ง ที่ เป็น บวก ที่ ฉัน สามารถ พูด ได้ คือ การ บริการ รวดเร็ว เรา ได้ นั่ง ทันที และ เซิร์ฟเวอร์ เป็นมิตร มาก
+Predicted (generated) text: <pos> Service <opinion> รวดเร็ว <pos> เซิร์ฟเวอร์ <opinion> เป็นมิตร
+
+Input text: พนักงานต้อนรับ ฉัน อย่าง อบอุ่น ที่ ประตู และ ฉัน นั่ง ทันที และ อาหาร ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> พนักงานต้อนรับ <opinion> อบอุ่น <pos> ประตู <opinion> อบอุ่น <pos> food <opinion> ยอดเยี่ยม
+
+Input text: บริการ มักจะ ค่อนข้าง ดี
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: โฮสต์ และ โฮสต์ - มัน ค่อนข้าง หยาบคาย
+Predicted (generated) text: <neg> โฮสต์ <opinion> หยาbคาย <neg> โฮสต์ <opinion> หยาbคาย
+
+Input text: พนักงาน รอ นั้น เป็นมิตร มาก ถ้า คุณ ไม่ หยาบคาย หรือ พิถีพิถัน... อาหาร ที่ Leon เมื่อ สัปดาห์ ที่แล้ว ยอดเยี่ยม -
+Predicted (generated) text: <pos> พนักงาน <opinion> เป็นมิตร
+
+Input text: ฉัน แนะ นํา อาหาร ปลา แซลมอน ของ พวกเขา...
+Predicted (generated) text: <pos> Food ปลา แซlมอน <opinion> แนะ
+
+Input text: เดินเล่น ใน ทุ่ง แก รส มี ความหวาน และ เย้ายวนใจ
+Predicted (generated) text: <pos> ทุ่ง แก รส <opinion> หวาน <pos> ทุ่ง แก รส <opinion> เย้ายวนใจ
+
+Input text: เมนู ซึ่ง การเปลี่ยนแปลง ของ ฤดูกาล จะ แสดง ทั้ง อิทธิพล ของ ภูมิภาค และ นานาชาติ
+Predicted (generated) text: <pos> เมนู <opinion> อิทธิพล
+
+Input text: แต่ แม็ค ชีส ของ พวกเขา นั้น อร่อย มาก!
+Predicted (generated) text: <pos> แม็ค ชีs <opinion> อร่อย
+
+Input text: นักร้อง แจ๊ส มี เสียงดี + เธอ ทํา ให้ พวกเรา ทุกคน เต้น เพื่อ สั่น บาง สาย เพื่อ กิน มากขึ้น
+Predicted (generated) text: <pos> นักร้อง <opinion> แจ๊s <opinion> เสียงดี
+
+Input text: พวกเขา มี บริการ ที่ รวดเร็ว มาก ซึ่ง ยอดเยี่ยม เมื่อ คุณ ทํา และ ไม่ มี เวลา มาก
+Predicted (generated) text: <pos> Service <opinion> รวดเร็ว
+
+Input text: อาหาร เป็น อาหาร โดยเฉลี่ย : อาหาร มื้อ เช้า ซุป สลัด แซนด์วิช และ อื่น ๆ
+Predicted (generated) text: <neu> food <opinion> の平均
+
+Input text: ฉัน ตะไคร้ กับ อาหาร
+Predicted (generated) text: <neu> Food <opinion> ตะไคร้
+
+Input text: บ้า จริง พวกเขา เห็น พวกเขา ไม่ เคย ดู เตาอบ มา ก่อน เตาอบ นั้น เป็น วิธี ที่ จบ ไป แล้ว และ อย่า เข้าใจ ฉัน ลงมือ ทําบน ความชอบ มาก ๆ เลย นะ ช่าง เป็น MAC และ ชีส
+Predicted (generated) text: <pos> เตาอบ <opinion> ชอบ
+
+Input text: พนักงาน เป็น คน หยิ่ง ราคา สูง สํา หรับ บรู๊ค ลิ น
+Predicted (generated) text: <pos> พนักงาน <opinion> หยิ่ง <pos> price สูง
+
+Input text: บริการ เป็นมิตร รวดเร็ว
+Predicted (generated) text: <pos> Service <opinion> เป็นมิตร รวดเร็ว
+
+Input text: นี่ คือ จุด ร้อนที่ แท้จริง เมื่อ พูดถึง อาหาร
+Predicted (generated) text: <neg> จุด ร้อน
+
+Input text: ฉาก บาร์ ชั้นล่าง นั้น เจ๋ง มาก และ ชิล ๆ...
+Predicted (generated) text: <pos> บาร์ <opinion> เจ๋ง
+
+Input text: อาหาร นั้น ดี อย่าง แน่นอน แต่ เมื่อ ทุก คนพูด และ ทํา ฉัน ก็ ไม่ สามารถ พิสูจน์ ได้ ใน ราคา ( รวมถึง เครื่องดื่ม 2 อย่าง $ 100 / คน )...
+Predicted (generated) text: <pos> Food <opinion> decent
+
+Input text: หาก คุณ เป็น แฟน เต กี ล่า คุณ จะ ไม่ ผิดหวัง
+Predicted (generated) text: <neg> เต กี ล่า <opinion> ผิดหวัง
+
+Input text: มี เบียร์ ให้ เลือก เยอะ ด้วย ค่ะ มี เบียร์ 50 แบบ ค่ะ
+Predicted (generated) text: <pos> เบียร์ <opinion> huge
+
+Input text: ไม่ ให้ ฟัง ดู เป็น ลบ เกินไป แต่ ระวัง supports
+Predicted (generated) text: <neg> supports <opinion> ระวัง
+
+Input text: ฉัน พบ ว่า อาหาร นั้น ดี เหมือน เจ้าของ Da Galano ราคา ถูก กว่า มาก
+Predicted (generated) text: <pos> Food <opinion> ดี
+
+Input text: พวกเขา มี พาสต้า โฮมเมด ทุกชนิด - ฉัน แนะ นําญ็อก กี้ - น่าอร่อย!
+Predicted (generated) text: <pos> พาสต้า โฮมเมด <opinion> น่าอร่อย
+
+Input text: ริ ซอ ต โต ผัก ของ ฉัน ถูก เผา และ ผสม ทั้งหมด ใน รสชาติ ที่ ถูก เผา
+Predicted (generated) text: <neg> ซอ ต โต ผัก <opinion> เผา <neg> flavor <opinion> empty
+
+Input text: การจับสลาก หลัก ของ สถานที่ นี้ คือ ราคา
+Predicted (generated) text: <neu> สถานที่ <opinion> price
+
+Input text: แต่ อาหารเย็น ที่นี่ ไม่ เคย น่า ผิดหวัง แม้ว่า ราคา จะ อยู่ ด้านบน เล็กน้อย
+Predicted (generated) text: <neg> foodเย็น <opinion> wouldn't น่า ผิดหวัง
+
+Input text: พวกเขา ไม่ เพียง แต่ มี ยอดเยี่ยม, แซนด์วิช, ซุป, พิซซ่า ฯลฯ เท่านั้น แต่ ซอร์เบต โฮมเมด ของ พวกเขา หมด ใน โลก นี้!
+Predicted (generated) text: <pos> แซนด์วิช <opinion> ยอดเยี่ยม <pos> ซุป <opinion> ยอดเยี่ยม <pos> พิซซ่า <opinion> ยอดเยี่ยม <pos> sauce <opinion> ยอดเยี่ยม
+
+Input text: อาหารจานหลัก โฮมเมด เจ้า นี้ ไม่ น่าเชื่อ และ เจ้า ทะเลทราย ที่ น่าทึ่ง ที่สุด
+Predicted (generated) text: <pos> ทะเลทราย <opinion> น่าtึ่ง
+
+Input text: ซูชิ มีราคา สมเหตุสมผล และ สด
+Predicted (generated) text: <pos> ซูชิ <opinion> สมเหตุสมผล <pos> Sushi <opinion> สด
+
+Input text: ประหยัด พื้นที่ สํา หรับ ของหวาน - พวกเขา'จะ ตาย เพื่อ
+Predicted (generated) text: <neu> atmosphere <opinion> ประหยัด
+
+Input text: รายการอาหาร อิตาเลียน แบบ ดั้งเดิม นั้น ยอดเยี่ยม - ราคา ถูก และ เสิร์ฟ ใน บรรยากาศ ที่ อบอุ่น
+Predicted (generated) text: <pos> food <opinion> consistent <pos> price <opinion> ถูก <pos> atmosphere <opinion> อบอุ่น
+
+Input text: บริการ ค่อนข้าง ช้า และ บางส่วน เล็ก ไป หน่อย ดังนั้น หาก คุณ หิว และ รีบเร่ง นี่ ไม่ ใช่ สถานที่ สํา หรับ คุณ
+Predicted (generated) text: <neg> Service <opinion> ช้า <neg> สถานที่ <opinion> เล็ก  place <opinion> pretty
+
+Input text: เอ ล มาริ โน เป็น ร้านอาหาร ที่ ดี ที่สุด ใน นิวยอร์ก เคย ไป เลย ค่ะ อร่อย ปา กรด น้ํา พิซซ่า ค่ะ
+Predicted (generated) text: <pos> ปา กรด น้ํา พิซซ่า <opinion> อร่อย
+
+Input text: บริการ ค่อนข้าง แย่ รอบ ๆ อาหาร ดี ต่ํา กว่า ค่าเฉลี่ย เมื่อ เทียบ กับ ค่าใช้จ่าย และ ข้างนอก มี บัม บ้า ที่ บ้าคลั่ง ที่ ดูแล ลูกค้า ทุกคน ที่ ออกจาก สถานที่
+Predicted (generated) text: <neg> Service <opinion> แย่ <neg> ค่าใช้จ่าย <opinion> ต่ํา  rัม บ้า <opinion> บ้าคลั่ง
+
+Input text: แม้ว่า ฉัน จะ ย้าย ออกจาก ย่านที่อยู่อาศัย ฉัน พยายาม หยุด ให้ มาก ที่สุด เท่า ที่จะ เป็นไปได้ สํา หรับ อาหาร ราคา ถูก สุด ๆ และ จ่าย เงิน ให้ แก่ พนักงาน ที่มา เยือน
+Predicted (generated) text: <neg> Food price <opinion> ถูก สุด.
+
+Input text: เชฟ วิน เชน โซ่ ส์ ที่นั่น เสมอ ถ้า คุณ ต้องการ เขา เป็น ความสามารถ ที่ แท้จริง และ เป็น โรมัน ที่ แท้จริง
+Predicted (generated) text: <pos> โรมัน <opinion> ความสามารถ
+
+Input text: หาก คุณ กํา ลัง มอง หาอาหาร อินเดีย ที่ ยอดเยี่ยม และ ต้องการ บริการ ที่ ดี แน่นอน ไป ที่ Curry Leaf
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> Service <opinion> decent
+
+Input text: คุณ ต้อง ลอง สตูว์ โอ เด ส ซา หรือ สตูว์ กระต่าย ; สลัด droper ดี ; และ Proper สดชื่น ใน ระหว่าง วัน ฤดูร้อน ( พวกเขา ทํา ให้ มัน เป็น วิธี ที่ แม่ ของ ฉันท ําทํา ให้ ฉัน นึกถึง บ้าน มาก )
+Predicted (generated) text: <neu> สตูว์ โอ เด S ซา <opinion> ลอง <pos> สลัด droper <opinion> ดี
+
+Input text: ลูกสาว ของ ฉัน และ ฉัน ก็ รู้สึก พอใจ ( ไม่ ยัดไส้ ) และ รู้สึก ดี ที่ รู้ ว่า เรา มี อาหารกลางวัน เพื่อ สุขภาพ
+Predicted (generated) text: <pos> Foodกลางวัน <opinion> พอใจ
+
+Input text: คุณภาพ ของ เนื้อสัตว์ นั้น ใกล้เคียง กับ ร้าน ขายของ ชํา ใน พื้นที่ ของ คุณ
+Predicted (generated) text: <pos> เนื้อสัตว์ <opinion> ใกล้เคียง <pos> เนื้อสัตว์ <opinion> comparable
+
+Input text: ฉัน แนะ นํา black คั่ว มัน เป็น อาหาร ที่ ดี ที่สุด ใน ตอนเย็น
+Predicted (generated) text: <pos> food <opinion> decent
+
+Input text: จากนั้น ผู้จัดการ ก็ บอก เรา ว่า เรา สามารถ สั่งซื้อ จาก เมนู ที่ เรา ต้องการ ได้ แต่ ในเวลานั้น เรา รู้สึก รํา คา ญ กับ พนักงานเสิร์ฟ และ ร้านอาหาร ที่ เรา ปล่อย ให้ และ ไป ที่อื่น
+Predicted (generated) text: <neu> เมนู <opinion> รํา คา ญ
+
+Input text: ใน เบอร์ ริ โต้ ค่ะ ไม่ มี อะไร นอกจาก ไก่ สีเข้ม ที่ ปรุง สุก เมื่อ สัปดาห์ ที่แล้ว และ อุ่น ใน รสชาติ ไมโครเวฟ ค่ะ
+Predicted (generated) text: <pos> ไก่ สีเข้ม <opinion> ปรุง สุก <pos> chicken <opinion> อุ่น
+
+Input text: ระหว่าง ชั่วโมง ที่ ยุ่ง ฉัน แนะ นํา ให้ คุณ จอง ค่ะ
+Predicted (generated) text: <neu> จอง <opinion> ยุ่ง
+
+Input text: ฉัน ไป ที่ สต๊อก ทั่วไป สํา หรับ มื้อ สาย และ ฉัน ก็ ประทับใจ มาก
+Predicted (generated) text: <pos> dining สาย <opinion> ประทับใจ
+
+Input text: ตอนนี้ เรียก ว่า ร้าน ซูชิ ค่ะ ซูชิ ก็ โอเค ค่ะ
+Predicted (generated) text: <neg> ซูชิ <opinion> โอเค
+
+Input text: อาหาร นั้น ยอดเยี่ยม และ ให้บริการ ค่อนข้าง เร็ว
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> ให้บริการ <opinion> เร็ว
+
+Input text: อาหาร อร่อย และ บาร์ มี บรรยากาศ ที่ ดี
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> บาร์ <opinion> ดี <pos> atmosphere <opinion> decent
+
+Input text: อาหาร ที่ ดี ต่อ สุขภาพ อย่าง ง่าย ราคา ถูก
+Predicted (generated) text: <pos> Food <opinion> ดี <pos> สุขภาพ <opinion> ง่าย
+
+Input text: มัน เป็น ประสบการณ์ การ รับประทาน อาหาร ที่ ยอดเยี่ยม ที่ ฉัน กลับมา อีกครั้ง ใน สัปดาห์ เดียวกัน
+Predicted (generated) text: <pos> รับประทาน Food <opinion> ยอดเยี่ยม
+
+Input text: เพื่อ ความเป็นธรรม อาหาร ยังคง ดี และ การ บริการ นั้น รวดเร็ว และ สะดวกสบาย แม้ว่า มัน จะ ยุ่ง มาก
+Predicted (generated) text: <pos> ความเป็นธรรม Food <opinion> ดี <pos> Service <opinion> รวดเร็ว <pos> Service <opinion> สะดวกสบาย
+
+Input text: สถานที่ น่ารัก อย่าง แน่นอน และ อาหาร อร่อย
+Predicted (generated) text: <pos> สถานที่ <opinion> น่ารัก <pos> Food <opinion> อร่อย
+
+Input text: ฉัน มี อาหาร ญี่ปุ่น ที่ ดีกว่า ที่ ห้าง ฟู้ด คอร์ท
+Predicted (generated) text: <pos> Food ญี่ปุ่น <opinion> ดีกว่า
+
+Input text: สมาชิก พนักงาน เป็นมิตร อย่างยิ่ง และ แทนที่ เครื่องดื่ม ของ ฉัน เมื่อ ฉัน ทิ้ง มัน ไว้ ด้านนอก
+Predicted (generated) text: <pos> เครื่องดื่ม <opinion> เป็นมิตร
+
+Input text: บรรยากาศ ดี ๆ นะคะ แต่ เป็น แบบ นั้น ก็ได้ ค่ะ
+Predicted (generated) text: <pos> atmosphere <opinion> decent
+
+Input text: ส่วน ซา ชิ มิ นั้น ใหญ่ พอที่จะ เอาใจ คน ส่วนใหญ่ แต่ ฉัน ไม่ ชอบ ความจริง ที่ว่า พวกเขา ใช้เนื้อ กุ้ง ล็อบสเตอร์ แบบ คลาสสิก
+Predicted (generated) text: <neu> Sushi ชิ มิ <opinion> ใหญ่
+
+Input text: มี แป้ง สา ลีค รัสต์ พิซซ่า ทํา ด้วย ส่วนผสม สด และ อร่อย มาก ๆ ค่ะ
+Predicted (generated) text: <pos> แป้ง สา ลีค รัสต์ พิซซ่า <opinion> สด <pos> แป้ง สา ลีค พิซซ่า <opinion> อร่อย
+
+Input text: ทาน อาหารเย็น ที่ น่ารัก ใน ร่วม อาหารทะเล ที่ ทุ่มเท นี้ อาหาร เป็น scharken และ super และ การ บริการ เป็นที่ น่ารื่นรมย์ และ รวดเร็ว
+Predicted (generated) text: <pos> Foodเย็น <opinion> น่ารัก <pos> Service <opinion> น่ารื่นรมย์ <pos> Service <opinion> super
+
+Input text: ไอ ซิ่ง ทํา เค้ก นี้ มัน นุ่ม ไม่ หวาน เป็นพิเศษ ครีม และ เบา
+Predicted (generated) text: <neg> เค้ก <opinion> นุ่ม <neg> ครีม <opinion> เบา
+
+Input text: ในที่สุด ก็ ปล่อย ให้ เข้าไป ใน ร้านค้า 5 ใน เวลา หนึ่ง เพื่อ ซื้อ ชิ้น ราคาแพง จาก พนักงาน Kanza
+Predicted (generated) text: <neg> ชิ้น <opinion> priceแพง
+
+Input text: ในที่สุด เรา ก็ ต้อง ออก ไป เพราะ เรา ถูก เมิน โดย พนักงาน รอ - แม้ว่า ส่วนที่เหลือ ของ ร้านอาหาร นั้น ว่างเปล่า เป็นส่วนใหญ่
+Predicted (generated) text: <neu> พนักงาน <opinion> รอ
+
+Input text: รายการ ไวน์ กว้างขวาง ราคา ดี และ ครอบคลุม พื้นที่ จํานวน มาก
+Predicted (generated) text: <pos> ไวน์ <opinion> กว้างขวาง <pos> ไวน์ <opinion> ดี <pos> พื้นที่ <opinion> ครอบคลุม
+
+Input text: ไป ที่นี่ ถ้า คุณ ต้อง การสลัด สด และ อร่อย ทุก ประเภท ที่ คุณ สามารถ จินตนาการ ได้
+Predicted (generated) text: <pos> สลัด สด <opinion> tasty <pos> ประเภท <opinion> จินตนาการ
+
+Input text: ทุกอย่าง เกี่ยวกับ สถานที่ นี้ น่ารัก - แม้แต่ ห้อง น้ํา!
+Predicted (generated) text: <pos> สถานที่ <opinion> น่ารัก
+
+Input text: ส่งผ่าน อาหาร ที่ ดี รา คาที่ เหมาะสม และ บริการ เป็นมิตร รวม เพื่อให้ แน่ใจ ว่า เป็น อาหาร ที่ สนุกสนาน
+Predicted (generated) text: <pos> Food <opinion> ดี <pos> คาที่ <opinion> เหมาะสม <pos> Service <opinion> เป็นมิตร <pos> food <opinion> สนุกสนาน
+
+Input text: มัน เป็น พวกเรา คนเดียว ที่ USSIT เพื่อ VILIT และ ต้องการ ให้ NAN AUTHENT LIAN ANANES
+Predicted (generated) text: <neg> LIAN ANANES <opinion> AUTHENT
+
+Input text: ใช้เวลา 100 ปี สํา หรับ ปา รี ซี ใน กา รท ํา พิซซ่า ( อย่าง น้อย ฉัน ก็ ทํา และ ไม่ คิด ว่า พวกเขา เคย ทํา มา ก่อน ปี นี้ )... แต่ มัน ก็ คุ้มค่า กับ การ รอ
+Predicted (generated) text: <pos> ปา รี ซี <opinion> worth <pos> ปา รี ซี <opinion> worth
+
+Input text: อยาก กิน สเต็ก หา ยาก ถาด กลาง ค่ะ
+Predicted (generated) text: <neu> สเต็ก <opinion> หา ยาก
+
+Input text: เฟล ลา ฟา ลา เฟล และ สลัด เมดิเตอร์เรเนียน - ชั้น เป็น อาหาร กาด, ชีส แพะ และ วอลนัท -- อร่อย
+Predicted (generated) text: <pos> เฟล ลา เฟล <opinion> อร่อย <pos> ชีs แพะ <opinion> อร่อย <pos> วอลนัท <opinion> อร่อย
+
+Input text: อาจ เป็น ประสบการณ์ การ รับประทาน อาหาร ที่ แย่ ที่สุด ของ ฉัน ใน นิวยอร์ก และ ฉัน เป็นอดีต พนักงานเสิร์ฟ ดังนั้น ฉัน จึง รู้ ว่า ฉัน พูดถึง อะไร
+Predicted (generated) text: <neg> food <opinion> แย่
+
+Input text: ผล (กํา มะ หยี่ สีแดง ): เนื้อ สัมผัส ที่ ดี นุ่ม และ นุ่ม ดุ จก ํา มะ หยี่ คํา ใบ้ ที่ ดี ของ โกโก้
+Predicted (generated) text: <pos> เนื้อ สัมผัส <opinion> ดี นุ่ม <pos> เนื้อ สัมผัส <opinion> นุ่ม <pos> โกโก้ <opinion> ดี
+
+Input text: ทวิสต์บน พิซซ่า มี สุขภาพ ดี ค่ะ แต่ รสชาติ ก็ เต็ม
+Predicted (generated) text: <pos> ทวิสต์บน พิซซ่า <opinion> สุขภาพ <pos> flavor <opinion> เต็ม
+
+Input text: การ ขาด AC และ ความจริง ที่ว่า มี หน่วยงาน รวม รวม เป็น ล้าน ตัว ( แม้ว่า ทุกคน จะ สุภาพ และ ไม่ มี ใคร ผลักดัน ) เป็นตัว ปิด เล็กน้อย
+Predicted (generated) text: <neg> AC <opinion> ขาด
+
+Input text: ฉัน ชอบ บริษัท ลิต เติ้ล พาย คอม พา นี มาก เท่ากับ คนอื่น ที่ เขียน บทวิจารณ์ แต่ ต้อง กีดกัน ไม่ ให้ ใคร มา เยี่ยม ที่ สาขา แกรนด์ เซ นท รัล เนื่องจาก บริการ รถ ยนตร์ ของ พวกเขา จาก การ ขาย สอง คน
+Predicted (generated) text: <pos> Service <opinion> ชอบ <neg> ลิต เติ้ล พาย คอม <opinion> ชอบ
+
+Input text: น่าเสียดาย ที่ ถ้า คุณ อาศัย อยู่ ใน พื้นที่ ใกล้เคียง มัน ไม่ ได้ อยู่ ใน สถานที่ ที่ สะดวก แต่ เป็น เหมือน สมบัติ ที่ซ่อน อยู่
+Predicted (generated) text: <neg> สถานที่ <opinion> สะดวก
+
+Input text: อาหาร - แม้ว่า ส่วนใหญ่ เป็น อาหาร - เรียบง่าย และ น่าพอใจ
+Predicted (generated) text: <pos> Food <opinion> เรียบง่าย <pos> Food <opinion> น่าพอใจ
+
+Input text: เป้ น นี่ อาจจะ เล็ก เกินไป สํา หรับ ร้านอาหาร ตาม มาตรฐาน ของ รัสเซีย แต่ มัน อบอุ่น และ อาหาร ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> food <opinion> ยอดเยี่ยม
+
+Input text: อาหาร นั้น ยอดเยี่ยม - อาหาร อิตาเลียน แท้ ๆ ทําสด ใหม่ อย่าง แน่นอน
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> Food <opinion> consistent <pos> Food <opinion> worth <pos> Food <opinion> consistent
+
+Input text: ตอนกลางคืน ความเปลี่ยนแปลง ใน อัญมณี ที่ซ่อน อยู่ นี้ ที่ กํา ลัง รอ ที่จะ ค้นพบ
+Predicted (generated) text: <neu> อัญมณี <opinion> เปลี่ยนแปลง
+
+Input text: คราว อื่น ที่ ผม ไป คือ'เดท โรแมนติก สวรรค์, คุณ สามารถ เดิน เข้าไป ได้ที่ บูธ โดย หน้าต่าง, ได้รับ การปฏิบัติ เหมือน วีไอพี ใน สถานที่. กับ อาหาร และ การ บริการ ที่ ดี.
+Predicted (generated) text: <pos> Service <opinion> ดี
+
+Input text: ฉัน ไป แค่ กาแฟ ซึ่ง ดีกว่า สตาร์บัคส์ หรือ ชอบ
+Predicted (generated) text: <neu> กาแฟ <opinion> ดีกว่า
+
+Input text: รายการ ไวน์ ที่ น่า ผิดหวัง ( มี เพียง รายการ ใหม่
+Predicted (generated) text: <neg> ไวน์ <opinion> ผิดหวัง
+
+Input text: หาก คุณ กํา ลัง มอง หาอาหาร ราคา สูง ที่ น่ารังเกียจ ที่ มี เส้นประ สลัม ทิวทัศน์ ราคา ถูก BX $$ นี่ คือ สถานที่ ที่จะ เป็น!!
+Predicted (generated) text: <neg> food <opinion> สูง <neg> เส้นประ สลัม ทิวทัศน์ <opinion> น่ารังเกียจ
+
+Input text: แฮมเบอร์เกอร์ ใหม่ พร้อม ซอส พิเศษ ก็ โอเค - อย่าง น้อย ก็ ดีกว่า mac ขนาดใหญ่!
+Predicted (generated) text: <neu> แฮมเบอร์เกอร์ <opinion> โอเค <pos> ซอs <opinion> โอเค
+
+Input text: พาสต้า กรุ บดี อัลกัล ไม่ จม น้ํา ใน ซอส - บางส่วน ของ น้ํา ตาก
+Predicted (generated) text: <neu> น้ํา <opinion> จm
+
+Input text: บริการ แย่มาก - ส่วนใหญ่ เป็น เพราะ พนักงาน ถู กค รอ บง ํา ใน คืน วัน เสาร์
+Predicted (generated) text: <neg> Service <opinion> แย่
+
+Input text: เจ้าของ ; งาน ที่ ดี พวก สถานที่ แห่ง นี้ เป็น ผู้รักษา!
+Predicted (generated) text: <pos> งาน <opinion> ดี
+
+Input text: และ เจ้าของ ก็ น่ารัก และ เป็นมิตร
+Predicted (generated) text: <pos> เจ้าของ <opinion> น่ารัก <pos> เจ้าของ <opinion> เป็นมิตร
+
+Input text: ที่ เล็ก ๆ นี่ อบอุ่น มาก ๆ ค่ะ
+Predicted (generated) text: <pos> place <opinion> อบอุ่น
+
+Input text: เหมาะ สํา หรับ มื้อ อาหาร ด่วน
+Predicted (generated) text: <neu> food <opinion> เหมาะ
+
+Input text: อบอุ่น ของ ครอบครัว ใน ท้องถิ่น แต่ เป็น สถานที่ ที่ ดี ใน การ รับ ชม กีฬา
+Predicted (generated) text: <pos> สถานที่ <opinion> ดี
+
+Input text: บริการ ดีมาก, และ พวกเขา มี ทั้ง ดีล ที่ ดี สํา หรับ วันเกิด.
+Predicted (generated) text: <pos> Service <opinion> ดีมาก <pos> ดีล <opinion> decent
+
+Input text: พนักงาน มี อาหาร อิตาเลียน 100 % และ อาหาร เป็น ของแท้ ตามที่ ได้
+Predicted (generated) text: <neu> Food <opinion> อิตาเลียน <pos> Service <opinion> ของแท้
+
+Input text: ข้อ ร้องเรียน เพียง อย่าง เดียว ของ ฉัน อาจ เป็น คุกกี้ โชคลาภ - ฉัน ไม่ เคย มี คุกกี้ ทํา นาย โชคไม่ดี สํา หรับ ฉัน ก่อนที่ ฉัน จะ ไป เยี่ยม a. com
+Predicted (generated) text: <neu> คุกกี้ <opinion> โชคลาภ
+
+Input text: เหมาะ สํา หรับ มื้อ กลางวัน ซูชิ แบบ ด่วน
+Predicted (generated) text: <neu> ซูชิ <opinion> ด่วน
+
+Input text: บริการ ช้า มาก อย่าง น่ากลัว ( สถานที่ นั้น เต็ม เพียง ครึ่ง เดียว ) และ รอยยิ้ม ก็ คงจะ ดี...
+Predicted (generated) text: <neg> Service <opinion> ช้า <neg> Service <opinion> น่ากลัว <neg> รอยยิ้ม <opinion> ดี
+
+Input text: ฉัน ไป เมื่อ วัน เสาร์ ที่ผ่านมา และ ทานอาหาร ที่ ยอดเยี่ยม ที่ ทํา จาก เนื้อ แกะ ตุ๋น ไส้ แกะ ตุ๋น กับ มันฝรั่ง บด
+Predicted (generated) text: <pos> ทานอาหาร <opinion> ยอดเยี่ยม
+
+Input text: ฉัน ขอ แนะ นํา เกี๊ยว หมู ทอด เนื้อไก่ / เนื้อ ส้ม และ ข้าวผัด
+Predicted (generated) text: <pos> เกี๊ยว หมู ทอด เนื้อไก่ <opinion> แนะ นํา <opinion> เกี๊ยว หมู ทอด เนื้อ ส้ม <opinion> แนะ นํา <opinion> 
+
+Input text: คุณ จะ ไม่ ผิดหวัง กับ ตัวเลือก ใด ๆ ใน เมนู
+Predicted (generated) text: <neg> portion <opinion> non ผิดหวัง
+
+Input text: เฟรนช์ ฟ ราย - กับ ทิช ชู่ นั้น ยอดเยี่ยม มาก!
+Predicted (generated) text: <pos> เฟรนช์ ฟ ราย <opinion> ยอดเยี่ยม <pos> ทิช ชู่ <opinion> ยอดเยี่ยม
+
+Input text: บูติก ไวน์ มี ไวน์ ให้ เลือก มากมาย
+Predicted (generated) text: <pos> บูติก ไวน์ <opinion> บูติก
+
+Input text: พวกเขา ยังมี assortment ของ การ ห่อหุ้ม ถ้า คุณ ไม่ ได้ อยู่ ใน อารมณ์ สํา หรับ อาหาร เมดิเตอร์เรเนียน แบบ ดั้งเดิม
+Predicted (generated) text: <neu> Food <opinion> ดั้งเดิม
+
+Input text: ผัก สดๆ เรียงราย อยู่ ตรงกลาง เป็นแนว ตะวันออก ชีส ฟา ลา เฟล ซุป ปลา ข้าว ผัก ราก ข้าว ผสม กับ ผักโขม เคบับ เนื้อ แกะ ชีส เคบับ มา กก กก กก กก กก กก. อร่อย มาก
+Predicted (generated) text: <pos> ผัก <opinion> สดๆ <neu> chicken <opinion> crispy <neu> vegetables <opinion> tasty
+
+Input text: เอิ่ม วิเศษ มาก เลย ค่ะ ได้ ออกจาก เมนู บาร์ แล้ว
+Predicted (generated) text: <pos> บาร์ <opinion> วิเศษ
+
+Input text: ฉัน จะ กลับ ไปดู แน่นอน ถ้า แค่ มาร์ ติ นีส ที่ แปลก ๆ บน กระดาน ดํา ก็ พอ
+Predicted (generated) text: <neu> มาร์ ติ นีs <opinion> แปลก
+
+Input text: ชั่วโมง แห่ง ความสุข นั้น ราคา ถูก มาก แต่ นั่น ไม่ ได้ สะท้อน บริการ หรือ บรรยากาศ
+Predicted (generated) text: <pos> ความสุข <opinion> ความสุข <opinion> price
+
+Input text: หลังจาก รอ เป็นเวลา เกือบ หนึ่ง ชั่วโมง บริกร Martri บอ กว่า เขา ลืม ที่จะ ให้ คํา สั่งซื้อ ห้องครัว ของ เรา
+Predicted (generated) text: <neu> ห้องครัว <opinion> ลืม
+
+Input text: ด้วย สถานที่ ธรรมดา หรือ ธรรมดา ทั้งหมด บน ถนน 8 มัน เป็นเรื่อง ดี ที่ มี หนึ่ง ที่ ก้าว ขึ้นไป ใน ความไม่สมดุล และ บรรยากาศ
+Predicted (generated) text: <neg> สถานที่ <opinion> decent
+
+Input text: การ ผสมผสาน ของ นักเรียน และ ฝูงชน ใน พื้นที่ เข้ามา ใน พื้นที่ แคบ นี้ แทบจะ ไม่ มี พื้นที่ สํา หรับ เร็ว อร่อย ใน ราคา.
+Predicted (generated) text: <pos> นักเรียน <opinion> เก่ง <pos> ฝูงชน <opinion> อร่อย
+
+Input text: ลองดู สิ เมนู เป็น ภาษา ฝรั่งเศส ทั่วไป แต่ หลากหลาย
+Predicted (generated) text: <pos> สิ เมนู <opinion> ลองดู
+
+Input text: มี คน เยอะ ช่วง เที่ยง แต่ มี ที่นั่ง แถว หลัง เยอะ มาก ค่ะ ทุกคน ที่ ทํา งาน ที่นั่น ดีมาก
+Predicted (generated) text: <neu> ที่นั่ง <opinion> เยอะ
+
+Input text: ความคิดเห็น เชิงลบ เกี่ยวกับ การ ค้นหา ใน เมือง อาจ มาจาก ร้านอาหาร คู่แข่ง ที่ อิจฉา ที่ ตระหนักถึง พวกเขา CA และ แข่งขัน กับ ทัศนคติ เชิง บวก ทั้งหมด เกี่ยวกับ วิธี ที่ เหมาะ สมใน การรักษา ลูกค้า และ ส่งมอบ อาหาร ที่ มี คุณภาพ สูงสุด
+Predicted (generated) text: <pos> ทัศncติ <opinion> บวก <neg> serving <opinion> adequate
+
+Input text: โดยรวม แล้ว นี่ เป็น สถานที่ ที่ ดี ที่จะ ใช้ เพื่อน สอง สาม คน เพื่อ ออก ไปเที่ยว และ บริการ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> Service <opinion> ยอดเยี่ยม
+
+Input text: อาหาร มี คุณภาพ ดีเยี่ยม สํา หรับ ร้านอาหาร ราคา ดี
+Predicted (generated) text: <pos> Food <opinion> delicious <pos> คุณภาพ <opinion> ดีเยี่ยม
+
+Input text: ประมาณ สิบเอ็ด เหรียญ ได้ เบอร์ ริ โต้ ขนาดใหญ่ ( หรือ ทา โก้ ) มาร์ กา ริ ต้า และ ของหวาน ค่ะ
+Predicted (generated) text: <pos> เบอร์ ริ โต้ ขนาดใหญ่ <pos> crust <opinion> ขนาดใหญ่ <pos> ของหวาน <opinion> huge
+
+Input text: พื้นที่ เป็น แบบ ดั้งเดิม ใน ความรู้สึก
+Predicted (generated) text: <neu> พื้นที่ <opinion> traditional
+
+Input text: อาหาร นั้น ธรรมดา ที่จะ ใจดี - การ ตกแต่งภายใน มี ขนาดเล็ก และ โดยเฉลี่ย - เจ้าของ เป็น คน หยาบคาย - หยาบคาย และ หยาบคาย มาก - จริง ๆ แล้ว ฉัน ปล่อย ให้อาหาร อร่อย - ระหว่าง รับประทาน อาหาร
+Predicted (generated) text: <neu> food <opinion> ธรรมดา <neg> ตกแต่งภายใน <opinion> ขนาดเล็ก <neg> food <opinion> หยาบคาย <neg> food <opinion> หยาบคาย
+
+Input text: บริการ ที่ ดี อาหาร ที่ ดี คุ้มค่า และ ไม่ต้อง รอ ใน บรรทัด!
+Predicted (generated) text: <pos> Service <opinion> ดี <pos> food <opinion> decent
+
+Input text: ขนมปัง กรอบ เช่น เค้ก ร้อน และ แซ น วิ ช ไข่ มี ให้บริการ เป็น อาหารเช้า
+Predicted (generated) text: <pos> ขนมปัง กรอบ <opinion> ร้อน <neu> crust <opinion> แซ น วิ ช ไข่ <opinion> ให้บริการ
+
+Input text: ฉัน จะ ไป ร้านอาหาร นี้ มา หลาย ปี แล้ว ใน อดีต การ บริการ เป็น อาหาร โดยเฉลี่ย และ อาหารเสริม
+Predicted (generated) text: <neu> Food <opinion> โดยเฉลี่ย <neu> อาหารเสริม <opinion> expensive
+
+Input text: เพลง นั้น น่าหลงใหล แต่ ออกจาก ห้อง สํา หรับ การ สนทนา และ บาร์เทนเดอร์ ทํา เครื่องดื่ม ที่ ยอดเยี่ยม
+Predicted (generated) text: <neg> เพลง <opinion> หลงใหล <neu> บาร์เทนเดอร์ <opinion> ยอดเยี่ยม
+
+Input text: ข้าว อาหาร จาน กับ ก๋วยเตี๋ยว จาน ไม่ค่อย เกิน $ 5 และ เติม เครื่องดื่ม น้ํา แข็ง ที่ สดชื่น ใน ราคา $ 2 และ คุณ ตั้งค่า ใหม่ สํา หรับ คืน!
+Predicted (generated) text: <pos> ข้าว อาหาร จาน <opinion> สดช่น <neg> เครื่องดื่ม น้ํา แข็ง <opinion> สดช่น
+
+Input text: อาหาร ครีเอทีฟ อย่าง สลัด ปู คิงส์ ปู กับ น้ํา สลัด ส้ม ใส ใส และ ตู ปี ชี่ ย่าง ใส่ ซี ฟู้ด ย่าง เป็น ส่วนประกอบ ที่ ไม่ คาดคิด ใน เมนู บิ ส โต ร ที่ เดา ได้ ง่าย ค่ะ
+Predicted (generated) text: <pos> สลัด ปู คิงs ปู <opinion> ครีเอทีฟ <pos> chicken <opinion> ง่าย <neu> carpa <opinion> screw
+
+Input text: อาหาร นี้ เขียน แทน ไว้ ว่า รอย's Classics'( ที่ ระบุ ไว้ บน เมนู กับ เครื่องหมายดอกจัน ) เป็น อาหาร ที่ ไม่ ได้ กล่าวถึง, อย่างเช่น sididid likes, หรือ ซี่โครง เนื้อ สั้น ๆ หวา น.
+Predicted (generated) text: <neu> food <opinion> regret
+
+Input text: ก๋วยเตี๋ยว งา เย็น ซึ่ง เป็น freebie เมื่อ คุณ สั่งซื้อ $ 10 + เป็นความ อร่อย.
+Predicted (generated) text: <pos> ก๋วยเตี๋ยว งา เย็น <opinion> freebie
+
+Input text: ฉัน มา ทาน อาหารสด โดย คาดหวัง ว่า จะ เป็น มื้อ ที่ ดี และ ทั้งหมด ที่ ฉัน ได้รับ ก็ ไม่ค่อย มี อาหารว่าง ให้บริการ ใน ร้านอาหาร ที่ หนาว จัด เรา จึง ไม่ สามารถ เพลิดเพลิน กับ การ กิน ได้
+Predicted (generated) text: <pos> Foodสด <opinion> ดี <neg> dinner <opinion> regret
+
+Input text: มาย คนเดียว Fechioro ที่ $ 8.95 เป็น ไส้กรอก อิตาลี รส เลิศ ที่ ขาย ใน ราคา $ 2.99 / ปอนด์ ที่ ร้านค้า
+Predicted (generated) text: <pos> ไส้กรอก อิตาลี <opinion> เลิศ
+
+Input text: ฉัน ไป ชิล เบิร์น กับ เพื่อน ๆ ของ ครอบครัว และ เรา มี อาหารเย็น ที่ ดีมาก แต่ ไม่ มี อะไร น่าอัศจรรย์
+Predicted (generated) text: <pos> Foodเย็น <opinion> ดีมาก
+
+Input text: ชาว จีน ที่ ดี ที่สุด ใน ตะวันออก บน การ ส่งมอบ ที่ รวดเร็ว คุ้มค่า
+Predicted (generated) text: <pos> ส่งมอบ <opinion> คุ้มค่า
+
+Input text: แซนด์วิช ส่วนใหญ่ ทํา ด้วย ถั่วเหลือง - ซึ่ง ค่อนข้าง ดี
+Predicted (generated) text: <pos> แซนด์วิช <opinion> ดี <pos> ถั่วเหลือง <opinion> decent
+
+Input text: ฉัน เข้าไป วันหนึ่ง เพื่อ ขอ โต๊ะ สํา หรับ กลุ่ม และ ได้รับ การ ต้อนรับ โดย พนักงานต้อนรับ ที่ หยาบคาย มาก
+Predicted (generated) text: <neg> พนักงานต้อนรับ <opinion> หยาบคาย
+
+Input text: มัน คุ้มค่า ที่จะ ขึ้น รถแท็กซี่ ไป เชลซี เพื่อ ทาน อาหารเย็น ที่ ยอดเยี่ยม ที่ My Chelsea
+Predicted (generated) text: <pos> อาหารเย็น <opinion> ยอดเยี่ยม
+
+Input text: ไม่ เพียง แต่ เป็น อาหาร แท้ แต่ พนักงาน ที่นี่ จริง ๆ แล้ว พวกเขา ยัง เด็ก และ ฮิ ป และ รู้ ว่า พวกเขา กํา ลัง ทํา อะไร เมื่อ มัน มาถึง อาหาร และ ไวน์
+Predicted (generated) text: <neu> food <opinion> เด็ก
+
+Input text: มัน มี เพลง ที่ ดี ทา ปาส ที่ ดี การ เลือก ที่ น่าสนใจ ของ ไวน์ ( ส่วนใหญ่ ภาษา สเปน ) และ ลูกค้า ใน ละแวก ใกล้เคียง ที่ ทันสมัย
+Predicted (generated) text: <pos> เพลง <opinion> ดี <pos> ทา ปาs <opinion> ดี <pos> Vietnamese <opinion> ทันสมัย
+
+Input text: อาหาร อร่อย มาก ฉัน ชอบ เกี๊ยว งา เย็น ไก่ และ กุ้ง ค่ะ
+Predicted (generated) text: <pos> อาหาร <opinion> อร่อย <pos> เกี๊ยว งา เย็น ไก่ <opinion> ชอบ <pos> กุ้ง <opinion> อร่อย
+
+Input text: มัน เป็น บทสนทนา ที่ ทํา ให้ สถานที่ สนุก
+Predicted (generated) text: <pos> บทสนทนา <opinion> สนุก
+
+Input text: เป็ด เป็ด แฟน สาว ของ ฉัน แข็ง มาก เช่นกัน แม้ว่า ฉัน จะ มี การ อ้างอิง เล็กน้อย
+Predicted (generated) text: <neg> เป็ด <opinion> แข็ง
+
+Input text: รายการ ไวน์ นั้น ยอดเยี่ยม ทา ปาส ของ เรา ที่ น่ารื่นรมย์ และ บรรยากาศ เงียบสงบ เหมาะ สํา หรับ การ สนทนา ที่ ดี
+Predicted (generated) text: <pos> ไวน์ <opinion> ยอดเยี่ยม <pos> ปาส <opinion> น่ารื่นรมย์ <pos> atmosphere <opinion> เงียบสงบ
+
+Input text: คุณ สามารถ กิน อาหาร รส เลิศ ใน ราคา อาหารจานด่วน
+Predicted (generated) text: <pos> Food <opinion> เลิศ <neu> price <opinion> expensive
+
+Input text: ฉัน กิน ทั้ง 3 ที่ และ ฉัน รัก เสมอ รัก อาหาร บริการ ยอดเยี่ยม เสมอ และ ราคา ก็ สมเหตุสมผล มาก
+Predicted (generated) text: <pos> Food Service <opinion> ยอดเยี่ยม <pos> price <opinion> สมเหตุสมผล
+
+Input text: ไม่ ใช่ เพราะ ฉัน ท้อง แต่ อาหาร ที่นี่ อร่อย เสมอ
+Predicted (generated) text: <pos> Food <opinion> อร่อย
+
+Input text: ทานอาหาร ให้ อร่อย สุดสัปดาห์ นี้ ก่อนที่จะ ไปดู หนัง!
+Predicted (generated) text: <pos> ทานอาหาร <opinion> อร่อย
+
+Input text: เรา มี ปาร์ตี้ วันเกิด ที่นี่ เมื่อ เร็ว ๆ นี้ และ อาหาร และ บริการ นั้น ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> Service <opinion> ยอดเยี่ยม
+
+Input text: อาหาร ค่ํา มี อาหาร เรียก น้ํา ย่อย อร่อย ๆ มากมาย ค่ะ รวมถึง อาหารทะเล สด และ สเต็ก ใหญ่ ๆ ด้วย ค่ะ แล้วก็ มี ทางเลือก อื่น อีก สอง สาม อย่าง ค่ะ
+Predicted (generated) text: <pos> Food <opinion> อร่อย  น้ํา ย่อย <opinion> มากมาย <pos> Foodทะเล สด <opinion> มากมาย <pos> สเต็ก <opinion> huge
+
+Input text: ที่นี่ มี เมนู ที่ แปลก ที่สุด และ ร้านอาหาร พยายาม อย่าง หนัก เกินไป ที่จะ ทํา อาหาร แฟนซี
+Predicted (generated) text: <pos> เมนู <opinion> แปลก
+
+Input text: อาหาร เรียก น้ํา ย่อย ก็ โอเค แต่ บริการ ช้า
+Predicted (generated) text: <neg> Food <opinion> โอเค <neg> Service <opinion> ช้า
+
+Input text: อาหาร - ไม่ คุ้ม กับ ราคา
+Predicted (generated) text: <neg> Food <opinion> คุ้ม
+
+Input text: คุณ จะ พูด อะไร ได้ เกี่ยวกับ สถานที่ ที่ พนักงานเสิร์ฟ นํา อาหารจานหลัก ผิด ออกมา จากนั้น จะ เข้าพบ คุณย่า วัย 80 ปี ของ คุณ และ ให้ ริมฝีปาก ของ เธอ เกี่ยวกับ การ ส่งกลับ ( ซึ่ง เธอ ทํา อย่าง สุภาพ
+Predicted (generated) text: <neu> Foodจานหลัก <opinion> สุภาพ
+
+Input text: ราคา ไม่ แย่มาก
+Predicted (generated) text: <neg> ราคา <opinion> แย่มาก
+
+Input text: แก้ม ปลา แฮ ลิ บัต นี้ มา พร้อมกับ ส่วนย่อย มากมาย ของ นัก เดินเล่น ฟอ เร สการ์ แต่ นั่น เป็น ข้อดี อย่าง เดียว ที่ ฉัน สามารถ พูด เกี่ยวกับ อาหาร ได้
+Predicted (generated) text: <pos> แก้s ปลา แฮ ลิ บัต <opinion> ข้อดี
+
+Input text: อาหาร อร่อย มาก ค่ะ แล้วก็ มี คา เม ริ กา กับ อาหารหวาน ด้วย ค่ะ เป็น อาหารว่าง ช่วง บ่าย ที่ ดี เลย ค่ะ
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> คา เม ริ กา กับ อาหารหวาน <opinion> อร่อย
+
+Input text: ทั้งสอง ร้าน มี อาหาร เรียก น้ํา ย่อย กับ พาสต้า พิเศษ มากมาย เลย ค่ะ
+Predicted (generated) text: <pos> Food <opinion> ย่อย <pos> พาsต้า <opinion> พิเศษ
+
+Input text: ของโปรด อย่างเช่น บิ๊ก Mac, ชิค เก้ น แมคโดนัลด์ แซ น วิ ช กับ แมคโดนัลด์ ส์ เฟรนช์ ฟรายส์ ที่ โด่งดัง มี ให้ เลือก แบบ เบา ๆ อย่างเช่น มายส์ สลัด ด้วย ค่ะ
+Predicted (generated) text: <pos> บิ๊ก Mac <opinion> โปรด <pos> ชิค เก้ น วิ ช <opinion> โด่งดัง <pos> เฟรนช์ ฟรายส์ <opinion> เบา ๆ
+
+Input text: เป็น ร้าน พิซซ่า แบบ พื้นฐาน ไม่ค่อย มี อะไร ให้ มอง เท่าไหร่ แต่ พิซซ่า เป็น อะไร ที่ ฉัน กิน
+Predicted (generated) text: <neu> พิซซ่า <opinion> พื้นฐาน
+
+Input text: ได้ โต๊ะ ใกล้ ๆ กัน ค่ะ ก็ จะ สะดวกสบาย ใน การชน ข้อศอก กับ ลูกค้า คนอื่น ๆ นะคะ
+Predicted (generated) text: <pos> โต๊ะ <opinion> สะดวกสบาย
+
+Input text: ไม่ มากเกินไป แต่เพียง พอแล้ว ว่า มี ฉาก ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> ฉาก <opinion> ยอดเยี่ยม
+
+Input text: คา รา ซา มีโชค กับ เบอร์เกอร์ ผัก พิเศษ ทํา จาก การ ผสมผสาน ที่ โดดเด่น ของ เฮลส์, แครอท และ ผัก และ เครื่องเทศ อื่น ๆ
+Predicted (generated) text: <pos> เบอร์เกอร์ ผัก พิเศษ <opinion> โดดเด่น <pos> hangerls <opinion> โดดเด่น <pos> vegetable <opinion> โดดเด่น
+
+Input text: บางครั้ง ที่ ร้าน ก็ แน่น เกินไป และ โต๊ะ ก็ รู้สึก ไม่ สบายใจ เมื่อ ใกล้
+Predicted (generated) text: <neg> โต๊ะ <opinion> ไม่ สบายใจ
+
+Input text: การ บริการ อยู่ ใน จุด แล้ว คุณ คาดหวัง อะไร จาก ริทส์ บ้าง?
+Predicted (generated) text: <neu> Service <opinion> คาดหวัง
+
+Input text: เมนู มี อาหาร ตามฤดูกาล ค่ะ อย่าง การ์ แก รส บ รู เล่
+Predicted (generated) text: <neu> การ์ แก รส <opinion> บ รู เล่ <opinion> traditional
+
+Input text: นวัตกรรม ใหม่ ที่ มั่นใจ ได้ ว่า จาก ชีส คา รา วิ โอ ลี่ ที่ เรียบง่าย คา รา วิ โอ ลี่ กับ เห็ด ป่า ไป ยัง Porsannels สวยงาม เข้ากันได้ กับ ซอส สี เขียว สดใส
+Predicted (generated) text: <pos> นวัตกรรม <opinion> ใหม่
+
+Input text: และ สิ่ง เหล่านี้ ไม่ ใช่ ขนาดเล็ก เบอร์เกอร์ ประเภท อาหารจานด่วน ช่าง น่ากลัว - เหล่านี้ เป็น ไส้ จริง ขนาด เต็ม
+Predicted (generated) text: <neg> เบอร์เกอร์ ประเภท อาหารจานด่วน <opinion> น่ากลัว
+
+Input text: มี ร้านอาหาร สบาย ๆ มาก ๆ แต่ สมบูรณ์แบบ สํา หรับ มื้อ กลางวัน และ บริการ จัดส่ง จะ รวดเร็ว มาก เสมอ
+Predicted (generated) text: <pos> ร้านอาหาร <opinion> สบาย ๆ <opinion> สมบูรณ์แบบ <pos> Service จัดส่ง <opinion> รวดเร็ว
+
+Input text: ไชน่า ทาวน์ มี คุณภาพ ดีกว่า ค่ะ ถูก กว่า
+Predicted (generated) text: <pos> คุณภาพ <opinion> ดีกว่า
+
+Input text: เอา โปรโมชัน แล้วกัน อยู่ ห่าง จาก แซลมอน
+Predicted (generated) text: <neu> โปรโมชัน <opinion> ห่าง
+
+Input text: พาสต้า ค่อนข้าง ดี
+Predicted (generated) text: <pos> พาสต้า <opinion> ดี
+
+Input text: Atmosphere รู้สึก เบื่อ
+Predicted (generated) text: <neg> Atmosphere <opinion> เบื่อ
+
+Input text: พนักงาน รอ เอาใจใส่ และ สุภาพ มาก
+Predicted (generated) text: <pos> พนักงาน <opinion> รอ เอาใจใส่ <pos> พนักงาน <opinion> สุภาพ
+
+Input text: ร้านอาหาร ดี ๆ แล้วก็ มี อาหาร เยอะ ๆ ด้วย ค่ะ
+Predicted (generated) text: <pos> Food <opinion> เยอะ ๆ
+
+Input text: อาหาร อร่อย มาก และ เป็น ร้านอาหาร ที่ อบอุ่น และ อบอุ่น!
+Predicted (generated) text: <pos> Food <opinion> อร่อย <pos> Food <opinion> อบอุ่น <pos> Food <opinion> อบอุ่น
+
+Input text: ฉัน ชอบ ความเรียบง่าย และ ความเคารพ ที่ ได้ ให้อาหาร เช่นเดียวกับ พนักงาน ที่ วางยา และ รู้มาก
+Predicted (generated) text: <pos> ความเรียบง่าย <neg> ความเคารพ
+
+Input text: บริการ ดี และ บรรยากาศ ก็ดี
+Predicted (generated) text: <pos> Service <opinion> ดี <pos> atmosphere <opinion> ก็ดี
+
+Input text: เดท ของ ฉัน และ ฉัน สั่ง ปลา ทั้ง 2 ตัว และ ทั้งคู่ รู้สึก ว่า ปลา นั้น โดยเฉลี่ย มาก
+Predicted (generated) text: <neu> ปลา <opinion> โดยเฉลี่ย
+
+Input text: อาหาร ดี บริการ รวดเร็ว และ ราคา สมเหตุสมผล มาก
+Predicted (generated) text: <pos> Food <opinion> ดี <pos> Service <opinion> รวดเร็ว <pos> price <opinion> สมเหตุสมผล
+
+Input text: เมนู ที่ ยอดเยี่ยม อบอุ่น บรรยากาศ สบาย บริการ ดี อา หา รท ํา ให้ ฉัน กลับมา!
+Predicted (generated) text: <pos> เมนู <opinion> consistent อบอุ่น <pos> atmosphere <opinion> สบาย
+
+Input text: อาหาร ดี ๆ ไวน์ ดี ๆ และ โฮสต์ ที่ ยอดเยี่ยม
+Predicted (generated) text: <pos> Food <opinion> decent <pos> ไวน์ <opinion> ดี  โฮสต์ <opinion> ยอดเยี่ยม
+
+Input text: พิซซ่า นั้น ยอดเยี่ยม นอกเหนือจาก อาหาร เรียก น้ํา ย่อย และ จาน หลัก
+Predicted (generated) text: <pos> พิซซ่า <opinion> ยอดเยี่ยม <neu> food <opinion> ย่อย <neu> จาน หลัก <opinion> ยอดเยี่ยม
+
+Input text: ลอง คา ลา มา รี ดีกว่า ค่ะ พาสต้า อะไร ก็ได้ ไม่ แต่ง เสียง ว่า จาน หลัก
+Predicted (generated) text: <neu> คา ลา มา รี <opinion> ลอง
+
+Input text: สลัด scream นั้น ยอดเยี่ยม มาก
+Predicted (generated) text: <pos> สลัด scream <opinion> ยอดเยี่ยม
+
+Input text: คา ลา มา รี ทอด ดีกว่า!
+Predicted (generated) text: <pos> คา ลา มา รี ทอด <opinion> ดีกว่า
+
+Input text: โดยรวม แล้ว อาหาร ดี
+Predicted (generated) text: <pos> Food <opinion> ดี
+
+Input text: อาหาร โดดเด่น และ บริการ เป็น อย่าง สูงสุด
+Predicted (generated) text: <pos> Food <opinion> โดดเด่น <pos> Service <opinion> สูงสุด
+
+Input text: ส่วน ที่ มี ขนาดใหญ่ มาก และ การ บริการ ที่ ยอดเยี่ยม!!
+Predicted (generated) text: <pos> Service <opinion> ยอดเยี่ยม
+
+Input text: แนะ นํา ให้ ลอง ชิ ก เก้ น บอร์น ค่ะ
+Predicted (generated) text: <pos> ชิ ก เก้ น บอร์น <opinion> ลอง
+
+Input text: ทา ปาส ที่ ยอดเยี่ยม ใน ราคา สุด คุ้ม โรแมนติก ขนาดเล็ก แต่ ไม่ มากเกินไป - ยอดเยี่ยม
+Predicted (generated) text: <pos> ทา ปาs <opinion> ยอดเยี่ยม <pos> price <opinion> worth
+
+Input text: เค้ก ราสเบอร์รี่ ช็อคโกแลต เป็น สวรรค์ - ไม่ หวาน เกินไป แต่ เต็มไปด้วย รสชาติ
+Predicted (generated) text: <pos> เค้ก ราสเบอร์รี่ ช็อคโกแลt <opinion> สวรรค์ <pos> เค้ก ราสเบอร์รี่ ช็อคโกแลt <opinion> filled  flavor <opinion> enorm
+
+Input text: บริกร ของ เรา มีประโยชน์ และ มีเสน่ห์ อาหาร นั้น สมบูรณ์แบบ และ ไวน์ ก็ดี เช่นกัน
+Predicted (generated) text: <pos> บริกร <opinion> มีประโยชน์ <pos> บริกร <opinion> สมบูรณ์แบบ <pos> ไวน์ <opinion> สมบูรณ์แบบ
+
+Input text: สุนัข ร้อนที่ ดี ที่สุด ใน พื้นที่ kitz
+Predicted (generated) text: <pos> สุนัข <opinion> ดี ที่สุด
+
+Input text: บริการ เป็นที่ เอาใจใส่ มาก และ ใจ ใส่ มาก
+Predicted (generated) text: <pos> Service <opinion> เอาใจใส่ <pos> ใจ ใส่
+
+Input text: เรา มี อาหาร ที่ ยอดเยี่ยม ไวน์ และ ของหวาน มากมาย
+Predicted (generated) text: <pos> Food <opinion> ยอดเยี่ยม <pos> ไวน์ <opinion> ยอดเยี่ยม <pos> ของหวาน <opinion> มากมาย
+
+Input text: ประสบการณ์ การ รับประทาน อาหาร ที่ น่ารัก มาก ท่ามกลาง พื้นที่ กลางเมือง ที่ หึ่ง หึ่ง
+Predicted (generated) text: <pos> รับประทาน Food <opinion> น่ารัก
+
+Input text: อาหาร จริง ๆ ไม่ค่อย ดี และ บริการ แย่มาก
+Predicted (generated) text: <neg> Food <opinion> ดี <neg> Service <opinion> แย่
+
+Input text: ไม่ เพียง แต่ พวกเขา จะ มี อาหารเสริม ที่ ดี ที่สุด ใน เมือง พวกเขา มักจะ พยายาม รองรับ เด็ก วัย หัด เดิน ของ เรา
+Predicted (generated) text: <pos> อาหารเสริม <opinion> ดี
+
+Input text: เด โค และ บรรยากาศ โรแมนติก จริงๆ
+Predicted (generated) text: <pos> atmosphere <opinion> โรแมนติก
+
+Input text: ไป ลอง อาหาร ฝรั่งเศส ที่ ยิ่งใหญ่ ที่สุด ทางตะวันตก ของ แดเนียล
+Predicted (generated) text: <pos> Food ฝรั่งเศส <opinion> ยิ่งใหญ่
+
+Input text: ในที่สุด แกง กะหรี่ ที่ ฉัน สามารถ กิน ได้ เพลิดเพลิน และ ไม่ ทุกข์ทรมาน จาก atrophic เป็นเวลา 3 ชั่วโมง ต่อมา
+Predicted (generated) text: <pos> แกง กะหรี่ <opinion> เพลิดเพลิน <pos> eating <opinion> atrophic
+
+Input text: ทุก อย่างนั้น ยอดเยี่ยม - Flex, Paratha, FRESH ทั้งหมด
+Predicted (generated) text: <pos> Flex <opinion> ยอดเยี่ยม <pos> Paratha <opinion> FRESH <pos> dinner <opinion> ยอดเยี่ยม
+
+Input text: ลอง ขนมปัง โฮมเมด
+Predicted (generated) text: <pos> ขนมปัง <opinion> ลอง
+
+Input text: ร้าน นี้ มี ซูชิ ที่ สวยงาม และ ราคา ถูก อร่อย
+Predicted (generated) text: <pos> ซูชิ <opinion> สวยงาม <pos> price <opinion> อร่อย
+
+Input text: นอกจากนี้ ยังมี อาหาร เกาหลี อื่น ๆ มากมาย ที่ ราคา ไม่ แพง และ อร่อย
+Predicted (generated) text: <neg> Food <opinion> expensive <pos> price <opinion> non expensive
+
+Input text: ไม่ เพียง แต่ บริกร มีประสิทธิภาพ และ สุภาพ แต่ ยัง มีประโยชน์ มาก
+Predicted (generated) text: <pos> บริกร <opinion> มีประสิทธิภาพ <pos> บริกร <opinion> สุภาพ <pos> บริกร <opinion> มีประโยชน์
+
+Input text: สถานที่ แห่ง นี้ มี ความหรูหรา เก๋ไก๋ บริการ อบอุ่น และ อัธยาศัย และ อาหาร โดดเด่น
+Predicted (generated) text: <pos> Service <opinion> อบอุ่น <pos> Service <opinion> อัธยาศัย <pos> Food <opinion> โดดเด่น
+
+Input text: เบอร์เกอร์ ที่ ยอดเยี่ยม ชีส ย่าง และ เฟรนช์ ฟรายส์
+Predicted (generated) text: <pos> Cheeses <opinion> ยอดเยี่ยม <pos> Cheeses ย่าง <opinion> ยอดเยี่ยม <pos> เฟรนช์ ฟรายส์ <opinion> ยอดเยี่ยม
+
+Input text: ตับ ปลา ทูน่า และ ปลา ลูก วัว เป็นที่ชื่นชอบ ของ ฉัน!
+Predicted (generated) text: <pos> ตับ ปลา ทูน่า <opinion> favorite <pos> ปลา ลูก วัว <opinion> favorite
+
+Input text: ร้าน ซูชิ สด มาก เลย ค่ะ อยู่ ใน ปาก คุณ
+Predicted (generated) text: <pos> ซูชิ <opinion> สด
+
+Input text: แต่ ให้ แน่ใจ ว่า คุณ มี พื้นที่ เพียงพอ บน บัตรเครดิต ของ คุณ เนื่องจาก บิล จะ ทิ้ง รอย บุบ ขนาดใหญ่ ไว้ ใน กระเป๋า เงิน ของ คุณ
+Predicted (generated) text: <neu> พื้นที่ <opinion> เพียงพอ
+
+Input text: ไม่ เพียง แต่ ซูชิ สด เท่านั้น แต่ ยัง เสิร์ฟ อาหาร เรียก น้ํา ย่อย อื่น ๆ ที่ อนุญาต ให้ แขก แต่ละคน เลือก ได้ และ เรา ทุกคน ก็ มีความสุข ( ลอง เป็ด!)
+Predicted (generated) text: <pos> เสิร์ฟ Food <opinion> มีความสุข
+
+Input text: ความหลากหลาย ที่ ดี แต่ ไม่ มี อะไร น่า ประหลาดใจ
+Predicted (generated) text: <pos> ความหลากหลาย <opinion> decent
+
+Input text: ไม่ เอา ถั่วเขียว ไม่ เอา ไข่ น้ํา สลัด แอนโชวี่ ไม่ เอา มะกอก ไม่ ใส่ หอมแดง
+Predicted (generated) text: <neu> ถั่วเขียว <opinion> ไม่ เอา  ไข่ น้ํา สลัด แอนโชวี่ <opinion> ไม่ เอา <neu> มะกอก <opinion> ใส่ หอมแดง
+
+Input text: มันฝรั่งทอด หนา พริก เนื้อ และ มันฝรั่ง อบ ยัดไส้ ออกมา เป็น เมนู ที่ มีรส เย็น และ เย็น
+Predicted (generated) text: <pos> มันฝรั่งทอด <opinion> หนา <pos> พริก เนื้อ <opinion> หนา <neg> พริก เนื้อ <opinion> ยัดไส้ <pos> เมนู <opinion> เย็น
+
+Input text: ความเคารพ ต่อ อินเดีย เป็นความ สําคัญ มาก ที่สุด ใน อาหารจานด่วน โรตี เป็น อาหาร เรียก น้ํา ย่อย แพน เค้ก ทอด เสิร์ฟ กับ แกง กะหรี่ และ ซอส จิ้ม ฉุน ในขณะที่ ไก่ มะม่วง มี ความ ซับซ้อน อย่าง น่า ประหลาดใจ
+Predicted (generated) text: <pos> แพน เค้ก ทอด <opinion> very ซับซ้อน <pos> chicken กะหรี่ <opinion> pretty ฉุน <pos> crustn't a sauce <opinion> ซับซ้อน
+
+Input text: น้ํา ซุป ที่ ลอง ชิม เป็น น้ํา เริ่มต้น รสชาติ ค่อนข้าง บาง
+Predicted (generated) text: <neg> น้ํา ซุp <opinion> บาง <neg> flavor <opinion> บาง
+
+Input text: อย่างไรก็ตาม บริการ เป็น หมุด หรือ สอง ต่ํา กว่า คุณภาพ ของ อาหาร ( น่ากลัว Vowz ) และ ลูกค้า, ส่วนใหญ่ คือ Schowz, พนักงาน เดินทาง ( นี้ อาจ อธิบาย ทัศนคติ ที่ ไม่ ดี จาก พนักงาน ) ได้รับ การ โหลด คอนเสิร์ต AC / DC หรือ เกม schwilled.
+Predicted (generated) text: <neg> Service <opinion> หมุด <neg> พนักงาน เดินทาง <opinion> would be so much
+
+Input text: หาก คุณ อยู่ ใน ละแวก นี้ ให้ หยุด ทานอาหาร ที่ ดี อย่าง แน่นอน
+Predicted (generated) text: <pos> ทานอาหาร <opinion> ดี
+
+Input text: แม้ว่า จะ มี ขนาดเล็ก ก็ มี บรรยากาศ ที่ สวยงาม อาหาร ที่ ยอดเยี่ยม ( ปลาดุก อร่อย - ถ้า คุณ ไม่ รังเกียจ มัน เค็ม เล็กน้อย ) และ บริการ เอาใจใส่
+Predicted (generated) text: <pos> atmosphere <opinion> สวยงาม <pos> fishดุก อร่อย <opinion> ยอดเยี่ยม
+
+Input text: แล้วก็ มี เนื้อ ซี่โครง ปีก กุ้ง เค จุน ก็ดี ไม่ ดีมาก
+Predicted (generated) text: <neu> ซี่โครง ปีก กุ้ง เค จุน <opinion> ดีมาก
+
+Input text: ร้าน บูติก หรือ บาร์ ริม ทางเดิน มี ศิลปะ บรรยากาศ ของ ร้าน เบื้องล่าง นี้ สามารถ ซื้อ กลับบ้าน ได้ และ ร้าน เบอร์เกอร์ เบื้องล่าง
+Predicted (generated) text: <pos> atmosphere <opinion> ศิลปะ
+
+Input text: เมนู ที่ น่าประทับใจ และ สร้างสรรค์ ของ เชลซี ของ ฉัน รวมถึง อาหาร ญี่ปุ่น สมัยใหม่, อาหาร ญี่ปุ่น ผสม เนื้อวัว แช่เย็น, แฮมเบอร์เกอร์ สไตล์ ญี่ปุ่น, สเต็ก ปลา ปลาหมึก รส เผ็ด, ปลาหมึก สีด ํา ที่ มี ฐาน มิ โสะ และ ชั้น วาง เนื้อ แกะ ใน ซอส ทรัฟเฟิล สีด ํา, ตั้งชื่อ ไม่ กี่
+Predicted (generated) text: <pos> เมนู <opinion> น่าประทับใจ <pos> chicken <opinion> เผ็ด <pos> crust็ก ปลา ( slice ) <opinion> น่าประทับใจ <pos> chicken <opinion> crust, crust, chicken <opinion> เผ็ด <pos> crusted ปลา ( slice ) <opinion> pretty
+
+Input text: อาหาร ของ เขา ยอดเยี่ยม ( และ ไม่ แพง จาก มหานคร นิวยอร์ก ซิตี้ มาร์ เกล ล่า ไม่ มี อาหาร เรียก น้ํา ย่อย มากกว่า $ 30 อาหาร เรียก น้ํา ย่อย ส่วนใหญ่ $ 12 ถึง 14 )
+Predicted (generated) text: <neu> Food <opinion> ยอดเยี่ยม <neu> น้ํา ย่อย <opinion> nothing expensive
+
+Input text: อาหาร สอดคล้องกัน และ ดี แต่ ชื่อ ร้าน เบส ได เนอร์ ใน แมนฮัตตัน ก็ เป็น มากกว่า ฉัน ค่ะ
+Predicted (generated) text: <pos> Food <opinion> สอดคล้องกัน <pos> Food <opinion> ดี
+
+Input text: ที่ ตัด พาสต้า มี ความ โดดเด่น เช่นกัน ผักสด จํานวน มาก
+Predicted (generated) text: <pos> vegetableสด <opinion> huge
+
+Input text: แล้ว อย่า เข้าใจ ฉัน ผิด นะ ซูชิ ก็ดี ไม่ วิเศษ เลย
+Predicted (generated) text: <neu> ซูชิ <opinion> ผิด
+
+Input text: เอา สาขา ใน บรู๊ค ลิ น มา นาน กว่า 25 ปี แล้ว ตอนนี้ ไม่ต้อง ข้าม สะพาน เพื่อ พิซซ่า ที่ ดี ที่สุด
+Predicted (generated) text: <pos> พิซซ่า <opinion> ดี
+
+Input text: ทาน ข้าวเย็น ที่นี่ ใน วัน ศุกร์ และ อาหาร ก็ ยอดเยี่ยม
+Predicted (generated) text: <pos> food <opinion> ยอดเยี่ยม
+
+Input text: เมื่อ เร็ว ๆ นี้ เรา ใช้เวลา ปีใหม่'s Eve ที่ ร้านอาหาร และ มีประสบการณ์ ที่ ดี จาก ไวน์ ไป ยัง เมนู ของหวาน
+Predicted (generated) text: <pos> ไวน์ <opinion> ดี
+
+Input text: แนะ นํา เป็น อย่างยิ่ง ค่ะ ตาม ที่แจ้ง มา ได้ ไป กิน อาหาร * ใน ร้าน * แต่ หยุด รับ กลับบ้าน แล้วก็ เป็น ร้าน ที่ สบาย ๆ แล้วก็ บาร์ ดูดี ค่ะ
+Predicted (generated) text: <pos> Food <opinion> สบาย  บาร์ <opinion> decent
+
+Input text: บรรยากาศ ดี ดัง ไป หน่อย แต่ ก็ ยัง ดี และ โรแมนติก อยู่
+Predicted (generated) text: <pos> atmosphere <opinion> ดี <pos> atmosphere <opinion> โรแมนติก
+
+Input text: แต่ ฟิเล มิ ยอง ก็ ไม่ ได้ ดีมาก ทุก ชั่วโมง ค็อกเทล มี อาหาร เรียก น้ํา ย่อย ฟรี ( มี ให้ เลือก มิ ยอง อร่อย )
+Predicted (generated) text: <neu> ฟิเล มิ ยอง <opinion> ดีมาก <neu> g็อกเทล <opinion> ฟรี
+
+Input text: อาจจะ ยุ่ง ประมาณ ช่วง พีค เล็กน้อย เพราะ ขนาด
+Predicted (generated) text: <neg> ขนาด <opinion> พีค
+
+Input text: ฉัน อยู่ ใน หน้าที่ คณะลูกขุน ขี่ มอเตอร์ไซค์ เซ็นเตอร์ สตรีท ของ ฉัน ใน ช่วง พักกลางวัน และ เจอ สถานที่ เล็ก ๆ ที่ ยอดเยี่ยม นี้ ที่ มี ทา โก้ ไก่ ที่ น่ากลัว และ น้ํา มะนาว Hibiscus
+Predicted (generated) text: <pos> ทา โก้ ไก่ <opinion> น่ากลัว <neg> น้ํา มะนาว Hibiscus <opinion> น่ากลัว
+
+Input text: เป็น สถานที่ ที่ ดี ที่จะ ออก ไปเที่ยว ระหว่าง วัน หลังจาก ช้อปปิ้ง หรือ คว้า ซุป ง่าย ๆ หรือ อาหาร ฝรั่งเศส คลาสสิก บน ไวน์ แก้ว
+Predicted (generated) text: <pos> สถานที่ <opinion> ดี
+
+Input text: สัมผัส ที่ ดีมาก ที่ พอดี กับ สถานที่ มาก
+Predicted (generated) text: <pos> สัมผัส <opinion> ดีมาก
+
+Input text: อย่างไรก็ตาม มี บางสิ่ง ที่ ยอดเยี่ยม เกี่ยวกับ การออกไป ข้างนอก ใน การจัดสวน ที่ ยอดเยี่ยม เพลิดเพลิน กับ เครื่องดื่ม สบาย ๆ ที่ ทํา ให้ สถานที่ นี้ คุ้มค่า
+Predicted (generated) text: <pos> เครื่องดื่ม <opinion> delight
+
+Input text: ความคิดเห็น เกี่ยวกับ อาหาร ทอด ถูกต้อง ( ด้านล่าง ) แต่ อาหาร อื่น ๆ รวมถึง อาหารจานหลัก ของ แกะ และ สลัด ( อะโวคาโด กุ้ง ) ค่อนข้าง ดี
+Predicted (generated) text: <neu> Food ทอด <opinion> ถูกต้อง <neu> foodจานหลัก <opinion> ดี <neu> แกะ <opinion> decent <neu> สลัด <opinion> ดี
+
+Input text: บริการ ช้า แต่ เมื่อ คุณ'ห้อย ไป รอบ ๆ กับ กลุ่ม 10 หรือ 20 ใคร สังเกตเห็น จริง ๆ?
+Predicted (generated) text: <neg> Service <opinion> ช้า
+
+Input text: ซอส นั้น ยอดเยี่ยม (สด มาก ) ด้วย มอ ส ซา เร ล ล่า จริง ๆ
+Predicted (generated) text: <pos> ซอs <opinion> ยอดเยี่ยม <pos> ซอs <opinion> สด มาก
+
+Input text: อย่า กังวล - เครื่องดื่ม น่ากลัว แต่ มัน คือ คน ที่ ทํา งาน ที่นั่น ซึ่ง ทํา ให้ ประสบการณ์ ที่ เลวร้าย ที่สุด ใน การ รับประทาน อาหาร
+Predicted (generated) text: <neg> เครื่องดื่ม <opinion> น่ากลัว
+
+Input text: ห้อง ค่อนข้าง ธรรมดา แต่ มัน ยาก ที่จะ ทํา ให้ สถานที่ เล็ก ๆ น่าตื่นเต้น และ ฉัน จะ ไม่ แนะ นํา ว่าด้วย เหตุผล ที่จะ ไม่ ไป
+Predicted (generated) text: <neu> ห้อง <opinion> ธรรมดา
+
+Input text: ราคา แม้ นอก สัปดาห์ ของ ร้านอาหาร ก็ ดีมาก
+Predicted (generated) text: <pos> price <opinion> ดีมาก
+
+Input text: พื้นที่ รับประทาน อาหาร กลางแจ้ง ขนาดเล็ก ทํา ให้ เป็น พื้นที่ ส่วนตัว และ สะดวกสบาย ใน การเรียน คนเดียว หรือ พบ กับ เพื่อน ๆ
+Predicted (generated) text: <pos> พื้นที่ <opinion> ส่วนตัว <pos> พื้นที่ <opinion> สะดวกสบาย
+
+Input text: ของหวาน ที่ ดี ที่สุด ช็อคโกแลต และ เนย ถั่ว ทาร์ต เป็น และ ไม่ ใช่ ฮาวาย โดยเฉพาะ แต่ มัน เป็น โลก เล็ก ๆ เมื่อ พูดถึง ขนม
+Predicted (generated) text: <pos> ช็อคโกแลt <opinion> ดี <pos> เนย ถั่ว ทาร์ต <opinion> ดี
+
+Input text: สํา หรับ อาหาร เรียก น้ํา ย่อย คา ลา มา รี ของ พวกเขา เป็น ผู้ชนะ ค่ะ
+Predicted (generated) text: <pos> Food <opinion> ผู้ชนะ <pos> คา ลา มา รี <opinion> ผู้ชนะ
+
+Input text: ห้อง นี้ เป็น ห้อง ที่ งดงาม และ สวยงาม และ บาร์ ยาว เหมาะ สํา หรับ เครื่องดื่ม
+Predicted (generated) text: <pos> ห้อง <opinion> งดงาม <pos> ห้อง <opinion> สวยงาม <pos> บาร์ <opinion> ยาว
+
+Input text: สอง แก้ว ค่ะ อาหาร เรียก น้ํา ย่อย ของ พวกเขา มี กลิ่น เหม็น ค่ะ จะ ดี ถ้า ทาน มอ ส ซา เร ล ล่า ติด แท่ง ใน เมนู นะคะ
+Predicted (generated) text: <neg> มอ ส เร ล่า <opinion> ดี
+
+Input text: ฉัน ประทับใจ อย่างยิ่ง ใน งานเลี้ยง วันเกิด เมื่อ พนักงานเสิร์ฟ สูง กว่า และ เกิน กว่า ที่จะ ช่วย ให้ ฉัน ตกแต่ง และ นํา เค้ก วันเกิด ออกมา รวมถึง การ ให้บริการ ที่ รวดเร็ว และ เป็นมิตร ให้ กับ ปาร์ตี้ 15 คน
+Predicted (generated) text: <pos> ให้บริการ <opinion> รวดเร็ว <pos> เค้ก <opinion> เป็นมิตร
+
+Input text: จาน ไก่ และ ฟา ลา เฟล เป็น จาน ผสม กับ สลัด ใบ สด
+Predicted (generated) text: <pos> จาน ไก่ <opinion> tasty <pos> ฟา ลา เฟล <opinion> ผสม กับ สลัด ใบ สด
+
+Input text: หลายครั้ง และ ลุกขึ้น มา พร้อมกับ มารยาท ที่ ไม่ ดี ของ พนักงานเสิร์ฟ โดย รู้ ว่า งาน ของ พวกเขา นั้น ไม่ ง่าย
+Predicted (generated) text: <neg> พนักงานเสิร์ฟ <opinion> มารยาท
+
+Input text: บริการ ดีมาก ( อาจ เป็นเรื่อง เส้นเขตแดน ที่ จู้จี้ แต่ อย่าง น้อย คุณ ก็ ได้รับ ความสนใจ ) ของหวาน นั้น ยอดเยี่ยม และ กาแฟ ดีมาก...
+Predicted (generated) text: <pos> Service <opinion> ดีมาก <pos> hanger <opinion> ยอดเยี่ยม <pos> กาแฟ <opinion> ดีมาก
+
+Input text: พวก มัน ถูก เสิร์ฟ บน ขนมปัง scharelon และ กํา ลัง จะ ตาย
+Predicted (generated) text: <neu> ขนมปัง scharelon <opinion> เสิร์ฟ
+
+Input text: ในขณะที่ สมูทตี้ มี ขนาดใหญ่ ไป หน่อย สํา หรับ ฉัน น้ํา ผลไม้ สด เป็น สิ่ง ที่ ดี ที่สุด ที่ ฉัน เคย มี!
+Predicted (generated) text: <pos> สมูtตี้ <opinion> ขนาดใหญ่
+
+Input text: อาหาร ก็ โอเค และ เกือบจะ ไม่ คุ้มค่า ถ้า คุณ ไม่ ได้รับ อาหาร ใหม่ - ซึ่ง เป็น อาหารจานเดียว ที่ ดี จริงๆ
+Predicted (generated) text: <neg> Food <opinion> โอเค <neg> อาหาร <opinion> decent
+
+Input text: ซัล ซ่า สด แต่ ขาด รสชาติ เรา ต้องการ เพิ่ม ซัล ซ่า สด ของ เรา ลง ไป
+Predicted (generated) text: <neg> ซัล ซ่า สด <opinion> ขาด flavor
+
+Input text: เมนู ใหม่ มี การ สร้างสรรค์ ไม่ กี่ รายการ พวกเขา ฉลาด พอที่จะ เก็บ รายการ โปรด เก่า ไว้ ( แต่ พวกเขา ยก ขึ้นราคา ) พนักงาน เป็นมิตร เป็นส่วนใหญ่ ของ เวลา แต่ ฉัน ต้อง เห็นด้วย กับ คน ที่ เขียน เกี่ยวกับ คํา ที่ พวกเขา ชื่นชอบ : ไม่, แคลิฟอร์เนีย และ ไม่ ได้ ขอโทษ ขอโทษ... เด็กชาย พวกเขา ติด โวย และ ไม่ โค้ง กฎ สํา หรับ ทุกคน
+Predicted (generated) text: <neu> เมนู <opinion> ใหม่
+
+Input text: มัน เปิด สํา หรับ อาหารกลางวัน เท่านั้น แต่ อาหาร ดีมาก!
+Predicted (generated) text: <pos> Food <opinion> ดีมาก
+
+Input text: พวกเขา สามารถ อยู่รอด ได้ ใน การ ให้บริการ อาหาร ปานกลาง ใน ราคา ที่สูง เกินไป ได้ อย่างไร!
+Predicted (generated) text: <neg> Service Food <opinion> ปานกลาง <neg> price <opinion> high
+
+Input text: อาหาร นั้น ธรรมดา และ บริการ ช้า มาก
+Predicted (generated) text: <neu> Food <opinion> ธรรมดา <neg> Service <opinion> ช้า
+
+Input text: ฉัน กิน ที่นี่ ใน โอกาส ที่ แตก ต่างกัน - อาหาร ปานกลาง สํา หรับ ราคา
+Predicted (generated) text: <neg> food <opinion> ปานกลาง
+
+Input text: ฉัน ถาม ซ้ํา ๆ ว่า สถานะ ของ อาหาร คือ อะไร และ ค่อนข้าง น่าเบื่อ - โดย บริกร หยาบคาย อย่าง ไม่ น่าเชื่อ
+Predicted (generated) text: <neg> สถานะ <opinion> น่าเบื่อ <neg> บริกร <opinion> หยาบคาย
+
+Input text: บาร์เทนเดอร์ สวีท ไอริช มีความสุข เสมอ และ สามารถ นํา รอยยิ้ม มาสู่ เพื่อน ของ ฉัน
+Predicted (generated) text: <pos> บาร์เทนเดอร์ สวีท ไอริช <opinion> มีความสุข
+
+Input text: มันดี ที่จะ ไป ที่นั่น เพื่อ ดื่ม ถ้า คุณ ทํา และ ไม่ต้องการ เมา เพราะ คุณ จะ โชคดี ถ้า คุณ สามารถ ดื่มได้ หนึ่ง ชั่วโมง บริการ ก็ แย่มาก
+Predicted (generated) text: <neu> Service <opinion> แย่มาก
+
+Input text: อย่างไรก็ตาม เจ้าของ นั้น เป็น ของปลอม
+Predicted (generated) text: <neg> เจ้าของ <opinion> ปลอม
+
+Input text: ประเทศ เป็นที่ น่าพอใจ และ สนุกสนาน
+Predicted (generated) text: <pos> place <opinion> น่าพอใจ <pos> place <opinion> สนุกสนาน
+
+Input text: อาหาร เรียก น้ํา ย่อย Creamy - มะเขือ ม่วง สลัด และ โยเกิร์ต กรีก ( กับ juka, alku และ กระเทียม ) รสชาติ ยอดเยี่ยม เมื่อ อบ ใน น้ํา อุ่น
+Predicted (generated) text: <pos> Creamy <opinion> Creamy <pos> มะเขือ squid <opinion> ยอดเยี่ยม <pos> texture <opinion> ยอดเยี่ยม
+

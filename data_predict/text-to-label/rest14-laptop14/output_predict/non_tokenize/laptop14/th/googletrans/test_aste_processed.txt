@@ -1,0 +1,984 @@
+Input text: เวลาบูตเร็วสุด ๆ จาก 35 วินาทีถึง 1 นาที
+Predicted (generated) text: <pos> เวลาบูt <opinion> quick
+
+Input text: การสนับสนุนด้านเทคนิคจะไม่แก้ไขปัญหาเว้นแต่ฉันจะซื้อแผนของคุณในราคา $ 150 บวก
+Predicted (generated) text: <neg> การสนับสนุนด้านเทคนิค <opinion> แก้ไขปัญหา
+
+Input text: การตั้งค่าเป็นเรื่องง่าย
+Predicted (generated) text: <pos> ตั้งค่า <opinion> ง่าย
+
+Input text: ไม่ได้เพลิดเพลินกับฟังก์ชั่น Windows 8 และหน้าจอสัมผัสใหม่
+Predicted (generated) text: <pos> Windows 8 <opinion> delight <pos> หน้าจอสัมผัส <opinion> new
+
+Input text: นอกเหนือจากการไม่ได้เป็นแฟนของแผ่นคลิก (มาตรฐานอุตสาหกรรมในปัจจุบัน) และลําโพงภายในที่มีหมัดแล้วมันยากสําหรับฉันที่จะค้นหาสิ่งต่าง ๆ เกี่ยวกับสมุดบันทึกนี้ที่ฉันไม่ชอบโดยเฉพาะอย่างยิ่งเมื่อพิจารณาจากป้ายราคา $ 350
+Predicted (generated) text: <neg> แผ่นคลิก <opinion> แฟน <neg> ลําโพงภายใน <opinion> หมัด
+
+Input text: มันรวดเร็วเบาและใช้งานง่าย
+Predicted (generated) text: <pos> การใช้งานง่าย <opinion> รวดเร็วเบา
+
+Input text: ทํางานได้ดีและฉันมีความสุขมากที่ได้กลับไปที่ Apple OS
+Predicted (generated) text: <pos> Apple OS <opinion> ทํางานได้ดี <pos> Apple OS <opinion> มีความสุข
+
+Input text: แน่นอนว่ามันไม่เบาและผอม แต่คุณสมบัติจะทําขึ้นสําหรับมัน 100 %
+Predicted (generated) text: <neg> คุณสมบัติ <opinion> 1篑
+
+Input text: ฉันพอใจกับการเข้าสู่ระบบอย่างรวดเร็วการเชื่อมต่อ WiFi ที่รวดเร็วและอายุการใช้งานแบตเตอรี่ที่ยาวนาน (> 6 ชั่วโมง)
+Predicted (generated) text: <pos> WiFi <opinion> tresses <pos> อายุการใช้งานแบตเตอรี่ <opinion> ยาวนาน
+
+Input text: วิศวกรของ Apple ยังไม่ได้ค้นพบคีย์ลบ
+Predicted (generated) text: <neg> Apple <opinion> ยังไม่ได้ค้นพบ
+
+Input text: ทําอินเทอร์เน็ต (ส่วนหนึ่งของธุรกิจของฉัน) ยากที่จะรักษา
+Predicted (generated) text: <neg> อินเทอร์เน็ต <opinion> ยาก toรักษา
+
+Input text: โชคดีสําหรับพวกเราทุกคนที่ใคร่ครวญการตัดสินใจ Mac Mini มีราคาถูกต้อง
+Predicted (generated) text: <pos> Mac Mini <opinion> โชคดี
+
+Input text: ปัญหาเดียวที่ฉันมีคือแผ่นแทร็กไม่ดีสําหรับฉันฉันมีปัญหาเพียงครั้งเดียวหรือสองครั้ง แต่อาจเป็นคอมพิวเตอร์ของฉันที่มีข้อบกพร่องเล็กน้อย
+Predicted (generated) text: <neg> แผ่นแทร็ก <opinion> fault
+
+Input text: มันเร็วมากและมีกราฟิกที่โดดเด่น
+Predicted (generated) text: <pos> กราฟิก <opinion> เร็วมาก <pos> กราฟิก <opinion> elegant
+
+Input text: แต่สิงโตภูเขาช้าเกินไป
+Predicted (generated) text: <neg> สิงโตภูเขาांडช้า
+
+Input text: สร้างความแข็งแกร่งแม้ว่าจะเพิ่มความทนทาน
+Predicted (generated) text: <pos> สร้างความแข็งแกร่ง
+
+Input text: อายุการใช้งานแบตเตอรี่ยอดเยี่ยม-6-7 ชั่วโมงโดยไม่ต้องชาร์จ
+Predicted (generated) text: <pos> battery <opinion> ยอดเยี่ยม
+
+Input text: ฉันมีคอมพิวเตอร์ของฉันเป็นเวลา 2 สัปดาห์แล้วและทํางานได้อย่างสมบูรณ์แบบ
+Predicted (generated) text: <pos> computer <opinion> สมบูรณ์แบบ
+
+Input text: และฉันอาจเป็นคนเดียว แต่ฉันชอบ Windows 8 จริงๆ
+Predicted (generated) text: <pos> Windows 8 <opinion> ชอบ
+
+Input text: แบตเตอรี่นานกว่ามาก
+Predicted (generated) text: <neu> แบตเตอรี่ <opinion> นานกว่ามาก
+
+Input text: ขนาดของมันเหมาะและน้ําหนักเป็นที่ยอมรับ
+Predicted (generated) text: <pos> ขนาด <opinion> เหมาะ <pos> น้ําหนัก <opinion> ยอมรับ
+
+Input text: ฉันสามารถพูดได้ว่าฉันพอใจอย่างเต็มที่กับประสิทธิภาพที่คอมพิวเตอร์ให้ไว้
+Predicted (generated) text: <pos> ประสิทธิภาพคอมพิวเตอร์ <opinion> เต็มที่
+
+Input text: มันมีความเร็วมากขึ้นและหน้าจอมีความคมชัดมาก
+Predicted (generated) text: <pos> หน้าจอ <opinion> คมชัด
+
+Input text: ทุกสิ่งที่ฉันต้องการและทุกสิ่งที่ฉันต้องการและราคาก็ยอดเยี่ยม!
+Predicted (generated) text: <pos> price <opinion> ยอดเยี่ยม
+
+Input text: มันไม่ราคาไม่แพง แต่ประสิทธิภาพของฮาร์ดแวร์นั้นน่าประทับใจสําหรับคอมพิวเตอร์ขนาดเล็กนี้
+Predicted (generated) text: <neg> ฮาร์ดแวร์ <opinion> น่าประทับใจ
+
+Input text: สิ่งนี้ยอดเยี่ยมทุกอย่างใช้งานได้ทุกอย่างมักจะติดตั้งได้ง่ายทุกอย่างเข้ากันได้ทุกอย่างที่ฉันขอได้
+Predicted (generated) text: <pos> ใช้งานได้ <opinion> ยอดเยี่ยม <pos> การติดตั้ง <opinion> quick
+
+Input text: แป้นพิมพ์ตอบสนองต่อการกดได้ดี
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ตอบสนองต่อการกดได้ดี
+
+Input text: สุดท้าย Windows 8 น่ารําคาญ
+Predicted (generated) text: <neg> Windows 8 <opinion> น่ารําคาญ
+
+Input text: ทุกอย่างง่ายและใช้งานง่ายในการตั้งค่าหรือกําหนดค่า
+Predicted (generated) text: <pos> funksjonerค่า <opinion> ง่าย <pos> appetizer <opinion> ใช้งานง่าย
+
+Input text: การร้องเรียนที่ใหญ่ที่สุดคือ Windows 8
+Predicted (generated) text: <pos> Windows 8 <opinion> gigant
+
+Input text: มีพอร์ต USB เพียง 2 พอร์ต... ดูเหมือนจะเป็น... จํากัด
+Predicted (generated) text: <neu> USB <opinion> จํากัด
+
+Input text: มันมีคุณสมบัติทั้งหมดที่คาดหวังและอีกมากมาย +บวกหน้าจอกว้างและมากกว่าแป้นพิมพ์ที่กว้างขวาง
+Predicted (generated) text: <pos> หน้าจอแสดงผล <opinion> 覆髏 <pos> แป้นพิมพ์ <opinion> กว้างขวาง
+
+Input text: การแสดงที่น่าทึ่งสําหรับทุกสิ่งที่ฉันโยนลงไป
+Predicted (generated) text: <pos> การแสดง <opinion> ที่น่าtatisfied
+
+Input text: ตัวรับสัญญาณเต็มไปด้วยสุดยอดเพื่อคุณภาพและประสิทธิภาพ
+Predicted (generated) text: <pos> ตัวรับสัญญาณ <opinion> spectacular <pos> ประสิทธิภาพ <opinion> perfect
+
+Input text: ฉันมีความสุขมากกับระบบปฏิบัติการ
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> มีความสุข
+
+Input text: MBP ใหม่นําเสนอการพกพาที่ยอดเยี่ยมและให้ความมั่นใจกับเราว่าเราไม่จําเป็นต้องซื้อแล็ปท็อปใหม่ใน 18 เดือน
+Predicted (generated) text: <pos> MBP <opinion> ที่ยอดเยี่ยม <pos> แล็ปท็อปใหม่ <opinion> ไม่จําเป็นต้องซื้อ
+
+Input text: การวิพากษ์วิจารณ์จางหายไปและตอนนี้ฉันเป็นคนแรกที่แนะนําอากาศสําหรับการคํานวณแบบพกพาอย่างแท้จริง
+Predicted (generated) text: <pos> อากาศ <opinion> unique
+
+Input text: MS Office 2011 สําหรับ Mac นั้นยอดเยี่ยมคุ้มค่า
+Predicted (generated) text: <pos> MS Office 2011 <opinion> worth <pos> Mac <opinion> worth
+
+Input text: แต่การแสดงของ Mac Mini นั้นน่าผิดหวังอย่างมาก
+Predicted (generated) text: <neg> Mac Mini <opinion> น่าผิดหวัง
+
+Input text: พวกเขาไม่ได้ดูดีพวกเขาให้ประสิทธิภาพที่ยอดเยี่ยม
+Predicted (generated) text: <pos> ประสิทธิภาพที่ยอดเยี่ยม
+
+Input text: ตอนนี้ฉันมีมันมานานกว่าหนึ่งปีโดยไม่มีความผิดพลาดใด ๆ.. ฉันชอบปุ่มสว่างและจอแสดงผลหน้าจอ... สิ่งนี้รวดเร็วและชัดเจนเท่าที่จะทําได้
+Predicted (generated) text: <pos> ปุ่มสว่าง <opinion> brilliant <pos> จอแสดงผลหน้าจอ <opinion> รวดเร็ว <pos> จอแสดงผลหน้าจอ <opinion> clear
+
+Input text: Mountain Lion OS นั้นไม่ยากที่จะเข้าใจว่าคุณคุ้นเคยกับ Microsoft Windows หรือไม่
+Predicted (generated) text: <pos> Microsoft Windows <opinion> ไม่ยาก
+
+Input text: อย่างไรก็ตามฉันสามารถปฏิเสธว่า OSX นั้นเป็น `` fast ''
+Predicted (generated) text: <pos> OSX <opinion> fast
+
+Input text: สนุกกับการใช้ Microsoft Office!
+Predicted (generated) text: <pos> Microsoft Office <opinion> สนุก
+
+Input text: กราฟิกที่น่าทึ่งและสีสันสดใส
+Predicted (generated) text: <pos> กราฟิก <opinion> ทึ่ง <pos> กราฟิก <opinion> สีสันสดใส
+
+Input text: แอพในตัวนั้นยอดเยี่ยมอย่างหมดจด
+Predicted (generated) text: <pos> แอพในตัว <opinion> ยอดเยี่ยมอย่างหมดจด
+
+Input text: จากความเร็วไปจนถึงท่าทางมัลติสัมผัสระบบปฏิบัติการนี้จะเต้นได้อย่างง่ายดาย
+Predicted (generated) text: <pos> ความเร็ว <opinion> ง่ายดาย <pos> ท่าทาง <opinion> มัลติ
+
+Input text: ฉันชอบขนาดและฉันเป็นแฟนของ Acers
+Predicted (generated) text: <pos> ขนาด <opinion> ชอบ <pos> Acers <opinion> แฟน
+
+Input text: ฉันเลือกใช้การรับประกันการป้องกันอุบัติเหตุคอมพิวเตอร์ 3 ปี Squaretrade ($ 1,500-2000) ซึ่งรองรับ `` อุบัติเหตุ '' เช่นการลดลงและการรั่วไหลที่ไม่ครอบคลุมโดย Applecare
+Predicted (generated) text: <neg> อุบัติเหตุคอมพิวเตอร์ <opinion> เลือกใช้ <neg> อุบัติเหตุ <opinion> อุบัติเหตุ
+
+Input text: มันเบาและง่ายต่อการขนส่ง
+Predicted (generated) text: <pos> Transport <opinion> เบา <pos> Transport <opinion> ง่าย
+
+Input text: เมื่อคุณผ่านการเรียนรู้วิธีการใช้การตั้งค่า Windows 8 ที่ออกแบบมาไม่ดีคุณอาจรู้สึกหงุดหงิด
+Predicted (generated) text: <neu> Windows 8 <opinion> หงุดหงิด
+
+Input text: ร่างกายอลูมิเนียมทําให้แน่ใจว่าโดดเด่น
+Predicted (generated) text: <pos> ร่างกายอลูมิเนียม <opinion> โดดเด่น
+
+Input text: มันง่ายมากที่จะรวมอุปกรณ์บลูทู ธ และอุปกรณ์ USB ได้รับการยอมรับเกือบจะทันที
+Predicted (generated) text: <pos> อุปกรณ์บลูทู ธ <opinion> ง่ายมาก <pos> อุปกรณ์ USB <opinion> ได้รับการยอมรับ
+
+Input text: และความจริงที่ว่า Apple กําลังขับรถ RMBP 13 '' ด้วยชิปกราฟิก Intel4000 ดูเหมือนจะต่ํากว่า (สําหรับฉัน
+Predicted (generated) text: <neg> Apple <opinion> ต่ํากว่า <neg> ชิปกราฟิก Intel4000 <opinion> ต่ํากว่า
+
+Input text: Apple ลบพอร์ต Firewire DVD Drive (จะทํางานกับอะแดปเตอร์) และใส่สล็อต SDXC ไว้ในตําแหน่งโง่ ๆ ที่ด้านหลัง
+Predicted (generated) text: <neu> Firewire DVD Drive <opinion> ลบพอร์t
+
+Input text: ความทนทานของแล็ปท็อปจะทําให้คุ้มค่ากับเงิน
+Predicted (generated) text: <pos> แล็pท็อป <opinion> worth
+
+Input text: ออกแบบมาอย่างดีและรวดเร็ว
+Predicted (generated) text: <pos> ออกแบบมา <opinion> อย่างดี <pos> ออกแบบมา <opinion> quick
+
+Input text: แต่ฉันผิดอย่างสมบูรณ์คอมพิวเตอร์เครื่องนี้น่าทึ่งและใช้งานง่ายอย่างไม่น่าเชื่อ
+Predicted (generated) text: <pos> คอมพิวเตอร์เครื่อง <opinion> ಾನทึ่ง <pos> คอมพิวเตอร์เครื่อง <opinion> ใช้งานง่าย
+
+Input text: ตรงตามที่โพสต์บวกกับคุณค่าที่ดี
+Predicted (generated) text: <pos> คุณค่า <opinion> fine
+
+Input text: สเป็คก็ค่อนข้างดีเช่นกัน
+Predicted (generated) text: <pos> สเป็ค <opinion> ดี
+
+Input text: Apple ไม่มีใครเทียบได้กับคุณภาพของผลิตภัณฑ์ความสวยงามงานฝีมือและการบริการลูกค้า
+Predicted (generated) text: <pos> ผลิตภัณฑ์ <opinion> สวยงาม <pos> งานฝีมือ <opinion> สวยงาม <pos> การบริการ <opinion> ไม่มีใครเทียบได้
+
+Input text: มันเป็นขนาดที่ยอดเยี่ยมและ Windows 8 ที่น่าตื่นตาตื่นใจ!
+Predicted (generated) text: <pos> ขนาด <opinion> ที่ยอดเยี่ยม <pos> Windows 8 <opinion> ที่น่าตื่นตาตื่นใจ
+
+Input text: ฉันไม่ชอบ Windows 8 มากเกินไป
+Predicted (generated) text: <neg> Windows 8 <opinion> มากเกินไป
+
+Input text: เวลาเริ่มต้นมีความยาวอย่างไม่น่าเชื่อ: มากกว่าสองนาที
+Predicted (generated) text: <neg> ความยาว <opinion> ไม่น่าเชื่อ
+
+Input text: ยังมีสีสันที่น่าทึ่งและรวดเร็ว
+Predicted (generated) text: <pos> สีสัน <opinion> ทึ่ง <pos> สีสัน <opinion> รวดเร็ว
+
+Input text: ราคาจัดส่งฟรีที่ยอดเยี่ยมฉันขออะไรได้อีก!ซ
+Predicted (generated) text: <pos> Priceจัดส่งฟรี
+
+Input text: เมาส์นี้ยอดเยี่ยมมาก
+Predicted (generated) text: <pos> เมาส์ <opinion> ยอดเยี่ยม
+
+Input text: มันหนารอบ ๆ แบตเตอรี่จริงๆ
+Predicted (generated) text: <neg> แบตเตอรี่ <opinion> หนารอบ
+
+Input text: และ Windows 7 ทํางานได้อย่างมีเสน่ห์
+Predicted (generated) text: <pos> Windows 7 <opinion> ทํางานได้อย่างมีเสน่ห์
+
+Input text: :) ผลิตภัณฑ์ที่ยอดเยี่ยมราคาดีการจัดส่งที่ยอดเยี่ยมและบริการที่ยอดเยี่ยม
+Predicted (generated) text: <pos> ผลิตภัณฑ์ <opinion> ที่ยอดเยี่ยม <pos> การจัดส่ง <opinion> Excellent
+
+Input text: :] มันมาถึงเร็วมากและการบริการลูกค้าก็ยอดเยี่ยม
+Predicted (generated) text: <pos> serviceลูกค้า <opinion> ยอดเยี่ยม
+
+Input text: ลอง Windows 8 และเกลียดมัน!ซซ
+Predicted (generated) text: <pos> Windows 8 <opinion> ลอง
+
+Input text: การตั้งค่าเป็นสายลม
+Predicted (generated) text: <pos> สายลม <opinion> สายลม
+
+Input text: แต่ฉันไม่ชอบ win8
+Predicted (generated) text: <neg> win8 <opinion> notชอบ
+
+Input text: ฉันมีเหตุผลเช่นเดียวกับผู้ใช้พีซีส่วนใหญ่: ราคาข้อ จํากัด ที่มากเกินไปของ OSX และขาดการสนับสนุนสําหรับเกม
+Predicted (generated) text: <neg> พีซี <opinion> เหตุผล <neg> priceข้อ จํากัด <neg> OSX <opinion> ขาดการสนับสนุน
+
+Input text: ฉันต้องการมันสําหรับการเคลื่อนไหวและผู้ชายของมันเด็กเลวตัวน้อยคนนี้ดีมาก
+Predicted (generated) text: <pos> กล้ามเนื้อ <opinion> ต้องการ <pos> ผู้ชาย <opinion> เลวตัวน้อย
+
+Input text: ฉันพบว่ามินิเป็น: ติดตั้งง่ายเป็นพิเศษ
+Predicted (generated) text: <pos> ติดตั้ง <opinion> ง่ายเป็นพิเศษ
+
+Input text: เสียงดีและดังฉันไม่มีปัญหาใด ๆ กับการได้ยินอะไรเลย
+Predicted (generated) text: <pos> เสียงดี <pos> เสียงดัง
+
+Input text: มันผอมมากแทร็กแผ่นประทับใจกับฉันมาก
+Predicted (generated) text: <pos> แทร็กแผ่น <opinion> ผอม
+
+Input text: การตั้งค่าไม่เป็นมิตรกับผู้ใช้เช่นกัน
+Predicted (generated) text: <neg> ผู้ใช้ <opinion> notเป็นมิตร
+
+Input text: ขอบคุณพระเจ้าสําหรับ OpenOffice!
+Predicted (generated) text: <pos> OpenOffice <opinion> ขอบคุณ
+
+Input text: ฟอร์มแฟคเตอร์ที่ยอดเยี่ยมอายุการใช้งานแบตเตอรี่ที่ยอดเยี่ยม UX ที่ยอดเยี่ยม
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> Fantastic <pos> UX <opinion> ที่ยอดเยี่ยม
+
+Input text: ฉันชอบแป้นพิมพ์และหน้าจอ
+Predicted (generated) text: <pos> แป้นพิมพ์ <opinion> ชอบ
+
+Input text: อย่างไรก็ตามมีปัญหาสําคัญกับทัชแพดซึ่งทําให้อุปกรณ์แทบไม่มีประโยชน์
+Predicted (generated) text: <neg> ทัชแพด <opinion> มีปัญหา
+
+Input text: ฉันได้รับการอัพเกรด O Mavericks แล้วและฉันประทับใจทุกอย่างเกี่ยวกับคอมพิวเตอร์เครื่องนี้
+Predicted (generated) text: <pos> computerเครื่อง <opinion> ประทับใจ
+
+Input text: ไม่เร็วเท่าที่ฉันคาดไว้สําหรับ i5
+Predicted (generated) text: <neu> i5 <opinion> คาดไว้
+
+Input text: ขอบคุณสําหรับบริการที่ยอดเยี่ยมและการจัดส่ง!
+Predicted (generated) text: <pos> Serviceที่ยอดเยี่ยม <opinion> ขอบคุณ
+
+Input text: ประสิทธิภาพดูเหมือนว่าค่อนข้างดีและแอปพลิเคชันในตัวเช่น iPhoto ใช้ได้ผลดีกับโทรศัพท์และกล้องของฉัน
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> ดี <pos> แอปพลิเคชัน <opinion> ใช้ได้ผลดี <pos> กล้อง <opinion> ใช้ได้ผลดี
+
+Input text: ฉันแลกเปลี่ยนฮาร์ดไดรฟ์สําหรับ Samsung 830 SSD ซึ่งฉันขอแนะนํา
+Predicted (generated) text: <neu> Samsung 830 SSD <opinion> recommend
+
+Input text: ใช่นั่นเป็นสิ่งที่ดี แต่มันทําจากอลูมิเนียมที่มีรอยขีดข่วนได้อย่างง่ายดาย
+Predicted (generated) text: <pos> อลูมิเนียม <opinion> ง่ายดาย
+
+Input text: ฉันได้รับแจ้งด้วยว่าส่วนประกอบของหนังสือ Mac นั้นสกปรก
+Predicted (generated) text: <neg> ส่วนประกอบ ofหนังสือ Mac <opinion> สกปรก
+
+Input text: ปัญหาฮาร์ดแวร์แย่มากฉันไม่รอจนกว่ามันจะตายอย่างสมบูรณ์ใน 3 ปีท็อปส์ซู!
+Predicted (generated) text: <neg> ฮาร์ดแวร์ <opinion> แย่
+
+Input text: เป็นเรื่องดีมากที่แบตเตอรี่ใช้เวลานานและเครื่องนี้มีสิงโตหิมะ!
+Predicted (generated) text: <pos> battery <opinion> excellent <neg> เครื่อง <opinion> สิงโตหิมะ
+
+Input text: มันคือสิ่งที่ฉันต้องการและมีคุณสมบัติใหม่ทั้งหมดและอะไรก็ตาม
+Predicted (generated) text: <neu> คุณสมบัติ <opinion> new
+
+Input text: รู้สึกว่าถูกแป้นพิมพ์ไม่อ่อนไหวมาก
+Predicted (generated) text: <neg> แป้นพิมพ์ <opinion> ไม่อ่อนไหว
+
+Input text: แม้ว่าโปรดทราบว่าบางครั้งมันล่มและคุณภาพเสียงก็ไม่ได้ยอดเยี่ยม
+Predicted (generated) text: <neg> qualityเสียง <opinion> ยอดเยี่ยม
+
+Input text: มันง่ายมากที่จะนําทางแม้สําหรับมือใหม่
+Predicted (generated) text: <pos> นําทาง <opinion> ง่าย
+
+Input text: ทุกอย่างที่ฉันต้องการมีอายุการใช้งานแบตเตอรี่ที่ยอดเยี่ยมและฉันก็ไม่มีความสุขมากขึ้น
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ที่ยอดเยี่ยม
+
+Input text: ประสิทธิภาพและคุณภาพที่ยอดเยี่ยม
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> ประสิทธิภาพ <pos> quality <opinion> ที่ยอดเยี่ยม
+
+Input text: อีกอย่าง Mac นี้ไม่ได้มาพร้อมกับการกู้คืนดิสก์และฉันไม่แน่ใจว่าคุณสามารถทําให้โดยตรงจาก Mac ที่คุณสามารถทําได้ด้วยพีซีรุ่นใหม่หรือไม่และสายเคเบิลชาร์จนั้นทําจากวัสดุราคาถูกเช่นเดียวกับ iPhone/สายเคเบิล iPod Touch
+Predicted (generated) text: <neg> Mac <opinion> nothingมาพร้อมกับ <pos> สายเคเบิลชาร์จ <opinion> ราคาถูก
+
+Input text: ระบบปฏิบัติการใหม่ยอดเยี่ยมสําหรับ MacBook Pro ของฉัน!
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> newยอดเยี่ยม
+
+Input text: ฉันไม่เคยประสบปัญหาทํางานตามที่คาดไว้
+Predicted (generated) text: <pos> ทํางาน <opinion> neverประสบปัญหา
+
+Input text: ระบบทํางานได้ดี
+Predicted (generated) text: <pos> System <opinion> perfect
+
+Input text: ปรับแต่งการตั้งค่าได้ง่ายและสร้างบุ๊กมาร์กของคุณเอง
+Predicted (generated) text: <pos> bุ๊กมาร์ก <opinion> ได้ง่าย
+
+Input text: มันมีคุณสมบัติทั้งหมดที่เราคาดหวังและราคาก็ดีทํางานได้ดีจนถึงตอนนี้
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> perfect <pos> price <opinion> fast
+
+Input text: ระบบปฏิบัติการใหม่ทําให้คอมพิวเตอร์เครื่องนี้กลายเป็นสุดยอด iPad
+Predicted (generated) text: <pos> systemปฏิบัติการ <opinion> 最新的 <pos> คอมพิวเตอร์เครื่อง <opinion> สุดยอด
+
+Input text: ง่ายต่อการตั้งค่าและไป!
+Predicted (generated) text: <pos> ตั้งค่า <opinion> ง่าย
+
+Input text: ฉันไม่อยากจะเชื่อเลยว่าฮาร์ดไดรฟ์เงียบแค่ไหนและสิ่งนี้จะเร็วแค่ไหน
+Predicted (generated) text: <neg> ฮาร์ดไดรฟ์ <opinion> เงียบแค่ไหน <pos> สิ่งนี้ <opinion> เร็ว
+
+Input text: มันเป็นสิ่งที่เรากําลังมองหาและมันใช้งานได้ดี
+Predicted (generated) text: <pos> การใช้งาน <opinion> ดี
+
+Input text: มันรวดเร็วและตอบสนองได้ว่ามันทําให้การทํางาน / ท่องบนคอมพิวเตอร์เป็นที่น่าพอใจมากขึ้น!
+Predicted (generated) text: <pos> computer <opinion> รวดเร็ว <pos> ท่องบนคอมพิวเตอร์ <opinion> ที่น่าพอใจ
+
+Input text: มันใช้งานได้ดีและซอฟต์แวร์ทั้งหมดดูเหมือนจะทํางานได้ค่อนข้างดี
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> decent
+
+Input text: ฉันต้องการคอมพิวเตอร์ที่ค่อนข้างเร็วและมีประสิทธิภาพโดยรวม
+Predicted (generated) text: <pos> computer <opinion> เร็ว <pos> คอมพิวเตอร์ <opinion> มีประสิทธิภาพ
+
+Input text: ฮาร์ดไดรฟ์อยู่ในสภาพที่ไม่ดีต้องแทนที่
+Predicted (generated) text: <neg> ฮาร์ดไดรฟ์ <opinion> ไม่ดี
+
+Input text: สวิตช์เปิด/ปิดนั้นค่อนข้างคลุมเครือในมุมด้านหลัง
+Predicted (generated) text: <neg> สวิตช์เปิด-ปิด <opinion> คลุมเครือ
+
+Input text: การร้องเรียนเพียงอย่างเดียวของฉันคือการขาดคําแนะนําทั้งหมดที่มาพร้อมกับ Mac Mini
+Predicted (generated) text: <neg> Mac Mini <opinion> calคําแนะนํา
+
+Input text: งานเดียวที่คอมพิวเตอร์เครื่องนี้จะไม่ดีพอสําหรับการเล่นเกมมิฉะนั้นกราฟิก Intel 4000 แบบรวมทํางานได้ดีสําหรับงานอื่น ๆ
+Predicted (generated) text: <pos> คอมพิวเตอร์เครื่อง <opinion> ไม่ดีพอ <neu> กราฟิก Intel 4000 <opinion> ได้ดี
+
+Input text: ฉันใช้มันเป็นส่วนใหญ่สําหรับการสร้างเนื้อหา (เสียงวิดีโอการแก้ไขภาพถ่าย) และความน่าเชื่อถือ
+Predicted (generated) text: <pos> เนื้อหา <opinion> ส่วนใหญ่ <pos> เสียงวิดีโอการแก้ไขภาพถ่าย <opinion> ที่น่าเชื่อถือ
+
+Input text: หน้าจอสดใสและงดงาม
+Predicted (generated) text: <pos> หน้าจอ <opinion> สดใส <pos> หน้าจอ <opinion> งดงาม
+
+Input text: มันมีความแข็งแกร่งด้วยการใช้งานที่เป็นมิตรเป็นผลิตภัณฑ์ Apple ทั้งหมด
+Predicted (generated) text: <pos> การใช้งาน <opinion> แข็งแกร่ง <pos> ผลิตภัณฑ์ Apple <opinion> เป็นมิตร
+
+Input text: มันง่ายและใช้งานง่าย
+Predicted (generated) text: <pos> การใช้งานง่าย <opinion> ง่าย
+
+Input text: และความจริงที่ว่ามันมาพร้อมกับโปรเซสเซอร์ i5 เร่งความเร็วอย่างแน่นอน
+Predicted (generated) text: <pos> โปรเซสเซอร์ <opinion> มาพร้อมกับ <pos> ความเร็ว <opinion> เร่งความเร็ว
+
+Input text: ฉันเป็นพีซีมานานหลายปีแล้ว แต่คอมพิวเตอร์เครื่องนี้ใช้งานง่ายและคุณสมบัติในตัวมันเป็นความช่วยเหลือที่ยอดเยี่ยม
+Predicted (generated) text: <pos> พีซี <opinion> พีซี <pos> คอมพิวเตอร์เครื่อง <opinion> ใช้งานง่าย <pos> คุณสมบัติในตัว <opinion> ที่ยอดเยี่ยม
+
+Input text: หน้าจอที่ดีแป้นพิมพ์ใช้งานได้ดี!
+Predicted (generated) text: <pos> หน้าจอ <opinion> decent <pos> แป้นพิมพ์ <opinion> ใช้งานได้ดี
+
+Input text: ฉันประหลาดใจที่การส่งมอบเร็วแค่ไหน
+Predicted (generated) text: <neg> การรับมอบ <opinion> quick
+
+Input text: หน่วยความจําหายไปและไม่สามารถใช้งานได้
+Predicted (generated) text: <neg> หน่วยความจําหายไป <neg> หน่วยความ <opinion> ไม่สามารถใช้งานได้
+
+Input text: มันใช้งานได้ดีและฉันมีความสุขมากที่ได้ซื้อมา
+Predicted (generated) text: <pos> การใช้งาน Pad <opinion> ใช้งานได้ดี <pos> Buy <opinion> มีความสุข
+
+Input text: ฉันชอบการออกแบบและใช้งานง่ายกับแป้นพิมพ์พอร์ตมากมาย
+Predicted (generated) text: <pos> แป้นพิมพ์พอร์t <opinion> nice
+
+Input text: มันเต้นแม็คเก่าของฉันอย่างแน่นอนและบริการก็ยอดเยี่ยม
+Predicted (generated) text: <pos> service <opinion> ยอดเยี่ยม
+
+Input text: การท่องเว็บนั้นรวดเร็วมากด้วยเบราว์เซอร์ Safari
+Predicted (generated) text: <pos> ท่องเว็บ <opinion> รวดเร็ว
+
+Input text: ฉันชอบหน้าจอที่มีแสงสว่างในเวลากลางคืน
+Predicted (generated) text: <pos> หน้าจอ <opinion> favorite
+
+Input text: มันใช้งานง่ายมากและเริ่มต้นได้อย่างรวดเร็ว
+Predicted (generated) text: <pos> ใช้งานง่าย <pos> starter <opinion> quick
+
+Input text: ฉันอาศัยอยู่กับความผิดพลาดและการทํางานช้าและรีสตาร์ท
+Predicted (generated) text: <neg> การทํางานช้า <neg> การทํางานช้า <opinion> รีสตาร์ท
+
+Input text: อุปกรณ์ต่อพ่วง USB3 นั้นมีราคาถูกกว่าสายฟ้า
+Predicted (generated) text: <pos> อุปกรณ์ต่อพ่วง USB3 <opinion> ราคาถูกกว่า
+
+Input text: มันรวดเร็วเบาและสมบูรณ์แบบสําหรับการแก้ไขสื่อซึ่งส่วนใหญ่เป็นเหตุผลว่าทําไมฉันถึงซื้อมันตั้งแต่แรก
+Predicted (generated) text: <pos> แก้ไขสื่อ <opinion> รวดเร็วเบา
+
+Input text: แบตเตอรี่ใช้งานได้ตามที่โฆษณาไว้ (ให้หรือใช้เวลา 15-20 นาที) และประสบการณ์ผู้ใช้ทั้งหมดนั้นสง่างามมาก
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> สง่างาม
+
+Input text: ขอบคุณสําหรับการจัดส่งที่รวดเร็วและราคาที่ดี
+Predicted (generated) text: <pos> การจัดส่ง <opinion> quick <pos> price <opinion> better
+
+Input text: ซประสิทธิภาพที่ยอดเยี่ยมการใช้งานการนําเสนอและการตอบสนองเวลา
+Predicted (generated) text: <pos> การใช้งาน <opinion> ที่ยอดเยี่ยม
+
+Input text: ขนาดที่เล็กกว่าเป็นโบนัสเนื่องจากข้อ จํากัด ด้านพื้นที่
+Predicted (generated) text: <neg> ขนาด <opinion> smallกว่าเป็นโบนัส
+
+Input text: ฉันตําหนิ Mac OS
+Predicted (generated) text: <pos> Mac OS <opinion> ตําหนิ
+
+Input text: ฉันชอบระบบปฏิบัติการ
+Predicted (generated) text: <pos> systemปฏิบัติการ <opinion> ชอบ
+
+Input text: ฉันชอบฟอร์มแฟคเตอร์
+Predicted (generated) text: <pos> ฟอร์มแฟcเตอร์ <opinion> love
+
+Input text: การโหลดอินเทอร์เน็ตอย่างรวดเร็ว
+Predicted (generated) text: <pos> โหลดอินเทอร์เน็ต <opinion> อย่างรวดเร็ว
+
+Input text: ดูเร็วขึ้นและเพรียวบางมาก
+Predicted (generated) text: <pos> ดูเร็วขึ้น <pos> เพรียวบาง
+
+Input text: น่าเสียดายที่มันรัน XP และ Microsoft จะลดลงในเดือนเมษายนปีหน้า
+Predicted (generated) text: <neg> Microsoft <opinion> woulddeย
+
+Input text: ก่อนอื่นฉันชอบ MBP ของฉันจริงๆ... เมื่อใช้กับระบบปฏิบัติการมันค่อนข้างง่ายที่จะไปรอบ ๆ และการสร้างโดยรวมนั้นยอดเยี่ยม... เช่นแป้นพิมพ์เป็นหนึ่งในสิ่งที่ดีที่สุดในการพิมพ์
+Predicted (generated) text: <pos> MBP <opinion> favorite <pos> แป้นพิมพ์ <opinion> excellent
+
+Input text: มันทําจากการก่อสร้างที่มั่นคงเช่นนี้และเนื่องจากฉันไม่เคยมี Mac ที่ใช้ iPhone ของฉันช่วยให้ฉันคุ้นเคยกับระบบเล็กน้อย
+Predicted (generated) text: <pos> system <opinion> 坚
+
+Input text: การก่อสร้างที่ดีมาก
+Predicted (generated) text: <pos> ก่อสร้าง <opinion> excellent
+
+Input text: MacBook Pro นี้เร็วมีประสิทธิภาพและทํางานเงียบและเย็นสุด ๆ
+Predicted (generated) text: <pos> MacBook Pro <opinion> เร็วมีประสิทธิภาพ <pos> MacBook Pro <opinion> warmและเย็นสุด
+
+Input text: ไม่เป็นไร แต่ไม่มีดิสก์ไดรฟ์ซึ่งฉันไม่รู้จนกระทั่งหลังจากซื้อมัน
+Predicted (generated) text: <neu> ดิสก์ไดรฟ์ <opinion> ไม่มี
+
+Input text: ไม่มีเต้ารับ HDMI และไม่มีช่องเสียบการ์ด SD ที่อยู่บนอุปกรณ์
+Predicted (generated) text: <neu> HDMI <opinion> ไม่มี ไม่มีช่องเสียrการ์ด SD <opinion> ไม่มี
+
+Input text: มันมาในแบรนด์ใหม่และทํางานได้อย่างสมบูรณ์แบบ
+Predicted (generated) text: <pos> แบรนด์ <opinion> สมบูรณ์
+
+Input text: มันไม่ควรเกิดขึ้นเช่นนั้นฉันไม่มีแอพออกแบบใด ๆ เปิดหรืออะไรก็ตาม
+Predicted (generated) text: <neu> แอพออกแบบ <opinion> ไม่มี
+
+Input text: แทร็กแพดของฉันไม่ทํางาน
+Predicted (generated) text: <neg> แทร็กแพด <opinion> ไม่ทํางาน
+
+Input text: มันดูและรู้สึกมั่นคงด้วยการตกแต่งที่ไร้ที่ติ
+Predicted (generated) text: <pos> ตกแต่ง <opinion> ไร้ที่ติ
+
+Input text: ราคาสูงขึ้นเมื่อซื้อบน Mac เมื่อเทียบกับราคาที่แสดงบนพีซีเมื่อฉันซื้อผลิตภัณฑ์นี้
+Predicted (generated) text: <neg> price <opinion> สูงขึ้น
+
+Input text: จากนั้นระบบจะไม่ปิดเครื่องหลายครั้งโดยไม่มีการบังคับปิด
+Predicted (generated) text: <neu> เครื่อง <opinion> not บังคับปิด
+
+Input text: การกําหนดค่าเหมาะสําหรับความต้องการของฉัน
+Predicted (generated) text: <pos> Personal <opinion> perfect
+
+Input text: และลําโพงเป็นสิ่งที่เลวร้ายที่สุดเท่าที่เคยมีมา
+Predicted (generated) text: <neg> ลําโพง <opinion> เลวร้าย
+
+Input text: มันดีที่สุดมันมีลุคใช้งานง่ายสุด ๆ และรักทุกสิ่งที่คุณสามารถทําได้กับแทร็คแพด!..
+Predicted (generated) text: <pos> แทร็คแพด <opinion> easy
+
+Input text: การท่องเว็บนั้นราบรื่นและราบรื่น
+Predicted (generated) text: <pos> ท่องเว็บ <opinion> ราบรื่น
+
+Input text: โดยรวมแล้วฉันพอใจกับอินเทอร์เฟซและความสามารถในการพกพาของผลิตภัณฑ์นี้
+Predicted (generated) text: <pos> อินเทอร์เฟซ <opinion> พอใจ <pos> ผลิตภัณฑ์ <opinion> ความสามารถในการพกพา
+
+Input text: รายการนี้เป็นชิ้นที่สวยงามมันใช้งานได้ดีมันใช้งานง่ายและจัดการได้ง่าย
+Predicted (generated) text: <pos> ชิ้น <opinion> ที่สวยงาม <pos> ชิ้น <opinion> ใช้งานได้ดี <pos> จัดการ <opinion> ง่าย
+
+Input text: นอกจากนี้ยังเป็นปัญหาของฮาร์ดแวร์ (แป้นพิมพ์) ประสิทธิภาพที่ค่อนข้างช้าและลดอายุการใช้งานแบตเตอรี่ให้สั้นลง
+Predicted (generated) text: <neg> ฮาร์ดแวร์ <opinion> problem <neg> แบตเตอรี่ <opinion> ช้า <neg> battery <opinion> ลดอายุ
+
+Input text: ทํางานได้ดีและทํางานได้ไม่บ่นเกี่ยวกับเรื่องนั้น!
+Predicted (generated) text: <pos> ทํางาน <opinion> ได้ดี
+
+Input text: มันเงียบและมีรอยเท้าเล็ก ๆ บนโต๊ะทํางานของฉัน
+Predicted (generated) text: <neg> โต๊ะทํางาน <opinion> เงียบ
+
+Input text: ภายนอกนั้นงดงามอย่างแน่นอน
+Predicted (generated) text: <pos> ภายนอก <opinion> งดงาม
+
+Input text: มันมีประสิทธิภาพสูงมากสําหรับสิ่งที่ฉันต้องการ
+Predicted (generated) text: <pos> การใช้ไฟฟ้า <opinion> สูง
+
+Input text: Apple ตระหนักถึงปัญหานี้และนี่คือสต็อกเก่าหรือการออกแบบที่มีข้อบกพร่องที่เกี่ยวข้องกับชิปเซ็ตกราฟิก Intel 4000
+Predicted (generated) text: <neg> สต็อกเก่า <opinion> ข้อบกพร่อง
+
+Input text: ฉันเพิ่งซื้อ MacBook Pro รุ่นใหม่รุ่น 13 '' และฉันไม่เชื่อว่า Apple ทําผิดพลาดเหมือนกันกับพอร์ต USB
+Predicted (generated) text: <neu> MacBook Pro <opinion> ผิดพลาด
+
+Input text: มันเป็นขนาดและความเร็วที่สมบูรณ์แบบสําหรับฉัน
+Predicted (generated) text: <pos> ขนาด <opinion> สมบูรณ์แบบ <pos> ความเร็ว <opinion> สมบูรณ์แบบ
+
+Input text: การบริการลูกค้ายอดเยี่ยมมาก!ซ
+Predicted (generated) text: <pos> การบริการลูกค้า <opinion> ยอดเยี่ยม
+
+Input text: แล็ปท็อปสุดท้ายของฉันคือเครื่องเกม Asus 17 '' ซึ่งทํางานได้อย่างน่าชื่นชม แต่ตั้งแต่สร้างเดสก์ท็อปของฉันเองและตั้งถิ่นฐานในชีวิตวิทยาลัยฉันพบว่าตัวเองต้องการอะไรที่เล็กลงและยุ่งยากน้อยกว่าไม่ต้องพูดถึงว่า Asus ช้าการพัฒนาปัญหาตั้งแต่ฉันซื้อมาประมาณ 4 ปีที่ผ่านมา
+Predicted (generated) text: <pos> เครื่องเกม Asus 17 <opinion> ช้าการพัฒนา
+
+Input text: อย่างไรก็ตามมันไม่มีรอยขีดข่วนใด ๆ จํานวนรอบแบตเตอรี่ (ค่อนข้างประหลาดใจ) และฮาร์ดแวร์ทั้งหมดดูเหมือนจะทํางานได้อย่างสมบูรณ์แบบ
+Predicted (generated) text: <pos> จํานวนรอบแบตเตอรี่ <opinion> ประหลาดใจ <pos> ฮาร์ดแวร์ <opinion> สมบูรณ์
+
+Input text: และสําหรับการกวาดนิ้วแฟนซีทั้งหมด - ฉันเพิ่งยอมแพ้และติดเมาส์
+Predicted (generated) text: <neg> นิ้วแฟนซี <opinion> ยอมแพ้
+
+Input text: ฉันต้องการแล็ปท็อปที่มีที่เก็บข้อมูลขนาดใหญ่หน้าจอที่ดีและรวดเร็วเพื่อให้ฉันสามารถ Photoshop ได้โดยไม่มีปัญหาใด ๆ
+Predicted (generated) text: <pos> แล็ปท็อป <opinion> ต้องการ <pos> หน้าจอ <opinion> large <pos> หน้าจอ <opinion> รวดเร็ว
+
+Input text: ฉันชอบกลับมาที่ Mac OS แต่แล็ปท็อปนี้ขาดคุณภาพของลําโพงเมื่อเทียบกับแล็ปท็อป HP เก่า $ 400 ของฉัน
+Predicted (generated) text: <pos> Mac OS <opinion> ชอบ <neg> แล็ปท็อป <opinion> ขาด qualityของลําโพง
+
+Input text: จัดส่งอย่างรวดเร็วและปลอดภัย
+Predicted (generated) text: <pos> จัดส่ง <opinion> อย่างรวดเร็ว <pos> จัดส่ง <opinion> ปลอดภัย
+
+Input text: พอร์ต Thunderbolt ยอดเยี่ยมมาก!
+Predicted (generated) text: <pos> พอร์t Thunderbolt <opinion> ยอดเยี่ยม
+
+Input text: การแสดงนั้นเหนือกว่าคอมพิวเตอร์เครื่องใด ๆ ที่ฉันเคยวางไว้
+Predicted (generated) text: <neu> computerเครื่อง <opinion> เหนือ
+
+Input text: เหมาะอย่างยิ่งสําหรับการสตรีมวิดีโอและความบันเทิงอื่น ๆ
+Predicted (generated) text: <pos> สตรีtวิดีโอ <opinion> เหมาะอย่างยิ่ง <pos> ความบันเทิง <opinion> เหมาะอย่างยิ่ง
+
+Input text: ฉันชอบการออกแบบและคุณสมบัติของมัน แต่มีบางสิ่งที่ฉันคิดว่าจําเป็นต้องได้รับการปรับปรุง
+Predicted (generated) text: <pos> การออกแบบ <opinion> ชอบ <neg> คุณสมบัติ <opinion> จําเป็นต้องได้รับการปรับปรุง
+
+Input text: มีปัญหาเล็ก ๆ น้อย ๆ กับสํานักงาน MAC
+Predicted (generated) text: <neu> MAC <opinion> มีปัญหา
+
+Input text: ฉันสั่ง Mac Mini 2012 ของฉันหลังจากรู้สึกผิดหวังกับข้อมูลจําเพาะของ iMacs 27 '' ใหม่
+Predicted (generated) text: <neg> Mac Mini 2012 <opinion> ผิดหวัง
+
+Input text: มันรวดเร็วใช้งานง่ายและดูดี
+Predicted (generated) text: <pos> การใช้งานง่าย <opinion> quickly <pos> Display Pad Thai <opinion> decent
+
+Input text: ประสิทธิภาพดีกว่ามากในมืออาชีพโดยเฉพาะอย่างยิ่งถ้าคุณติดตั้ง SSD
+Predicted (generated) text: <pos> SSD <opinion> ดีกว่ามาก
+
+Input text: อย่างไรก็ตามโปรดทราบว่าอุปกรณ์เสริม magsafe ที่มีอยู่ที่คุณมีจะไม่ทํางานกับการเชื่อมต่อ Magsafe 2
+Predicted (generated) text: <neg> equipmentเสริม magsafe <opinion> โปรด
+
+Input text: สิ่งเดียวที่ฉันไม่ชอบคือทัชแพดหลายครั้งที่มันไม่ตอบสนองและทําสิ่งที่ฉันไม่ต้องการเช่นกันฉันจะแนะนําให้ใช้เมาส์กับมัน
+Predicted (generated) text: <neg> tัชแพด <opinion> notตอบสนอง
+
+Input text: Mac Mini นั้นเล็กกว่าคอมพิวเตอร์เครื่องเก่าของฉันประมาณ 8 เท่าซึ่งเป็นโบนัสขนาดใหญ่และเงียบมากจริง ๆ แล้วแฟน ๆ ไม่ได้ยินเสียงไม่เหมือนพีซีเครื่องเก่าของฉัน
+Predicted (generated) text: <pos> Mac Mini <opinion> เล็กกว่า <pos> คอมพิวเตอร์เครื่องเก่า <opinion> เงียบมาก
+
+Input text: ฉันคิดว่าการเปลี่ยนแปลงจะเป็นเรื่องยากที่สุดและจะใช้เวลาพอสมควรในการทําความคุ้นเคยกับระบบนิเวศ Mac ใหม่อย่างเต็มที่
+Predicted (generated) text: <neg> การเปลี่ยนแปลง <opinion> ยาก
+
+Input text: มันยอดเยี่ยมมากและคุ้มค่ากับราคา!
+Predicted (generated) text: <pos> Price <opinion> 達成
+
+Input text: ฉันโปรดใช้ผลิตภัณฑ์ที่ใช้งานง่ายออกจากกล่องพร้อมลักษณะและฟังก์ชั่น
+Predicted (generated) text: <pos> ผลิตภัณฑ์ <opinion> perfect
+
+Input text: เหมาะสําหรับชั้นเรียนการออกแบบกราฟิกทั้งหมดของฉันฉันเรียนในปีนี้ในวิทยาลัย: -)
+Predicted (generated) text: <pos> กราฟิก <opinion> เหมาะสําหรับ
+
+Input text: ฉันจะไม่ใช้สล็อตนั้นอีก
+Predicted (generated) text: <neu> สล็อต <opinion> จะไม่ใช้
+
+Input text: ระบบปฏิบัติการนั้นรวดเร็วและของเหลวทุกอย่างถูกจัดระเบียบและมันก็สวยงาม
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> quick <pos> deเหลว <opinion> จัดระเบียบ <pos> เหลว <opinion> สวยงาม
+
+Input text: ใช้งานง่ายกว่า
+Predicted (generated) text: <pos> ใช้งานง่ายกว่า
+
+Input text: ซดีมาก.. มั่นคง.. เร็ว.. ตอนนี้ฉันมี SSD ของฉัน!
+Predicted (generated) text: <pos> SSD <opinion> ดีมาก
+
+Input text: ฉันชอบการเริ่มต้นอย่างรวดเร็ว
+Predicted (generated) text: <pos> การเริ่มต้นอย่างรวดเร็ว
+
+Input text: คุณไม่สามารถเอาชนะฟังก์ชั่นของอุปกรณ์ Apple ได้
+Predicted (generated) text: <neg> อุปกรณ์ <opinion> เอาชนะ
+
+Input text: แต่ Mac ของฉันยังคงทํางานได้อย่างถูกต้อง
+Predicted (generated) text: <neu> Mac <opinion> ทํางานได้อย่างถูกต้อง
+
+Input text: กราฟิกดีขึ้นมาก
+Predicted (generated) text: <pos> กราฟิก <opinion> better
+
+Input text: นี่คือสิ่งที่ทําให้ฉันมั่นใจกับการซื้อของฉัน: สร้างคุณภาพ - อย่างจริงจังคุณไม่สามารถเอาชนะการก่อสร้างแบบ Unibody ได้
+Predicted (generated) text: <pos> quality <opinion> มั่นใจ
+
+Input text: มันให้ความยืดหยุ่นมากขึ้นสําหรับการเชื่อมต่อ
+Predicted (generated) text: <pos> เชื่อมต่อ <opinion> ยืดหยุ่น
+
+Input text: การสอน MAC ช่วยได้
+Predicted (generated) text: <pos> MAC <opinion> ช่วย
+
+Input text: การสนับสนุนทางเทคนิคก็ไม่เป็นประโยชน์เช่นกัน
+Predicted (generated) text: <neu> การสนับสนุนทางเทคนิค <opinion> เป็นประโยชน์
+
+Input text: ฉันได้อะแดปเตอร์ใหม่และไม่มีการเปลี่ยนแปลง
+Predicted (generated) text: <neu> อะแดปเตอร์ <opinion> ไม่มีการเปลี่ยนแปลง
+
+Input text: บอร์ดตรรกะทอดอย่างเต็มที่ร้องไห้และวางลงและตาย
+Predicted (generated) text: <pos> บอร์ดตรรกะทอด <opinion> เต็มที่
+
+Input text: เสียงเส็งเคร็งแม้ว่าคุณจะเปิดระดับเสียงยังคงเป็นผลลัพธ์เดียวกัน
+Predicted (generated) text: <pos> เสียงเส็งเคร็ง <opinion> เสียงเส็งเคร็ง <pos> เสียงเส็งเคร็ง <opinion> ผลลัพธ์เดียวกัน
+
+Input text: OSX Lion เป็นนักแสดงที่ยอดเยี่ยม.. เร็วและเชื่อถือได้
+Predicted (generated) text: <pos> OSX Lion <opinion> excellent
+
+Input text: เมื่อได้ยินจากเพื่อนและครอบครัวเกี่ยวกับความน่าเชื่อถือของผลิตภัณฑ์ MAC ฉันไม่เคยคาดหวังว่าจะมีความผิดพลาดของแอปพลิเคชันภายในเดือนแรก แต่ฉันก็ทํา
+Predicted (generated) text: <neg> ผลิตภัณฑ์ MAC <opinion> น่าเชื่อถือ
+
+Input text: รูปแบบทางกายภาพของ MacBook Pro นั้นยอดเยี่ยมมาก
+Predicted (generated) text: <pos> MacBook Pro <opinion> ยอดเยี่ยม
+
+Input text: ร่างกายของมินิไม่เปลี่ยนแปลงตั้งแต่ปลายปี 2010- และด้วยเหตุผลที่ดี
+Predicted (generated) text: <pos> ร่างกาย <opinion> ที่ดี
+
+Input text: การก่อสร้าง unibody รู้สึกแข็งกว่าแล็ปท็อปก่อนหน้าของ Apple มาก
+Predicted (generated) text: <neg> แล็pท็อป <opinion> แข็งกว่า
+
+Input text: การแสดงผล 3 มิติช้าลงอย่างมาก
+Predicted (generated) text: <neg> Display <opinion> ช้าลง
+
+Input text: เร็วหน้าจอที่ยอดเยี่ยมแอพที่สวยงามสําหรับแล็ปท็อปราคาอยู่ที่ 1,100 บนเว็บไซต์ Apple;Amazon มีภาษี 1,098+- บวกกับฉันมีคูปองลด 10 % จาก Amazon-cost me 998 บวกภาษี- 1070- otd!
+Predicted (generated) text: <pos> แล็ปท็อป price <opinion> ที่สวยงาม
+
+Input text: พอร์ตทั้งหมดจําเป็นมากเนื่องจากนี่เป็นคอมพิวเตอร์หลักของฉัน
+Predicted (generated) text: <neg> พอร์t <opinion> จําเป็น
+
+Input text: เงื่อนไขใหม่ของ iMac MC309LL/A ใน Amazon อยู่ที่ระดับ $ 900+ เท่านั้นและเป็น CPU quad-core 2.5 GHz (คล้ายกับ $ 799 MINI) พร้อมการ์ดกราฟิก Radeon HD 6750M 512MBการ์ด Intel 4000 ในตัว) และมันก็มาพร้อมกับคีย์บอร์ดและเมาส์ไร้สายและเมาส์ทั้งหมดรวมกันในแพ็คเกจที่เรียบร้อยและดี
+Predicted (generated) text: <pos> iMac MC309LL/A <opinion> มาพร้อมกับ <pos> คีย์บอร์ด <opinion> มาพร้อมกับ <pos> เมาส์ <opinion> ไร้สาย <pos> curry COMPUTER <opinion> decent
+
+Input text: วางปกไว้และดีขึ้นเล็กน้อย แต่นั่นเป็นข้อร้องเรียนเพียงอย่างเดียวของฉัน
+Predicted (generated) text: <neg> วางปกไว้ <opinion> ดีขึ้น
+
+Input text: ภายในไม่กี่ชั่วโมงฉันก็ใช้ท่าทางโดยไม่รู้ตัว
+Predicted (generated) text: <neg> ท่าทาง <opinion> ไม่รู้ตัว
+
+Input text: Mac นี้มาพร้อมกับสายเคเบิล extender และฉันใช้ของฉันในตอนนี้หวังว่าสายเคเบิลจะดีอยู่หลายปีที่ฉันวางแผนที่จะใช้ Mac นี้
+Predicted (generated) text: <pos> สายเคเบิล extender <opinion> recommend
+
+Input text: ชิป i7 คู่ 2.9GHz Dual-Core ออกมาเอง
+Predicted (generated) text: <neu> ชิป <opinion> 2.9GHz Dual-Core <opinion> ออกมาเอง
+
+Input text: มันค่อนข้างเร็วและเริ่มต้นในเวลาประมาณ 30 วินาทีซึ่งดีพอสําหรับฉัน
+Predicted (generated) text: <neg> wait <opinion> fast
+
+Input text: ไม่แน่ใจใน Windows 8
+Predicted (generated) text: <neu> Windows <opinion> ไม่แน่ใจ
+
+Input text: ข้อร้องเรียนหนึ่งของฉันคือไม่มีไดรฟ์ซีดีภายใน
+Predicted (generated) text: <neg> ไดรฟ์ซีดี <opinion> ไม่มีไดรฟ์
+
+Input text: เน็ตบุ๊กรุ่นใหม่นี้ไม่มีฮาร์ดไดรฟ์หรือไฟเครือข่าย
+Predicted (generated) text: <neg> เน็ต bุ๊กรุ่นใหม่ <opinion> ไม่มีฮาร์ดไดรฟ์またはไฟเครือข่าย <opinion> ไม่มี
+
+Input text: ไม่ได้ค่าใช้จ่ายมากเกินไปและมีพื้นที่เก็บข้อมูลเพียงพอสําหรับผู้ใช้ส่วนใหญ่และพอร์ตจํานวนมาก
+Predicted (generated) text: <neg> ค่าใช้จ่าย <opinion> nothing cost <neg> พื้นที่เก็บข้อมูล <opinion> เพียงพอ
+
+Input text: ปริมาณเสียงค่อนข้างต่ําและไม่สามารถใช้งานได้จริงในห้องที่มีกิจกรรมพื้นหลังใด ๆ
+Predicted (generated) text: <neg> ปริมาณเสียง <opinion> ต่ํา <neg> quantityเสียง <opinion> notใช้งานได้จริง
+
+Input text: มันมีน้ําหนักเบาและขนาดที่สมบูรณ์แบบในการพกพาไปเรียน
+Predicted (generated) text: <pos> น้ําหนักเบา <opinion> เบา <pos> ขนาด <opinion> สมบูรณ์แบบ
+
+Input text: MBP นั้นสวยงามมีความสามารถที่ยอดเยี่ยมมากมาย
+Predicted (generated) text: <pos> MBP <opinion> สวยงาม <pos> MBP <opinion> สวยงาม <pos> ความสามารถ <opinion> ที่ยอดเยี่ยม
+
+Input text: ฉันคิดว่ามันจะดีถ้าฉันตั้งค่าบางอย่าง
+Predicted (generated) text: <neg> ค่าบางอย่าง <opinion> ดี
+
+Input text: วิ่งได้อย่างราบรื่นมาก
+Predicted (generated) text: <pos> วิ่ง <opinion> ราบรื่น
+
+Input text: การบู๊ตช้าลงอย่างมากหลังจากติดตั้งการอัปเดต Windows ทั้งหมด
+Predicted (generated) text: <neg> Windows <opinion> ช้าลง
+
+Input text: มันเป็นสิ่งสําคัญที่มันมีพลังมากพอที่จะทํางานทั้งหมดที่เขาต้องการบนอินเทอร์เน็ตการประมวลผลคําการออกแบบกราฟิกและการเล่นเกม
+Predicted (generated) text: <pos> กราฟิก <opinion> พลัง
+
+Input text: ฉันชอบ Mini Mac มันง่ายต่อการติดตั้งและติดตั้ง แต่ฉันกําลังเรียนรู้ขณะที่ฉันไปและสามารถใช้การสอนเพื่อเรียนรู้วิธีการใช้คุณสมบัติบางอย่างที่ฉันใช้บนพีซีโดยเฉพาะเมนูคลิกเมาส์ขวา
+Predicted (generated) text: <pos> Mini Mac <opinion> ชอบ
+
+Input text: วิ่งเร็วจริง
+Predicted (generated) text: <pos> วิ่งเร็ว
+
+Input text: เนื่องจากโปรไฟล์ที่เพรียวบางของเครื่องมีความสําคัญต่อฉันนั่นเป็นปัญหา
+Predicted (generated) text: <neg> โปรไฟล์ <opinion> เพรียวบาง
+
+Input text: ความสามารถของ WiFi, ดิสก์ไดรฟ์และพอร์ต USB หลายพอร์ตเพื่อเชื่อมต่อมาตราส่วนและเครื่องพิมพ์เป็นสิ่งที่จําเป็นทั้งหมด
+Predicted (generated) text: <pos> WiFi <opinion> ความสามารถ <pos> ดิสก์ไดรฟ์ <opinion> ความสามารถ <pos> พอร์t USB <opinion> หลายพอร์ต <neu> เครื่องพิมพ์ <opinion> จําเป็น
+
+Input text: เครื่องอ่านการ์ด SD ถูกปิดภาคเรียนเล็กน้อยและกลับหัวกลับหาง (ช่องเล็บบนการ์ดไม่สามารถเข้าถึงได้) หากนี่เป็นช่องเสียบตัวเองที่ถูกปล่อยออกมาสิ่งนี้จะไม่เป็นปัญหา แต่ไม่ใช่
+Predicted (generated) text: <neg> การ์ด SD <opinion> ปิดภาคเรียน <neg> ช่องเสียr
+
+Input text: สัมผัสที่นุ่มนวลอลูมิเนียมแบบอะโนไดซ์ที่มีความแม่นยําในการตัดเลเซอร์และไม่มีข้อบกพร่อง
+Predicted (generated) text: <pos> อลูมิเนียม <opinion> นุ่มนวล <pos> อลูมิเนียม <opinion> แม่นยํา
+
+Input text: รายละเอียดง่ายๆอลูมิเนียมที่สร้างขึ้นและแก้วจริงทําให้แล็ปท็อปนี้ระเบิดพลาสติกอื่น ๆ ที่มีสติกเกอร์ที่เต็มไปด้วยแล็ปท็อป
+Predicted (generated) text: <pos> อลูมิเนียม <opinion> basics <neu> แล็ปท็อป <opinion> ระเบิดพลาสติก <neu> rectangle <opinion> full
+
+Input text: ก่อนอื่นใช่นี่คือ Mac และมีอลูมิเนียมแปรงที่ดี
+Predicted (generated) text: <pos> อลูมิเนียมแปรง <opinion> good
+
+Input text: ไม่มีพอร์ต HDMI
+Predicted (generated) text: <neu> HDMI <opinion> ไม่มีพอร์ต
+
+Input text: การปรับแต่งบน Mac เป็นไปไม่ได้
+Predicted (generated) text: <neu> Mac <opinion> ปรับแต่ง
+
+Input text: บวกกับการคลิกสองนิ้วเพื่อทดแทนปุ่มคลิกขวานั้นใช้งานง่ายอย่างน่าประหลาดใจ
+Predicted (generated) text: <pos> ปุ่มคลิกขวา <opinion> ใช้งานง่าย
+
+Input text: ซุปเปอร์ดริฟเงียบ
+Predicted (generated) text: <pos> ซุปเปอร์ดริฟเงียบ
+
+Input text: แบตเตอรี่ตายอย่างสมบูรณ์ในความเป็นจริงมันเติบโตขึ้นประมาณหนึ่งในสี่นิ้วที่ด้านล่าง
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> perfect
+
+Input text: ถ้าคุณชอบการปฏิบัติจริงนี่คือแล็ปท็อปสําหรับคุณ
+Predicted (generated) text: <pos> แล็ปท็อป <opinion> brilliant
+
+Input text: ระบบปฏิบัติการนั้นยอดเยี่ยม
+Predicted (generated) text: <pos> Systemปฏิบัติการ <opinion> ยอดเยี่ยม
+
+Input text: จุดด้อย: ราคาค่อนข้างไร้สาระค่อนข้างหนัก
+Predicted (generated) text: <neg> จุดด้อย <opinion> ไร้สาระ <neg> price <opinion> fair
+
+Input text: ซึ่งไม่มีพอร์ต USB 2 เพียง 3 พอร์ต
+Predicted (generated) text: <neg> USB <opinion> ไม่มีพอร์t
+
+Input text: ไม่มีดิสก์เริ่มต้นไม่รวม แต่นั่นอาจเป็นความผิดของฉัน
+Predicted (generated) text: <neg> ดิสก์เริ่มต้น <opinion> ไม่มี
+
+Input text: มันเร็วมากและมีทุกสิ่งที่ฉันต้องการยกเว้นโปรแกรม Word
+Predicted (generated) text: <neg> Word <opinion> slow
+
+Input text: ต้องการไดรฟ์ซีดี/ดีวีดีและสวิตช์ไฟที่ใหญ่กว่า
+Predicted (generated) text: <pos> ไดรฟ์ซีดี <opinion> Davidson Excellent <pos> สวิตช์ไฟ <opinion> ใหญ่กว่า
+
+Input text: แล็ปท็อปของฉันที่มี Windows 7 ล้มเหลวและฉันไม่ต้องการ Windows 8
+Predicted (generated) text: <neg> แล็pท็อป <opinion> ล้มเหลว
+
+Input text: ง่ายต่อการติดตั้งเล็ก ๆ ที่จะออกจากที่ใดก็ได้ที่ห้องนอนของคุณยังง่ายต่อการกําหนดค่าสําหรับสายเคเบิล ADSL หรือ wifi
+Predicted (generated) text: <neu> ADSL <opinion> ง่าย <neu> ห้องนอน <opinion> ง่าย
+
+Input text: บรรจุภัณฑ์ที่ดี
+Predicted (generated) text: <pos> บรรจุภัณฑ์ <opinion> Quality
+
+Input text: ฉันเปลี่ยนมาเป็นสิ่งนี้เพราะฉันต้องการสิ่งที่แตกต่างกันแม้ว่าฉันจะพลาด Windows
+Predicted (generated) text: <neg> Windows <opinion> พลาด
+
+Input text: Apple ไม่รวม IDVD กับคอมพิวเตอร์อีกต่อไปและนอกจากนี้ Apple ไม่ได้เสนออีกต่อไป!
+Predicted (generated) text: <neu> IDVD กับคอมพิวเตอร์ <opinion> Iรวม
+
+Input text: ฉันยังต้องการ Windows 7 ซึ่งอันนี้มี
+Predicted (generated) text: <neu> Windows 7 <opinion> ต้องการ
+
+Input text: ตอนแรกฉันรู้สึกอึดอัดเล็กน้อยในการใช้ระบบ MAC
+Predicted (generated) text: <neg> MAC <opinion> อึดอัด
+
+Input text: มันใช้งานได้นอกกรอบและคุณมีซอฟต์แวร์เจ๋ง ๆ มากมายที่รวมอยู่ในระบบปฏิบัติการ
+Predicted (generated) text: <neg> software <opinion> เจ๋ง
+
+Input text: มันเป็นไปตามที่โฆษณาไว้ที่นี่..... มันใช้งานได้ดีและไม่เสียเงิน!
+Predicted (generated) text: <pos> โฆษณา <opinion> ใช้งานได้ดี <pos> โฆษณา <opinion> nonเสียเงิน
+
+Input text: ราคาพรีเมี่ยมสําหรับระบบปฏิบัติการมากกว่าสิ่งอื่นใด
+Predicted (generated) text: <pos> systemปฏิบัติการ <opinion> พรีเมี่ยม
+
+Input text: ฉันกังวลเล็กน้อยเกี่ยวกับทัชแพดตามบทวิจารณ์ แต่ฉันก็พบว่ามันใช้งานได้ดี
+Predicted (generated) text: <pos> ทัชแพด <opinion> กังวล
+
+Input text: อย่างไรก็ตามประสบการณ์นั้นยอดเยี่ยมเนื่องจากระบบปฏิบัติการไม่ได้ไม่เสถียรและแอปพลิเคชันจะปิดและเปิดใหม่อีกครั้ง
+Predicted (generated) text: <pos> ระบบปฏิบัติการ <opinion> notเสถียร <neg> แอปพลิเคชัน <opinion> ปิดเปิดใหม่
+
+Input text: แบตเตอรี่ไม่ได้แสดงในภาพถ่ายผลิตภัณฑ์
+Predicted (generated) text: <neu> แบตเตอรี่ <opinion> nothingแสดง
+
+Input text: การจัดส่งสินค้ารวดเร็วและผลิตภัณฑ์ที่อธิบายไว้คือผลิตภัณฑ์ที่ส่งและอื่น ๆ อีกมากมาย...
+Predicted (generated) text: <pos> จัดส่งสินค้า <opinion> quick <pos> ผลิตภัณฑ์ <opinion> อธิบายไว้
+
+Input text: จอแสดงผล Retina แสดงภาพที่ฉันใช้เวลาหลายปีที่ผ่านมากรามลดลง
+Predicted (generated) text: <neu> Retina <opinion> display
+
+Input text: Mac Mini น่าจะเป็นตัวอย่างที่ง่ายที่สุดของการคํานวณขนาดกะทัดรัด
+Predicted (generated) text: <pos> Mac Mini <opinion> ง่ายที่สุด
+
+Input text: นอกจากนี้ยังมีระบบระบายอากาศในคอมพิวเตอร์และแม้แต่กิจกรรมง่าย ๆ ในการดูวิดีโอที่เล่นเกมไอน้ําเพียงอย่างเดียวทําให้แล็ปท็อปร้อนแรงมากและในความเป็นจริงแล้วเป็นไปไม่ได้ที่จะอยู่บนตัก
+Predicted (generated) text: <pos> ระบบระบายอากาศ <opinion> ระบบแรง
+
+Input text: การแชทกับ Acer Support ฉันได้รับคําแนะนําว่าปัญหาคือไฟล์ระบบปฏิบัติการที่เสียหาย
+Predicted (generated) text: <neg> ไฟล์ระบบปฏิบัติการ <opinion> เสียหาย
+
+Input text: เป็นเวลาสองสามสัปดาห์นับตั้งแต่การซื้อและฉันต่อสู้กับการค้นหากุญแจที่ถูกต้อง (แต่คาดว่าจะ)
+Predicted (generated) text: <neg> กุญแจ <opinion> ต่อสู้
+
+Input text: หลายคนบ่นเกี่ยวกับระบบปฏิบัติการใหม่และเป็นเรื่องเร่งด่วนที่ Apple จะแก้ไขโดยเร็ว!
+Predicted (generated) text: <neg> systemปฏิบัติการ <opinion> new <neg> Apple <opinion> เร่งด่วน
+
+Input text: ตอนนี้ฉันได้อัพเกรดเป็นสิงโตฉันมีความสุขมากเกี่ยวกับ Mac OS และเพิ่งซื้อ IMAC สําหรับสํานักงาน
+Predicted (generated) text: <pos> สิงโต <opinion> มีความสุข
+
+Input text: ผู้ใช้อัพเกรด RAM และ HDD
+Predicted (generated) text: <neu> RAM <opinion> อัพเกรด <neu> HDD <opinion> อัพเกรด
+
+Input text: แต่ฉันต้องการมืออาชีพสําหรับเครื่องเล่นซีดี/ดีวีดี
+Predicted (generated) text: <pos> เครื่องเล่นซีดี <opinion> professional <pos> เครื่องเล่นซีดี <opinion> decentวีดี
+
+Input text: ตอนแรกฉันกังวลเล็กน้อยเพราะฉันไม่มีประสบการณ์มากมายกับ OS.X และ Windows เป็นเรื่องที่สองสําหรับฉันหลังจากใช้ Windows มานานหลายปี
+Predicted (generated) text: <neg> OS.X <opinion> กังวล <neg> Windows <opinion> interesting
+
+Input text: ด้วยซอฟต์แวร์ที่รองรับการใช้ระบบปฏิบัติการอื่น ๆ ทําให้ดีขึ้นมาก
+Predicted (generated) text: <pos> ซอฟต์แวร์ <opinion> ดีขึ้นมาก
+
+Input text: ฉันกําลังพิจารณาที่จะซื้ออากาศ แต่ในความเป็นจริงอันนี้มีประสิทธิภาพที่ทรงพลังกว่าและดูเหมือนจะสะดวกกว่ามากแม้ว่ามันจะหนาขึ้นประมาณ 0.20 นิ้วและหนักกว่า 2 ปอนด์
+Predicted (generated) text: <pos> อากาศ <opinion> ทรงพลัง
+
+Input text: ที่บ้านและสํานักงานมันได้รับการเสียบเข้ากับหน้าจอ LCD 24 'ภายนอกดังนั้นขนาดหน้าจอในตัวจึงไม่สําคัญมาก
+Predicted (generated) text: <neu> หน้าจอ LCD <opinion> ไม่สําคัญมาก
+
+Input text: เพียงแค่ระวังไม่มีสล็อตดีวีดีดังนั้นเมื่อฉันไปติดตั้งซอฟต์แวร์ฉันมีซีดีฉันไม่สามารถทําได้
+Predicted (generated) text: <neg> สล็อตดีวีดี <opinion> ไม่มี
+
+Input text: ไม่มีซีดีรอมในเวอร์ชันใหม่ไม่มีทางที่ฉันใช้จ่ายเงินแบบนั้นกับบางสิ่งบางอย่างมีคุณสมบัติน้อยกว่าเวอร์ชันเก่า
+Predicted (generated) text: <neg> เวอร์ชันเก่า <opinion> ไม่มีการใช้
+
+Input text: ระดับเสียงต่ํามากถึงต่ําสําหรับแล็ปท็อปไม่คาดว่าจะมีระดับเสียงต่ํามากฉันเกลียดเกี่ยวกับคอมพิวเตอร์เครื่องนี้
+Predicted (generated) text: <neg> แล็ปท็อป <opinion> ต่ํา <neg> เสียง <opinion> เกลียด
+
+Input text: และมันก็ไม่ใช่เรื่องยากที่จะทําอะไรบางอย่างกับบางสิ่งบางอย่างดังนั้นฉันขอแนะนําให้รับคดีเพื่อปกป้องมัน
+Predicted (generated) text: <neu> ข้อมูลที่chotiσκου <opinion> nonเรื่องยาก
+
+Input text: ฉันได้รับสิ่งนี้ในราคาที่น่าทึ่งจาก Amazon และมันมาถึงทันเวลา
+Predicted (generated) text: <pos> price <opinion> ทึ่ง
+
+Input text: ทุกครั้งที่ฉันเข้าสู่ระบบหลังจากผ่านไปสองสามชั่วโมงมีกระบวนการที่น่าผิดหวังอย่างไม่รู้จบที่ฉันต้องผ่าน
+Predicted (generated) text: <neg> กระบวนการ <opinion> ผิดหวัง
+
+Input text: ใส่ SSD และใช้หน้าจอ LED 21 '' การตั้งค่านี้เรียบเนียน!
+Predicted (generated) text: <pos> SSD <opinion> เรียบเนียน <neu> หน้าจอ LED <opinion> เรียบเนียน
+
+Input text: ขณะนี้กรณีนี้มีขนาดใหญ่กว่ารุ่นก่อน ๆ เล็กน้อย แต่การขาดแหล่งจ่ายไฟภายนอกแสดงให้เห็นถึงขนาดที่เพิ่มขึ้นเล็กน้อย
+Predicted (generated) text: <neg> ขนาด <opinion> เพิ่มขึ้น
+
+Input text: ฉันต้องซื้อเมาส์ไร้สายเพื่อไปกับมันในขณะที่ฉันเป็นโรงเรียนเก่าและเกลียดแผ่น แต่รู้ว่าก่อนที่ฉันจะซื้อตอนนี้มันใช้งานได้ดีต้องได้รับการปรับให้เข้ากับบอร์ดคีย์เนื่องจากฉันคุ้นเคยกับใหญ่กว่าและห้ําหั่น
+Predicted (generated) text: <neg> เมาส์ไร้สาย <opinion> คุ้น
+
+Input text: มีคุณสมบัติอื่น ๆ ทั้งหมดที่ฉันต้องการรวมถึงพอร์ต VGA, HDMI, อีเธอร์เน็ตและพอร์ต USB 3 พอร์ต
+Predicted (generated) text: <neu> พอร์t VGA <opinion> ต้องการ <pos> HDMI <opinion> ต้องการ <pos> พอร์t USB <opinion> desir
+
+Input text: สิ่งเดียวที่ฉันไม่ชอบเกี่ยวกับแล็ปท็อปนี้คือแผ่นยางที่พบที่ด้านล่างของคอมพิวเตอร์เพื่อจับ
+Predicted (generated) text: <neg> แล็pท็อป <opinion> favorite <neg> แผ่นยาง <opinion> favorite
+
+Input text: มันเป็นคอมพิวเตอร์ที่ดีสําหรับราคาและหวังว่ามันจะใช้เวลานาน
+Predicted (generated) text: <pos> คอมพิวเตอร์ <opinion> better
+
+Input text: ส่วนที่ดีที่สุดคือเอาต์พุตความร้อนต่ําและการทํางานที่เงียบสงบเป็นพิเศษ
+Predicted (generated) text: <pos> เอาต์พุtความร้อนต่ํา <pos> การทํางาน <opinion> เงียบสงบ
+
+Input text: Mac Mini นี้ไม่มีไมโครโฟนในตัวและดูเหมือนว่า Mac OS 10.9 จะไม่จัดการไมโครโฟนภายนอกอย่างเหมาะสม
+Predicted (generated) text: <neu> ไมโครโฟนในตัว <opinion> ไม่มี
+
+Input text: คุณสมบัติและทางลัดมากมายบน MBP ที่ฉันไม่เคยสัมผัสกับพีซีปกติ
+Predicted (generated) text: <pos> คุณสมบัติ <opinion> มากมาย <pos> ทางลัด <opinion> มากมาย
+
+Input text: ไม่แน่ใจว่าฉันจะชอบความรักน้อยกว่ามากดังนั้นฉันจึงไปซื้อที่ดีที่สุดในท้องถิ่นและเล่นกับระบบ iOS บน Mac Pro และมันก็ไม่เหมือนใครและแตกต่างกันโดยสิ้นเชิง
+Predicted (generated) text: <neu> iOS <opinion> ที่ดีที่สุดในท้องถิ่น
+
+Input text: อากาศมีความละเอียดสูงกว่า แต่ฟอนต์มีขนาดเล็ก
+Predicted (generated) text: <neg> อากาศ <opinion> above <neg> ฟอนต์ <opinion> ขนาดเล็ก
+
+Input text: การทํางานกับ Mac นั้นง่ายกว่ามากคุณสมบัติที่ยอดเยี่ยมมากมาย
+Predicted (generated) text: <pos> การทํางาน with Mac <opinion> ง่ายกว่ามาก <pos> การทํางาน with Mac <opinion> ที่ยอดเยี่ยม
+
+Input text: ฉันชอบความสว่างและการปรับเปลี่ยน
+Predicted (generated) text: <pos> ความสว่าง <opinion> ชอบ
+
+Input text: ฉันแค่หวังว่า Mac นี้จะมีเครื่องเล่น CD/DVD ในตัว
+Predicted (generated) text: <pos> Mac <opinion> หวังว่า <pos> เครื่องเล่น CD/DVD <opinion> please
+
+Input text: สิ่งเดียวที่ฉันพลาดคือแล็ปท็อป Alienware ตัวเก่าของฉันมีกุญแจแบ็คไลท์
+Predicted (generated) text: <neg> แล็pท็อป Alienware <opinion> พลาด <neg> กุญแจแบ็คไลท์ <opinion> 
+
+Input text: มีความสุขมากกับการซื้อครั้งนี้ฉันแค่หวังว่ามันจะมาพร้อมกับ Microsoft Word
+Predicted (generated) text: <pos> Microsoft Word <opinion> มีความสุข
+
+Input text: มันมีหน่วยความจําและความเร็วเพียงพอที่จะดําเนินธุรกิจของฉันด้วยความยืดหยุ่นทั้งหมดที่มาพร้อมกับแล็ปท็อป
+Predicted (generated) text: <pos> หน่วยความจํา <opinion> comfortable <pos> แล็pท็อป <opinion> มาพร้อมกับ
+
+Input text: อายุการใช้งานแบตเตอรี่นั้นยอดเยี่ยมจอแสดงผลยอดเยี่ยมและการดาวน์โหลดแอพนั้นเป็นเรื่องง่าย
+Predicted (generated) text: <pos> อายุการใช้งานแบตเตอรี่ <opinion> ยอดเยี่ยม <pos> จอแสดงผลクロノグラフ <opinion> ยอดเยี่ยม <pos> ดาวน์โหลดแอพ <opinion> ง่าย
+
+Input text: หน้าจอซอฟต์แวร์และความราบรื่นของระบบปฏิบัติการ
+Predicted (generated) text: <pos> หน้าจอซอฟต์แวร์ <opinion> ราบรื่น
+
+Input text: แต่ด้วยแล็ปท็อปเครื่องนี้เบสนั้นอ่อนแอมากและเสียงก็ออกมาดังขึ้น
+Predicted (generated) text: <neg> แล็ปท็อปเครื่อง <opinion> อ่อนแอมาก <neg> เสียง <opinion> ดังขึ้น
+
+Input text: คุณภาพที่สร้างขึ้นนั้นดีจริงๆฉันมีความสุขและตื่นเต้นกับผลิตภัณฑ์นี้
+Predicted (generated) text: <pos> คุณภาพ <opinion> ดี <pos> ผลิตภัณฑ์ <opinion> มีความสุข <pos> ผลิตภัณฑ์ <opinion> ตื่นเต้น
+
+Input text: ฉันชอบประสิทธิภาพที่รวดเร็วเช่นกัน
+Predicted (generated) text: <pos> ประสิทธิภาพ <opinion> มั่นใจ
+
+Input text: นอกจากนี้ Mac Mini นี้ยังมีอินเทอร์เฟซบลูทู ธ เลอะเทอะ (ความอนุเคราะห์จาก Mac OS) และช่วงไม่ดี
+Predicted (generated) text: <neg> Mac Mini <opinion> อินเทอร์เฟซบลูทู ธ เลอะเทอะ
+
+Input text: การจับเพียงอย่างเดียวของฉันคือความจําเป็นที่จะต้องเพิ่ม RAM มากขึ้น
+Predicted (generated) text: <neg> RAM <opinion> เพิ่มขึ้น
+
+Input text: ดีถ้าคุณมีหน้าจอสัมผัส
+Predicted (generated) text: <pos> หน้าจอสัมผัส <opinion> ดี
+
+Input text: สิ่งนี้จะเต้นได้ไกลจากคอมพิวเตอร์ในตลาดวันนี้สร้างขึ้นได้ดีอายุการใช้งานแบตเตอรี่ที่น่าตื่นตาตื่นใจ
+Predicted (generated) text: <pos> แบตเตอรี่ <opinion> ตื่นตาตื่นใจ
+
+Input text: ระบบปฏิบัติการนั้นง่ายและนําเสนอความประหลาดใจทุกชนิด
+Predicted (generated) text: <pos> Systemปฏิบัติการ <opinion> ง่าย <pos> ระบบปฏิบัติการ <opinion> ประหลาด
+
+Input text: คุณสมบัติที่สําคัญมากคือ Firewire 800 ซึ่งในประสบการณ์ของฉันทํางานได้ดีขึ้นแล้ว USB3 (ในพีซีที่เปิดใช้งานด้วย USB3) ฉันไม่ได้ขายใน Mac OS เดิมฉันรู้สึกว่ามันด้อยกว่าในหลาย ๆ ด้านของ Windows 7
+Predicted (generated) text: <pos> Firewire 800 <opinion> คุณสมบัติ
+
+Input text: ฉันชอบ iTunes, ความปลอดภัยที่ชัดเจน, Mini Form Factor, กราฟิกที่ดีทั้งหมด
+Predicted (generated) text: <pos> iTunes <opinion> favorite <pos> ความปลอดภัย <opinion> clear <pos> Mini Form Factor <opinion> กราฟิก <opinion> better
+
+Input text: หลังจากเปลี่ยนฮาร์ดดิสก์แบบหมุนด้วยไดรฟ์ SSD แล้ว Mac ของฉันก็บินได้
+Predicted (generated) text: <neu> Mac <opinion> เปลี่ยนฮาร์ดดิสก์ <opinion> หมุนด้วยไดรฟ์ SSD <opinion> หมุนด้วยไดรฟ์ SSD <opinion> บิน
+
+Input text: ฉันรู้ว่าบางคนบ่นเกี่ยวกับปัญหา HDMI แต่พวกเขาปล่อยแพทช์เฟิร์มแวร์เพื่อแก้ไขปัญหานั้น
+Predicted (generated) text: <neg> HDMI <opinion> b่น <neg> แพทช์เฟิร์ng <opinion> แก้ไขปัญหา
+
+Input text: ด้วยความต้องการของช่างภาพมืออาชีพฉันมักจะต้องติดตามรายละเอียดที่ดีที่สุด
+Predicted (generated) text: <pos> ช่างภาพ <opinion> มืออาชีพ <pos> ไฮไลท์ <opinion> ติดตาม
+
+Input text: การบรรจุและทุกอย่างสมบูรณ์แบบ
+Predicted (generated) text: <pos> บรรจุ <opinion> สมบูรณ์
+
+Input text: ฉันเรียกว่าโตชิบาที่ฉันให้หมายเลขซีเรียลแก่พวกเขาและพวกเขาก็แจ้งให้ฉันทราบว่าพวกเขามีปัญหากับบอร์ดแม่
+Predicted (generated) text: <neg> โตชิบา <opinion> problem
+
+Input text: ฉันดูเหมือนจะมีปัญหาซ้ํา ๆ เนื่องจากคณะกรรมการแม่ในนี้ได้รับการวินิจฉัยว่าผิดพลาดเกี่ยวข้องกับการ์ดกราฟิก
+Predicted (generated) text: <neg> การ์ดกราฟิก <opinion> ผิดพลาด
+
+Input text: นอกจากนี้ยังมาพร้อมกับ RAM 4G แต่ถ้าคุณชอบฉันคุณต้องการสูงสุดดังนั้นฉันจึงใส่ RAM 8G ในตัวเธอทันทีและฉันไม่เคยใช้คอมพิวเตอร์ที่ทํางานได้ดีขึ้น
+Predicted (generated) text: <pos> คอมพิวเตอร์ <opinion> better
+
+Input text: คอมพิวเตอร์เครื่องนี้ยังยอดเยี่ยมสําหรับการเรียนที่บ้านเสมือนลูกชายของฉัน
+Predicted (generated) text: <pos> คอมพิวเตอร์เครื่อง <opinion> ยอดเยี่ยม
+
+Input text: ค่าใช้จ่ายมากกว่าเมื่อเทียบกับแบรนด์อื่น ๆ
+Predicted (generated) text: <neu> ค่าใช้จ่าย <opinion> มากกว่า
+
+Input text: นอกจากนี้... - ระบบปฏิบัติการที่ยอดเยี่ยม - ขนาดและน้ําหนักสําหรับการเคลื่อนย้ายที่ดีที่สุด - ความทนทานที่ยอดเยี่ยมของแบตเตอรี่ - ฟังก์ชั่นที่จัดทําโดยแทร็กแพดนั้นไม่มีใครเทียบได้กับแบรนด์อื่น ๆ -
+Predicted (generated) text: <pos> ระบบปฏิบัติการที่ยอดเยี่ยม <pos> ขนาด <opinion> excellent <pos> น้ําหนัก <opinion> excellent
+
+Input text: ฮาร์ดแวร์นี้ดูเหมือนจะดีกว่า iMac ว่ามันไม่ได้ $ 1,400 และเล็กกว่า
+Predicted (generated) text: <pos> ฮาร์ดแวร์ <opinion> better
+
+Input text: ฉันมีเวลาประมาณ 2 เดือนแล้วและไม่พบปัญหาเกี่ยวกับซอฟต์แวร์หรือการอัปเดต
+Predicted (generated) text: <neg> ซอฟต์แวร์ <opinion> อัปเดต
+
+Input text: เวอร์ชันล่าสุดไม่มีไดรฟ์ดิสก์
+Predicted (generated) text: <neg> เวอร์ชัน <opinion> ไม่มีไดรฟ์ดิสก์ <opinion> ไม่มี
+
+Input text: หน้าจอ - แม้ว่าบางคนอาจบ่นเกี่ยวกับความละเอียดต่ําซึ่งฉันคิดว่าไร้สาระ
+Predicted (generated) text: <neg> หน้าจอ <opinion> ไร้สาระ
+
